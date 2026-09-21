@@ -4,7 +4,7 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 11 works. All source files are kept in [`raw/homeopathy/`](raw/homeopathy/).
+The collection currently contains 13 works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), and Ayurveda books are kept in [`raw/ayurveda/`](raw/ayurveda/).
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -19,13 +19,16 @@ The collection currently contains 11 works. All source files are kept in [`raw/h
 | `ক্লিনিক্যাল মেটেরিয়া মেডিকা.epub` | EPUB | Bengali clinical materia medica reference; author and publication date not identified |
 | `হোমিওপ্যাথিক চিকিৎসা-দর্পন.epub` | EPUB | Bengali homoeopathic reference; metadata date 1303 BS |
 | `Samuel Hahnemann - Organon of Medicine.pdf` | PDF | Samuel Hahnemann; digitized edition from the Internet Archive |
+| `Ashtanga Hridaya Vagbhatta English Trans Srikantha Murthy K.R. Vol 1 Chowkambha.epub` | EPUB | Ayurveda; English translation of the Ashtanga Hridaya, Volume I |
+| `Sushruta - An English Translation of the Sushruta Samhita - Volume II - Edited by Kunjalal Bhishagratna (1911).epub` | EPUB | Sushruta Samhita; Ayurveda; edited by Kunjalal Bhishagratna |
 
 ## Repository structure
 
-The current collection is organized under the homeopathy directory. As the collection grows, additional disciplines can use their own directories:
+The current collection is organized by discipline. Additional disciplines can use their own directories:
 
 ```text
 raw/
+├── ayurveda/
 └── homeopathy/
 ```
 
@@ -43,7 +46,7 @@ Metadata should be maintained separately in a catalogue file, for example `catal
 
 ## Adding a book
 
-1. Place the original, unmodified file in `raw/`.
+1. Place the original, unmodified file in the appropriate `raw/<discipline>/` directory.
 2. Confirm that the book may legally be stored and shared in this repository.
 3. Use a descriptive filename: `Author - Title - Edition.ext`.
 4. Preserve the original file format where possible.
