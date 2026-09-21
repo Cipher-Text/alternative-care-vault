@@ -66,6 +66,27 @@ python3 tools/process_book.py --all          # or a single book id, see tools/ca
 
 Book metadata (title/author/year/language/discipline) is sourced from `tools/catalogue_seed.json` rather than the raw files themselves, since the source EPUBs carry no usable metadata.
 
+### Book database
+
+`tools/build_library_db.py` loads `processed/catalogue.json` and every `book.json` into a local SQLite database at `db/library.db`, with a `books` table, a `pages` table (one row per original page), and an FTS5 full-text index over page text. It's a build artifact (`db/` is git-ignored) — regenerate it any time after re-running the processing step:
+
+```sh
+python3 tools/build_library_db.py
+```
+
+Example full-text query:
+
+```sh
+sqlite3 db/library.db "
+  SELECT b.title, p.page_number, snippet(pages_fts, 0, '[', ']', '...', 12)
+  FROM pages_fts
+  JOIN pages p ON p.id = pages_fts.rowid
+  JOIN books b ON b.id = p.book_id
+  WHERE pages_fts MATCH 'aconite'
+  ORDER BY rank LIMIT 5;
+"
+```
+
 Metadata should be maintained separately in a catalogue file — see `processed/catalogue.json` — with fields such as:
 
 - title
