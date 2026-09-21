@@ -4,27 +4,29 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-All source files are kept in [`raw/`](raw/).
+The collection currently contains 11 works. All source files are kept in [`raw/homeopathy/`](raw/homeopathy/).
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
+| `W. A. Dewey - Practical Homoeopathic Therapeutics - 1900.epub` | EPUB | W. A. Dewey; practical homoeopathic therapeutics |
+| `Count Cesare Mattei - Electro-Homoeopathic Medicine - A New Medical System Being a Popular and Domestic Guide Founded on Experience - 2nd Edition (1891).epub` | EPUB | Count Cesare Mattei; electro-homoeopathic medicine |
+| `E. A. Farrington - Clinical Materia Medica - 4th Edition (1908).epub` | EPUB | E. A. Farrington; clinical homoeopathic materia medica |
+| `Andrew Lockie - Encyclopedia of Homeopathy - Updated Edition (2006).epub` | EPUB | Andrew Lockie; homeopathy reference guide |
+| `Timothy Field Allen - Handbook of Materia Medica and Homoeopathic Therapeutics - 1889.epub` | EPUB | Timothy Field Allen; materia medica and homoeopathic therapeutics |
 | `Edmund Jennings Lee - Repertory of the Characteristic Symptoms, Clinical and Pathogenetic, of the Homoeopathic Materia Medica - 1889.epub` | EPUB | Edmund Jennings Lee; homoeopathic materia medica repertory |
 | `Myron H. Adams - Practical Guide to Homeopathic Treatment - 1913.epub` | EPUB | Myron H. Adams; family and student guide to homeopathic treatment |
 | `Constantine Hering - The Guiding Symptoms of Our Materia Medica - Volume I (1879).epub` | EPUB | Constantine Hering; homoeopathic materia medica reference |
+| `ক্লিনিক্যাল মেটেরিয়া মেডিকা.epub` | EPUB | Bengali clinical materia medica reference; author and publication date not identified |
 | `হোমিওপ্যাথিক চিকিৎসা-দর্পন.epub` | EPUB | Bengali homoeopathic reference; metadata date 1303 BS |
 | `Samuel Hahnemann - Organon of Medicine.pdf` | PDF | Samuel Hahnemann; digitized edition from the Internet Archive |
 
 ## Repository structure
 
-Original book files are kept in `raw/`. As the collection grows, discipline-specific copies or processed versions can be grouped like this:
+The current collection is organized under the homeopathy directory. As the collection grows, additional disciplines can use their own directories:
 
 ```text
 raw/
-├── ayurveda/
-├── herbal-medicine/
-├── homeopathy/
-├── traditional-medicine/
-└── other/
+└── homeopathy/
 ```
 
 Metadata should be maintained separately in a catalogue file, for example `catalogue.csv` or `catalogue.json`, with fields such as:
@@ -54,4 +56,4 @@ This repository is for educational and archival reference only. The books do not
 
 ## Copyright and licensing
 
-The current collection consists of open-source and public-domain books intended for lawful reading, reference, and sharing. When adding future materials, record the applicable source and licence information in the catalogue.
+Some older works in the collection may be public domain, but the copyright and licence status of every file has not been independently verified. Confirm that a book may legally be stored and shared before adding or redistributing it, and record the applicable source and licence information in the catalogue.
