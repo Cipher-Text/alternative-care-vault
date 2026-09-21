@@ -4,7 +4,9 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 14 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), and Unani materials in [`raw/unani/`](raw/unani/).
+The collection currently contains 15 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), and Unani materials in [`raw/unani/`](raw/unani/).
+
+### Homeopathy (11 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -19,9 +21,15 @@ The collection currently contains 14 valid works. Homeopathy books are kept in [
 | `ক্লিনিক্যাল মেটেরিয়া মেডিকা.epub` | EPUB | Bengali clinical materia medica reference; author and publication date not identified |
 | `হোমিওপ্যাথিক চিকিৎসা-দর্পন.epub` | EPUB | Bengali homoeopathic reference; metadata date 1303 BS |
 | `Samuel Hahnemann - Organon of Medicine.pdf` | PDF | Samuel Hahnemann; digitized edition from the Internet Archive |
-| `Ashtanga Hridaya Vagbhatta English Trans Srikantha Murthy K.R. Vol 1 Chowkambha.epub` | EPUB | Ayurveda; English translation of the Ashtanga Hridaya, Volume I |
-| `Sushruta - An English Translation of the Sushruta Samhita - Volume II - Edited by Kunjalal Bhishagratna (1911).epub` | EPUB | Sushruta Samhita; Ayurveda; edited by Kunjalal Bhishagratna |
-| `Charaka Samhita - English Translation by Abinash Chandra Kaviratna - 1892.epub` | EPUB | Charaka-Samhita; Ayurveda; English translation by Abinash Chandra Kaviratna |
+
+### Ayurveda (4 works)
+
+| File | Format | Subject / notes |
+| --- | --- | --- |
+| `Ashtanga Hridaya Vagbhatta English Trans Srikantha Murthy K.R. Vol 1 Chowkambha.epub` | EPUB | English translation of the Ashtanga Hridaya, Volume I |
+| `Sushruta - An English Translation of the Sushruta Samhita - Volume II - Edited by Kunjalal Bhishagratna (1911).epub` | EPUB | Sushruta Samhita; edited by Kunjalal Bhishagratna |
+| `Charaka Samhita - English Translation by Abinash Chandra Kaviratna - 1892.epub` | EPUB | Charaka-Samhita; English translation by Abinash Chandra Kaviratna |
+| `Satish Chandra Sharma - Charaka Samhita (চরক সংহিতা).epub` | EPUB | Bengali Charaka-Samhita; Satish Chandra Sharma |
 
 ### Pending validation
 
