@@ -1,0 +1,150 @@
+[
+  {
+    "id": "dewey-practical-homoeopathic-therapeutics-1900",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/W. A. Dewey - Practical Homoeopathic Therapeutics - 1900.epub",
+    "title": "Practical Homoeopathic Therapeutics",
+    "author": "W. A. Dewey",
+    "year": 1900,
+    "language": "en"
+  },
+  {
+    "id": "mattei-electro-homoeopathic-medicine-1891",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Count Cesare Mattei - Electro-Homoeopathic Medicine - A New Medical System Being a Popular and Domestic Guide Founded on Experience - 2nd Edition (1891).epub",
+    "title": "Electro-Homoeopathic Medicine: A New Medical System Being a Popular and Domestic Guide Founded on Experience",
+    "author": "Count Cesare Mattei",
+    "year": 1891,
+    "edition": "2nd Edition",
+    "language": "en"
+  },
+  {
+    "id": "farrington-clinical-materia-medica-1908",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/E. A. Farrington - Clinical Materia Medica - 4th Edition (1908).epub",
+    "title": "Clinical Materia Medica",
+    "author": "E. A. Farrington",
+    "year": 1908,
+    "edition": "4th Edition",
+    "language": "en"
+  },
+  {
+    "id": "lockie-encyclopedia-of-homeopathy-2006",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Andrew Lockie - Encyclopedia of Homeopathy - Updated Edition (2006).epub",
+    "title": "Encyclopedia of Homeopathy",
+    "author": "Andrew Lockie",
+    "year": 2006,
+    "edition": "Updated Edition",
+    "language": "en"
+  },
+  {
+    "id": "allen-handbook-of-materia-medica-1889",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Timothy Field Allen - Handbook of Materia Medica and Homoeopathic Therapeutics - 1889.epub",
+    "title": "Handbook of Materia Medica and Homoeopathic Therapeutics",
+    "author": "Timothy Field Allen",
+    "year": 1889,
+    "language": "en"
+  },
+  {
+    "id": "lee-repertory-of-characteristic-symptoms-1889",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Edmund Jennings Lee - Repertory of the Characteristic Symptoms, Clinical and Pathogenetic, of the Homoeopathic Materia Medica - 1889.epub",
+    "title": "Repertory of the Characteristic Symptoms, Clinical and Pathogenetic, of the Homoeopathic Materia Medica",
+    "author": "Edmund Jennings Lee",
+    "year": 1889,
+    "language": "en"
+  },
+  {
+    "id": "adams-practical-guide-to-homeopathic-treatment-1913",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Myron H. Adams - Practical Guide to Homeopathic Treatment - 1913.epub",
+    "title": "Practical Guide to Homeopathic Treatment",
+    "author": "Myron H. Adams",
+    "year": 1913,
+    "language": "en"
+  },
+  {
+    "id": "hering-guiding-symptoms-vol-1-1879",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Constantine Hering - The Guiding Symptoms of Our Materia Medica - Volume I (1879).epub",
+    "title": "The Guiding Symptoms of Our Materia Medica",
+    "author": "Constantine Hering",
+    "year": 1879,
+    "volume": "Volume I",
+    "language": "en"
+  },
+  {
+    "id": "clinical-materia-medica-bengali",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/ক্লিনিক্যাল মেটেরিয়া মেডিকা.epub",
+    "title": "ক্লিনিক্যাল মেটেরিয়া মেডিকা",
+    "author": null,
+    "year": null,
+    "language": "bn"
+  },
+  {
+    "id": "homoeopathic-chikitsa-darpan-bengali",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/হোমিওপ্যাথিক চিকিৎসা-দর্পন.epub",
+    "title": "হোমিওপ্যাথিক চিকিৎসা-দর্পন",
+    "author": null,
+    "year": 1303,
+    "year_note": "metadata date 1303 BS",
+    "language": "bn"
+  },
+  {
+    "id": "hahnemann-organon-of-medicine",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Samuel Hahnemann - Organon of Medicine.pdf",
+    "title": "Organon of Medicine",
+    "author": "Samuel Hahnemann",
+    "year": null,
+    "language": "en",
+    "source_format": "pdf",
+    "note": "digitized edition from the Internet Archive"
+  },
+  {
+    "id": "ashtanga-hridaya-vagbhatta-vol-1",
+    "discipline": "ayurveda",
+    "raw_file": "ayurveda/Ashtanga Hridaya Vagbhatta English Trans Srikantha Murthy K.R. Vol 1 Chowkambha.epub",
+    "title": "Ashtanga Hridaya",
+    "author": "Vagbhatta",
+    "translator": "Srikantha Murthy K.R.",
+    "volume": "Volume I",
+    "year": null,
+    "language": "en"
+  },
+  {
+    "id": "sushruta-samhita-vol-2-1911",
+    "discipline": "ayurveda",
+    "raw_file": "ayurveda/Sushruta - An English Translation of the Sushruta Samhita - Volume II - Edited by Kunjalal Bhishagratna (1911).epub",
+    "title": "An English Translation of the Sushruta Samhita",
+    "author": "Sushruta",
+    "editor": "Kunjalal Bhishagratna",
+    "volume": "Volume II",
+    "year": 1911,
+    "language": "en"
+  },
+  {
+    "id": "charaka-samhita-kaviratna-1892",
+    "discipline": "ayurveda",
+    "raw_file": "ayurveda/Charaka Samhita - English Translation by Abinash Chandra Kaviratna - 1892.epub",
+    "title": "Charaka Samhita",
+    "author": "Charaka",
+    "translator": "Abinash Chandra Kaviratna",
+    "year": 1892,
+    "language": "en",
+    "note": "source EPUB embeds a full-resolution scan image per page (~1GB); processed version is text-only"
+  },
+  {
+    "id": "charaka-samhita-satish-chandra-sharma-bengali",
+    "discipline": "ayurveda",
+    "raw_file": "ayurveda/Satish Chandra Sharma - Charaka Samhita (চরক সংহিতা).epub",
+    "title": "Charaka Samhita (চরক সংহিতা)",
+    "author": "Satish Chandra Sharma",
+    "year": null,
+    "language": "bn"
+  }
+]
