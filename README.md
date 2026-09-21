@@ -8,11 +8,8 @@ All source files are kept in [`raw/`](raw/).
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
-| `William Boericke - Pocket Manual of Homoeopathic Materia Medica - 8th Edition (1922).epub` | EPUB | William Boericke; homoeopathic materia medica and repertory |
 | `Edmund Jennings Lee - Repertory of the Characteristic Symptoms - 1889.epub` | EPUB | Edmund Jennings Lee; homoeopathic materia medica repertory |
 | `Myron H. Adams - Practical Guide to Homeopathic Treatment - 1913.epub` | EPUB | Myron H. Adams; family and student guide to homeopathic treatment |
-| `E. B. Nash - Homoeopathic Therapeutics (1982 reprint).epub` | EPUB | E. B. Nash; homoeopathic therapeutics |
-| `James Tyler Kent - Lectures on Homoeopathic Materia Medica.epub` | EPUB | James Tyler Kent; homoeopathic materia medica lectures |
 | `Constantine Hering - The Guiding Symptoms of Our Materia Medica - Volume I (1879).epub` | EPUB | Constantine Hering; homoeopathic materia medica reference |
 | `হোমিওপ্যাথিক চিকিৎসা-দর্পন.epub` | EPUB | Bengali homoeopathic reference; metadata date 1303 BS |
 | `Samuel Hahnemann - Organon of Medicine.pdf` | PDF | Samuel Hahnemann; digitized edition from the Internet Archive |
