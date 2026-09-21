@@ -4,7 +4,7 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 13 works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), and Ayurveda books are kept in [`raw/ayurveda/`](raw/ayurveda/).
+The collection currently contains 14 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), and Unani materials in [`raw/unani/`](raw/unani/).
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -21,6 +21,11 @@ The collection currently contains 13 works. Homeopathy books are kept in [`raw/h
 | `Samuel Hahnemann - Organon of Medicine.pdf` | PDF | Samuel Hahnemann; digitized edition from the Internet Archive |
 | `Ashtanga Hridaya Vagbhatta English Trans Srikantha Murthy K.R. Vol 1 Chowkambha.epub` | EPUB | Ayurveda; English translation of the Ashtanga Hridaya, Volume I |
 | `Sushruta - An English Translation of the Sushruta Samhita - Volume II - Edited by Kunjalal Bhishagratna (1911).epub` | EPUB | Sushruta Samhita; Ayurveda; edited by Kunjalal Bhishagratna |
+| `Charaka Samhita - English Translation by Abinash Chandra Kaviratna - 1892.epub` | EPUB | Charaka-Samhita; Ayurveda; English translation by Abinash Chandra Kaviratna |
+
+### Pending validation
+
+`raw/unani/Ibn Sina - The Canon of Medicine.epub` is currently an empty 0-byte placeholder and is excluded from the collection count. Replace it with a valid EPUB or PDF before cataloguing it.
 
 ## Repository structure
 
@@ -29,7 +34,8 @@ The current collection is organized by discipline. Additional disciplines can us
 ```text
 raw/
 ├── ayurveda/
-└── homeopathy/
+├── homeopathy/
+└── unani/
 ```
 
 Metadata should be maintained separately in a catalogue file, for example `catalogue.csv` or `catalogue.json`, with fields such as:
