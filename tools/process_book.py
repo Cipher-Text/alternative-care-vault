@@ -11,6 +11,7 @@ Usage:
 import argparse
 import json
 import re
+import subprocess
 import sys
 import tempfile
 import unicodedata
@@ -147,6 +148,45 @@ def parse_source_epub(epub_path):
 
             pages.append({"page_number": page_number, "label": label, "text": text})
 
+        return pages
+
+
+def parse_source_facsimile_epub(epub_path, ocr_lang):
+    """For EPUBs with no text layer at all -- every page is just a scanned page image.
+    Runs Tesseract OCR (requires the `tesseract` binary + the given language data
+    installed, e.g. `brew install tesseract` + ben.traineddata) over each page image in
+    spine/manifest order. Returns list of {"page_number": int, "label": str, "text": str}."""
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        with zipfile.ZipFile(epub_path) as zf:
+            zf.extractall(tmp)
+
+        container = ET.parse(tmp / "META-INF/container.xml")
+        rootfile = container.find(
+            ".//{urn:oasis:names:tc:opendocument:xmlns:container}rootfile"
+        ).get("full-path")
+        opf_path = tmp / rootfile
+        opf_dir = opf_path.parent
+
+        opf = ET.parse(opf_path)
+        items = opf.findall(f".//{{{NS_OPF}}}manifest/{{{NS_OPF}}}item")
+        image_hrefs = sorted(
+            (item.get("href") for item in items if (item.get("media-type") or "").startswith("image/")),
+        )
+
+        pages = []
+        for i, href in enumerate(image_hrefs, start=1):
+            image_path = opf_dir / href
+            if not image_path.exists():
+                continue
+            result = subprocess.run(
+                ["tesseract", str(image_path), "stdout", "-l", ocr_lang],
+                capture_output=True, text=True,
+            )
+            text = clean_text(result.stdout)
+            pages.append({"page_number": i, "label": f"Page {i}", "text": text})
+            print(f"  OCR page {i}/{len(image_hrefs)}\r", end="", flush=True)
+        print()
         return pages
 
 
@@ -304,7 +344,9 @@ def process_one(meta, raw_root, out_root):
         return
 
     print(f"Processing {meta['id']} ...")
-    if raw_path.suffix.lower() == ".pdf":
+    if meta.get("source_format") == "facsimile-epub":
+        pages = parse_source_facsimile_epub(raw_path, meta.get("ocr_lang", "eng"))
+    elif raw_path.suffix.lower() == ".pdf":
         pages = parse_source_pdf(raw_path)
     else:
         pages = parse_source_epub(raw_path)

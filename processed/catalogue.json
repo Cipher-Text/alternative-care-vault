@@ -145,6 +145,17 @@
     "processed_json": "processed/homeopathy/homoeopathic-chikitsa-darpan-bengali/book.json"
   },
   {
+    "id": "idris-ali-bissoykor-lokkhone-homoeopathic-chikitsa",
+    "title": "বিস্ময়কর লক্ষণে হোমিওপ্যাথিক চিকিৎসা",
+    "author": "ডা. ইদ্রিস আলী",
+    "language": "bn",
+    "discipline": "homeopathy",
+    "page_count": 226,
+    "source_raw_file": "homeopathy/ডা. ইদ্রিস আলী - বিস্ময়কর লক্ষণে হোমিওপ্যাথিক চিকিৎসা.epub",
+    "processed_epub": "processed/homeopathy/idris-ali-bissoykor-lokkhone-homoeopathic-chikitsa/book.epub",
+    "processed_json": "processed/homeopathy/idris-ali-bissoykor-lokkhone-homoeopathic-chikitsa/book.json"
+  },
+  {
     "id": "lee-repertory-of-characteristic-symptoms-1889",
     "title": "Repertory of the Characteristic Symptoms, Clinical and Pathogenetic, of the Homoeopathic Materia Medica",
     "author": "Edmund Jennings Lee",
