@@ -239,5 +239,58 @@
     "source_raw_file": "homeopathy/ডাঃ এস. এন. পাণ্ডে - হোমিওপ্যাথিক প্র্যাকটিস অফ মেডিসিন.epub",
     "processed_epub": "processed/homeopathy/pandey-homoeopathic-practice-of-medicine/book.epub",
     "processed_json": "processed/homeopathy/pandey-homoeopathic-practice-of-medicine/book.json"
+  },
+  {
+    "id": "barnes-herbal-medicines-3rd",
+    "title": "Herbal Medicines",
+    "author": "Joanne Barnes, Linda A Anderson, J David Phillipson",
+    "year": 2007,
+    "edition": "3rd Edition",
+    "language": "en",
+    "discipline": "general",
+    "page_count": 720,
+    "source_raw_file": "general/Joanne Barnes et al. - Herbal Medicines - 3rd Edition.epub",
+    "processed_epub": "processed/general/barnes-herbal-medicines-3rd/book.epub",
+    "processed_json": "processed/general/barnes-herbal-medicines-3rd/book.json"
+  },
+  {
+    "id": "unani-pharmacopia-of-bangladesh-part1-vol4",
+    "title": "The Unani Pharmacopia of Bangladesh, Part 1, Volume IV",
+    "author": "Md. Ruhul Furkan Siddique, Shariq H. Khan, Md. Muslim Uddin (Unani Pharmacopoeia Preparatory Committee)",
+    "editor": "Abu Bakar Siddique",
+    "year": 2020,
+    "volume": "Part 1, Volume IV",
+    "language": "en",
+    "discipline": "unani",
+    "page_count": 300,
+    "source_raw_file": "unani/DGHS - The Unani Pharmacopia of Bangladesh - Part 1 Volume 4 (2020).pdf",
+    "processed_epub": "processed/unani/unani-pharmacopia-of-bangladesh-part1-vol4/book.epub",
+    "processed_json": "processed/unani/unani-pharmacopia-of-bangladesh-part1-vol4/book.json"
+  },
+  {
+    "id": "oushadhi-therapeutic-index-2019",
+    "title": "Therapeutic Index",
+    "author": "The Pharmaceutical Corporation (IM) Kerala Ltd. (Oushadhi)",
+    "year": 2019,
+    "edition": "5th Impression (first published 1999)",
+    "language": "en",
+    "discipline": "ayurveda",
+    "page_count": 119,
+    "source_raw_file": "ayurveda/Oushadhi - Therapeutic Index - 5th Impression (2019).pdf",
+    "processed_epub": "processed/ayurveda/oushadhi-therapeutic-index-2019/book.epub",
+    "processed_json": "processed/ayurveda/oushadhi-therapeutic-index-2019/book.json"
+  },
+  {
+    "id": "ayush-national-formulary-of-unani-medicine-part2-vol1",
+    "title": "National Formulary of Unani Medicine, Part II, Volume I",
+    "author": "Department of Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy (AYUSH), Ministry of Health & Family Welfare, Government of India",
+    "year": 2007,
+    "volume": "Part II, Volume I",
+    "language": "en",
+    "discipline": "unani",
+    "page_count": 220,
+    "source_raw_file": "unani/AYUSH - National Formulary of Unani Medicine - Part 2 Volume 1 (2007).pdf",
+    "processed_epub": "processed/unani/ayush-national-formulary-of-unani-medicine-part2-vol1/book.epub",
+    "processed_json": "processed/unani/ayush-national-formulary-of-unani-medicine-part2-vol1/book.json"
   }
 ]

@@ -32,6 +32,17 @@
     "note": "Unlike the rest of this collection, this is a modern, actively in-print, copyrighted textbook (Elsevier/Saunders) -- not a public-domain historical work. Its licence/copyright status has NOT been cleared for redistribution; this entry exists because the user explicitly asked for it to be added despite that being flagged. Converted from a born-digital PDF (real text + 468-entry embedded TOC + images) to EPUB via a one-off script, not the collection's usual Internet-Archive-style source; only page text carries through processing, same as every other book -- images and the original PDF's TOC structure are not preserved in processed/."
   },
   {
+    "id": "barnes-herbal-medicines-3rd",
+    "discipline": "general",
+    "raw_file": "general/Joanne Barnes et al. - Herbal Medicines - 3rd Edition.epub",
+    "title": "Herbal Medicines",
+    "author": "Joanne Barnes, Linda A Anderson, J David Phillipson",
+    "year": 2007,
+    "edition": "3rd Edition",
+    "language": "en",
+    "note": "Same category of concern as the collection's other three general/ books: a modern, in-copyright Pharmaceutical Press reference text, not public domain; its licence/copyright status has NOT been cleared for redistribution. Downloaded from a third-party site (drhazhan.com) at the user's explicit request after being flagged as a copyright concern -- confirmed separately, not standing approval for further additions. Source was a born-digital PDF (721 pages, real text layer, 13-entry embedded outline, real page labels including roman numerals for front matter, ~2458 embedded images) converted to EPUB via a one-off script (not saved in this repo) mimicking the Micozzi/Ernst IA-style layout (<title>Page N</title> + one <p> per source line) using a simple running page index, not the PDF's real page labels/TOC -- so, like those two books, this one was NOT processed with a dedicated real-pagination script; only page text carries through, images and the embedded outline are not preserved in processed/. The original PDF was deleted from raw/ after conversion, matching precedent for this folder -- if this book ever needs reprocessing from the original PDF, it must be re-downloaded (https://www.drhazhan.com/Barnes%20-%20Herbal%20Medicines%20(Pharmaceutical%20Press,%202007).pdf as of 2026-09-22; that host's TLS certificate did not match its hostname, so the download required skipping certificate verification) and the conversion script rebuilt."
+  },
+  {
     "id": "pandey-homoeopathic-practice-of-medicine",
     "discipline": "homeopathy",
     "raw_file": "homeopathy/ডাঃ এস. এন. পাণ্ডে - হোমিওপ্যাথিক প্র্যাকটিস অফ মেডিসিন.epub",
@@ -202,5 +213,39 @@
     "author": "Satish Chandra Sharma",
     "year": null,
     "language": "bn"
+  },
+  {
+    "id": "unani-pharmacopia-of-bangladesh-part1-vol4",
+    "discipline": "unani",
+    "raw_file": "unani/DGHS - The Unani Pharmacopia of Bangladesh - Part 1 Volume 4 (2020).pdf",
+    "title": "The Unani Pharmacopia of Bangladesh, Part 1, Volume IV",
+    "author": "Md. Ruhul Furkan Siddique, Shariq H. Khan, Md. Muslim Uddin (Unani Pharmacopoeia Preparatory Committee)",
+    "editor": "Abu Bakar Siddique",
+    "year": 2020,
+    "volume": "Part 1, Volume IV",
+    "language": "en",
+    "note": "Modern (2020) official Government of Bangladesh publication (Directorate General of Health Services, Ministry of Health & Family Welfare) with an explicit ownership/copyright line in its front matter ('Ownership: Line Director, Alternative Medical Care (AMC), DGHS') -- not old enough for a public-domain argument and, unlike US federal works, Bangladeshi government publications are not automatically public domain. Added at the user's explicit request after being flagged as a copyright concern, same treatment as the general/ exceptions. Born-digital PDF (Word/Acrobat-produced, real text layer, no embedded TOC/outline) processed directly via the standard parse_source_pdf() path, same as the Organon of Medicine -- page_number values are raw PDF page indices, not the book's own printed page numbers (though here they happen to match, since every page prints its own 'N | P a g e' footer one higher than the 0-indexed PDF page)."
+  },
+  {
+    "id": "oushadhi-therapeutic-index-2019",
+    "discipline": "ayurveda",
+    "raw_file": "ayurveda/Oushadhi - Therapeutic Index - 5th Impression (2019).pdf",
+    "title": "Therapeutic Index",
+    "author": "The Pharmaceutical Corporation (IM) Kerala Ltd. (Oushadhi)",
+    "year": 2019,
+    "edition": "5th Impression (first published 1999)",
+    "language": "en",
+    "note": "Modern (2019) publication from Oushadhi, a Government of Kerala state undertaking, and the clearest copyright case yet added to this collection: its own front matter states 'Copy right reserved. No part of this publication may be translated or transmitted in any form or by any means electronic or mechanical including photocopy, recording or any information storage and retrieval system without permission.' Added at the user's explicit request after being flagged, same treatment as the general/ exceptions and the Unani Pharmacopia. Born-digital PDF (Adobe InDesign CS6, real text layer, 17-entry embedded outline/chapter structure by medicine category e.g. Asavarishtam, Thailam, Ghrutham) processed directly via the standard parse_source_pdf() path, same as the Organon of Medicine and the Unani Pharmacopia -- page_number values are raw PDF page indices, not the book's own printed page numbers, though here they happen to match (each page prints its own page number one higher than the 0-indexed PDF page). The source PDF's embedded outline/chapter bookmarks (by medicine category) are not preserved in processed/ -- this collection's chapter-detection is a from-scratch regex/marker approach per book, not sourced from embedded PDF outlines."
+  },
+  {
+    "id": "ayush-national-formulary-of-unani-medicine-part2-vol1",
+    "discipline": "unani",
+    "raw_file": "unani/AYUSH - National Formulary of Unani Medicine - Part 2 Volume 1 (2007).pdf",
+    "title": "National Formulary of Unani Medicine, Part II, Volume I",
+    "author": "Department of Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy (AYUSH), Ministry of Health & Family Welfare, Government of India",
+    "year": 2007,
+    "volume": "Part II, Volume I",
+    "language": "en",
+    "note": "Modern (2007) official Government of India publication (AYUSH Department, Ministry of Health & Family Welfare; printed by the Central Council for Research in Unani Medicine), ISBN 81-87748-02-8 -- not old enough for a public-domain argument. No explicit 'all rights reserved' notice was found in the front matter (unlike oushadhi-therapeutic-index-2019), but it is still a modern government-owned work under Indian copyright law, not automatically public domain. Added at the user's explicit request after being flagged, same treatment as the Unani Pharmacopia of Bangladesh and the other general/ exceptions. Born-digital PDF (Adobe PageMaker 7.0 / Distiller 6.0, real text layer, 220 pages, minimal embedded outline) processed directly via the standard parse_source_pdf() path, same as the Organon of Medicine and the other two government-formulary PDFs in this collection -- page_number values are raw PDF page indices, not the book's own printed folio numbers (front matter uses roman numerals, body uses arabic starting near page_index 8)."
   }
 ]
