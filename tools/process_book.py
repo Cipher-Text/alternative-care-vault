@@ -27,6 +27,54 @@ NS_XHTML = "http://www.w3.org/1999/xhtml"
 
 PAGE_TITLE_RE = re.compile(r"(\d+)")
 
+# Book-specific chapter-opening patterns. These are deliberately narrow (matched against
+# each translation's own canonical opening phrasing) so they catch real chapter/lesson
+# starts while skipping table-of-contents listings and footnote cross-references, which
+# mention the same "LESSON N" / "CHAPTER N" tokens without the opening phrase.
+# Group 1 = chapter/lesson number label, group 2 = a short title guess (best-effort, may
+# retain OCR noise). Only added where this was verified against the actual source text;
+# see tools/catalogue_seed.json / CLAUDE.md for which books have this and why others don't.
+CHAPTER_PATTERNS = {
+    "charaka-samhita-kaviratna-1892": (
+        "Lesson",
+        re.compile(
+            r"LESSON\s+([IVXLC]+)[.:]?\s*"
+            r"(?:We (?:shall|will)|And now we shall|So then We will)[^.\n]{0,40}?"
+            r"(?:expound|explain)\s+(?:the\s+)?[Ll]esson\s*"
+            r"(?:called|on|having for its topic|about)?\s*[‘’'\"“”]?([^.\n]{2,90})",
+            re.IGNORECASE,
+        ),
+    ),
+    "sushruta-samhita-vol-2-1911": (
+        "Chapter",
+        re.compile(
+            r"CHAPTER\s+([IVXLC]+)\.?\s+Now (?:we|wc) shall discourse on\s+(?:the\s+)?([^.\n]{2,100})",
+            re.IGNORECASE,
+        ),
+    ),
+}
+
+
+def detect_chapters(book_id, pages):
+    """Best-effort chapter/lesson list for the few books with a known-reliable pattern.
+    Returns [] for every other book -- see CHAPTER_PATTERNS docstring above."""
+    spec = CHAPTER_PATTERNS.get(book_id)
+    if not spec:
+        return []
+    label_word, pattern = spec
+
+    chapters = []
+    for p in pages:
+        for m in pattern.finditer(p["text"]):
+            chapters.append(
+                {
+                    "label": f"{label_word} {m.group(1).upper()}",
+                    "title": m.group(2).strip(" .,-"),
+                    "start_page": p["page_number"],
+                }
+            )
+    return chapters
+
 
 def clean_text(text):
     text = unicodedata.normalize("NFKC", text)
@@ -114,7 +162,7 @@ def parse_source_pdf(pdf_path):
     return pages
 
 
-def build_book_json(meta, pages, out_path):
+def build_book_json(meta, pages, chapters, out_path):
     doc = {
         "id": meta["id"],
         "title": meta["title"],
@@ -129,9 +177,10 @@ def build_book_json(meta, pages, out_path):
         "source_raw_file": meta["raw_file"],
         "note": meta.get("note"),
         "page_count": len(pages),
+        "chapters": chapters,
         "pages": pages,
     }
-    doc = {k: v for k, v in doc.items() if v is not None}
+    doc = {k: v for k, v in doc.items() if v not in (None, [])}
     out_path.write_text(json.dumps(doc, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
@@ -145,7 +194,7 @@ def esc(s):
     )
 
 
-def build_epub(meta, pages, out_path):
+def build_epub(meta, pages, chapters, out_path):
     book_id = str(uuid.uuid5(uuid.NAMESPACE_URL, f"alternative-care-vault:{meta['id']}"))
     title = meta["title"]
     author = meta.get("author") or meta.get("translator") or "Unknown"
@@ -154,9 +203,12 @@ def build_epub(meta, pages, out_path):
     manifest_items = []
     spine_items = []
     page_files = []
+    fname_by_page_number = {}
 
     for i, page in enumerate(pages, start=1):
         fname = f"page_{i:04d}.xhtml"
+        if page["page_number"] is not None:
+            fname_by_page_number.setdefault(page["page_number"], fname)
         anchor_id = (
             f"page-{page['page_number']}" if page["page_number"] is not None else f"leaf-{i}"
         )
@@ -179,6 +231,15 @@ def build_epub(meta, pages, out_path):
         manifest_items.append(f'<item id="p{i}" href="{fname}" media-type="application/xhtml+xml"/>')
         spine_items.append(f'<itemref idref="p{i}"/>')
 
+    if chapters:
+        chapter_links = "\n        ".join(
+            f'<li><a href="{fname_by_page_number.get(c["start_page"], page_files[0][0])}">'
+            f'{esc(c["label"])}{esc(" — " + c["title"] if c.get("title") else "")}</a></li>'
+            for c in chapters
+        )
+    else:
+        chapter_links = f'<li><a href="{page_files[0][0]}">Start of book</a></li>'
+
     nav_xhtml = f"""<?xml version="1.0" encoding="utf-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="{language}">
   <head><title>Table of Contents</title></head>
@@ -186,7 +247,7 @@ def build_epub(meta, pages, out_path):
     <nav epub:type="toc" id="toc">
       <h1>{esc(title)}</h1>
       <ol>
-        <li><a href="{page_files[0][0]}">Start of book</a></li>
+        {chapter_links}
       </ol>
     </nav>
   </body>
@@ -251,15 +312,20 @@ def process_one(meta, raw_root, out_root):
         print(f"  WARNING: no pages extracted for {meta['id']}")
         return
 
+    chapters = detect_chapters(meta["id"], pages)
+
     out_dir = out_root / meta["discipline"] / meta["id"]
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    build_book_json(meta, pages, out_dir / "book.json")
-    build_epub(meta, pages, out_dir / "book.epub")
+    build_book_json(meta, pages, chapters, out_dir / "book.json")
+    build_epub(meta, pages, chapters, out_dir / "book.epub")
 
     src_size = raw_path.stat().st_size
     out_size = (out_dir / "book.epub").stat().st_size
-    print(f"  {len(pages)} pages | source {src_size/1e6:.1f} MB -> clean epub {out_size/1e6:.2f} MB")
+    chapter_note = f", {len(chapters)} chapters detected" if chapters else ""
+    print(
+        f"  {len(pages)} pages{chapter_note} | source {src_size/1e6:.1f} MB -> clean epub {out_size/1e6:.2f} MB"
+    )
 
 
 def main():

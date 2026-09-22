@@ -9,6 +9,223 @@
   "source_raw_file": "ayurveda/Charaka Samhita - English Translation by Abinash Chandra Kaviratna - 1892.epub",
   "note": "source EPUB embeds a full-resolution scan image per page (~1GB); processed version is text-only",
   "page_count": 1976,
+  "chapters": [
+    {
+      "label": "Lesson I",
+      "title": "Longevity",
+      "start_page": 10
+    },
+    {
+      "label": "Lesson II",
+      "title": "Apamarga-tundaliya",
+      "start_page": 22
+    },
+    {
+      "label": "Lesson III",
+      "title": "Aragbadhiya",
+      "start_page": 28
+    },
+    {
+      "label": "Lesson IV",
+      "title": "the six centuries of Purgatives",
+      "start_page": 42
+    },
+    {
+      "label": "Lesson V",
+      "title": "Matrafitlyafpro'per measure in respect of diet)",
+      "start_page": 64
+    },
+    {
+      "label": "Lesson VI",
+      "title": "Tasyaf;itiya",
+      "start_page": 96
+    },
+    {
+      "label": "Lesson VII",
+      "title": "the inadvisability of suppressing the urgings of nature",
+      "start_page": 104
+    },
+    {
+      "label": "Lesson VIII",
+      "title": "the “ Analysis of the Senses",
+      "start_page": 114
+    },
+    {
+      "label": "Lesson IX",
+      "title": "the Brief Aggregate of Four",
+      "start_page": 149
+    },
+    {
+      "label": "Lesson X",
+      "title": "the Comprehensive Aggregate of Four",
+      "start_page": 153
+    },
+    {
+      "label": "Lesson XI",
+      "title": "the Three Aspirations",
+      "start_page": 159
+    },
+    {
+      "label": "Lesson XII",
+      "title": "the merits and faults of the Wind",
+      "start_page": 195
+    },
+    {
+      "label": "Lesson XIII",
+      "title": "Oils",
+      "start_page": 201
+    },
+    {
+      "label": "Lesson XIV",
+      "title": "Sweda",
+      "start_page": 232
+    },
+    {
+      "label": "Lesson XVII",
+      "title": "Some diseases of the Head",
+      "start_page": 264
+    },
+    {
+      "label": "Lesson XVIII",
+      "title": "Tr^othiya (the triple Inflammation)",
+      "start_page": 298
+    },
+    {
+      "label": "Lesson IXX",
+      "title": "Ashtodariyam",
+      "start_page": 309
+    },
+    {
+      "label": "Lesson XX",
+      "title": "Maharoga",
+      "start_page": 322
+    },
+    {
+      "label": "Lesson XXI",
+      "title": "Ashta-ninditiya or that on the eight persons worthy of condemnation",
+      "start_page": 335
+    },
+    {
+      "label": "Lesson XXII",
+      "title": "Langhana-Vringhaniya",
+      "start_page": 345
+    },
+    {
+      "label": "Lesson XXIV",
+      "title": "Vidhi-£onitiya",
+      "start_page": 365
+    },
+    {
+      "label": "Lesson XXV",
+      "title": "Yajjah-purushiya",
+      "start_page": 374
+    },
+    {
+      "label": "Lesson XXVI",
+      "title": "Atreya-Bhadrakapya",
+      "start_page": 409
+    },
+    {
+      "label": "Lesson XXVII",
+      "title": "the ordinances relating to food and drink",
+      "start_page": 449
+    },
+    {
+      "label": "Lesson XXVIII",
+      "title": "diverse kinds of Food and Drink",
+      "start_page": 523
+    },
+    {
+      "label": "Lesson XXIX",
+      "title": "That on the ten ■substrata of the Life-breaths",
+      "start_page": 534
+    },
+    {
+      "label": "Lesson II",
+      "title": "the Vimanam of the three divisions relating to the Kukshi or stomach",
+      "start_page": 606
+    },
+    {
+      "label": "Lesson III",
+      "title": "the Destruction of towns and large villages",
+      "start_page": 615
+    },
+    {
+      "label": "Lesson VII",
+      "title": "the Vimanam of the aspects of the diseased",
+      "start_page": 685
+    },
+    {
+      "label": "Lesson I",
+      "title": "in this Division that treats of the body, and that is called “Katidhapurushiyam” (how ma",
+      "start_page": 836
+    },
+    {
+      "label": "Lesson II",
+      "title": "That relating to unlike clans,” in the Division called Qarira",
+      "start_page": 888
+    },
+    {
+      "label": "Lesson IV",
+      "title": "Mahatl-Garbhl» vakranti”* in the Division called Qarira",
+      "start_page": 941
+    },
+    {
+      "label": "Lesson V",
+      "title": "Purusha-Vichayam ’ in the Division called Qarira",
+      "start_page": 975
+    },
+    {
+      "label": "Lesson VI",
+      "title": "garira-Vichayam’ in the Division called * garira",
+      "start_page": 993
+    },
+    {
+      "label": "Lesson III",
+      "title": "Parimarshaniyamlndriyam",
+      "start_page": 1116
+    },
+    {
+      "label": "Lesson VIII",
+      "title": "1 Avakgirasiyam’ in the Division called Indriya",
+      "start_page": 1148
+    },
+    {
+      "label": "Lesson IX",
+      "title": "Yasya £yava-nimittiyam’ of the Division called Indriya",
+      "start_page": 1151
+    },
+    {
+      "label": "Lesson X",
+      "title": "Sadyomaraniyam",
+      "start_page": 1154
+    },
+    {
+      "label": "Lesson XL",
+      "title": "Anu-jyotiyam in the Division called ‘ Indriya",
+      "start_page": 1157
+    },
+    {
+      "label": "Lesson XII",
+      "title": "Gomayachurniyam’ in the Division called ‘ Indriyam",
+      "start_page": 1162
+    },
+    {
+      "label": "Lesson IV",
+      "title": "the Nidana (causes) of Prameha",
+      "start_page": 1228
+    },
+    {
+      "label": "Lesson VI",
+      "title": "Treatment of Pram eh a",
+      "start_page": 1503
+    },
+    {
+      "label": "Lesson X",
+      "title": "the treatment of Epilepsy, Thus said the illustrious son of Atri",
+      "start_page": 1601
+    }
+  ],
   "pages": [
     {
       "page_number": null,

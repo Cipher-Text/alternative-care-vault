@@ -55,6 +55,8 @@ raw/
 - `book.epub` — reflowable text-only EPUB3 rebuilt from the source (page-scan images stripped, OCR whitespace/artifacts normalized), with an anchor at every original page boundary so pagination is preserved even though the text reflows.
 - `book.json` — the same content as page-mapped JSON (`{ page_number, text }` per page, plus book metadata), intended as the ingestion format for a future searchable book database.
 
+For **Charaka Samhita (Kaviratna translation)** and **Sushruta Samhita**, `book.json` also includes a `chapters` array (`{ label, title, start_page }`) and the rebuilt EPUB's table of contents links each chapter to its real page anchor. This is detected from each translation's own canonical chapter-opening phrasing (e.g. "LESSON II. And now we shall expound the Lesson called..." / "CHAPTER IV. Now we shall discourse on..."), which reliably separates real chapter starts from table-of-contents listings and footnote cross-references that just mention the same numbers. No other book in the collection has chapter/heading structure in its source OCR text to detect — see `tools/process_book.py`'s `CHAPTER_PATTERNS` for the exact per-book patterns, and CLAUDE.md for why the Bengali Charaka Samhita edition is excluded (its OCR is too noisy for reliable numeral parsing).
+
 `processed/catalogue.json` aggregates metadata for every processed book (title, author, language, discipline, page count, source/output paths) and is the catalogue file referenced below.
 
 To regenerate:
@@ -68,7 +70,7 @@ Book metadata (title/author/year/language/discipline) is sourced from `tools/cat
 
 ### Book database
 
-`tools/build_library_db.py` loads `processed/catalogue.json` and every `book.json` into a local SQLite database at `db/library.db`, with a `books` table, a `pages` table (one row per original page), and an FTS5 full-text index over page text. It's a build artifact (`db/` is git-ignored) — regenerate it any time after re-running the processing step:
+`tools/build_library_db.py` loads `processed/catalogue.json` and every `book.json` into a local SQLite database at `db/library.db`, with a `books` table, a `pages` table (one row per original page), a `chapters` table (where detected — see above), and an FTS5 full-text index over page text. It's a build artifact (`db/` is git-ignored) — regenerate it any time after re-running the processing step:
 
 ```sh
 python3 tools/build_library_db.py

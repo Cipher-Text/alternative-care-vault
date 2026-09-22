@@ -39,6 +39,16 @@ CREATE TABLE pages (
 );
 CREATE INDEX idx_pages_book ON pages(book_id);
 
+CREATE TABLE chapters (
+    id INTEGER PRIMARY KEY,
+    book_id TEXT NOT NULL REFERENCES books(id),
+    chapter_index INTEGER NOT NULL,
+    label TEXT NOT NULL,
+    title TEXT,
+    start_page INTEGER
+);
+CREATE INDEX idx_chapters_book ON chapters(book_id);
+
 CREATE VIRTUAL TABLE pages_fts USING fts5(
     text, content='pages', content_rowid='id'
 );
@@ -77,14 +87,23 @@ def build(processed_root, out_path):
                 "INSERT INTO pages (book_id, page_index, page_number, label, text) VALUES (?, ?, ?, ?, ?)",
                 (entry["id"], i, page.get("page_number"), page.get("label"), page["text"]),
             )
+        for i, chapter in enumerate(book.get("chapters", []), start=1):
+            con.execute(
+                "INSERT INTO chapters (book_id, chapter_index, label, title, start_page) VALUES (?, ?, ?, ?, ?)",
+                (entry["id"], i, chapter["label"], chapter.get("title"), chapter.get("start_page")),
+            )
 
     con.execute("INSERT INTO pages_fts(pages_fts) VALUES('rebuild')")
     con.commit()
 
     n_books = con.execute("SELECT COUNT(*) FROM books").fetchone()[0]
     n_pages = con.execute("SELECT COUNT(*) FROM pages").fetchone()[0]
+    n_chapters = con.execute("SELECT COUNT(*) FROM chapters").fetchone()[0]
     con.close()
-    print(f"Built {out_path} — {n_books} books, {n_pages} pages indexed for full-text search.")
+    print(
+        f"Built {out_path} — {n_books} books, {n_pages} pages indexed for full-text search, "
+        f"{n_chapters} chapters."
+    )
 
 
 def main():

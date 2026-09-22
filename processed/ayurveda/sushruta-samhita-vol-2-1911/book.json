@@ -9,6 +9,268 @@
   "discipline": "ayurveda",
   "source_raw_file": "ayurveda/Sushruta - An English Translation of the Sushruta Samhita - Volume II - Edited by Kunjalal Bhishagratna (1911).epub",
   "page_count": 804,
+  "chapters": [
+    {
+      "label": "Chapter I",
+      "title": "Vatavyadhl(diseases of the nervous system) Nidaaam*",
+      "start_page": 54
+    },
+    {
+      "label": "Chapter III",
+      "title": "Nidanam of As'« mari (urinary calculi)",
+      "start_page": 78
+    },
+    {
+      "label": "Chapter IV",
+      "title": "Nidatnam of Bhag^ancla",
+      "start_page": 84
+    },
+    {
+      "label": "Chapter V",
+      "title": "Nidatnam of Kushtham (cutaneous affections in general), i",
+      "start_page": 88
+    },
+    {
+      "label": "Chapter IX",
+      "title": "Niddnam of Vidradhi (abscess etc",
+      "start_page": 114
+    },
+    {
+      "label": "Chapter X",
+      "title": "Nidanam of Visarpa (erysipelas), Nad! (sinus) and Stana-roga (diseases affecting the mammae of a wom",
+      "start_page": 120
+    },
+    {
+      "label": "Chapter XL",
+      "title": "Nid^nam of Granthi (Glands etc",
+      "start_page": 126
+    },
+    {
+      "label": "Chapter XII",
+      "title": "Nidanamof Vriddhi (hydrocele, hernia, scrotal tumours etc), Upaclansa (disease of the genital organ*",
+      "start_page": 132
+    },
+    {
+      "label": "Chapter XIV",
+      "title": "Nidanam of the disease known as SukadOSha",
+      "start_page": 147
+    },
+    {
+      "label": "Chapter XV",
+      "title": "Nidanam of Bhagf-^ na",
+      "start_page": 150
+    },
+    {
+      "label": "Chapter XVI",
+      "title": "Nidanam of lYl Uk ha",
+      "start_page": 154
+    },
+    {
+      "label": "Chapter II",
+      "title": "Sariiam whicii treats of the purification of semen and cataminal fluid etc",
+      "start_page": 175
+    },
+    {
+      "label": "Chapter III",
+      "title": "Sariram which treats of pregnancy, etc",
+      "start_page": 187
+    },
+    {
+      "label": "Chapter V",
+      "title": "Sariram which treats of the anatomy of the human body (SsTrira^ankhya-Vyakaranam)",
+      "start_page": 212
+    },
+    {
+      "label": "Chapter VII",
+      "title": "Siriram which treats of the description and classification of Sira or vascular system * ( ^irsL-Varn",
+      "start_page": 236
+    },
+    {
+      "label": "Chapter VIII",
+      "title": "Sariram which treats of the method of Venesection etc",
+      "start_page": 243
+    },
+    {
+      "label": "Chapter IX",
+      "title": "Sctriram which treats of the description of the arteries, nerves and ducts, etc",
+      "start_page": 254
+    },
+    {
+      "label": "Chapter X",
+      "title": "Sdriram which treats of the nursing and management, etc",
+      "start_page": 261
+    },
+    {
+      "label": "Chapter I",
+      "title": "medical treatment of the two kinds of inflamed ulcers (Dvivraniya Chikitsitam)",
+      "start_page": 284
+    },
+    {
+      "label": "Chapter III",
+      "title": "medical treatments of fractures and dislocations (BhagTiaS)",
+      "start_page": 324
+    },
+    {
+      "label": "Chapter IV",
+      "title": "medical treatment of nervous disorders (Vata-vyadhi)",
+      "start_page": 334
+    },
+    {
+      "label": "Chapter VL",
+      "title": "medical treatment of Haemorrhoids (A rsas)",
+      "start_page": 361
+    },
+    {
+      "label": "Chapter VII",
+      "title": "medical treatment of urinary calculus, etc",
+      "start_page": 374
+    },
+    {
+      "label": "Chapter VIII",
+      "title": "medical treatment of Fistula-in-ano, etc",
+      "start_page": 383
+    },
+    {
+      "label": "Chapter IX",
+      "title": "medical treatment of cutaneous affections in general (Kushtha)",
+      "start_page": 391
+    },
+    {
+      "label": "Chapter X",
+      "title": "medical treatment of major cutaneous affections (IVIahfif-Kushtha)",
+      "start_page": 407
+    },
+    {
+      "label": "Chapter XL",
+      "title": "medical treatment of the diseases of the urinary tracts (Prameha)",
+      "start_page": 417
+    },
+    {
+      "label": "Chapter XIL",
+      "title": "medical treatment of the abscesses or eruptions which mark the sequel of a case of Prameha (Pramcha",
+      "start_page": 424
+    },
+    {
+      "label": "Chapter XIII",
+      "title": "medical treatment of Diabetes (IVIadhu-IVIeha)",
+      "start_page": 431
+    },
+    {
+      "label": "Chapter XV",
+      "title": "(surgical and medical) treatment of the cases of difficult malpresentation of the foetus and of diff",
+      "start_page": 449
+    },
+    {
+      "label": "Chapter XVI",
+      "title": "medical treatment of Abscesses and Tumours (Vldradhl)",
+      "start_page": 457
+    },
+    {
+      "label": "Chapter XVIII",
+      "title": "medical treatment of Glandular Swellings, etc",
+      "start_page": 472
+    },
+    {
+      "label": "Chapter XIX",
+      "title": "medical treatment of hernia, hydrocele, scrotal tumour, etc",
+      "start_page": 484
+    },
+    {
+      "label": "Chapter XX",
+      "title": "medical treatment of the minor ailments or diseases (Kshudra-rog'al i",
+      "start_page": 495
+    },
+    {
+      "label": "Chapter XXI",
+      "title": "medical treatment of the Sores on the penis produced by the Suka, a kind of poisonous insect (S'uka",
+      "start_page": 504
+    },
+    {
+      "label": "Chapter XXII",
+      "title": "medical treatment of the affections of the mouth (IVIukha-Rog'a)",
+      "start_page": 507
+    },
+    {
+      "label": "Chapter XXV",
+      "title": "medical treatment of a variety of diseases (Misraka-Chikitsita)",
+      "start_page": 548
+    },
+    {
+      "label": "Chapter XXVI",
+      "title": "medical treatment for increasing the strength and virile power of weak persons (Kshina-Valiyam Vaji",
+      "start_page": 555
+    },
+    {
+      "label": "Chapter XXVII",
+      "title": "recipes and niodes of using elixirs and rejuvinators of the human organism which will make it invuln",
+      "start_page": 560
+    },
+    {
+      "label": "Chapter XXIX",
+      "title": "restorative and on the constructive agents (Rasdyana) which arrest innate morbific tendencies and de",
+      "start_page": 575
+    },
+    {
+      "label": "Chapter XXX",
+      "title": "tonic remedies which remove mental and physical distress (Nivrittasamtapiya-Rasayana)",
+      "start_page": 584
+    },
+    {
+      "label": "Chapter XXXI",
+      "title": "medicinal uses (both internal and external) of the Snehas*, i",
+      "start_page": 591
+    },
+    {
+      "label": "Chapter XXXII",
+      "title": "medical treatment by measures of fomentations, diaphoretic measures, etc",
+      "start_page": 603
+    },
+    {
+      "label": "Chapter XXXVI",
+      "title": "medical treatment of the mishaps which are consequent on an injudicious application of the pipe and",
+      "start_page": 644
+    },
+    {
+      "label": "Chapter XXXIX",
+      "title": "treatment of distressing symptoms* which are manifested in a patient (Aturopadrava-Chikitsitam)",
+      "start_page": 692
+    },
+    {
+      "label": "Chapter XL",
+      "title": "treatment which consists in employing the (inhalation of) medicated fumes, snuffs, (errhines) and ga",
+      "start_page": 698
+    },
+    {
+      "label": "Chapter I",
+      "title": "mode of preserving food and drink from the effects of poison (Annap^na-Raksha-Kalpa)",
+      "start_page": 718
+    },
+    {
+      "label": "Chapter II",
+      "title": "chapter which treats of the indications (efifects, nature and operations) of Sthavara ^vegetable and",
+      "start_page": 730
+    },
+    {
+      "label": "Chapter IV",
+      "title": "Chapter which treats of the specific features of the poison of a snakebite (Sarpa-dashta-Visha-ViJns",
+      "start_page": 748
+    },
+    {
+      "label": "Chapter V",
+      "title": "Chapter which deals with the medical treatment of snake-bites (Sarpadashta Kaipa-Chikitsitam)",
+      "start_page": 760
+    },
+    {
+      "label": "Chapter VL",
+      "title": "cases of rat-poisoning (IVIushika-kalpa) i",
+      "start_page": 773
+    },
+    {
+      "label": "Chapter VIII",
+      "title": "insects, i,e, the measures, etc",
+      "start_page": 787
+    }
+  ],
   "pages": [
     {
       "page_number": null,
