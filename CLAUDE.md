@@ -68,4 +68,7 @@ sqlite3 db/library.db "
 ## Known gaps (deferred, not bugs)
 
 - `raw/unani/Ibn Sina - The Canon of Medicine.epub` is a 0-byte placeholder and is intentionally excluded from `tools/catalogue_seed.json` until a real file replaces it.
-- `.git` history still contains the original ~1GB Charaka Samhita blob from before the cleanup pipeline existed; this was left alone deliberately rather than rewriting history.
+
+## Important: `raw/` is not 100% mirrored into git
+
+`raw/ayurveda/Charaka Samhita - English Translation by Abinash Chandra Kaviratna - 1892.epub` (~1GB) is **gitignored**, not tracked. It was committed early on, which pushed `.git` past GitHub's 100MB-per-file hard limit and made every push fail; on 2026-09-22 it was stripped out of all git history with `git filter-repo` (rewriting every commit hash) and the working-tree copy was restored afterward, gitignored to prevent recommitting it. The file still exists locally in `raw/ayurveda/` for reprocessing, it's just not versioned. Its clean 5MB derivative (which *is* tracked) lives at `processed/ayurveda/charaka-samhita-kaviratna-1892/`. If this repo is ever re-cloned, that one raw file will be missing and `process_book.py` can't regenerate its `processed/` output without it being placed back manually.

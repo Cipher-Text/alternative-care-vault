@@ -1,2 +1,7 @@
 .DS_Store
 db/
+
+# Exceeds GitHub's 100MB file limit; kept locally only. Was stripped from git
+# history entirely on 2026-09-22 (see CLAUDE.md "Known gaps"). The clean 5MB
+# derivative lives in processed/ayurveda/charaka-samhita-kaviratna-1892/.
+raw/ayurveda/Charaka Samhita - English Translation by Abinash Chandra Kaviratna - 1892.epub
