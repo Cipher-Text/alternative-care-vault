@@ -337,10 +337,24 @@ def build_epub(meta, pages, chapters, out_path):
             zf.writestr(f"EPUB/{fname}", xhtml)
 
 
+# Books processed by a dedicated one-off script (not in this repo) whose source EPUB
+# doesn't match the generic parser's assumptions (e.g. body text in <div>s instead of
+# <p>s). The generic parser doesn't cleanly fail on them -- it silently extracts a
+# handful of garbage "pages" from incidental <p> tags (marketing boilerplate, duplicate
+# TOC fragments) -- so routing them through --all would silently overwrite a correct,
+# carefully-extracted processed/ output with garbage. Regenerating these requires
+# rebuilding their one-off extraction script first.
+REQUIRES_DEDICATED_SCRIPT = {"heinrich-fundamentals-of-pharmacognosy-and-phytotherapy-4th"}
+
+
 def process_one(meta, raw_root, out_root):
     raw_path = raw_root / meta["raw_file"]
     if not raw_path.exists():
         print(f"SKIP (missing source): {raw_path}")
+        return
+    if meta["id"] in REQUIRES_DEDICATED_SCRIPT:
+        print(f"SKIP {meta['id']}: requires its dedicated one-off extraction script, "
+              f"not the generic parser (see REQUIRES_DEDICATED_SCRIPT docstring above)")
         return
 
     print(f"Processing {meta['id']} ...")

@@ -62,6 +62,18 @@
     "processed_json": "processed/general/ernst-oxford-handbook-of-complementary-medicine/book.json"
   },
   {
+    "id": "heinrich-fundamentals-of-pharmacognosy-and-phytotherapy-4th",
+    "title": "Fundamentals of Pharmacognosy and Phytotherapy",
+    "author": "Michael Heinrich, Joanne Barnes, Jose Prieto-Garcia, Simon Gibbons, Elizabeth M. Williamson",
+    "edition": "4th Edition",
+    "language": "en",
+    "discipline": "general",
+    "page_count": 269,
+    "source_raw_file": "general/Michael Heinrich et al. - Fundamentals of Pharmacognosy and Phytotherapy - 4th Edition.epub",
+    "processed_epub": "processed/general/heinrich-fundamentals-of-pharmacognosy-and-phytotherapy-4th/book.epub",
+    "processed_json": "processed/general/heinrich-fundamentals-of-pharmacognosy-and-phytotherapy-4th/book.json"
+  },
+  {
     "id": "micozzi-fundamentals-of-complementary-and-alternative-medicine-5th",
     "title": "Fundamentals of Complementary and Alternative Medicine",
     "author": "Marc S. Micozzi",

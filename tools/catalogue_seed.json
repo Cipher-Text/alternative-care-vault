@@ -1,5 +1,16 @@
 [
   {
+    "id": "heinrich-fundamentals-of-pharmacognosy-and-phytotherapy-4th",
+    "discipline": "general",
+    "raw_file": "general/Michael Heinrich et al. - Fundamentals of Pharmacognosy and Phytotherapy - 4th Edition.epub",
+    "title": "Fundamentals of Pharmacognosy and Phytotherapy",
+    "author": "Michael Heinrich, Joanne Barnes, Jose Prieto-Garcia, Simon Gibbons, Elizabeth M. Williamson",
+    "year": null,
+    "edition": "4th Edition",
+    "language": "en",
+    "note": "Same category of concern as the other two general/ books: a modern, actively sold Elsevier textbook -- the filename ('VitalSource Retail Access Card') identifies it as a paid commercial digital product, not an ambiguous-vintage scan. A leftover 'Adept.expected.resource' meta tag in the source XHTML confirms it was originally Adobe ADEPT DRM-protected before being stripped and redistributed via dokumen.pub. Added at the user's explicit request despite being flagged. NOT PROCESSED VIA THE STANDARD PIPELINE: this EPUB uses real semantic EPUB3 markup (epub:type=\"pagebreak\" spans with genuine printed page numbers including roman numerals for front matter, h1.chaptitle chapter headings) and body text in <div> elements rather than <p> tags -- process_book.py's generic parse_source_epub() does NOT cleanly fail on it -- it silently extracts ~26 garbage pseudo-pages from incidental <p> tags elsewhere in the file, enough to pass the empty-pages check and overwrite a correct processed/ output with garbage -- so this id is listed in process_book.py's REQUIRES_DEDICATED_SCRIPT set, which makes --all (and single-id runs) explicitly SKIP it with a clear message instead. It was actually processed with a dedicated one-off script (not saved in this repo) that walks the real pagebreak/chapter markup directly -- meaning its page numbers and the chapters[] array in book.json are the actual printed book's numbering/TOC, not a running index or regex guess like the rest of the collection. That script must be rebuilt before this id can ever be removed from REQUIRES_DEDICATED_SCRIPT and reprocessed."
+  },
+  {
     "id": "ernst-oxford-handbook-of-complementary-medicine",
     "discipline": "general",
     "raw_file": "general/Edzard Ernst et al. - Oxford Handbook of Complementary Medicine.epub",

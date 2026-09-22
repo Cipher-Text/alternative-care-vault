@@ -4,7 +4,7 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 19 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 20 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
 ### Homeopathy (13 works)
 
@@ -33,12 +33,13 @@ The collection currently contains 19 valid works. Homeopathy books are kept in [
 | `Charaka Samhita - English Translation by Abinash Chandra Kaviratna - 1892.epub` | EPUB | Charaka-Samhita; English translation by Abinash Chandra Kaviratna |
 | `Satish Chandra Sharma - Charaka Samhita (চরক সংহিতা).epub` | EPUB | Bengali Charaka-Samhita; Satish Chandra Sharma |
 
-### General (2 works)
+### General (3 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
 | `Marc S. Micozzi - Fundamentals of Complementary and Alternative Medicine - 5th Edition.epub` | EPUB | ⚠️ Modern, actively in-print, copyrighted textbook (Elsevier/Saunders, 2014) — not a public-domain historical work like the rest of this collection. Copyright/licence status has **not** been cleared for redistribution; added at the user's explicit request despite that being flagged. Converted from a born-digital PDF (real text, 468-entry embedded TOC, 167 images) via a one-off script rather than sourced from Internet Archive; only page text carries into `processed/`, same as every other book. See "Copyright and licensing" below before sharing or redistributing this repository. |
 | `Edzard Ernst et al. - Oxford Handbook of Complementary Medicine.epub` | EPUB | ⚠️ Same category of concern — a modern, actively published Oxford University Press clinical handbook. The source PDF's Internet Archive identifier suggests it came from a Controlled Digital Lending scan (one-reader-at-a-time borrowing), an arguably clearer licence violation than the collection's older, ambiguous-status works. Converted from that PDF via the same one-off script; its ~900 embedded images were all JPEG2000 (not a valid EPUB format) and judged to be OCR artifacts, so they were dropped rather than embedded broken. See "Copyright and licensing" below. |
+| `Michael Heinrich et al. - Fundamentals of Pharmacognosy and Phytotherapy - 4th Edition.epub` | EPUB | ⚠️ Same category of concern — a paid Elsevier VitalSource retail textbook; a leftover Adobe ADEPT DRM tag in the source markup confirms it was stripped from a purchased copy. Unlike the other two, this one has genuinely rich source structure (real printed page numbers via `epub:type="pagebreak"` spans, real chapter titles), so `processed/`'s page numbers and `chapters[]` array reflect the actual book, not a running index or regex guess — processed via a dedicated one-off script since the standard pipeline expects `<p>`-tag text this EPUB doesn't use. See "Copyright and licensing" below. |
 
 ### Pending validation
 
@@ -134,4 +135,4 @@ This repository is for educational and archival reference only. The books do not
 
 Some older works in the collection may be public domain, but the copyright and licence status of every file has not been independently verified. Confirm that a book may legally be stored and shared before adding or redistributing it, and record the applicable source and licence information in the catalogue.
 
-**Two entries in `raw/general/` are known exceptions, not unverified cases:** `Marc S. Micozzi - Fundamentals of Complementary and Alternative Medicine - 5th Edition.epub` (a 2014 Elsevier/Saunders textbook) and `Edzard Ernst et al. - Oxford Handbook of Complementary Medicine.epub` (an Oxford University Press clinical handbook, likely sourced from an Archive.org Controlled Digital Lending scan) are both modern, actively published works — unlike the rest of the collection, there is no plausible public-domain argument for either. Both were added at the user's explicit instruction after being flagged. Think carefully before pushing this repository anywhere public, sharing it, or redistributing it while these files remain in `raw/`.
+**All three entries in `raw/general/` are known exceptions, not unverified cases:** `Marc S. Micozzi - Fundamentals of Complementary and Alternative Medicine - 5th Edition.epub` (a 2014 Elsevier/Saunders textbook), `Edzard Ernst et al. - Oxford Handbook of Complementary Medicine.epub` (an Oxford University Press clinical handbook, likely sourced from an Archive.org Controlled Digital Lending scan), and `Michael Heinrich et al. - Fundamentals of Pharmacognosy and Phytotherapy - 4th Edition.epub` (an Elsevier VitalSource retail textbook stripped of its Adobe ADEPT DRM) are all modern, actively published works — unlike the rest of the collection, there is no plausible public-domain argument for any of them. Each was added at the user's explicit instruction after being flagged, confirmed separately every time. Think carefully before pushing this repository anywhere public, sharing it, or redistributing it while these files remain in `raw/`.
