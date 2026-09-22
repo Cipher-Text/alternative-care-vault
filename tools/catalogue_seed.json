@@ -1,5 +1,15 @@
 [
   {
+    "id": "ernst-oxford-handbook-of-complementary-medicine",
+    "discipline": "general",
+    "raw_file": "general/Edzard Ernst et al. - Oxford Handbook of Complementary Medicine.epub",
+    "title": "Oxford Handbook of Complementary Medicine",
+    "author": "Edzard Ernst, Max H Pittler, Barbara Wider",
+    "year": null,
+    "language": "en",
+    "note": "Same category of concern as micozzi-fundamentals-of-complementary-and-alternative-medicine-5th: a modern, actively published Oxford University Press clinical handbook, not public domain. Its licence/copyright status has NOT been cleared for redistribution; added at the user's explicit request despite that being flagged. Source PDF metadata (Internet Archive identifier 'oxfordhandbookof0000unse_g8j3') suggests it originated from an Archive.org Controlled Digital Lending scan (one-reader-at-a-time borrowing, not permanent redistribution) rather than a public-domain source -- an arguably clearer licence violation than the collection's older, ambiguous-status works. Converted from that PDF (real OCR text layer, no embedded TOC) to EPUB via the same one-off script used for the Micozzi book; the source PDF also embedded ~900 images, all JPEG2000 (not a valid EPUB image format) and only ~2KB average, judged to be OCR-processing artifacts rather than real figures, so they were dropped during conversion rather than embedded broken."
+  },
+  {
     "id": "micozzi-fundamentals-of-complementary-and-alternative-medicine-5th",
     "discipline": "general",
     "raw_file": "general/Marc S. Micozzi - Fundamentals of Complementary and Alternative Medicine - 5th Edition.epub",

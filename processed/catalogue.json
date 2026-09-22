@@ -51,6 +51,17 @@
     "processed_json": "processed/ayurveda/sushruta-samhita-vol-2-1911/book.json"
   },
   {
+    "id": "ernst-oxford-handbook-of-complementary-medicine",
+    "title": "Oxford Handbook of Complementary Medicine",
+    "author": "Edzard Ernst, Max H Pittler, Barbara Wider",
+    "language": "en",
+    "discipline": "general",
+    "page_count": 453,
+    "source_raw_file": "general/Edzard Ernst et al. - Oxford Handbook of Complementary Medicine.epub",
+    "processed_epub": "processed/general/ernst-oxford-handbook-of-complementary-medicine/book.epub",
+    "processed_json": "processed/general/ernst-oxford-handbook-of-complementary-medicine/book.json"
+  },
+  {
     "id": "micozzi-fundamentals-of-complementary-and-alternative-medicine-5th",
     "title": "Fundamentals of Complementary and Alternative Medicine",
     "author": "Marc S. Micozzi",
