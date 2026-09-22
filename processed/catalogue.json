@@ -192,5 +192,16 @@
     "source_raw_file": "homeopathy/Count Cesare Mattei - Electro-Homoeopathic Medicine - A New Medical System Being a Popular and Domestic Guide Founded on Experience - 2nd Edition (1891).epub",
     "processed_epub": "processed/homeopathy/mattei-electro-homoeopathic-medicine-1891/book.epub",
     "processed_json": "processed/homeopathy/mattei-electro-homoeopathic-medicine-1891/book.json"
+  },
+  {
+    "id": "pandey-homoeopathic-practice-of-medicine",
+    "title": "হোমিওপ্যাথিক প্র্যাকটিস অফ মেডিসিন",
+    "author": "ডাঃ এস. এন. পাণ্ডে",
+    "language": "bn",
+    "discipline": "homeopathy",
+    "page_count": 792,
+    "source_raw_file": "homeopathy/ডাঃ এস. এন. পাণ্ডে - হোমিওপ্যাথিক প্র্যাকটিস অফ মেডিসিন.epub",
+    "processed_epub": "processed/homeopathy/pandey-homoeopathic-practice-of-medicine/book.epub",
+    "processed_json": "processed/homeopathy/pandey-homoeopathic-practice-of-medicine/book.json"
   }
 ]
