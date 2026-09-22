@@ -1,5 +1,16 @@
 [
   {
+    "id": "micozzi-fundamentals-of-complementary-and-alternative-medicine-5th",
+    "discipline": "general",
+    "raw_file": "general/Marc S. Micozzi - Fundamentals of Complementary and Alternative Medicine - 5th Edition.epub",
+    "title": "Fundamentals of Complementary and Alternative Medicine",
+    "author": "Marc S. Micozzi",
+    "year": 2014,
+    "edition": "5th Edition",
+    "language": "en",
+    "note": "Unlike the rest of this collection, this is a modern, actively in-print, copyrighted textbook (Elsevier/Saunders) -- not a public-domain historical work. Its licence/copyright status has NOT been cleared for redistribution; this entry exists because the user explicitly asked for it to be added despite that being flagged. Converted from a born-digital PDF (real text + 468-entry embedded TOC + images) to EPUB via a one-off script, not the collection's usual Internet-Archive-style source; only page text carries through processing, same as every other book -- images and the original PDF's TOC structure are not preserved in processed/."
+  },
+  {
     "id": "pandey-homoeopathic-practice-of-medicine",
     "discipline": "homeopathy",
     "raw_file": "homeopathy/ডাঃ এস. এন. পাণ্ডে - হোমিওপ্যাথিক প্র্যাকটিস অফ মেডিসিন.epub",

@@ -51,6 +51,19 @@
     "processed_json": "processed/ayurveda/sushruta-samhita-vol-2-1911/book.json"
   },
   {
+    "id": "micozzi-fundamentals-of-complementary-and-alternative-medicine-5th",
+    "title": "Fundamentals of Complementary and Alternative Medicine",
+    "author": "Marc S. Micozzi",
+    "year": 2014,
+    "edition": "5th Edition",
+    "language": "en",
+    "discipline": "general",
+    "page_count": 624,
+    "source_raw_file": "general/Marc S. Micozzi - Fundamentals of Complementary and Alternative Medicine - 5th Edition.epub",
+    "processed_epub": "processed/general/micozzi-fundamentals-of-complementary-and-alternative-medicine-5th/book.epub",
+    "processed_json": "processed/general/micozzi-fundamentals-of-complementary-and-alternative-medicine-5th/book.json"
+  },
+  {
     "id": "adams-practical-guide-to-homeopathic-treatment-1913",
     "title": "Practical Guide to Homeopathic Treatment",
     "author": "Myron H. Adams",

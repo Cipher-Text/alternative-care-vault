@@ -4,7 +4,7 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 17 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), and Unani materials in [`raw/unani/`](raw/unani/).
+The collection currently contains 18 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
 ### Homeopathy (13 works)
 
@@ -33,6 +33,12 @@ The collection currently contains 17 valid works. Homeopathy books are kept in [
 | `Charaka Samhita - English Translation by Abinash Chandra Kaviratna - 1892.epub` | EPUB | Charaka-Samhita; English translation by Abinash Chandra Kaviratna |
 | `Satish Chandra Sharma - Charaka Samhita (চরক সংহিতা).epub` | EPUB | Bengali Charaka-Samhita; Satish Chandra Sharma |
 
+### General (1 work)
+
+| File | Format | Subject / notes |
+| --- | --- | --- |
+| `Marc S. Micozzi - Fundamentals of Complementary and Alternative Medicine - 5th Edition.epub` | EPUB | ⚠️ Modern, actively in-print, copyrighted textbook (Elsevier/Saunders, 2014) — not a public-domain historical work like the rest of this collection. Copyright/licence status has **not** been cleared for redistribution; added at the user's explicit request despite that being flagged. Converted from a born-digital PDF (real text, 468-entry embedded TOC, 167 images) via a one-off script rather than sourced from Internet Archive; only page text carries into `processed/`, same as every other book. See "Copyright and licensing" below before sharing or redistributing this repository. |
+
 ### Pending validation
 
 `raw/unani/Ibn Sina - The Canon of Medicine.epub` is currently an empty 0-byte placeholder and is excluded from the collection count. Replace it with a valid EPUB or PDF before cataloguing it.
@@ -42,6 +48,7 @@ The collection currently contains 17 valid works. Homeopathy books are kept in [
 ```text
 raw/                  original, unmodified source files (never edited in place)
 ├── ayurveda/
+├── general/
 ├── homeopathy/
 └── unani/
 processed/            clean derivatives generated from raw/, see below
@@ -125,3 +132,5 @@ This repository is for educational and archival reference only. The books do not
 ## Copyright and licensing
 
 Some older works in the collection may be public domain, but the copyright and licence status of every file has not been independently verified. Confirm that a book may legally be stored and shared before adding or redistributing it, and record the applicable source and licence information in the catalogue.
+
+**One entry is a known exception, not an unverified case:** `raw/general/Marc S. Micozzi - Fundamentals of Complementary and Alternative Medicine - 5th Edition.epub` is a modern (2014), actively in-print, commercially published textbook — unlike the rest of the collection, there is no plausible public-domain argument for it. It was added at the user's explicit instruction after this was flagged. Think carefully before pushing this repository anywhere public, sharing it, or redistributing it while this file remains in `raw/`.
