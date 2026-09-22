@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repository is
 
-A personal reference collection of alternative-medicine books (homeopathy, Ayurveda, Unani), plus a Python pipeline that turns the raw source files into a clean, searchable local database. There is no application code to build/lint/test — the only "code" is the three scripts in `tools/`.
+A personal reference collection of alternative-medicine books (homeopathy, Ayurveda, Unani), plus a Python pipeline that turns the raw source files into a clean, searchable local database. There is no application code to build/lint/test — the only "code" is the two scripts in `tools/` (`process_book.py`, `build_library_db.py`); `catalogue_seed.json` there is hand-maintained metadata, not code.
 
 ## Data flow
 

@@ -37,16 +37,17 @@ The collection currently contains 15 valid works. Homeopathy books are kept in [
 
 ## Repository structure
 
-The current collection is organized by discipline. Additional disciplines can use their own directories:
-
 ```text
-raw/
+raw/                  original, unmodified source files (never edited in place)
 ├── ayurveda/
 ├── homeopathy/
 └── unani/
+processed/            clean derivatives generated from raw/, see below
+tools/                the processing pipeline (Python scripts + hand-maintained metadata)
+db/                   generated SQLite database (git-ignored, see "Book database" below)
 ```
 
-`raw/` holds the original, unmodified source files and is never edited in place.
+The current collection is organized by discipline under `raw/`; additional disciplines can use their own directories the same way.
 
 ### Processed versions
 
@@ -107,8 +108,9 @@ Metadata should be maintained separately in a catalogue file — see `processed/
 2. Confirm that the book may legally be stored and shared in this repository.
 3. Use a descriptive filename: `Author - Title - Edition.ext`.
 4. Preserve the original file format where possible.
-5. Add the book to the collection table and catalogue metadata.
-6. Do not commit passwords, private documents, or unrelated files.
+5. Add the book to the collection table above, and add a matching entry to `tools/catalogue_seed.json` (title/author/year/language/etc. must be filled in by hand — see "Processed versions" above for why).
+6. Regenerate the processed output and database: `python3 tools/process_book.py <book-id>` then `python3 tools/build_library_db.py`.
+7. Do not commit passwords, private documents, or unrelated files.
 
 ## Important note
 
