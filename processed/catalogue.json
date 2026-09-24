@@ -407,5 +407,17 @@
     "source_raw_file": "ayurveda/Madhavakara - Madhava Nidana (Ayurvedic Diagnostics) Vol 1 - Trans. Kanjiv Lochan, ed. Brahmanand Tripathi.epub",
     "processed_epub": "processed/ayurveda/madhava-nidana-vol-1-lochan/book.epub",
     "processed_json": "processed/ayurveda/madhava-nidana-vol-1-lochan/book.json"
+  },
+  {
+    "id": "sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897",
+    "title": "গৃহস্থের মুষ্টিযোগ ও কবিরাজের চিকিৎসা (Grihasther Mushtiyog o Kobirajer Chikitsa: A Householder's Fist-Remedies and the Kabiraj's Treatment)",
+    "author": "Jashodanandan Sarkar (যশোদানন্দন সরকার)",
+    "year": 1897,
+    "language": "bn",
+    "discipline": "ayurveda",
+    "page_count": 267,
+    "source_raw_file": "ayurveda/Jashodanandan Sarkar - Grihasther Mushtiyog o Kobirajer Chikitsa - 1897.epub",
+    "processed_epub": "processed/ayurveda/sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897/book.epub",
+    "processed_json": "processed/ayurveda/sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897/book.json"
   }
 ]

@@ -4,7 +4,7 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 33 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 34 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
 ### Homeopathy (20 works)
 
@@ -31,7 +31,7 @@ The collection currently contains 33 valid works. Homeopathy books are kept in [
 | `E. B. Nash - Leaders in Homoeopathic Therapeutics - 1901.epub` | EPUB | E. B. Nash; standard homeopathic therapeutics reference. This 1901 Google-digitized copy was the only one found with a working EPUB that wasn't either CDL-restricted or an oversized image-embedded DLI scan |
 | `প্রতাপচন্দ্র মজুমদার - হোমিওপ্যাথিক চিকিৎসা-প্রকরণ.epub` | EPUB | Bengali; Pratap Chandra Majumdar (~1303 BS). A principles-and-practice text — the Bengali-language counterpart to Hahnemann's Organon in this collection, not just a materia medica. Majumdar is a documented pioneer who popularized homeopathy in Bengal; added after researching the most-read/practiced homeopathy references specifically in the Bengali language for Bangladesh, as distinct from a modern copyrighted Bengali translation of a Western classic (which was deliberately not added — see catalogue note). Same DLI scan family as this collection's হোমিওপ্যাথিক চিকিৎসা-দর্পন; expect uneven OCR accuracy, same as that book |
 
-### Ayurveda (7 works)
+### Ayurveda (8 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -42,6 +42,7 @@ The collection currently contains 33 valid works. Homeopathy books are kept in [
 | `Oushadhi - Therapeutic Index - 5th Impression (2019).pdf` | PDF | ⚠️ Modern (2019) publication from Oushadhi, a Government of Kerala state undertaking — the clearest copyright case in this collection: its own front matter states "Copy right reserved. No part of this publication may be translated or transmitted...without permission." An Ayurvedic pharmaceutical formulary (ingredients/indications by medicine category — Asavarishtam, Thailam, Ghrutham, etc.). Added at the user's explicit request despite being flagged. Born-digital PDF processed directly via the standard `parse_source_pdf()` path, same as the Organon of Medicine and the Unani Pharmacopia. See "Copyright and licensing" below. |
 | `Bhavamishra - Bhavaprakasha Vol 1 (with Nighantu) - Trans. K.R. Srikantha Murthy - 2001.epub` | EPUB | ⚠️ Modern (2001) Krishnadas Academy translation. One of the "Laghu Trayi" classical Ayurvedic texts, added to fill the gap identified alongside Kent/Boericke/Clarke in homeopathy: this collection had the encyclopedic "Brihat Trayi" (Charaka/Sushruta/Ashtanga Hridaya) but no dedicated practical materia medica/nighantu — the Bhavaprakasha Nighantu section here is the Ayurvedic analog to Clarke's Dictionary. Same translator/publisher family and era as the existing Ashtanga Hridaya entry above, which was never flagged for copyright — that entry should be treated as carrying the same unresolved concern, not as precedent that this category is safe. Added at the user's explicit request. Standard IA OCR-export EPUB processed via the ordinary pipeline. See "Copyright and licensing" below. |
 | `Madhavakara - Madhava Nidana (Ayurvedic Diagnostics) Vol 1 - Trans. Kanjiv Lochan, ed. Brahmanand Tripathi.epub` | EPUB | ⚠️ Modern translation (Chaukhamba Surbharati Prakashan), added alongside the Bhavaprakasha above to fill the same Laghu Trayi gap — a diagnosis/pathology reference still used in Ayurvedic diagnostic training. **Partial work: Volume I of II only** (the full text runs 79 chapters); no complete English translation was found on Internet Archive. Added at the user's explicit request. Standard IA OCR-export EPUB processed via the ordinary pipeline. See "Copyright and licensing" below. |
+| `Jashodanandan Sarkar - Grihasther Mushtiyog o Kobirajer Chikitsa - 1897.epub` | EPUB | Bengali; a practical household/Kobiraji (traditional Bengali physician) treatment manual — everyday remedies, wound/poison/animal-bite treatment, etc. Fills the gap of a Bengali-*original* Ayurveda work in this collection, distinct from the existing Bengali *translation* of the Charaka Samhita — the Ayurveda-side counterpart to Majumdar's role in the homeopathy set above. 1897, safely public domain; Digital Library of India scan with a real Bengali OCR text layer already applied by Internet Archive |
 
 ### General (4 works)
 

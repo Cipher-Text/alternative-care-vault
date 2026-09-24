@@ -346,5 +346,15 @@
     "year": null,
     "language": "en",
     "note": "MODERN COPYRIGHT CONCERN, added at the user's explicit request. Madhava Nidana is one of the 'Laghu Trayi' (lesser triad) classical Ayurvedic texts -- a diagnosis/pathology reference still used in modern Ayurvedic diagnostic training, added alongside bhavaprakasha-vol-1-srikantha-murthy-2001 to fill the same Laghu Trayi gap. PARTIAL WORK: this is Volume I of II only -- the full Madhava Nidana runs 79 chapters and this volume does not cover all of them; no complete English-translation edition was found on Internet Archive (a second, even more partial, Meulenbeld translation covering only chapters 1-10 also exists but was not used). This precedent (a deliberately partial volume) mirrors ashtanga-hridaya-vagbhatta-vol-1, which is also Volume I only. Modern translation by Kanjiv Lochan, edited by Brahmanand Tripathi, published by Chaukhamba Surbharati Prakashan (Varanasi) -- a leading contemporary Ayurvedic academic publisher, same tier of 'actively used in practice/academia today' as the Bhavaprakasha translation above, not a public-domain work. Internet Archive identifier wnnp_ayurvedic-diagnostics-madhava-nidana-of-madhavakara-vol-1-ed-with-notes-by-brahm, uploader-tagged CC0 -- not treated as authoritative for the same reason noted on the Bhavaprakasha entry. Standard IA OCR-export EPUB (page_N.html files, media-type application/xhtml+xml, one <p> of OCR text per page), processed via the ordinary parse_source_epub() path."
+  },
+  {
+    "id": "sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897",
+    "discipline": "ayurveda",
+    "raw_file": "ayurveda/Jashodanandan Sarkar - Grihasther Mushtiyog o Kobirajer Chikitsa - 1897.epub",
+    "title": "গৃহস্থের মুষ্টিযোগ ও কবিরাজের চিকিৎসা (Grihasther Mushtiyog o Kobirajer Chikitsa: A Householder's Fist-Remedies and the Kabiraj's Treatment)",
+    "author": "Jashodanandan Sarkar (যশোদানন্দন সরকার)",
+    "year": 1897,
+    "language": "bn",
+    "note": "Fills the gap of a Bengali-ORIGINAL Ayurveda work in this collection, distinct from and complementary to satish-chandra-sharma's Bengali TRANSLATION of the Charaka Samhita -- this is the Ayurveda-side counterpart to majumdar-homoeopathic-chikitsa-prakaran-bengali's role in the homeopathy set. A practical household/Kobiraji (traditional Bengali physician) treatment manual -- a different genre from the academic Samhita/nighantu texts elsewhere in this collection, covering everyday remedies, wound/poison/animal-bite treatment, etc. Published 1897 (Metcalfe Press, Calcutta), well clear of any copyright concern (author's death year unknown but at 129+ years old and pre-1900, safely public domain under any plausible term). Internet Archive identifier dli.ministry.28627, Digital Library of India scan with a real Bengali OCR text layer already applied by Archive.org (Tesseract, high reported confidence) -- standard IA OCR-export EPUB (page_N.html files, media-type application/xhtml+xml, one <p> of OCR text per page), processed via the ordinary parse_source_epub() path, no facsimile/Tesseract-in-this-pipeline step needed."
   }
 ]
