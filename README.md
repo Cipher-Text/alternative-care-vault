@@ -4,9 +4,9 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 24 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 31 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
-### Homeopathy (13 works)
+### Homeopathy (20 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -23,6 +23,13 @@ The collection currently contains 24 valid works. Homeopathy books are kept in [
 | `ক্লিনিক্যাল মেটেরিয়া মেডিকা.epub` | EPUB | Bengali clinical materia medica reference; author and publication date not identified |
 | `হোমিওপ্যাথিক চিকিৎসা-দর্পন.epub` | EPUB | Bengali homoeopathic reference; metadata date 1303 BS |
 | `Samuel Hahnemann - Organon of Medicine.pdf` | PDF | Samuel Hahnemann; digitized edition from the Internet Archive |
+| `Kent - Repertory of the Homoeopathic Materia Medica - 1897.epub` | EPUB | James Tyler Kent, 1st edition; the standard homeopathic repertory. Added to fill a gap identified by researching Bangladesh's most-used homeopathic references — this collection had period materia medica but no repertory/quick-reference works practitioners actually use daily |
+| `William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906).epub` | EPUB | William Boericke; the most-cited quick-reference homeopathic materia medica in practice. 3rd edition (1906) used deliberately, since it's the first to add the repertory section. A later 8th edition (1922) exists but its EPUB embeds a full-resolution scan image per page (~815MB) — the same problem as the Charaka Samhita raw file — so this smaller text-only scan was used instead |
+| `John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 1 (1900).epub` | EPUB | John Henry Clarke; standard 3-volume homeopathic materia medica reference. Volume I (Abies Canadensis–Hypericum). A cleanly-labeled 1925 reissue set exists but is Controlled-Digital-Lending-restricted on Archive.org, so a Google-digitized copy was used instead and its volume range verified by content sampling |
+| `John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 2 (1900).epub` | EPUB | Volume II, Part I (Iberis–Pelargonium Reniforme). See Volume 1 note above |
+| `John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 3 (1902).epub` | EPUB | Volume II, Part II (Penthorum Sedoides–Zizia, plus the New Appendix). See Volume 1 note above |
+| `E. B. Nash - Leaders in Homoeopathic Therapeutics - 1901.epub` | EPUB | E. B. Nash; standard homeopathic therapeutics reference. This 1901 Google-digitized copy was the only one found with a working EPUB that wasn't either CDL-restricted or an oversized image-embedded DLI scan |
+| `প্রতাপচন্দ্র মজুমদার - হোমিওপ্যাথিক চিকিৎসা-প্রকরণ.epub` | EPUB | Bengali; Pratap Chandra Majumdar (~1303 BS). A principles-and-practice text — the Bengali-language counterpart to Hahnemann's Organon in this collection, not just a materia medica. Majumdar is a documented pioneer who popularized homeopathy in Bengal; added after researching the most-read/practiced homeopathy references specifically in the Bengali language for Bangladesh, as distinct from a modern copyrighted Bengali translation of a Western classic (which was deliberately not added — see catalogue note). Same DLI scan family as this collection's হোমিওপ্যাথিক চিকিৎসা-দর্পন; expect uneven OCR accuracy, same as that book |
 
 ### Ayurveda (5 works)
 

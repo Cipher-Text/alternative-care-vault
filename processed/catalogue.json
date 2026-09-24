@@ -292,5 +292,93 @@
     "source_raw_file": "unani/AYUSH - National Formulary of Unani Medicine - Part 2 Volume 1 (2007).pdf",
     "processed_epub": "processed/unani/ayush-national-formulary-of-unani-medicine-part2-vol1/book.epub",
     "processed_json": "processed/unani/ayush-national-formulary-of-unani-medicine-part2-vol1/book.json"
+  },
+  {
+    "id": "kent-repertory-of-homoeopathic-materia-medica-1897",
+    "title": "Repertory of the Homoeopathic Materia Medica",
+    "author": "James Tyler Kent",
+    "year": 1897,
+    "language": "en",
+    "discipline": "homeopathy",
+    "page_count": 648,
+    "source_raw_file": "homeopathy/Kent - Repertory of the Homoeopathic Materia Medica - 1897.epub",
+    "processed_epub": "processed/homeopathy/kent-repertory-of-homoeopathic-materia-medica-1897/book.epub",
+    "processed_json": "processed/homeopathy/kent-repertory-of-homoeopathic-materia-medica-1897/book.json"
+  },
+  {
+    "id": "boericke-pocket-manual-of-homoeopathic-materia-medica-3rd",
+    "title": "Pocket Manual of Homoeopathic Materia Medica with Repertory",
+    "author": "William Boericke",
+    "edition": "3rd Edition",
+    "year": 1906,
+    "language": "en",
+    "discipline": "homeopathy",
+    "page_count": 927,
+    "source_raw_file": "homeopathy/William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906).epub",
+    "processed_epub": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd/book.epub",
+    "processed_json": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd/book.json"
+  },
+  {
+    "id": "clarke-dictionary-of-practical-materia-medica-vol1",
+    "title": "A Dictionary of Practical Materia Medica",
+    "author": "John Henry Clarke",
+    "volume": "Volume I (Abies Canadensis - Hypericum)",
+    "year": 1900,
+    "language": "en",
+    "discipline": "homeopathy",
+    "page_count": 970,
+    "source_raw_file": "homeopathy/John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 1 (1900).epub",
+    "processed_epub": "processed/homeopathy/clarke-dictionary-of-practical-materia-medica-vol1/book.epub",
+    "processed_json": "processed/homeopathy/clarke-dictionary-of-practical-materia-medica-vol1/book.json"
+  },
+  {
+    "id": "clarke-dictionary-of-practical-materia-medica-vol2",
+    "title": "A Dictionary of Practical Materia Medica",
+    "author": "John Henry Clarke",
+    "volume": "Volume II, Part I (Iberis - Pelargonium Reniforme)",
+    "year": 1900,
+    "language": "en",
+    "discipline": "homeopathy",
+    "page_count": 700,
+    "source_raw_file": "homeopathy/John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 2 (1900).epub",
+    "processed_epub": "processed/homeopathy/clarke-dictionary-of-practical-materia-medica-vol2/book.epub",
+    "processed_json": "processed/homeopathy/clarke-dictionary-of-practical-materia-medica-vol2/book.json"
+  },
+  {
+    "id": "clarke-dictionary-of-practical-materia-medica-vol3",
+    "title": "A Dictionary of Practical Materia Medica",
+    "author": "John Henry Clarke",
+    "volume": "Volume II, Part II (Penthorum Sedoides - Zizia, plus New Appendix)",
+    "year": 1902,
+    "language": "en",
+    "discipline": "homeopathy",
+    "page_count": 885,
+    "source_raw_file": "homeopathy/John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 3 (1902).epub",
+    "processed_epub": "processed/homeopathy/clarke-dictionary-of-practical-materia-medica-vol3/book.epub",
+    "processed_json": "processed/homeopathy/clarke-dictionary-of-practical-materia-medica-vol3/book.json"
+  },
+  {
+    "id": "nash-leaders-in-homoeopathic-therapeutics-1901",
+    "title": "Leaders in Homoeopathic Therapeutics",
+    "author": "E. B. Nash",
+    "year": 1901,
+    "language": "en",
+    "discipline": "homeopathy",
+    "page_count": 424,
+    "source_raw_file": "homeopathy/E. B. Nash - Leaders in Homoeopathic Therapeutics - 1901.epub",
+    "processed_epub": "processed/homeopathy/nash-leaders-in-homoeopathic-therapeutics-1901/book.epub",
+    "processed_json": "processed/homeopathy/nash-leaders-in-homoeopathic-therapeutics-1901/book.json"
+  },
+  {
+    "id": "majumdar-homoeopathic-chikitsa-prakaran-bengali",
+    "title": "হোমিওপ্যাথিক চিকিৎসা-প্রকরণ (Homoeopathic Chikitsa Prakaran: principles and practice of medicine according to the law of Homoeopathy)",
+    "author": "Pratap Chandra Majumdar (প্রতাপচন্দ্র মজুমদার)",
+    "year_note": "metadata date 1303 BS",
+    "language": "bn",
+    "discipline": "homeopathy",
+    "page_count": 486,
+    "source_raw_file": "homeopathy/প্রতাপচন্দ্র মজুমদার - হোমিওপ্যাথিক চিকিৎসা-প্রকরণ.epub",
+    "processed_epub": "processed/homeopathy/majumdar-homoeopathic-chikitsa-prakaran-bengali/book.epub",
+    "processed_json": "processed/homeopathy/majumdar-homoeopathic-chikitsa-prakaran-bengali/book.json"
   }
 ]

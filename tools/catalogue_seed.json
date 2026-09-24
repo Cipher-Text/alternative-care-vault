@@ -247,5 +247,80 @@
     "volume": "Part II, Volume I",
     "language": "en",
     "note": "Modern (2007) official Government of India publication (AYUSH Department, Ministry of Health & Family Welfare; printed by the Central Council for Research in Unani Medicine), ISBN 81-87748-02-8 -- not old enough for a public-domain argument. No explicit 'all rights reserved' notice was found in the front matter (unlike oushadhi-therapeutic-index-2019), but it is still a modern government-owned work under Indian copyright law, not automatically public domain. Added at the user's explicit request after being flagged, same treatment as the Unani Pharmacopia of Bangladesh and the other general/ exceptions. Born-digital PDF (Adobe PageMaker 7.0 / Distiller 6.0, real text layer, 220 pages, minimal embedded outline) processed directly via the standard parse_source_pdf() path, same as the Organon of Medicine and the other two government-formulary PDFs in this collection -- page_number values are raw PDF page indices, not the book's own printed folio numbers (front matter uses roman numerals, body uses arabic starting near page_index 8)."
+  },
+  {
+    "id": "kent-repertory-of-homoeopathic-materia-medica-1897",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Kent - Repertory of the Homoeopathic Materia Medica - 1897.epub",
+    "title": "Repertory of the Homoeopathic Materia Medica",
+    "author": "James Tyler Kent",
+    "year": 1897,
+    "language": "en",
+    "note": "Standard homeopathic repertory, added alongside Boericke/Clarke/Nash to fill a gap: the collection had period materia medica (Hering, Farrington, Allen, Lee, Adams, Dewey, Mattei) and Hahnemann's Organon but none of the repertory/quick-reference works practitioners in Bangladesh actually use day-to-day. Internet Archive identifier b20416234_001, 1st edition (Lancaster, PA: Examiner Printing House); standard IA OCR-export EPUB, processed via the ordinary parse_source_epub() path."
+  },
+  {
+    "id": "boericke-pocket-manual-of-homoeopathic-materia-medica-3rd",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906).epub",
+    "title": "Pocket Manual of Homoeopathic Materia Medica with Repertory",
+    "author": "William Boericke",
+    "edition": "3rd Edition",
+    "year": 1906,
+    "language": "en",
+    "note": "The most-cited quick-reference homeopathic materia medica in practice. 3rd edition used deliberately: it's the first edition to add the repertory section that makes this book distinctive. Internet Archive identifier pocketmanualhom00boergoog. A later, more complete 8th edition (1922, in.ernet.dli.2015.125811) exists but its EPUB derivative embeds a full-resolution scan image per page (~815MB total download) -- same problem as the Charaka Samhita raw file -- so this smaller Google-digitized text-only scan was used instead to avoid another oversized, gitignored raw file."
+  },
+  {
+    "id": "clarke-dictionary-of-practical-materia-medica-vol1",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 1 (1900).epub",
+    "title": "A Dictionary of Practical Materia Medica",
+    "author": "John Henry Clarke",
+    "volume": "Volume I (Abies Canadensis - Hypericum)",
+    "year": 1900,
+    "language": "en",
+    "note": "Standard 3-volume homeopathic materia medica reference. Internet Archive identifier adictionaryprac00clargoog (Google-digitized, Harvard University copy), confirmed by content sampling to cover Abies Canadensis through Hypericum, matching the work's documented Volume I range. A 1925 reissue exists as a 3-volume matched set (b29808108_0001/2/3) with cleaner volume labels, but is Controlled-Digital-Lending-restricted on Archive.org -- not used, per this collection's existing policy (see the Ernst Oxford Handbook note) of not treating a CDL scan as freely redistributable."
+  },
+  {
+    "id": "clarke-dictionary-of-practical-materia-medica-vol2",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 2 (1900).epub",
+    "title": "A Dictionary of Practical Materia Medica",
+    "author": "John Henry Clarke",
+    "volume": "Volume II, Part I (Iberis - Pelargonium Reniforme)",
+    "year": 1900,
+    "language": "en",
+    "note": "Internet Archive identifier adictionaryprac03clargoog (Google-digitized, University of Michigan copy), confirmed by content sampling to run Iberis through Pediculus/Pelargonium Reniforme, matching the work's documented Volume II Part I range. See clarke-dictionary-of-practical-materia-medica-vol1 for why the CDL-restricted 1925 reissue set wasn't used instead."
+  },
+  {
+    "id": "clarke-dictionary-of-practical-materia-medica-vol3",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 3 (1902).epub",
+    "title": "A Dictionary of Practical Materia Medica",
+    "author": "John Henry Clarke",
+    "volume": "Volume II, Part II (Penthorum Sedoides - Zizia, plus New Appendix)",
+    "year": 1902,
+    "language": "en",
+    "note": "Internet Archive identifier adictionaryprac00unkngoog (Google-digitized, source library not identified in metadata), confirmed by content sampling to run Petroleum through Zingiber/Zizia, matching the work's documented Volume II Part II range. See clarke-dictionary-of-practical-materia-medica-vol1 for why the CDL-restricted 1925 reissue set wasn't used instead."
+  },
+  {
+    "id": "nash-leaders-in-homoeopathic-therapeutics-1901",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/E. B. Nash - Leaders in Homoeopathic Therapeutics - 1901.epub",
+    "title": "Leaders in Homoeopathic Therapeutics",
+    "author": "E. B. Nash",
+    "year": 1901,
+    "language": "en",
+    "note": "Standard homeopathic therapeutics reference. Internet Archive identifier leadersinhomoeo03nashgoog -- this was the only Google-digitized copy of this title with a working EPUB derivative that wasn't either CDL-restricted or an oversized DLI scan with embedded page images (the in.ernet.dli.2015.220071 4th-edition (1913) copy's EPUB is ~600MB+ of embedded images, same problem as the Boericke 8th edition above); a later edition may exist but wasn't found in a small, text-only, freely downloadable form."
+  },
+  {
+    "id": "majumdar-homoeopathic-chikitsa-prakaran-bengali",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/প্রতাপচন্দ্র মজুমদার - হোমিওপ্যাথিক চিকিৎসা-প্রকরণ.epub",
+    "title": "হোমিওপ্যাথিক চিকিৎসা-প্রকরণ (Homoeopathic Chikitsa Prakaran: principles and practice of medicine according to the law of Homoeopathy)",
+    "author": "Pratap Chandra Majumdar (প্রতাপচন্দ্র মজুমদার)",
+    "year": null,
+    "year_note": "metadata date 1303 BS",
+    "language": "bn",
+    "note": "Bengali-language principles-and-practice text -- the Bengali-language counterpart to Hahnemann's Organon already in this collection, not just a materia medica. Author is a documented pioneer who popularized homeopathy in Bengal and wrote extensively in both English and Bengali; his works are described in secondary sources as still inspiring practitioners today. Added after researching the most-read/practiced homeopathy references in Bangladesh specifically in the Bengali language -- distinct from a Bengali translation of a Western classic (e.g. Kent's Repertory has a modern, separately-copyrighted Bengali translation that was deliberately NOT added, per this collection's general/ policy on modern copyrighted works). Internet Archive identifier dli.ministry.28773, real Bengali OCR text layer (not facsimile), same Digital Library of India scan family as this collection's existing homoeopathic-chikitsa-darpan-bengali. Expect uneven OCR accuracy -- the source EPUB itself flags some pages as low-confidence (e.g. page 1 estimated ~30% accurate), consistent with this collection's other century-old Bengali OCR sources."
   }
 ]
