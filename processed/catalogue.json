@@ -482,5 +482,18 @@
     "source_raw_file": "unani/Abdul Latif - Yunani Hakimi Chikitsha Pranali - 1892.epub",
     "processed_epub": "processed/unani/latif-yunani-hakimi-chikitsha-pranali-1892/book.epub",
     "processed_json": "processed/unani/latif-yunani-hakimi-chikitsha-pranali-1892/book.json"
+  },
+  {
+    "id": "ibn-qayyim-healing-with-medicine-of-the-prophet-2003",
+    "title": "Healing with the Medicine of the Prophet (Al-Tibb al-Nabawi)",
+    "author": "Ibn Qayyim al-Jawziyyah",
+    "translator": "Abd El-Qader ibn Abd El-Azeez",
+    "year": 2003,
+    "language": "en",
+    "discipline": "unani",
+    "page_count": 652,
+    "source_raw_file": "unani/Ibn Qayyim al-Jawziyyah - Healing with the Medicine of the Prophet - Trans. Abd El-Qader ibn Abd El-Azeez - 2003.epub",
+    "processed_epub": "processed/unani/ibn-qayyim-healing-with-medicine-of-the-prophet-2003/book.epub",
+    "processed_json": "processed/unani/ibn-qayyim-healing-with-medicine-of-the-prophet-2003/book.json"
   }
 ]

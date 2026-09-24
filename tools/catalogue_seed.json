@@ -411,5 +411,16 @@
     "year": 1892,
     "language": "bn",
     "note": "Fills the gap of a Bengali-language Unani work -- previously this discipline had zero Bengali coverage at all (only English-language items: the Gruner Canon of Medicine translation and two modern government pharmacopoeia PDFs). A practical Hakim's treatment manual -- the Unani-tradition counterpart to sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897's role for Ayurveda (Kobiraj) in this collection. Published 1892 (Munindra Mohan Basu, Kolkata), safely public domain given its age. Internet Archive identifier dli.bengal.10689.4225, Digital Library of India scan with a real Bengali OCR text layer already applied (not facsimile), standard IA OCR-export EPUB, small and clean (129K vs 4.7MB PDF), processed via the ordinary parse_source_epub() path."
+  },
+  {
+    "id": "ibn-qayyim-healing-with-medicine-of-the-prophet-2003",
+    "discipline": "unani",
+    "raw_file": "unani/Ibn Qayyim al-Jawziyyah - Healing with the Medicine of the Prophet - Trans. Abd El-Qader ibn Abd El-Azeez - 2003.epub",
+    "title": "Healing with the Medicine of the Prophet (Al-Tibb al-Nabawi)",
+    "author": "Ibn Qayyim al-Jawziyyah",
+    "translator": "Abd El-Qader ibn Abd El-Azeez",
+    "year": 2003,
+    "language": "en",
+    "note": "MODERN COPYRIGHT CONCERN, added at the user's explicit request. This is 'Tibb al-Nabawi' (Prophetic Medicine) -- a distinct Islamic tradition based on hadith about health/healing attributed to the Prophet Muhammad, NOT the Greco-Arabic Galenic-Avicennian medicine of Ibn Sina's Canon already in this collection. Filed under the 'unani' discipline as the closest existing bucket despite this genre difference; there is no dedicated bucket for hadith-based Prophetic Medicine specifically. Ibn Qayyim al-Jawziyyah (1292-1350) is the classical author; this specific English translation/edition is by Abd El-Qader ibn Abd El-Azeez (reviewed by Dr. Ingi, edited by IslamFuture), published 2003 by Dar Al-Ghad Al-Gadeed, Al-Mansoura, Egypt, ISBN 977-372-005-5 -- verified via the scan's own copyright page, which carries an EXPLICIT 'EXCLUSIVE RIGHTS BY DAR AL-GHADD AL-GADEED' notice, one of the clearest rights-reserved statements of any book in this collection (comparable to Oushadhi's explicit notice). NOTE: this is a DIFFERENT, separately-copyrighted translation/edition than the better-known Jalal Abualrub / Darussalam Publishing translation of the same title (that edition, Internet Archive identifier healingwithmedic0000qayy, 2003, ISBN 9789960892917, 378pp, is Controlled-Digital-Lending restricted and was not used) -- the two should not be conflated. Internet Archive identifier healing-with-the-medicine-of-the-prophet (Community Texts upload), 653 pages, only 7 embedded images, small and clean (2.0MB EPUB vs 18.3MB PDF), no CDL restriction on this specific upload. A Bengali edition of Tibb al-Nabawi (তিব্বে নববী রাসুলুল্লাহ (সা.) এর চিকিৎসা বিধান) was also requested and researched but no digitized copy exists anywhere -- only current commercial Bangladeshi retail listings were found, so it was not added."
   }
 ]
