@@ -419,5 +419,18 @@
     "source_raw_file": "ayurveda/Jashodanandan Sarkar - Grihasther Mushtiyog o Kobirajer Chikitsa - 1897.epub",
     "processed_epub": "processed/ayurveda/sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897/book.epub",
     "processed_json": "processed/ayurveda/sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897/book.json"
+  },
+  {
+    "id": "ibn-sina-canon-of-medicine-book-1-gruner-1930",
+    "title": "A Treatise on the Canon of Medicine of Avicenna, Book I (incorporating a translation of the First Book, with commentary on its mystical philosophy)",
+    "author": "Ibn Sina (Avicenna)",
+    "translator": "O. Cameron Gruner",
+    "year": 1930,
+    "language": "en",
+    "discipline": "unani",
+    "page_count": 609,
+    "source_raw_file": "unani/Ibn Sina (Avicenna) - A Treatise on the Canon of Medicine, Book I - Trans. O. Cameron Gruner - 1930.epub",
+    "processed_epub": "processed/unani/ibn-sina-canon-of-medicine-book-1-gruner-1930/book.epub",
+    "processed_json": "processed/unani/ibn-sina-canon-of-medicine-book-1-gruner-1930/book.json"
   }
 ]
