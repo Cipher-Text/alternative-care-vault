@@ -380,5 +380,32 @@
     "source_raw_file": "homeopathy/প্রতাপচন্দ্র মজুমদার - হোমিওপ্যাথিক চিকিৎসা-প্রকরণ.epub",
     "processed_epub": "processed/homeopathy/majumdar-homoeopathic-chikitsa-prakaran-bengali/book.epub",
     "processed_json": "processed/homeopathy/majumdar-homoeopathic-chikitsa-prakaran-bengali/book.json"
+  },
+  {
+    "id": "bhavaprakasha-vol-1-srikantha-murthy-2001",
+    "title": "Bhavaprakasha, Volume I (including the Bhavaprakasha Nighantu)",
+    "author": "Bhavamishra",
+    "translator": "K.R. Srikantha Murthy",
+    "edition": "2001",
+    "year": 2001,
+    "language": "en",
+    "discipline": "ayurveda",
+    "page_count": 760,
+    "source_raw_file": "ayurveda/Bhavamishra - Bhavaprakasha Vol 1 (with Nighantu) - Trans. K.R. Srikantha Murthy - 2001.epub",
+    "processed_epub": "processed/ayurveda/bhavaprakasha-vol-1-srikantha-murthy-2001/book.epub",
+    "processed_json": "processed/ayurveda/bhavaprakasha-vol-1-srikantha-murthy-2001/book.json"
+  },
+  {
+    "id": "madhava-nidana-vol-1-lochan",
+    "title": "Madhava Nidana (Ayurvedic Diagnostics), Volume I",
+    "author": "Madhavakara",
+    "translator": "Kanjiv Lochan",
+    "editor": "Brahmanand Tripathi",
+    "language": "en",
+    "discipline": "ayurveda",
+    "page_count": 591,
+    "source_raw_file": "ayurveda/Madhavakara - Madhava Nidana (Ayurvedic Diagnostics) Vol 1 - Trans. Kanjiv Lochan, ed. Brahmanand Tripathi.epub",
+    "processed_epub": "processed/ayurveda/madhava-nidana-vol-1-lochan/book.epub",
+    "processed_json": "processed/ayurveda/madhava-nidana-vol-1-lochan/book.json"
   }
 ]

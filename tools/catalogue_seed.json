@@ -322,5 +322,29 @@
     "year_note": "metadata date 1303 BS",
     "language": "bn",
     "note": "Bengali-language principles-and-practice text -- the Bengali-language counterpart to Hahnemann's Organon already in this collection, not just a materia medica. Author is a documented pioneer who popularized homeopathy in Bengal and wrote extensively in both English and Bengali; his works are described in secondary sources as still inspiring practitioners today. Added after researching the most-read/practiced homeopathy references in Bangladesh specifically in the Bengali language -- distinct from a Bengali translation of a Western classic (e.g. Kent's Repertory has a modern, separately-copyrighted Bengali translation that was deliberately NOT added, per this collection's general/ policy on modern copyrighted works). Internet Archive identifier dli.ministry.28773, real Bengali OCR text layer (not facsimile), same Digital Library of India scan family as this collection's existing homoeopathic-chikitsa-darpan-bengali. Expect uneven OCR accuracy -- the source EPUB itself flags some pages as low-confidence (e.g. page 1 estimated ~30% accurate), consistent with this collection's other century-old Bengali OCR sources."
+  },
+  {
+    "id": "bhavaprakasha-vol-1-srikantha-murthy-2001",
+    "discipline": "ayurveda",
+    "raw_file": "ayurveda/Bhavamishra - Bhavaprakasha Vol 1 (with Nighantu) - Trans. K.R. Srikantha Murthy - 2001.epub",
+    "title": "Bhavaprakasha, Volume I (including the Bhavaprakasha Nighantu)",
+    "author": "Bhavamishra",
+    "translator": "K.R. Srikantha Murthy",
+    "edition": "2001",
+    "year": 2001,
+    "language": "en",
+    "note": "MODERN COPYRIGHT CONCERN, added at the user's explicit request. Bhavaprakasha is one of the 'Laghu Trayi' (lesser triad) classical Ayurvedic texts, alongside the 'Brihat Trayi' (Charaka/Sushruta/Ashtanga Hridaya) already in this collection -- added specifically to fill the gap identified by researching modern Ayurvedic academic curricula: this collection had encyclopedic treatises but no dedicated practical materia medica/nighantu (the Bhavaprakasha Nighantu section is the closest Ayurvedic analog to Clarke's Dictionary/Boericke's Pocket Manual in the homeopathy set). This is a 2001 Krishnadas Academy (Varanasi) translation by K.R. Srikantha Murthy -- the same translator/publisher family and era as this collection's existing ashtanga-hridaya-vagbhatta-vol-1 entry, which was NOT flagged for copyright at the time it was added; this entry is flagged deliberately, and ashtanga-hridaya-vagbhatta-vol-1 should be treated as carrying the same unresolved concern rather than as precedent that this category is safe. Internet Archive identifier bhavaprakasa-vol-1-including-nighantu-by-bhavamisr, uploader-tagged CC0 and the OCR text itself carries an uploader/scanning-institution 'CC-0. In Public Domain. Gurukul Kangri Collection, Haridwar' claim -- neither is treated as authoritative for a named contemporary translator's modern published edition, same skepticism applied to the CC0/PD tags on other flagged modern works in this collection. Standard IA OCR-export EPUB (page_N.html files, media-type application/xhtml+xml, one <p> of OCR text per page), processed via the ordinary parse_source_epub() path -- note the source uses a .html extension rather than .xhtml, which parse_source_epub() already handles via manifest media-type rather than file extension."
+  },
+  {
+    "id": "madhava-nidana-vol-1-lochan",
+    "discipline": "ayurveda",
+    "raw_file": "ayurveda/Madhavakara - Madhava Nidana (Ayurvedic Diagnostics) Vol 1 - Trans. Kanjiv Lochan, ed. Brahmanand Tripathi.epub",
+    "title": "Madhava Nidana (Ayurvedic Diagnostics), Volume I",
+    "author": "Madhavakara",
+    "translator": "Kanjiv Lochan",
+    "editor": "Brahmanand Tripathi",
+    "year": null,
+    "language": "en",
+    "note": "MODERN COPYRIGHT CONCERN, added at the user's explicit request. Madhava Nidana is one of the 'Laghu Trayi' (lesser triad) classical Ayurvedic texts -- a diagnosis/pathology reference still used in modern Ayurvedic diagnostic training, added alongside bhavaprakasha-vol-1-srikantha-murthy-2001 to fill the same Laghu Trayi gap. PARTIAL WORK: this is Volume I of II only -- the full Madhava Nidana runs 79 chapters and this volume does not cover all of them; no complete English-translation edition was found on Internet Archive (a second, even more partial, Meulenbeld translation covering only chapters 1-10 also exists but was not used). This precedent (a deliberately partial volume) mirrors ashtanga-hridaya-vagbhatta-vol-1, which is also Volume I only. Modern translation by Kanjiv Lochan, edited by Brahmanand Tripathi, published by Chaukhamba Surbharati Prakashan (Varanasi) -- a leading contemporary Ayurvedic academic publisher, same tier of 'actively used in practice/academia today' as the Bhavaprakasha translation above, not a public-domain work. Internet Archive identifier wnnp_ayurvedic-diagnostics-madhava-nidana-of-madhavakara-vol-1-ed-with-notes-by-brahm, uploader-tagged CC0 -- not treated as authoritative for the same reason noted on the Bhavaprakasha entry. Standard IA OCR-export EPUB (page_N.html files, media-type application/xhtml+xml, one <p> of OCR text per page), processed via the ordinary parse_source_epub() path."
   }
 ]
