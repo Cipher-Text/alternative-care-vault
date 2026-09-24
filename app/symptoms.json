@@ -1,0 +1,229 @@
+{
+  "symptoms": [
+    {
+      "name_en": "Headache",
+      "name_bn": "মাথাব্যথা",
+      "description_en": "Pain in the head region",
+      "description_bn": "মাথার অঞ্চলে ব্যথা",
+      "category": "neurological",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Fever",
+      "name_bn": "জ্বর",
+      "description_en": "Elevated body temperature",
+      "description_bn": "উচ্চ শরীরের তাপমাত্রা",
+      "category": "general",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Cough",
+      "name_bn": "কাশি",
+      "description_en": "Forceful expulsion of air from lungs",
+      "description_bn": "ফুসফুস থেকে বায়ুর জোরপূর্বক বহিষ্কার",
+      "category": "respiratory",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Cold",
+      "name_bn": "সর্দি",
+      "description_en": "Common cold with runny nose",
+      "description_bn": "নাক দিয়ে পানি পড়া সহ সাধারণ সর্দি",
+      "category": "respiratory",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Indigestion",
+      "name_bn": "বদহজম",
+      "description_en": "Difficulty digesting food",
+      "description_bn": "খাবার হজম করতে অসুবিধা",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Constipation",
+      "name_bn": "কোষ্ঠকাঠিন্য",
+      "description_en": "Difficulty passing stools",
+      "description_bn": "মল ত্যাগ করতে অসুবিধা",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Diarrhea",
+      "name_bn": "ডায়রিয়া",
+      "description_en": "Loose or watery stools",
+      "description_bn": "আলগা বা জলীয় মল",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Nausea",
+      "name_bn": "বমি বমি ভাব",
+      "description_en": "Feeling of wanting to vomit",
+      "description_bn": "বমি করতে চাওয়ার অনুভূতি",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Anxiety",
+      "name_bn": "উদ্বেগ",
+      "description_en": "Feeling of worry or nervousness",
+      "description_bn": "চিন্তা বা স্নায়বিকতার অনুভূতি",
+      "category": "mental",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Insomnia",
+      "name_bn": "অনিদ্রা",
+      "description_en": "Difficulty falling or staying asleep",
+      "description_bn": "ঘুমিয়ে পড়তে বা ঘুমিয়ে থাকতে অসুবিধা",
+      "category": "mental",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Fatigue",
+      "name_bn": "ক্লান্তি",
+      "description_en": "Extreme tiredness or exhaustion",
+      "description_bn": "চরম ক্লান্তি বা অবসাদ",
+      "category": "general",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Joint Pain",
+      "name_bn": "জয়েন্ট ব্যথা",
+      "description_en": "Pain in the joints",
+      "description_bn": "জয়েন্টে ব্যথা",
+      "category": "musculoskeletal",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Back Pain",
+      "name_bn": "পিঠ ব্যথা",
+      "description_en": "Pain in the back region",
+      "description_bn": "পিঠের অঞ্চলে ব্যথা",
+      "category": "musculoskeletal",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Muscle Soreness",
+      "name_bn": "পেশী ব্যথা",
+      "description_en": "Soreness or pain in muscles",
+      "description_bn": "পেশীতে ব্যথা বা কালশিটে ভাব",
+      "category": "musculoskeletal",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Skin Rash",
+      "name_bn": "ত্বকের ফুসকুড়ি",
+      "description_en": "Red, itchy skin eruptions",
+      "description_bn": "লাল, চুলকানি ত্বকের বিস্ফোরণ",
+      "category": "skin",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Acne",
+      "name_bn": "ব্রণ",
+      "description_en": "Inflammatory skin condition with pimples",
+      "description_bn": "ব্রণ সহ প্রদাহজনক ত্বকের অবস্থা",
+      "category": "skin",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Asthma",
+      "name_bn": "হাঁপানি",
+      "description_en": "Breathing difficulty with wheezing",
+      "description_bn": "শ্বাসকষ্ট এবং হাঁপানি",
+      "category": "respiratory",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Allergies",
+      "name_bn": "এলার্জি",
+      "description_en": "Immune system reaction to substances",
+      "description_bn": "পদার্থের প্রতি ইমিউন সিস্টেমের প্রতিক্রিয়া",
+      "category": "immune",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "High Blood Pressure",
+      "name_bn": "উচ্চ রক্তচাপ",
+      "description_en": "Elevated blood pressure",
+      "description_bn": "উচ্চ রক্তচাপ",
+      "category": "cardiovascular",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Diabetes Symptoms",
+      "name_bn": "ডায়াবেটিসের লক্ষণ",
+      "description_en": "Symptoms related to high blood sugar",
+      "description_bn": "উচ্চ রক্তে শর্করা সম্পর্কিত লক্ষণ",
+      "category": "metabolic",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Menstrual Cramps",
+      "name_bn": "মাসিকের ব্যথা",
+      "description_en": "Painful cramps during menstruation",
+      "description_bn": "মাসিকের সময় বেদনাদায়ক ক্র্যাম্প",
+      "category": "reproductive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Sore Throat",
+      "name_bn": "গলা ব্যথা",
+      "description_en": "Pain or irritation in the throat",
+      "description_bn": "গলায় ব্যথা বা জ্বালা",
+      "category": "respiratory",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Ear Infection",
+      "name_bn": "কানের সংক্রমণ",
+      "description_en": "Infection of the ear canal",
+      "description_bn": "কানের খালের সংক্রমণ",
+      "category": "ear_nose_throat",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Sinusitis",
+      "name_bn": "সাইনোসাইটিস",
+      "description_en": "Inflammation of the sinuses",
+      "description_bn": "সাইনাসের প্রদাহ",
+      "category": "respiratory",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Stress",
+      "name_bn": "মানসিক চাপ",
+      "description_en": "Mental or emotional strain",
+      "description_bn": "মানসিক বা আবেগগত চাপ",
+      "category": "mental",
+      "is_global": true,
+      "is_active": true
+    }
+  ]
+}
