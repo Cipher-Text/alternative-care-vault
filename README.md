@@ -4,7 +4,7 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 35 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 39 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
 ### Homeopathy (20 works)
 
@@ -44,7 +44,7 @@ The collection currently contains 35 valid works. Homeopathy books are kept in [
 | `Madhavakara - Madhava Nidana (Ayurvedic Diagnostics) Vol 1 - Trans. Kanjiv Lochan, ed. Brahmanand Tripathi.epub` | EPUB | ⚠️ Modern translation (Chaukhamba Surbharati Prakashan), added alongside the Bhavaprakasha above to fill the same Laghu Trayi gap — a diagnosis/pathology reference still used in Ayurvedic diagnostic training. **Partial work: Volume I of II only** (the full text runs 79 chapters); no complete English translation was found on Internet Archive. Added at the user's explicit request. Standard IA OCR-export EPUB processed via the ordinary pipeline. See "Copyright and licensing" below. |
 | `Jashodanandan Sarkar - Grihasther Mushtiyog o Kobirajer Chikitsa - 1897.epub` | EPUB | Bengali; a practical household/Kobiraji (traditional Bengali physician) treatment manual — everyday remedies, wound/poison/animal-bite treatment, etc. Fills the gap of a Bengali-*original* Ayurveda work in this collection, distinct from the existing Bengali *translation* of the Charaka Samhita — the Ayurveda-side counterpart to Majumdar's role in the homeopathy set above. 1897, safely public domain; Digital Library of India scan with a real Bengali OCR text layer already applied by Internet Archive |
 
-### General (4 works)
+### General (7 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -52,18 +52,18 @@ The collection currently contains 35 valid works. Homeopathy books are kept in [
 | `Edzard Ernst et al. - Oxford Handbook of Complementary Medicine.epub` | EPUB | ⚠️ Same category of concern — a modern, actively published Oxford University Press clinical handbook. The source PDF's Internet Archive identifier suggests it came from a Controlled Digital Lending scan (one-reader-at-a-time borrowing), an arguably clearer licence violation than the collection's older, ambiguous-status works. Converted from that PDF via the same one-off script; its ~900 embedded images were all JPEG2000 (not a valid EPUB format) and judged to be OCR artifacts, so they were dropped rather than embedded broken. See "Copyright and licensing" below. |
 | `Michael Heinrich et al. - Fundamentals of Pharmacognosy and Phytotherapy - 4th Edition.epub` | EPUB | ⚠️ Same category of concern — a paid Elsevier VitalSource retail textbook; a leftover Adobe ADEPT DRM tag in the source markup confirms it was stripped from a purchased copy. Unlike the other two, this one has genuinely rich source structure (real printed page numbers via `epub:type="pagebreak"` spans, real chapter titles), so `processed/`'s page numbers and `chapters[]` array reflect the actual book, not a running index or regex guess — processed via a dedicated one-off script since the standard pipeline expects `<p>`-tag text this EPUB doesn't use. See "Copyright and licensing" below. |
 | `Joanne Barnes et al. - Herbal Medicines - 3rd Edition.epub` | EPUB | ⚠️ Same category of concern — a modern, in-copyright Pharmaceutical Press reference text (2007), downloaded from a third-party site at the user's explicit request despite being flagged. Converted from a born-digital PDF (real text, 13-entry embedded outline, ~2458 images) via the same style of one-off script as the Micozzi/Ernst books, using a simple running page index rather than the PDF's real page labels; only page text carries into `processed/`, same as every other book. See "Copyright and licensing" below. |
+| `John King, Harvey Wickes Felter, John Uri Lloyd - King's American Dispensatory - Volume 1 (A-F) - 18th Edition (1905).epub` | EPUB | The definitive Eclectic-medicine pharmacopoeia/materia medica, still actively cited by modern herbalists and the eclectic-medicine revival movement. Fills the gap of a foundational primary text for a tradition this collection's survey textbooks (Micozzi/Ernst) only summarize, rather than represent directly — unlike homeopathy/ayurveda/unani, which each have their own primary sources. Volume I (A-F) of a two-volume set; all three named contributors died decades ago, safely public domain. |
+| `John King, Harvey Wickes Felter, John Uri Lloyd - King's American Dispensatory - Volume 2 (G-Z) - 18th Edition (1905).epub` | EPUB | Volume II (G-Z). See Volume 1 note above. |
+| `D.D. Palmer - The Science, Art and Philosophy of Chiropractic - 1910.epub` | EPUB | The literal founding text of chiropractic, written by the discipline's founder — analogous to the role Hahnemann's Organon plays for homeopathy in this collection. Palmer died in 1913, safely public domain. Larger than most of this collection's finds (1019 pages, 55 embedded images) but legitimate page-scan OCR text throughout, not an oversized broken scan. |
 
-### Unani (3 works)
+### Unani (4 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
 | `Ibn Sina (Avicenna) - A Treatise on the Canon of Medicine, Book I - Trans. O. Cameron Gruner - 1930.epub` | EPUB | The foundational classical Unani/Greco-Arabic medicine text (al-Qanun fi al-tibb) — previously only a 0-byte placeholder in this collection (see git history). Gruner's 1930 translation of Book I, with his own commentary on its mystical philosophy; this scan is an AMS Press 1973 reprint of that 1930 London edition. **Partial work: Book I only** — the full Canon has 5 books, and no complete free/public-domain English translation exists (the only complete modern translation, Laleh Bakhtiar 2012, is copyrighted and was not used). A cleaner public-domain case than most of this collection: the 1930 first publication clears the US 95-year threshold outright as of 2026. |
+| `Abdul Latif - Yunani Hakimi Chikitsha Pranali - 1892.epub` | EPUB | Bengali; a practical Hakim's treatment manual — the Unani-tradition counterpart to Sarkar's Kobiraji manual in the Ayurveda section above. Fills the gap of a Bengali-language Unani work in this collection (previously zero). 1892, safely public domain; Digital Library of India scan with a real Bengali OCR text layer. |
 | `DGHS - The Unani Pharmacopia of Bangladesh - Part 1 Volume 4 (2020).pdf` | PDF | ⚠️ Modern (2020) official Government of Bangladesh publication (Directorate General of Health Services), with an explicit ownership/copyright line in its own front matter. Not old enough for a public-domain argument, and government publications aren't automatically public domain in Bangladesh. Added at the user's explicit request despite being flagged. Born-digital PDF with a real text layer, processed directly via the standard `parse_source_pdf()` path (same as the Organon of Medicine) — no EPUB conversion needed. See "Copyright and licensing" below. |
 | `AYUSH - National Formulary of Unani Medicine - Part 2 Volume 1 (2007).pdf` | PDF | ⚠️ Modern (2007) official Government of India publication (AYUSH Department, Ministry of Health & Family Welfare; ISBN 81-87748-02-8). No explicit "all rights reserved" notice found, but still a modern government-owned work, not old enough for a public-domain argument. Added at the user's explicit request despite being flagged. Born-digital PDF with a real text layer, processed directly via the standard `parse_source_pdf()` path. See "Copyright and licensing" below. |
-
-### Pending validation
-
-`raw/unani/Ibn Sina - The Canon of Medicine.epub` is currently an empty 0-byte placeholder and is excluded from the collection count. Replace it with a valid EPUB or PDF before cataloguing it.
 
 ## Repository structure
 

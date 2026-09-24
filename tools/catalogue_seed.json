@@ -186,6 +186,38 @@
     "note": "MODERN COPYRIGHT CONCERN -- retroactively flagged; this entry predates this collection's copyright-flagging practice and was originally added without a year or copyright note, an oversight rather than a deliberate call. Chowkhamba Krishnadas Academy (Varanasi) publication, same translator/publisher family and era as bhavaprakasha-vol-1-srikantha-murthy-2001 (added later, deliberately flagged) -- this entry should be held to the same standard, not treated as precedent that this category of work is safe. PARTIAL WORK: Volume I only. This source EPUB's OCR quality is notably worse than most of the collection (heavy Latin/Devanagari script-confusion garbling throughout, including the publisher imprint page), independent of the copyright concern."
   },
   {
+    "id": "kings-american-dispensatory-vol1-1905",
+    "discipline": "general",
+    "raw_file": "general/John King, Harvey Wickes Felter, John Uri Lloyd - King's American Dispensatory - Volume 1 (A-F) - 18th Edition (1905).epub",
+    "title": "King's American Dispensatory, Volume I (A-F)",
+    "author": "John King, Harvey Wickes Felter, John Uri Lloyd",
+    "edition": "18th Edition",
+    "year": 1905,
+    "language": "en",
+    "note": "Fills the gap of a foundational Eclectic-medicine primary text in the 'general' discipline bucket -- previously this bucket had only modern (post-2000) survey textbooks (Micozzi, Ernst) that summarize traditions like Eclectic medicine, chiropractic, osteopathy, naturopathy without any of those traditions having their own primary source in the collection, unlike homeopathy/ayurveda/unani which each have real foundational texts. King's American Dispensatory is the definitive Eclectic-medicine pharmacopoeia/materia medica, still actively cited by modern herbalists and the eclectic-medicine revival movement, not merely a historical curiosity. All three named contributors (John King d.1893, Harvey Wickes Felter d.1927, John Uri Lloyd d.1936) died decades ago -- safely public domain. Internet Archive identifier kingsamericandis01kinguoft (University of Toronto copy), standard IA OCR-export EPUB, small and clean (2.9MB vs 67.8MB PDF), no CDL restriction. Two-volume set: this is Volume I (A-F); see kings-american-dispensatory-vol2-1905 for Volume II (G-Z)."
+  },
+  {
+    "id": "kings-american-dispensatory-vol2-1905",
+    "discipline": "general",
+    "raw_file": "general/John King, Harvey Wickes Felter, John Uri Lloyd - King's American Dispensatory - Volume 2 (G-Z) - 18th Edition (1905).epub",
+    "title": "King's American Dispensatory, Volume II (G-Z)",
+    "author": "John King, Harvey Wickes Felter, John Uri Lloyd",
+    "edition": "18th Edition",
+    "year": 1905,
+    "language": "en",
+    "note": "Volume II (G-Z) of the two-volume set -- see kings-american-dispensatory-vol1-1905 for the full rationale. Internet Archive identifier kingsamericandis02kinguoft, standard IA OCR-export EPUB, small and clean (3.9MB vs 92.8MB PDF), no CDL restriction, same public-domain basis as Volume I."
+  },
+  {
+    "id": "palmer-science-art-philosophy-of-chiropractic-1910",
+    "discipline": "general",
+    "raw_file": "general/D.D. Palmer - The Science, Art and Philosophy of Chiropractic - 1910.epub",
+    "title": "The Science, Art and Philosophy of Chiropractic (Text-Book for Students and Practitioners)",
+    "author": "D.D. Palmer",
+    "year": 1910,
+    "language": "en",
+    "note": "The literal founding text of chiropractic, written by the discipline's founder -- fills the same 'general' bucket gap as King's American Dispensatory (a primary source for a tradition the existing survey textbooks in this collection only summarize), analogous to the role Hahnemann's Organon plays for homeopathy. Portland Printing House Company, Portland, Oregon, 1910; verified via the scan's own title page ('TEXT-BOOK OF THE SCIENCE, ART AND PHILOSOPHY CHIROPRACTIC FOR STUDENTS AND PRACTITIONERS BY D. D. PALMER ... [1910]'). Palmer died in 1913 -- safely public domain. Internet Archive identifier 3.-the-science-art-and-philosophy-of-chiropractic-d.-d.-palmer-1911-overstamped-gbmn-3, Public Domain Mark 1.0. Larger than most of this collection's finds (17.1MB EPUB, 1017 pages, 55 embedded images) but legitimate page-scan OCR text throughout, not an oversized image-embedded scan of the kind this collection has avoided elsewhere (Charaka Samhita, Boericke 8th ed.)."
+  },
+  {
     "id": "sushruta-samhita-vol-2-1911",
     "discipline": "ayurveda",
     "raw_file": "ayurveda/Sushruta - An English Translation of the Sushruta Samhita - Volume II - Edited by Kunjalal Bhishagratna (1911).epub",
@@ -369,5 +401,15 @@
     "year": 1930,
     "language": "en",
     "note": "Replaces the previous 0-byte placeholder at this raw_file path (see CLAUDE.md 'Known gaps' -- that section should be updated/removed now that a real file is in place). This is the single most foundational classical Unani/Greco-Arabic medicine text (al-Qanun fi al-tibb) and was entirely absent from this collection before -- Unani previously had only two modern government pharmacopoeia documents (unani-pharmacopia-of-bangladesh-part1-vol4, ayush-national-formulary-of-unani-medicine-part2-vol1), no classical text at all, unlike Homeopathy (Organon) or Ayurveda (Brihat/Laghu Trayi). PARTIAL WORK: Book I only, not the complete Canon (the Canon has 5 books total); no complete free/public-domain English translation of the full work exists anywhere -- the only complete modern translation (Laleh Bakhtiar, 2012, AbjadBook Designers) is copyrighted and was deliberately not used. This specific scan (Internet Archive identifier AvicennasCanonOfMedicine) is an AMS Press 1973 reprint of the original 1930 London edition (verified via the scan's own OCR text: title page, LC catalog data citing 'Reprinted from the edition of 1930, London', preface dated December 1929) -- a stronger public-domain case than most of this collection's 'plausible' claims, since the 1930 first publication clears the US 95-year threshold outright as of 2026, independent of Gruner's death year. The canonical/more commonly cited scan of this same translation (Internet Archive identifier treatiseoncanono0000avic) is Controlled-Digital-Lending-restricted; this alternate community-uploaded copy has identical content and no lending restriction. Small EPUB (624 pages, only 11 embedded images, 4.8MB) -- no oversized-scan problem. Standard IA OCR-export EPUB, processed via the ordinary parse_source_epub() path."
+  },
+  {
+    "id": "latif-yunani-hakimi-chikitsha-pranali-1892",
+    "discipline": "unani",
+    "raw_file": "unani/Abdul Latif - Yunani Hakimi Chikitsha Pranali - 1892.epub",
+    "title": "ইউনানী হাকিমি চিকিৎসা প্রণালী (Yunani Hakimi Chikitsha Pranali: The Method of Unani Hakimi Treatment)",
+    "author": "Abdul Latif",
+    "year": 1892,
+    "language": "bn",
+    "note": "Fills the gap of a Bengali-language Unani work -- previously this discipline had zero Bengali coverage at all (only English-language items: the Gruner Canon of Medicine translation and two modern government pharmacopoeia PDFs). A practical Hakim's treatment manual -- the Unani-tradition counterpart to sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897's role for Ayurveda (Kobiraj) in this collection. Published 1892 (Munindra Mohan Basu, Kolkata), safely public domain given its age. Internet Archive identifier dli.bengal.10689.4225, Digital Library of India scan with a real Bengali OCR text layer already applied (not facsimile), standard IA OCR-export EPUB, small and clean (129K vs 4.7MB PDF), processed via the ordinary parse_source_epub() path."
   }
 ]

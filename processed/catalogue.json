@@ -432,5 +432,55 @@
     "source_raw_file": "unani/Ibn Sina (Avicenna) - A Treatise on the Canon of Medicine, Book I - Trans. O. Cameron Gruner - 1930.epub",
     "processed_epub": "processed/unani/ibn-sina-canon-of-medicine-book-1-gruner-1930/book.epub",
     "processed_json": "processed/unani/ibn-sina-canon-of-medicine-book-1-gruner-1930/book.json"
+  },
+  {
+    "id": "kings-american-dispensatory-vol1-1905",
+    "title": "King's American Dispensatory, Volume I (A-F)",
+    "author": "John King, Harvey Wickes Felter, John Uri Lloyd",
+    "edition": "18th Edition",
+    "year": 1905,
+    "language": "en",
+    "discipline": "general",
+    "page_count": 692,
+    "source_raw_file": "general/John King, Harvey Wickes Felter, John Uri Lloyd - King's American Dispensatory - Volume 1 (A-F) - 18th Edition (1905).epub",
+    "processed_epub": "processed/general/kings-american-dispensatory-vol1-1905/book.epub",
+    "processed_json": "processed/general/kings-american-dispensatory-vol1-1905/book.json"
+  },
+  {
+    "id": "kings-american-dispensatory-vol2-1905",
+    "title": "King's American Dispensatory, Volume II (G-Z)",
+    "author": "John King, Harvey Wickes Felter, John Uri Lloyd",
+    "edition": "18th Edition",
+    "year": 1905,
+    "language": "en",
+    "discipline": "general",
+    "page_count": 758,
+    "source_raw_file": "general/John King, Harvey Wickes Felter, John Uri Lloyd - King's American Dispensatory - Volume 2 (G-Z) - 18th Edition (1905).epub",
+    "processed_epub": "processed/general/kings-american-dispensatory-vol2-1905/book.epub",
+    "processed_json": "processed/general/kings-american-dispensatory-vol2-1905/book.json"
+  },
+  {
+    "id": "palmer-science-art-philosophy-of-chiropractic-1910",
+    "title": "The Science, Art and Philosophy of Chiropractic (Text-Book for Students and Practitioners)",
+    "author": "D.D. Palmer",
+    "year": 1910,
+    "language": "en",
+    "discipline": "general",
+    "page_count": 1019,
+    "source_raw_file": "general/D.D. Palmer - The Science, Art and Philosophy of Chiropractic - 1910.epub",
+    "processed_epub": "processed/general/palmer-science-art-philosophy-of-chiropractic-1910/book.epub",
+    "processed_json": "processed/general/palmer-science-art-philosophy-of-chiropractic-1910/book.json"
+  },
+  {
+    "id": "latif-yunani-hakimi-chikitsha-pranali-1892",
+    "title": "ইউনানী হাকিমি চিকিৎসা প্রণালী (Yunani Hakimi Chikitsha Pranali: The Method of Unani Hakimi Treatment)",
+    "author": "Abdul Latif",
+    "year": 1892,
+    "language": "bn",
+    "discipline": "unani",
+    "page_count": 105,
+    "source_raw_file": "unani/Abdul Latif - Yunani Hakimi Chikitsha Pranali - 1892.epub",
+    "processed_epub": "processed/unani/latif-yunani-hakimi-chikitsha-pranali-1892/book.epub",
+    "processed_json": "processed/unani/latif-yunani-hakimi-chikitsha-pranali-1892/book.json"
   }
 ]
