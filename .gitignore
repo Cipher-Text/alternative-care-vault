@@ -1,5 +1,6 @@
 .DS_Store
 db/
+_site/
 __pycache__/
 
 # Exceeds GitHub's 100MB file limit; kept locally only. Was stripped from git

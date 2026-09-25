@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f5ef">
+    <meta name="description" content="A searchable reading catalogue of historical and modern alternative medicine books.">
+    <title>Care Vault — Reading library</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#library" aria-label="Care Vault home"><span class="brand-mark">CV</span><span>Care Vault</span></a>
+      <a class="top-link" href="https://github.com/Cipher-Text/alternative-care-vault">Open collection ↗</a>
+    </header>
+    <main>
+      <section class="intro" id="library">
+        <p class="eyebrow">A DIGITAL REFERENCE COLLECTION</p>
+        <h1>Read across<br><em>healing traditions.</em></h1>
+        <p class="intro-copy">Explore source texts in Ayurveda, Homeopathy, Unani medicine, and related fields. Browse the catalogue or open a book to read its page-mapped text.</p>
+        <div class="stats" id="stats" aria-live="polite"></div>
+      </section>
+
+      <section class="library" aria-label="Book catalogue">
+        <div class="toolbar">
+          <label class="search-wrap"><span class="sr-only">Search books by title or author</span><span class="search-icon" aria-hidden="true">⌕</span><input id="catalog-search" type="search" placeholder="Search titles, authors, subjects…" autocomplete="off"></label>
+          <label class="select-wrap"><span class="sr-only">Filter by discipline</span><select id="discipline-filter"><option value="all">All traditions</option></select></label>
+        </div>
+        <div class="results-line"><span id="result-count">Loading catalogue…</span><span>SELECT A BOOK TO READ</span></div>
+        <div id="book-list" class="book-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="reader" id="reader" hidden aria-label="Book reader">
+        <div class="reader-heading">
+          <button class="back-button" id="back-button" type="button">← Back to catalogue</button>
+          <div class="reader-bookhead"><div><p class="eyebrow" id="reader-kicker"></p><h2 id="reader-title"></h2><p class="reader-byline" id="reader-byline"></p></div><a class="download-link" id="download-link" download>Download EPUB ↓</a></div>
+          <div id="reader-note" class="reader-note" hidden></div>
+        </div>
+        <div class="reader-tools">
+          <label class="reader-search"><span class="sr-only">Search within this book</span><span aria-hidden="true">⌕</span><input id="text-search" type="search" placeholder="Find in this book…" autocomplete="off"></label>
+          <label class="page-jump"><span>Page</span><input id="page-number" type="number" min="1" value="1"><span id="page-total"></span></label>
+          <span id="search-status" class="search-status"></span>
+        </div>
+        <div class="reader-layout"><aside id="chapter-list" class="chapter-list" hidden><h3>Contents</h3><div id="chapter-links"></div></aside><article class="page-card"><div class="page-meta" id="page-meta"></div><div id="page-text" class="page-text"></div><div class="page-nav"><button id="previous-page" type="button">← Previous</button><span id="page-position"></span><button id="next-page" type="button">Next →</button></div></article></div>
+      </section>
+
+      <aside class="notice"><span class="notice-mark">i</span><p><strong>For historical and research reference.</strong> This collection documents published texts; inclusion does not establish that a treatment is safe or effective. OCR text may contain errors. Consult qualified health professionals for medical decisions.</p></aside>
+    </main>
+    <footer><span>CARE VAULT <span id="footer-year"></span></span><span>A personal reference collection · <a href="README.md">About this library</a></span></footer>
+  </body>
+</html>

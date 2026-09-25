@@ -1,5 +1,13 @@
 # Alternative Medicine Books Collection
 
+## Browse the library on the web
+
+This repository includes a static, dependency-free reading site for GitHub Pages. It loads the book catalogue first, then fetches a book's page-mapped JSON only when that title is opened. Readers can browse by tradition, search titles and authors, read page text, use detected chapter links, and download processed EPUBs. Full-text search runs within the selected book in the browser.
+
+To publish, push the repository to GitHub and select **Settings → Pages → GitHub Actions** as the build and deployment source. The workflow in `.github/workflows/pages.yml` stages only the static site and assets referenced by the catalogue, then publishes on pushes to `main`. For local preview, run `python3 -m http.server 8000` from the repository root and open `http://localhost:8000`.
+
+The site serves files already tracked in this repository. It does not publish the git-ignored raw Charaka EPUB or the generated `db/library.db`. GitHub Pages is static hosting, so the book text search happens in the visitor's browser rather than querying the SQLite database.
+
 This repository is a personal/reference collection of books related to alternative medicine disciplines. It is intended to keep source materials together for reading, research, cataloguing, and future development of a searchable digital library.
 
 ## Current collection
