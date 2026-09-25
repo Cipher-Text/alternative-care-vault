@@ -7,6 +7,43 @@
   "discipline": "homeopathy",
   "source_raw_file": "homeopathy/Myron H. Adams - Practical Guide to Homeopathic Treatment - 1913.epub",
   "page_count": 529,
+  "chapters": [
+    {
+      "label": "Part I, Chapter I",
+      "title": "CHARACTER OF THIS BOOK AND HOW TO USE IT",
+      "start_page": 21
+    },
+    {
+      "label": "Part I, Chapter II",
+      "title": "THE PRINCIPLES OF HOMEOPATHY OR WHAT IS HOMEOPATHY",
+      "start_page": 25
+    },
+    {
+      "label": "Part I, Chapter III",
+      "title": "PRACTICAL APPLICATION OF THE PRINCIPLES OF HOMEOPATHY",
+      "start_page": 33
+    },
+    {
+      "label": "Part I, Chapter IV",
+      "title": "DIRECTIONS FOR THE PREPARATION, ADMINISTRATION AND CARE OF HOMEOPATHIC MEDICINES",
+      "start_page": 40
+    },
+    {
+      "label": "Part II",
+      "title": "DISEASES AND THEIR TREATMENT",
+      "start_page": 48
+    },
+    {
+      "label": "Part II, Chapter I",
+      "title": "AIDS AND ACCESSORIES TO DIAGNOSIS AND TREATMENT",
+      "start_page": 48
+    },
+    {
+      "label": "Part III",
+      "title": "HOMEOPATHIC MATERIA MEDICA AND HOW TO USE IT",
+      "start_page": 380
+    }
+  ],
   "pages": [
     {
       "page_number": null,

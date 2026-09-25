@@ -10,6 +10,183 @@
   "source_raw_file": "ayurveda/Bhavamishra - Bhavaprakasha Vol 1 (with Nighantu) - Trans. K.R. Srikantha Murthy - 2001.epub",
   "note": "MODERN COPYRIGHT CONCERN, added at the user's explicit request. Bhavaprakasha is one of the 'Laghu Trayi' (lesser triad) classical Ayurvedic texts, alongside the 'Brihat Trayi' (Charaka/Sushruta/Ashtanga Hridaya) already in this collection -- added specifically to fill the gap identified by researching modern Ayurvedic academic curricula: this collection had encyclopedic treatises but no dedicated practical materia medica/nighantu (the Bhavaprakasha Nighantu section is the closest Ayurvedic analog to Clarke's Dictionary/Boericke's Pocket Manual in the homeopathy set). This is a 2001 Krishnadas Academy (Varanasi) translation by K.R. Srikantha Murthy -- the same translator/publisher family and era as this collection's existing ashtanga-hridaya-vagbhatta-vol-1 entry, which was NOT flagged for copyright at the time it was added; this entry is flagged deliberately, and ashtanga-hridaya-vagbhatta-vol-1 should be treated as carrying the same unresolved concern rather than as precedent that this category is safe. Internet Archive identifier bhavaprakasa-vol-1-including-nighantu-by-bhavamisr, uploader-tagged CC0 and the OCR text itself carries an uploader/scanning-institution 'CC-0. In Public Domain. Gurukul Kangri Collection, Haridwar' claim -- neither is treated as authoritative for a named contemporary translator's modern published edition, same skepticism applied to the CC0/PD tags on other flagged modern works in this collection. Standard IA OCR-export EPUB (page_N.html files, media-type application/xhtml+xml, one <p> of OCR text per page), processed via the ordinary parse_source_epub() path -- note the source uses a .html extension rather than .xhtml, which parse_source_epub() already handles via manifest media-type rather than file extension.",
   "page_count": 760,
+  "chapters": [
+    {
+      "label": "Chapter 1",
+      "title": "Ayurveda pravaktrpradurbhava-Birth of propogators of Ayurved",
+      "start_page": 17
+    },
+    {
+      "label": "Chapter 2",
+      "title": "A GATI eT TT Srsti Prakarana (Origin of Universe Graūthakāra āšaya—Desire of the author of this text)",
+      "start_page": 28
+    },
+    {
+      "label": "Chapter 3",
+      "title": "RT Garbha Prakarana (Embryology, Anatomy and Physiology)",
+      "start_page": 34
+    },
+    {
+      "label": "Chapter 4",
+      "title": "Bala Prakarana (Birth and Development of the Child)",
+      "start_page": 82
+    },
+    {
+      "label": "Chapter 5",
+      "title": "ary Uae ferrererifauenvUTa Dina Caryadi Prakarana (Daily Regimen etc.)",
+      "start_page": 94
+    },
+    {
+      "label": "Chapter 6 (I)",
+      "title": "AA WE ANART Misra Prakarana (Miscellaneous Subjects Roganirukti—definition of disease QA GATT | Wea)",
+      "start_page": 140
+    },
+    {
+      "label": "Chapter 6 (II)",
+      "title": "JA gtaet Haritakyadi Varga | Hartitaki—giiacnt Bot.—Terminal",
+      "start_page": 175
+    },
+    {
+      "label": "Chapter 6 (III)",
+      "title": "TIT) ata end ueni: Karpüradi Varga Karpūra—ardX. : Bot.—Cinn",
+      "start_page": 221
+    },
+    {
+      "label": "Chapter 6 (IV)",
+      "title": "aa ygan: Gudūcyādi Varga Gudia—Teat Bot.—Tinospora cordifoli",
+      "start_page": 244
+    },
+    {
+      "label": "Chapter 6 (V)",
+      "title": "Puspa Varga (Group of Flowers Kamala— Act Bot.—Nelumbo nucifera Geartn. Eng.—Sacred)",
+      "start_page": 296
+    },
+    {
+      "label": "Chapter 6 (VI)",
+      "title": "Vatadi Varga (Group of trees like vata etc.)",
+      "start_page": 309
+    },
+    {
+      "label": "Chapter 6 (VII)",
+      "title": "AA Amradi Phala Varga (Group of Fruits)",
+      "start_page": 324
+    },
+    {
+      "label": "Chapter 6 (VIII)",
+      "title": "Dhatvadi Varga (Group of metals etc.)",
+      "start_page": 349
+    },
+    {
+      "label": "Chapter 6 (IX)",
+      "title": "Dhanyavarga (Group of corns/ cereals)",
+      "start_page": 379
+    },
+    {
+      "label": "Chapter 6 (X)",
+      "title": "Sakavarga (Group of Vegetables)",
+      "start_page": 394
+    },
+    {
+      "label": "Chapter 6 (XI)",
+      "title": "Mamsavarga (Groups of Meats)",
+      "start_page": 416
+    },
+    {
+      "label": "Chapter 6 (XII)",
+      "title": "HU Haart: Krtannavarga Group of Processed/Prepared Foods wwe",
+      "start_page": 434
+    },
+    {
+      "label": "Chapter 6 (XIII)",
+      "title": "Varivarga (Group of waters)",
+      "start_page": 458
+    },
+    {
+      "label": "Chapter 6 (XIV)",
+      "title": "Dugdhavarga (Group of Milks)",
+      "start_page": 470
+    },
+    {
+      "label": "Chapter 6 (XVI)",
+      "title": "Takra Varga (Group of Butter milks)",
+      "start_page": 481
+    },
+    {
+      "label": "Chapter 6 (XVII)",
+      "title": "tavarga (Group of Butters)",
+      "start_page": 484
+    },
+    {
+      "label": "Chapter 6 (XVIII)",
+      "title": "Ghrta Varga (Group of ghee / butter-fats)",
+      "start_page": 486
+    },
+    {
+      "label": "Chapter 6 (XIX)",
+      "title": "tra Varga (Group of Urines)",
+      "start_page": 489
+    },
+    {
+      "label": "Chapter 6 (XX)",
+      "title": "Taila Varga (Group of Oils)",
+      "start_page": 491
+    },
+    {
+      "label": "Chapter 6 (XXI)",
+      "title": "Sandhana Varga (Group of fermented beverages, wines etc.)",
+      "start_page": 495
+    },
+    {
+      "label": "Chapter 6 (XXII)",
+      "title": "Madhu Varga (Group of honeys)",
+      "start_page": 501
+    },
+    {
+      "label": "Chapter 6 (XXIII)",
+      "title": "Iksu Varga (Group of sugarcanes)",
+      "start_page": 506
+    },
+    {
+      "label": "Chapter 6 (XXIV)",
+      "title": "ITTŪATTATI * * CC-0. In Public Domain. Gurukul Kangri Collec",
+      "start_page": 511
+    },
+    {
+      "label": "Chapter 7 (I)",
+      "title": "AU UAH AMAA ATTA, | Mānaparibhāsā Prakaraņa (System of weigh",
+      "start_page": 519
+    },
+    {
+      "label": "Chapter 7 (II)",
+      "title": "ata ēda ScYesITferer-TqenTor Bhesaja Vidhāna Prakaraņa (Prep",
+      "start_page": 523
+    },
+    {
+      "label": "Chapter 7 (III)",
+      "title": "renvurq Dhatvadi Sodhana maranavidhi Prakaranam (Purification and inceneration of metals etc.)",
+      "start_page": 535
+    },
+    {
+      "label": "Chapter 7 (IV)",
+      "title": "P BORO RC CMMBICIOUC DAE Snehapana Vidhi Prakarana (Oleation therapy)",
+      "start_page": 572
+    },
+    {
+      "label": "Chapter 7 (V)",
+      "title": "ca Karma Vidhi Prakarana (Five purificatory therapies)",
+      "start_page": 578
+    },
+    {
+      "label": "Chapter 7 (VI)",
+      "title": "U UB qUMiiatatemen ony Dhumapanadi Vidhi Prakarana (Inhalation of smoke and other therapies)",
+      "start_page": 611
+    },
+    {
+      "label": "Chapter 7 (VII)",
+      "title": "NU AAA UAT ATA LOT Rogi Pariksa Prakarana (Examination of the patient)",
+      "start_page": 646
+    }
+  ],
   "pages": [
     {
       "page_number": 1,

@@ -181,6 +181,204 @@ def detect_chapters_from_epub_nav(epub_path):
         return chapters
 
 
+# Books needing chapter-number normalization beyond what CHAPTER_PATTERNS's stateless
+# per-match regex can do -- currently just madhava-nidana-vol-1-lochan (see
+# detect_chapters_madhava_nidana's docstring).
+STATEFUL_CHAPTER_BOOKS = {"madhava-nidana-vol-1-lochan"}
+
+# OCR digit-confusables seen in madhava-nidana-vol-1-lochan's chapter-number labels: 'I',
+# ']', '!' and 'l' are all misread for the digit '1' (e.g. "2I" for 21, "3]" for 31, and
+# critically the leading '1' of a two-digit number is sometimes dropped entirely rather
+# than misread -- see detect_chapters_madhava_nidana).
+_MADHAVA_NIDANA_DIGIT_FIX = str.maketrans({"I": "1", "]": "1", "!": "1", "l": "1"})
+
+_MADHAVA_NIDANA_HEADING_RE = re.compile(
+    r"\bCHAPTER\s+(\S+)\s*['’]?\s*"  # chapter number, optional stray OCR quote
+    r"([ऀ-ॿ][ऀ-ॿ‌\-]*)\s+"  # Devanagari chapter-title word
+    r"([^ऀ-ॿ]{2,150}?)"  # transliteration/English gloss, up to...
+    r"(?=[ऀ-ॿ])"  # ...the next Devanagari run (the opening Sanskrit verse)
+)
+
+
+def detect_chapters_madhava_nidana(pages):
+    """madhava-nidana-vol-1-lochan-specific. Real chapter headings are ALL-CAPS "CHAPTER N"
+    immediately followed by the Devanagari chapter title, its transliteration, and usually
+    a parenthetical English gloss, e.g. "CHAPTER 9 दाहनिदानम्‌ Daha Nidanam (...BURNING...)".
+    This shape reliably distinguishes real headings from two false-positive sources found in
+    this book's OCR text: the front-matter table of contents (plain "CHAPTER N Title ###
+    Title2 ###...", no adjacent Devanagari, so it never matches) and mixed-case inline
+    citations to other chapters/texts within running prose ("Chapter 24 of ... Text" --
+    excluded by requiring the literal, all-caps "CHAPTER").
+
+    The chapter *number* needs repair, not just the heading match: OCR frequently drops the
+    leading "1" of two-digit numbers outright (13 -> "3", 17 -> "7", 18 -> "8", 19 -> "9")
+    while other numbers come through with digit-like noise instead (I/]/! for "1", e.g. "2I"
+    for 21, "3]" for 31). Verified against this book's own front-matter TOC titles for every
+    number below 33 -- beyond chapter ~32 the OCR text stops saying "CHAPTER" at all (no
+    heading of any kind, checked across the rest of the book), so coverage stops there; only
+    chapters 9 and 11 are missing within that range, apparently for the same reason. Treat
+    this as best-effort, same as the other CHAPTER_PATTERNS books."""
+    chapters = []
+    prev_num = 0
+    for p in pages:
+        for m in _MADHAVA_NIDANA_HEADING_RE.finditer(p["text"]):
+            digits = re.sub(r"\D", "", m.group(1).translate(_MADHAVA_NIDANA_DIGIT_FIX))
+            if not digits:
+                continue
+            num = int(digits)
+            if num <= prev_num:
+                retried = int("1" + digits)
+                if retried > prev_num:
+                    num = retried
+            prev_num = num
+            title = re.sub(r"\s+", " ", m.group(3)).strip(" .,-")
+            if ")" in title:
+                title = title[: title.index(")") + 1]
+            chapters.append({"label": f"Chapter {num}", "title": title, "start_page": p["page_number"]})
+    return chapters
+
+
+# adams-practical-guide-to-homeopathic-treatment-1913: needs both a PART and a CHAPTER
+# marker (Part-level numbering restarts each Part's Chapter numbering at "I"), so this
+# doesn't fit CHAPTER_PATTERNS's single-pattern/single-label shape either.
+ADAMS_CHAPTER_BOOKS = {"adams-practical-guide-to-homeopathic-treatment-1913"}
+
+_ADAMS_HEADING_RE = re.compile(
+    r"\b(PART|CHAPTER)\s+([IVXLC0-9]+)\.?\s+"
+    r"([A-Z0-9 ,.'\-?!:&]*?)(?=[a-z]|\bPART\b|\bCHAPTER\b|$)"
+)
+
+
+def detect_chapters_adams(pages):
+    """adams-practical-guide-to-homeopathic-treatment-1913-specific. Real PART/CHAPTER
+    headings are ALL-CAPS ("PART II. DISEASES AND THEIR TREATMENT."); a lowercase "Chapter"
+    elsewhere is always an inline cross-reference in running prose ("Chapter I., as it is
+    fundamental...") and is excluded just by requiring literal uppercase. That alone isn't
+    enough, though: the front-matter table of contents (pages 1-20) is *also* ALL-CAPS
+    "PART/CHAPTER N. Title" and matches the same shape, so pages before 21 (where the real
+    text begins) are skipped explicitly.
+    The book has 3 Parts; Part I and II each open directly into their own "Chapter I" with no
+    separate Part-level title text (so those Part matches capture an empty title and are
+    dropped, matching real book structure), while Part III (the Materia Medica) has a real
+    title of its own and no further "CHAPTER" subdivision at all -- verified by scanning the
+    entire book for any other occurrence of literal "CHAPTER", case-sensitive: there are none
+    beyond Part I's four chapters and Part II's first (and only) chapter. Chapter numbering
+    restarts at "I" per Part, so labels are qualified with their Part."""
+    chapters = []
+    current_part = None
+    for p in pages:
+        if p["page_number"] is not None and p["page_number"] < 21:
+            continue  # front-matter table of contents
+        for m in _ADAMS_HEADING_RE.finditer(p["text"]):
+            kind, num = m.group(1), m.group(2)
+            if num == "11":  # OCR misread of the roman numeral "II"
+                num = "II"
+            title_chars = m.group(3)
+            term_idxs = [title_chars.index(c) for c in ".?!" if c in title_chars]
+            if term_idxs:
+                title_chars = title_chars[: min(term_idxs)]
+            title = title_chars.strip(" .,-")
+            if kind == "PART":
+                current_part = num
+                if title:
+                    chapters.append({"label": f"Part {num}", "title": title, "start_page": p["page_number"]})
+            else:
+                label = f"Part {current_part}, Chapter {num}" if current_part else f"Chapter {num}"
+                chapters.append({"label": label, "title": title, "start_page": p["page_number"]})
+    return chapters
+
+
+# bhavaprakasha-vol-1-srikantha-murthy-2001: chapter 6 alone has 24 numbered sub-chapters
+# (varga groups), so this needs roman-numeral bookkeeping CHAPTER_PATTERNS can't do either.
+BHAVAPRAKASHA_CHAPTER_BOOKS = {"bhavaprakasha-vol-1-srikantha-murthy-2001"}
+
+_BHAVAPRAKASHA_HEADING_RE = re.compile(r"\bChapter\s*-?\s*(\d+)\s*\(?([IVXLC]*)\)?\s*(.{2,140})")
+_BHAVAPRAKASHA_NAME_RE = re.compile(
+    r"([A-Za-z][A-Za-z .]{0,40}?(?:[Pp]rakaran(?:a|am)|[Vv]arga))\s*[—\-\(]\s*([A-Za-z][^)\n]{2,70})\)?"
+)
+_ROMAN_STRICT_RE = re.compile(r"^M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$")
+_ROMAN_VALUES = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
+
+
+def _roman_to_int(s):
+    if not s or not _ROMAN_STRICT_RE.match(s):
+        return None
+    total, prev = 0, 0
+    for ch in reversed(s):
+        v = _ROMAN_VALUES[ch]
+        total += -v if v < prev else v
+        prev = max(prev, v)
+    return total
+
+
+def _int_to_roman(n):
+    values = [(1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100, "C"), (90, "XC"),
+              (50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")]
+    out = []
+    for v, sym in values:
+        while n >= v:
+            out.append(sym)
+            n -= v
+    return "".join(out)
+
+
+def detect_chapters_bhavaprakasha(pages):
+    """bhavaprakasha-vol-1-srikantha-murthy-2001-specific. Real chapter/sub-chapter openings
+    look like "Chapter-6 (XVI) ... Takra Varga (Group of Butter milks) ..." -- a main chapter
+    number, an optional roman-numeral sub-chapter marker in parens (only chapters 6 and 7
+    have sub-chapters -- 24 "varga" groups and 7 "prakarana" procedures respectively), then a
+    garbled-OCR transliteration leading into the real "<Name> Prakarana/Varga (<English
+    gloss>)" title. Two false-positive sources are excluded: footnote citations in the
+    verse-numbering style "Bh. pr. Chapter 2/1" (title text starting with "/"), and appendix
+    cross-references like "(Ref. Chapter- 6 ...)" (excluded by checking the 40 chars before
+    the match for "Ref").
+
+    The sub-chapter roman numeral is trusted when it parses as strict, well-formed roman
+    numerals (validated, not just character-class matched -- OCR garbles some, e.g. "TIT"
+    for "(III)" or "VIL" for "(VIII)", which fail strict validation on purpose) and only
+    synthesized as (previous sub-number for this chapter) + 1 when missing/unparseable.
+    Do NOT switch this to a running positional counter instead of trusting valid OCR values
+    -- chapter 6's sub-chapter XV (Dadhi Varga) has no extractable heading at all, and a pure
+    counter silently shifts every subsequent sub-chapter's label off by one as a result,
+    mislabeling e.g. the real "(XVI) Takra Varga" as "(XV)". Trusting valid OCR digits and
+    only bridging actual gaps avoids that. Verified against this book's own front-matter
+    chapter list. Best-effort, same as the other CHAPTER_PATTERNS books -- titles especially
+    may retain OCR noise (this book's OCR is comparatively heavily garbled)."""
+    raw = []
+    for p in pages:
+        text = p["text"]
+        for m in _BHAVAPRAKASHA_HEADING_RE.finditer(text):
+            if "Ref" in text[max(0, m.start() - 40): m.start()]:
+                continue
+            chunk = m.group(3)
+            if chunk.lstrip().startswith("/"):
+                continue
+            raw.append({"num": int(m.group(1)), "roman": m.group(2), "page": p["page_number"], "chunk": chunk})
+
+    counts = {}
+    for r in raw:
+        counts[r["num"]] = counts.get(r["num"], 0) + 1
+
+    chapters = []
+    last_sub = {}
+    for r in raw:
+        n = r["num"]
+        val = _roman_to_int(r["roman"])
+        if val is None:
+            val = last_sub.get(n, 0) + 1
+        last_sub[n] = val
+
+        m2 = _BHAVAPRAKASHA_NAME_RE.search(r["chunk"])
+        if m2:
+            title = f"{m2.group(1).strip()} ({m2.group(2).strip()})"
+        else:
+            title = re.sub(r"\s+", " ", r["chunk"][:60]).strip()
+
+        label = f"Chapter {n} ({_int_to_roman(val)})" if counts[n] > 1 else f"Chapter {n}"
+        chapters.append({"label": label, "title": title, "start_page": r["page"]})
+    return chapters
+
+
 def clean_text(text):
     text = unicodedata.normalize("NFKC", text)
     text = text.replace("­", "")  # soft hyphen artifacts
@@ -476,6 +674,12 @@ def process_one(meta, raw_root, out_root):
         chapters = detect_chapters_from_pdf_outline(pypdf.PdfReader(raw_path))
     elif meta["id"] in EPUB_NAV_CHAPTER_BOOKS:
         chapters = detect_chapters_from_epub_nav(raw_path)
+    elif meta["id"] in STATEFUL_CHAPTER_BOOKS:
+        chapters = detect_chapters_madhava_nidana(pages)
+    elif meta["id"] in ADAMS_CHAPTER_BOOKS:
+        chapters = detect_chapters_adams(pages)
+    elif meta["id"] in BHAVAPRAKASHA_CHAPTER_BOOKS:
+        chapters = detect_chapters_bhavaprakasha(pages)
     else:
         chapters = detect_chapters(meta["id"], pages)
 

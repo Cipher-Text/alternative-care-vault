@@ -9,6 +9,158 @@
   "source_raw_file": "ayurveda/Madhavakara - Madhava Nidana (Ayurvedic Diagnostics) Vol 1 - Trans. Kanjiv Lochan, ed. Brahmanand Tripathi.epub",
   "note": "MODERN COPYRIGHT CONCERN, added at the user's explicit request. Madhava Nidana is one of the 'Laghu Trayi' (lesser triad) classical Ayurvedic texts -- a diagnosis/pathology reference still used in modern Ayurvedic diagnostic training, added alongside bhavaprakasha-vol-1-srikantha-murthy-2001 to fill the same Laghu Trayi gap. PARTIAL WORK: this is Volume I of II only -- the full Madhava Nidana runs 79 chapters and this volume does not cover all of them; no complete English-translation edition was found on Internet Archive (a second, even more partial, Meulenbeld translation covering only chapters 1-10 also exists but was not used). This precedent (a deliberately partial volume) mirrors ashtanga-hridaya-vagbhatta-vol-1, which is also Volume I only. Modern translation by Kanjiv Lochan, edited by Brahmanand Tripathi, published by Chaukhamba Surbharati Prakashan (Varanasi) -- a leading contemporary Ayurvedic academic publisher, same tier of 'actively used in practice/academia today' as the Bhavaprakasha translation above, not a public-domain work. Internet Archive identifier wnnp_ayurvedic-diagnostics-madhava-nidana-of-madhavakara-vol-1-ed-with-notes-by-brahm, uploader-tagged CC0 -- not treated as authoritative for the same reason noted on the Bhavaprakasha entry. Standard IA OCR-export EPUB (page_N.html files, media-type application/xhtml+xml, one <p> of OCR text per page), processed via the ordinary parse_source_epub() path.",
   "page_count": 591,
+  "chapters": [
+    {
+      "label": "Chapter 1",
+      "title": "Pafica Nidana Laksanam Invocation",
+      "start_page": 45
+    },
+    {
+      "label": "Chapter 2",
+      "title": "Jvara Nidanam (FEVERS, PYREXIA)",
+      "start_page": 110
+    },
+    {
+      "label": "Chapter 3",
+      "title": "Atisara Nidanam (DIARRHOEAS ETIOLOGY)",
+      "start_page": 192
+    },
+    {
+      "label": "Chapter 4",
+      "title": "Grahani Roga Nidanam (DISEASE OF THE DUODENUM, SPRUE)",
+      "start_page": 216
+    },
+    {
+      "label": "Chapter 5",
+      "title": "Ar$a Nidanam (PILES, HAEMORRHOIDS)",
+      "start_page": 228
+    },
+    {
+      "label": "Chapter 6",
+      "title": "Agnimandya, Ajirna, Visucika, Alasaka and Vilambika Nidanam (DYSPEPSIA, INDIGESTION AND ALLIED DISEASES)",
+      "start_page": 253
+    },
+    {
+      "label": "Chapter 7",
+      "title": "Krmi Nidanam (PARASITIC DISEASES)",
+      "start_page": 272
+    },
+    {
+      "label": "Chapter 8",
+      "title": "Panduroga, Kamala, Kumbha-kamala, Halimaka Nidanam (ANAEMIA, JAUNDICE, CHLOROSIS, ETC.)",
+      "start_page": 279
+    },
+    {
+      "label": "Chapter 10",
+      "title": "Rajayaksma-Ksataksina Nidanam (DIAGNOSIS OF PULMONARY TUBERCULOSIS OR TUBERCULOSIS)",
+      "start_page": 308
+    },
+    {
+      "label": "Chapter 12",
+      "title": "Hikka Svasa Nidanam (HICCUP AND DYSPNOEA)",
+      "start_page": 339
+    },
+    {
+      "label": "Chapter 13",
+      "title": "Svarabheda Nidanam (HOARSENESS OF VOICE)",
+      "start_page": 359
+    },
+    {
+      "label": "Chapter 14",
+      "title": "Arocaka nidanam (ANOREXIA)",
+      "start_page": 365
+    },
+    {
+      "label": "Chapter 15",
+      "title": "Chardi Nidanam (VOMITING)",
+      "start_page": 371
+    },
+    {
+      "label": "Chapter 16",
+      "title": "Trsna Nidanam (THE DIAGNOSIS OF THIRST)",
+      "start_page": 379
+    },
+    {
+      "label": "Chapter 17",
+      "title": "Murcha, Bhrama, Nidra, Tandra, Samnyasa Nidanam (FAINTING, GIDDINESS, SLUMBER, STUPOR AND LOSS OF CONSCIOUSNESS)",
+      "start_page": 388
+    },
+    {
+      "label": "Chapter 18",
+      "title": "Panatyaya, Paramada, Panajirana and Panavibhrama Nidanam (ALCOHOLIC INTOXICATION)",
+      "start_page": 402
+    },
+    {
+      "label": "Chapter 19",
+      "title": "Daha Nidanam (DIAGNOSIS REGARDING THE BURNING SENSATION IN THE BODY)",
+      "start_page": 416
+    },
+    {
+      "label": "Chapter 20",
+      "title": "Unmada Nidanam (INSANITY)",
+      "start_page": 422
+    },
+    {
+      "label": "Chapter 21",
+      "title": "Apasmara Nidanam (EPILEPSY)",
+      "start_page": 443
+    },
+    {
+      "label": "Chapter 22",
+      "title": "Vatavyadhi Nidanam (DIAGNOSIS OF THE DISEASES OF NERVOUS SYSTEM)",
+      "start_page": 450
+    },
+    {
+      "label": "Chapter 23",
+      "title": "Vatarakta Nidanam (GOUT)",
+      "start_page": 494
+    },
+    {
+      "label": "Chapter 24",
+      "title": "Urustambha nidanam (STIFFNESS OF THE LEG)",
+      "start_page": 503
+    },
+    {
+      "label": "Chapter 25",
+      "title": "Amavata Nidanam (DIAGNOSIS OF RHEL JMATISM)",
+      "start_page": 508
+    },
+    {
+      "label": "Chapter 26",
+      "title": "Sila, Parinamasula, Annadrava$ula Nidanam (COLIC, PEPTIC ULCERS)",
+      "start_page": 515
+    },
+    {
+      "label": "Chapter 27",
+      "title": "Udavartadi Nidanam (REVERSE PERISTALSIS, AND THE LI KE)",
+      "start_page": 528
+    },
+    {
+      "label": "Chapter 28",
+      "title": "Gulma Nidanam (ABDOMINAL TUMORS)",
+      "start_page": 535
+    },
+    {
+      "label": "Chapter 29",
+      "title": "Hrdroga Nidanam (DISEASES OF THE HEART)",
+      "start_page": 548
+    },
+    {
+      "label": "Chapter 30",
+      "title": "Mutrakrcchra Nidanam (DYSURIA, STRAGURY)",
+      "start_page": 555
+    },
+    {
+      "label": "Chapter 31",
+      "title": "Mutraghata Nidinam (SUPPRESSION OF URINE)",
+      "start_page": 560
+    },
+    {
+      "label": "Chapter 32",
+      "title": "A$mari Nidanam (VESICAL CALCULUS)",
+      "start_page": 572
+    }
+  ],
   "pages": [
     {
       "page_number": 1,
