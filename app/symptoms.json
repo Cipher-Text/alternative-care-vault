@@ -224,6 +224,78 @@
       "category": "mental",
       "is_global": true,
       "is_active": true
+    },
+    {
+      "name_en": "Jaundice",
+      "name_bn": "জন্ডিস",
+      "description_en": "Yellowing of the skin and eyes due to liver dysfunction",
+      "description_bn": "যকৃতের কার্যক্ষমতা হ্রাসের কারণে ত্বক ও চোখ হলুদ হয়ে যাওয়া",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Vertigo",
+      "name_bn": "মাথা ঘোরা (ভার্টিগো)",
+      "description_en": "Sensation of spinning or dizziness",
+      "description_bn": "ঘোরার বা মাথা ঘোরার অনুভূতি",
+      "category": "neurological",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Motion Sickness",
+      "name_bn": "মোশন সিকনেস",
+      "description_en": "Nausea and dizziness caused by the motion of travel",
+      "description_bn": "ভ্রমণের নড়াচড়ার কারণে সৃষ্ট বমি বমি ভাব ও মাথা ঘোরা",
+      "category": "neurological",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Nosebleed",
+      "name_bn": "নাক দিয়ে রক্তপাত",
+      "description_en": "Bleeding from the nasal passages",
+      "description_bn": "নাসারন্ধ্র দিয়ে রক্তপাত",
+      "category": "ear_nose_throat",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Gout",
+      "name_bn": "গেঁটেবাত",
+      "description_en": "Joint pain and swelling from uric acid buildup, often in the big toe",
+      "description_bn": "ইউরিক অ্যাসিড জমার কারণে সন্ধিব্যথা ও ফোলাভাব, প্রায়ই পায়ের বুড়ো আঙুলে",
+      "category": "musculoskeletal",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Warts",
+      "name_bn": "আঁচিল",
+      "description_en": "Small rough skin growths caused by viral infection",
+      "description_bn": "ভাইরাস সংক্রমণের কারণে সৃষ্ট ত্বকের ছোট রুক্ষ বৃদ্ধি",
+      "category": "skin",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Glandular Swelling",
+      "name_bn": "গ্রন্থি ফোলা",
+      "description_en": "Swelling of lymph glands or tonsils, often with throat discomfort",
+      "description_bn": "লসিকা গ্রন্থি বা টনসিলের ফোলাভাব, প্রায়ই গলার অস্বস্তির সাথে",
+      "category": "ear_nose_throat",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Bronchitis",
+      "name_bn": "ব্রংকাইটিস",
+      "description_en": "Inflammation of the bronchial tubes causing cough and mucus",
+      "description_bn": "ব্রঙ্কিয়াল নালীর প্রদাহ যা কাশি ও শ্লেষ্মা সৃষ্টি করে",
+      "category": "respiratory",
+      "is_global": true,
+      "is_active": true
     }
   ]
 }
