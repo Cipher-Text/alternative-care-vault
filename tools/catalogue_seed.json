@@ -347,6 +347,57 @@
     "note": "Standard homeopathic therapeutics reference. Internet Archive identifier leadersinhomoeo03nashgoog -- this was the only Google-digitized copy of this title with a working EPUB derivative that wasn't either CDL-restricted or an oversized DLI scan with embedded page images (the in.ernet.dli.2015.220071 4th-edition (1913) copy's EPUB is ~600MB+ of embedded images, same problem as the Boericke 8th edition above); a later edition may exist but wasn't found in a small, text-only, freely downloadable form."
   },
   {
+    "id": "allen-keynotes-with-nosodes-1898",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/H. C. Allen - Keynotes and Characteristics with Comparisons of Some of the Leading Remedies of the Materia Medica with Nosodes - 1898.epub",
+    "title": "Keynotes and Characteristics with Comparisons of Some of the Leading Remedies of the Materia Medica with Bowel Nosodes",
+    "author": "H. C. Allen",
+    "year": 1898,
+    "language": "en",
+    "note": "Genuinely distinct work from allen-handbook-of-materia-medica-1889 (Timothy Field Allen's Handbook) -- different Allen (Henry C. Allen, not Timothy Field Allen). Matches the wishlist entry কী নোটস উইথ নোসোডস (Keynotes [and Characteristics] with Nosodes) — ডাঃ এইচ সি এলেন, homeopathy-wishlist.md § Materia Medica (listed there as available in Bengali; this is the English original). Internet Archive identifier keynotescharact00alle, Library of Congress collection, no access restriction, standard IA OCR-export EPUB, processed via the ordinary parse_source_epub() path."
+  },
+  {
+    "id": "kent-lectures-on-homoeopathic-materia-medica-1911",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/James Tyler Kent - Lectures on Homoeopathic Materia Medica - 1911.pdf",
+    "title": "Lectures on Homoeopathic Materia Medica",
+    "author": "James Tyler Kent",
+    "year": 1911,
+    "language": "en",
+    "source_format": "pdf",
+    "note": "Genuinely distinct work from kent-repertory-of-homoeopathic-materia-medica-1897 (Kent's Repertory) -- this is Kent's Lectures, sourced from homeopathy-wishlist.md (§ Materia Medica). The only clean, unrestricted copy found: the Google-digitized identifier lecturesonhomoeo0000jame is Controlled-Digital-Lending restricted (access-restricted-item, inlibrary/printdisabled collections), and the Digital Library of India identifier in.ernet.dli.2015.458552 has a ~1.6GB EPUB (same oversized-scan problem this collection avoids elsewhere, e.g. the gitignored Charaka Samhita raw file). This identifier (kents-lectures-on-materia-medica) is opensource-collection, Public Domain Mark 1.0, unrestricted, but has no EPUB derivative -- only a real, searchable Text PDF (4.4MB) -- so it's processed via the standard parse_source_pdf() path, same as Hahnemann's Organon of Medicine; page_number values are raw PDF page indices, not the book's own printed page numbers."
+  },
+  {
+    "id": "clarke-the-prescriber-1898",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/John Henry Clarke - The Prescriber - A Dictionary of the New Therapeutics - 1898.epub",
+    "title": "The Prescriber: A Dictionary of the New Therapeutics",
+    "author": "John Henry Clarke",
+    "year": 1898,
+    "language": "en",
+    "note": "Genuinely distinct work from clarke-dictionary-of-practical-materia-medica-vol1/2/3 (Clarke's 3-volume Dictionary of Practical Materia Medica) -- The Prescriber is a separate, shorter therapeutics-by-symptom reference by the same author, sourced from homeopathy-wishlist.md (§ Practitioner's Guide: দ্য প্রেসক্রাইবার). Internet Archive identifier prescriberadict03clargoog, americana collection, no access restriction, standard IA OCR-export EPUB, processed via the ordinary parse_source_epub() path."
+  },
+  {
+    "id": "anshutz-sexual-ills-and-diseases-1896",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Edward Pollock Anshutz - Sexual Ills and Diseases - 1896.epub",
+    "title": "Sexual Ills and Diseases: A Popular Manual, Based on the Best Homoeopathic Practice and the Latest Text Books",
+    "author": "Edward Pollock Anshutz",
+    "year": 1896,
+    "language": "en",
+    "note": "Matches the wishlist entry যৌন রোগ বালাই (Sexual disease afflictions) — E.P. Anshutz, homeopathy-wishlist.md § Disease-specific Treatment References (listed there as available in Bengali; this is the English original). Internet Archive identifier sexualillsdiseas00ansh, Library of Congress collection, no access restriction, standard IA OCR-export EPUB, processed via the ordinary parse_source_epub() path."
+  },
+  {
+    "id": "allen-therapeutics-of-fevers-1902",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/H. C. Allen - The Therapeutics of Fevers - 1902.epub",
+    "title": "The Therapeutics of Fevers",
+    "author": "H. C. Allen",
+    "year": 1902,
+    "language": "en",
+    "note": "Matches the wishlist entry জ্বর চিকিৎসা (Fever treatment) — ডাঃ এলেন, homeopathy-wishlist.md § Disease-specific Treatment References (listed there as available in Bengali; this is the English original). Internet Archive identifier therapeuticsoffe0000hcal, no access restriction, standard IA OCR-export EPUB, processed via the ordinary parse_source_epub() path."
+  },
+  {
     "id": "majumdar-homoeopathic-chikitsa-prakaran-bengali",
     "discipline": "homeopathy",
     "raw_file": "homeopathy/প্রতাপচন্দ্র মজুমদার - হোমিওপ্যাথিক চিকিৎসা-প্রকরণ.epub",

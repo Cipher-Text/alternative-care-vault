@@ -495,5 +495,65 @@
     "source_raw_file": "unani/Ibn Qayyim al-Jawziyyah - Healing with the Medicine of the Prophet - Trans. Abd El-Qader ibn Abd El-Azeez - 2003.epub",
     "processed_epub": "processed/unani/ibn-qayyim-healing-with-medicine-of-the-prophet-2003/book.epub",
     "processed_json": "processed/unani/ibn-qayyim-healing-with-medicine-of-the-prophet-2003/book.json"
+  },
+  {
+    "id": "allen-keynotes-with-nosodes-1898",
+    "title": "Keynotes and Characteristics with Comparisons of Some of the Leading Remedies of the Materia Medica with Bowel Nosodes",
+    "author": "H. C. Allen",
+    "year": 1898,
+    "language": "en",
+    "discipline": "homeopathy",
+    "source_raw_file": "homeopathy/H. C. Allen - Keynotes and Characteristics with Comparisons of Some of the Leading Remedies of the Materia Medica with Nosodes - 1898.epub",
+    "processed_epub": "processed/homeopathy/allen-keynotes-with-nosodes-1898/book.epub",
+    "processed_json": "processed/homeopathy/allen-keynotes-with-nosodes-1898/book.json",
+    "page_count": 182
+  },
+  {
+    "id": "kent-lectures-on-homoeopathic-materia-medica-1911",
+    "title": "Lectures on Homoeopathic Materia Medica",
+    "author": "James Tyler Kent",
+    "year": 1911,
+    "language": "en",
+    "discipline": "homeopathy",
+    "source_raw_file": "homeopathy/James Tyler Kent - Lectures on Homoeopathic Materia Medica - 1911.pdf",
+    "processed_epub": "processed/homeopathy/kent-lectures-on-homoeopathic-materia-medica-1911/book.epub",
+    "processed_json": "processed/homeopathy/kent-lectures-on-homoeopathic-materia-medica-1911/book.json",
+    "page_count": 897
+  },
+  {
+    "id": "clarke-the-prescriber-1898",
+    "title": "The Prescriber: A Dictionary of the New Therapeutics",
+    "author": "John Henry Clarke",
+    "year": 1898,
+    "language": "en",
+    "discipline": "homeopathy",
+    "source_raw_file": "homeopathy/John Henry Clarke - The Prescriber - A Dictionary of the New Therapeutics - 1898.epub",
+    "processed_epub": "processed/homeopathy/clarke-the-prescriber-1898/book.epub",
+    "processed_json": "processed/homeopathy/clarke-the-prescriber-1898/book.json",
+    "page_count": 263
+  },
+  {
+    "id": "anshutz-sexual-ills-and-diseases-1896",
+    "title": "Sexual Ills and Diseases: A Popular Manual, Based on the Best Homoeopathic Practice and the Latest Text Books",
+    "author": "Edward Pollock Anshutz",
+    "year": 1896,
+    "language": "en",
+    "discipline": "homeopathy",
+    "source_raw_file": "homeopathy/Edward Pollock Anshutz - Sexual Ills and Diseases - 1896.epub",
+    "processed_epub": "processed/homeopathy/anshutz-sexual-ills-and-diseases-1896/book.epub",
+    "processed_json": "processed/homeopathy/anshutz-sexual-ills-and-diseases-1896/book.json",
+    "page_count": 160
+  },
+  {
+    "id": "allen-therapeutics-of-fevers-1902",
+    "title": "The Therapeutics of Fevers",
+    "author": "H. C. Allen",
+    "year": 1902,
+    "language": "en",
+    "discipline": "homeopathy",
+    "source_raw_file": "homeopathy/H. C. Allen - The Therapeutics of Fevers - 1902.epub",
+    "processed_epub": "processed/homeopathy/allen-therapeutics-of-fevers-1902/book.epub",
+    "processed_json": "processed/homeopathy/allen-therapeutics-of-fevers-1902/book.json",
+    "page_count": 554
   }
 ]

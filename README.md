@@ -4,9 +4,9 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 40 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 45 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
-### Homeopathy (20 works)
+### Homeopathy (25 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -30,6 +30,11 @@ The collection currently contains 40 valid works. Homeopathy books are kept in [
 | `John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 3 (1902).epub` | EPUB | Volume II, Part II (Penthorum Sedoides–Zizia, plus the New Appendix). See Volume 1 note above |
 | `E. B. Nash - Leaders in Homoeopathic Therapeutics - 1901.epub` | EPUB | E. B. Nash; standard homeopathic therapeutics reference. This 1901 Google-digitized copy was the only one found with a working EPUB that wasn't either CDL-restricted or an oversized image-embedded DLI scan |
 | `প্রতাপচন্দ্র মজুমদার - হোমিওপ্যাথিক চিকিৎসা-প্রকরণ.epub` | EPUB | Bengali; Pratap Chandra Majumdar (~1303 BS). A principles-and-practice text — the Bengali-language counterpart to Hahnemann's Organon in this collection, not just a materia medica. Majumdar is a documented pioneer who popularized homeopathy in Bengal; added after researching the most-read/practiced homeopathy references specifically in the Bengali language for Bangladesh, as distinct from a modern copyrighted Bengali translation of a Western classic (which was deliberately not added — see catalogue note). Same DLI scan family as this collection's হোমিওপ্যাথিক চিকিৎসা-দর্পন; expect uneven OCR accuracy, same as that book |
+| `H. C. Allen - Keynotes and Characteristics with Comparisons of Some of the Leading Remedies of the Materia Medica with Nosodes - 1898.epub` | EPUB | H. C. Allen (not Timothy Field Allen — a different work from this collection's Handbook above); sourced from `homeopathy-wishlist.md` |
+| `James Tyler Kent - Lectures on Homoeopathic Materia Medica - 1911.pdf` | PDF | James Tyler Kent; his *Lectures*, a distinct work from this collection's Kent *Repertory* above. Only unrestricted copy found is a real Text PDF with no EPUB derivative (the alternatives were CDL-restricted or an oversized ~1.6GB scan), so processed via the same `parse_source_pdf()` path as Hahnemann's Organon. Sourced from `homeopathy-wishlist.md` |
+| `John Henry Clarke - The Prescriber - A Dictionary of the New Therapeutics - 1898.epub` | EPUB | John Henry Clarke; a shorter symptom-indexed therapeutics reference, distinct from this collection's 3-volume Dictionary of Practical Materia Medica by the same author. Sourced from `homeopathy-wishlist.md` |
+| `Edward Pollock Anshutz - Sexual Ills and Diseases - 1896.epub` | EPUB | Edward Pollock Anshutz; homeopathic treatment of genitourinary/sexual conditions. Sourced from `homeopathy-wishlist.md` |
+| `H. C. Allen - The Therapeutics of Fevers - 1902.epub` | EPUB | H. C. Allen; fever treatment reference. Sourced from `homeopathy-wishlist.md` |
 
 ### Ayurveda (8 works)
 
@@ -90,7 +95,7 @@ The current collection is organized by discipline under `raw/`; additional disci
 - `book.epub` — reflowable text-only EPUB3 rebuilt from the source (page-scan images stripped, OCR whitespace/artifacts normalized), with an anchor at every original page boundary so pagination is preserved even though the text reflows.
 - `book.json` — the same content as page-mapped JSON (`{ page_number, text }` per page, plus book metadata), intended as the ingestion format for a future searchable book database.
 
-13 of the 40 books also have a `chapters` array in `book.json` (`{ label, title, start_page }`), and the rebuilt EPUB's table of contents links each chapter to its real page anchor. The extraction mechanism varies by what actually survived in that book's source — see `tools/process_book.py` and CLAUDE.md's "Source file quirks" section for the exact per-book patterns and the evidence behind each:
+13 of the 45 books also have a `chapters` array in `book.json` (`{ label, title, start_page }`), and the rebuilt EPUB's table of contents links each chapter to its real page anchor. The extraction mechanism varies by what actually survived in that book's source — see `tools/process_book.py` and CLAUDE.md's "Source file quirks" section for the exact per-book patterns and the evidence behind each:
 
 - **`charaka-samhita-kaviratna-1892`** (43 chapters), **`sushruta-samhita-vol-2-1911`** (52) — regex-detected from each translation's own canonical chapter-opening phrasing in the noisy OCR text (e.g. "LESSON II. And now we shall expound the Lesson called..." / "CHAPTER IV. Now we shall discourse on..."), reverse-engineered per book to separate real chapter starts from table-of-contents listings and footnote cross-references that mention the same numbers (`CHAPTER_PATTERNS` in `tools/process_book.py`). The Bengali Charaka Samhita edition is deliberately excluded — its OCR is too noisy for reliable numeral parsing.
 - **`heinrich-fundamentals-of-pharmacognosy-and-phytotherapy-4th`** (29) — a real EPUB3 textbook with genuine `epub:type="pagebreak"` and `h1.chaptitle` markup; its dedicated one-off processing script reads the book's actual printed table of contents directly, so `page_number` and `chapters` reflect the real book, not a regex guess.
