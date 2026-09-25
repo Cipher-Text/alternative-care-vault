@@ -217,13 +217,9 @@ this repo's usual "find an Internet Archive scan" workflow.
 
 ---
 
-## Already in the collection (close match, not missing)
-
-- **বোরিকস মেটেরিয়া মেডিকা** (Boericke's Materia Medica) — ডাঃ উইলিয়াম বোরিক (William Boericke): this is the same work as our `boericke-pocket-manual-of-homoeopathic-materia-medica-3rd` ("Pocket Manual of Homoeopathic Materia Medica with Repertory"), commonly cited by exactly this shorthand name.
-
 ## Summary
 
 - **Titles listed in `homeopathic.txt`:** ~145
-- **Already satisfied:** 1 outright (Boericke); 1 possible match that couldn't be confirmed (Clinical Materia Medica / Upendranath Sarkar — our copy is a title-page-less fragment starting at page 699, so treated as still missing)
+- **Already satisfied:** 1 outright — **বোরিকস মেটেরিয়া মেডিকা** (Boericke's Materia Medica) by ডাঃ উইলিয়াম বোরিক (William Boericke), the same work as `boericke-pocket-manual-of-homoeopathic-materia-medica-3rd` ("Pocket Manual of Homoeopathic Materia Medica with Repertory"), commonly cited by exactly this shorthand name — removed from this wishlist since it's already in `raw/homeopathy/`. 1 possible match that couldn't be confirmed (Clinical Materia Medica / Upendranath Sarkar — our copy is a title-page-less fragment starting at page 699, so treated as still missing)
 - **Same underlying work, different language/edition than what we hold:** 3 (Nash's *Leaders in Homoeopathic Therapeutics*, Kent's *Repertory*, both wanted in Bengali vs. our English editions)
 - **Genuinely distinct, missing entirely:** essentially everything else — the large majority of this list is practitioner-market Bengali-language material with no overlap with the collection's current 20 homeopathy titles.
