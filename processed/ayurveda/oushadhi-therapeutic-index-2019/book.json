@@ -9,6 +9,92 @@
   "source_raw_file": "ayurveda/Oushadhi - Therapeutic Index - 5th Impression (2019).pdf",
   "note": "Modern (2019) publication from Oushadhi, a Government of Kerala state undertaking, and the clearest copyright case yet added to this collection: its own front matter states 'Copy right reserved. No part of this publication may be translated or transmitted in any form or by any means electronic or mechanical including photocopy, recording or any information storage and retrieval system without permission.' Added at the user's explicit request after being flagged, same treatment as the general/ exceptions and the Unani Pharmacopia. Born-digital PDF (Adobe InDesign CS6, real text layer, 17-entry embedded outline/chapter structure by medicine category e.g. Asavarishtam, Thailam, Ghrutham) processed directly via the standard parse_source_pdf() path, same as the Organon of Medicine and the Unani Pharmacopia -- page_number values are raw PDF page indices, not the book's own printed page numbers, though here they happen to match (each page prints its own page number one higher than the 0-indexed PDF page). The source PDF's embedded outline/chapter bookmarks (by medicine category) are not preserved in processed/ -- this collection's chapter-detection is a from-scratch regex/marker approach per book, not sourced from embedded PDF outlines.",
   "page_count": 119,
+  "chapters": [
+    {
+      "label": "00-FM",
+      "start_page": 1
+    },
+    {
+      "label": "Chapter 1",
+      "title": "Asavarishtam",
+      "start_page": 5
+    },
+    {
+      "label": "Chapter 2",
+      "title": "Thailam",
+      "start_page": 15
+    },
+    {
+      "label": "Chapter 3",
+      "title": "Ghrutham",
+      "start_page": 35
+    },
+    {
+      "label": "Chapter 4",
+      "title": "Lehyam",
+      "start_page": 43
+    },
+    {
+      "label": "Chapter 5",
+      "title": "Gulika",
+      "start_page": 51
+    },
+    {
+      "label": "Chapter 6",
+      "title": "Bhasmam-Sindooram",
+      "start_page": 63
+    },
+    {
+      "label": "Chapter 7",
+      "title": "Kashayachoornam",
+      "start_page": 67
+    },
+    {
+      "label": "Chapter 8",
+      "title": "Kashayam",
+      "start_page": 77
+    },
+    {
+      "label": "Chapter 9",
+      "title": "Kashayam Tablet",
+      "start_page": 83
+    },
+    {
+      "label": "Chapter 10",
+      "title": "Kashaya Sookshma Choornam",
+      "start_page": 85
+    },
+    {
+      "label": "Chapter 11",
+      "title": "Choornam (Compound Drugs)",
+      "start_page": 87
+    },
+    {
+      "label": "Chapter 12",
+      "title": "Choornam (Single Drugs)",
+      "start_page": 97
+    },
+    {
+      "label": "Chapter 13",
+      "title": "Rasakriya",
+      "start_page": 105
+    },
+    {
+      "label": "Chapter 14",
+      "title": "Sandhana Kriya",
+      "start_page": 106
+    },
+    {
+      "label": "Chapter 15",
+      "title": "PatientProprietary Medicines",
+      "start_page": 107
+    },
+    {
+      "label": "Chapter 16",
+      "title": "BM",
+      "start_page": 113
+    }
+  ],
   "pages": [
     {
       "page_number": 1,

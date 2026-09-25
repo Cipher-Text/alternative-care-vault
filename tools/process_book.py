@@ -77,6 +77,110 @@ def detect_chapters(book_id, pages):
     return chapters
 
 
+# Books whose raw PDF carries its own embedded outline/bookmarks (a real, publisher- or
+# author-authored chapter structure, not a regex guess). For these, chapters come straight
+# from pypdf's `.outline` instead of `detect_chapters`'s text-pattern matching.
+PDF_OUTLINE_CHAPTER_BOOKS = {"oushadhi-therapeutic-index-2019"}
+
+
+def detect_chapters_from_pdf_outline(reader):
+    """Reads a PDF's embedded outline (bookmarks) into the same chapters[] shape as
+    detect_chapters. Destination page numbers from pypdf are 0-indexed; +1 to match the
+    1-indexed page_number scheme parse_source_pdf() assigns."""
+    chapters = []
+
+    def walk(items):
+        for item in items:
+            if isinstance(item, list):
+                walk(item)
+                continue
+            try:
+                start_page = reader.get_destination_page_number(item) + 1
+            except Exception:
+                continue
+            title = (item.title or "").strip()
+            m = re.match(r"^Ch-(\d+)\s*-?\s*(.*)$", title, re.IGNORECASE)
+            if m:
+                chapters.append(
+                    {
+                        "label": f"Chapter {int(m.group(1))}",
+                        "title": m.group(2).strip(" -"),
+                        "start_page": start_page,
+                    }
+                )
+            else:
+                chapters.append({"label": title, "start_page": start_page})
+
+    if reader.outline:
+        walk(reader.outline)
+    return chapters
+
+
+# Books whose raw EPUB's nav.xhtml still carries a real, publisher-authored chapter TOC
+# (with direct per-chapter page anchors) even though the generic page-text parser never
+# reads nav.xhtml. Currently just micozzi: its one-off PDF-to-EPUB conversion script (long
+# gone, see REQUIRES_DEDICATED_SCRIPT-adjacent note in catalogue_seed.json) preserved the
+# original textbook's full TOC in nav.xhtml as a side effect of mimicking IA's EPUB layout.
+EPUB_NAV_CHAPTER_BOOKS = {"micozzi-fundamentals-of-complementary-and-alternative-medicine-5th"}
+
+
+def detect_chapters_from_epub_nav(epub_path):
+    """Reads chapter-level <a> entries (text starting "Chapter N ...") out of a raw EPUB's
+    nav.xhtml, using each entry's #page-N fragment as start_page. Front-matter/section/
+    sub-heading TOC entries (no "Chapter N" prefix) are skipped, not just chapters missing
+    a page anchor."""
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        with zipfile.ZipFile(epub_path) as zf:
+            zf.extractall(tmp)
+
+        container = ET.parse(tmp / "META-INF/container.xml")
+        rootfile = container.find(
+            ".//{urn:oasis:names:tc:opendocument:xmlns:container}rootfile"
+        ).get("full-path")
+        opf_path = tmp / rootfile
+        opf_dir = opf_path.parent
+
+        opf = ET.parse(opf_path)
+        nav_item = next(
+            (
+                item
+                for item in opf.findall(f".//{{{NS_OPF}}}manifest/{{{NS_OPF}}}item")
+                if item.get("properties") == "nav"
+            ),
+            None,
+        )
+        if nav_item is None:
+            return []
+
+        nav_path = opf_dir / nav_item.get("href")
+        if not nav_path.exists():
+            return []
+        html = nav_path.read_text(encoding="utf-8")
+        try:
+            root = ET.fromstring(html.encode("utf-8"))
+        except ET.ParseError:
+            return []
+
+        chapters = []
+        for a in root.iter(f"{{{NS_XHTML}}}a"):
+            text = "".join(a.itertext()).strip()
+            m = re.match(r"^Chapter\s+(\d+)\s+(.+)$", text)
+            if not m:
+                continue
+            page_m = re.search(r"#page-(\d+)", a.get("href", ""))
+            if not page_m:
+                continue
+            chapters.append(
+                {
+                    "label": f"Chapter {m.group(1)}",
+                    "title": m.group(2).strip(),
+                    "start_page": int(page_m.group(1)),
+                }
+            )
+        return chapters
+
+
 def clean_text(text):
     text = unicodedata.normalize("NFKC", text)
     text = text.replace("­", "")  # soft hyphen artifacts
@@ -368,7 +472,12 @@ def process_one(meta, raw_root, out_root):
         print(f"  WARNING: no pages extracted for {meta['id']}")
         return
 
-    chapters = detect_chapters(meta["id"], pages)
+    if meta["id"] in PDF_OUTLINE_CHAPTER_BOOKS:
+        chapters = detect_chapters_from_pdf_outline(pypdf.PdfReader(raw_path))
+    elif meta["id"] in EPUB_NAV_CHAPTER_BOOKS:
+        chapters = detect_chapters_from_epub_nav(raw_path)
+    else:
+        chapters = detect_chapters(meta["id"], pages)
 
     out_dir = out_root / meta["discipline"] / meta["id"]
     out_dir.mkdir(parents=True, exist_ok=True)

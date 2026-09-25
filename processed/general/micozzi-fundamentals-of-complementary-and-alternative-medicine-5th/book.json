@@ -9,6 +9,223 @@
   "source_raw_file": "general/Marc S. Micozzi - Fundamentals of Complementary and Alternative Medicine - 5th Edition.epub",
   "note": "Unlike the rest of this collection, this is a modern, actively in-print, copyrighted textbook (Elsevier/Saunders) -- not a public-domain historical work. Its licence/copyright status has NOT been cleared for redistribution; this entry exists because the user explicitly asked for it to be added despite that being flagged. Converted from a born-digital PDF (real text + 468-entry embedded TOC + images) to EPUB via a one-off script, not the collection's usual Internet-Archive-style source; only page text carries through processing, same as every other book -- images and the original PDF's TOC structure are not preserved in processed/.",
   "page_count": 624,
+  "chapters": [
+    {
+      "label": "Chapter 1",
+      "title": "Characteristics of Complementary and Alternative Medicine",
+      "start_page": 25
+    },
+    {
+      "label": "Chapter 2",
+      "title": "Translation from Conventional Medicine",
+      "start_page": 31
+    },
+    {
+      "label": "Chapter 3",
+      "title": "Issues and Challenges in Integrative Medicine",
+      "start_page": 40
+    },
+    {
+      "label": "Chapter 4",
+      "title": "CAM and The Community",
+      "start_page": 47
+    },
+    {
+      "label": "Chapter 5",
+      "title": "Social and Cultural Factors in Medicine",
+      "start_page": 51
+    },
+    {
+      "label": "Chapter 6",
+      "title": "Vitalism",
+      "start_page": 73
+    },
+    {
+      "label": "Chapter 7",
+      "title": "Mind–Body Thought and Practice",
+      "start_page": 92
+    },
+    {
+      "label": "Chapter 8",
+      "title": "Neurohumoral Physiology and Psychoneuroimmunology",
+      "start_page": 104
+    },
+    {
+      "label": "Chapter 9",
+      "title": "Mind–Body Science and Placebo Effects",
+      "start_page": 113
+    },
+    {
+      "label": "Chapter 10",
+      "title": "Mind–Body Therapies, Stress, and Psychometrics",
+      "start_page": 122
+    },
+    {
+      "label": "Chapter 11",
+      "title": "Prayer, Religion, and Spirituality",
+      "start_page": 139
+    },
+    {
+      "label": "Chapter 12",
+      "title": "Creative and Expressive Arts Therapies",
+      "start_page": 149
+    },
+    {
+      "label": "Chapter 13",
+      "title": "Humor, Health, and Wellness",
+      "start_page": 160
+    },
+    {
+      "label": "Chapter 14",
+      "title": "Energy Medicine",
+      "start_page": 174
+    },
+    {
+      "label": "Chapter 15",
+      "title": "Biophysics",
+      "start_page": 186
+    },
+    {
+      "label": "Chapter 16",
+      "title": "Principles of Bodywork",
+      "start_page": 203
+    },
+    {
+      "label": "Chapter 17",
+      "title": "Massage, Bodywork, and Touch Therapies",
+      "start_page": 208
+    },
+    {
+      "label": "Chapter 18",
+      "title": "Osteopathy",
+      "start_page": 229
+    },
+    {
+      "label": "Chapter 19",
+      "title": "Chiropractic",
+      "start_page": 244
+    },
+    {
+      "label": "Chapter 20",
+      "title": "Reflexology",
+      "start_page": 267
+    },
+    {
+      "label": "Chapter 21",
+      "title": "Yoga",
+      "start_page": 271
+    },
+    {
+      "label": "Chapter 22",
+      "title": "Nature Cure, Naturopathy, and Natural Medicine",
+      "start_page": 282
+    },
+    {
+      "label": "Chapter 23",
+      "title": "Contemporary Naturopathic Medicine",
+      "start_page": 296
+    },
+    {
+      "label": "Chapter 24",
+      "title": "Ethnobotany and Western Herbalism",
+      "start_page": 311
+    },
+    {
+      "label": "Chapter 25",
+      "title": "Aromatherapy and Plant Essential Oils",
+      "start_page": 326
+    },
+    {
+      "label": "Chapter 26",
+      "title": "Nutrition, Hydration, and Diet Therapies",
+      "start_page": 339
+    },
+    {
+      "label": "Chapter 27",
+      "title": "Ecological Pharmacy",
+      "start_page": 356
+    },
+    {
+      "label": "Chapter 28",
+      "title": "Traditional Medicine of China and East Asia",
+      "start_page": 371
+    },
+    {
+      "label": "Chapter 29",
+      "title": "Classical Acupuncture",
+      "start_page": 399
+    },
+    {
+      "label": "Chapter 30",
+      "title": "Tibetan Medicine",
+      "start_page": 425
+    },
+    {
+      "label": "Chapter 31",
+      "title": "Traditional Medicines of India",
+      "start_page": 457
+    },
+    {
+      "label": "Chapter 32",
+      "title": "Unani Medicine",
+      "start_page": 473
+    },
+    {
+      "label": "Chapter 33",
+      "title": "Sufism and Healing in the Middle East",
+      "start_page": 483
+    },
+    {
+      "label": "Chapter 34",
+      "title": "Traditional Healing",
+      "start_page": 492
+    },
+    {
+      "label": "Chapter 35",
+      "title": "Southeast Asia",
+      "start_page": 498
+    },
+    {
+      "label": "Chapter 36",
+      "title": "Blending Of Chinese, Ayurvedic, Islamic, and Shamanic Healings",
+      "start_page": 504
+    },
+    {
+      "label": "Chapter 37",
+      "title": "Native North American Healing and Herbal Remedies",
+      "start_page": 513
+    },
+    {
+      "label": "Chapter 38",
+      "title": "Central and South American Healing and Herbal Remedies",
+      "start_page": 525
+    },
+    {
+      "label": "Chapter 39",
+      "title": "Latin American Curanderismo",
+      "start_page": 528
+    },
+    {
+      "label": "Chapter 40",
+      "title": "Hawaii, South Pacific, and Philippine Islands; Alaska and Pacific Northwest",
+      "start_page": 535
+    },
+    {
+      "label": "Chapter 41",
+      "title": "African Healing and Becoming a Traditional Healer",
+      "start_page": 539
+    },
+    {
+      "label": "Chapter 42",
+      "title": "Magico-Religious Traditions and Neo-Shamanism",
+      "start_page": 543
+    },
+    {
+      "label": "Chapter 43",
+      "title": "Modern Asia, Africa, the Americas, and the Pacific",
+      "start_page": 547
+    }
+  ],
   "pages": [
     {
       "page_number": 1,
