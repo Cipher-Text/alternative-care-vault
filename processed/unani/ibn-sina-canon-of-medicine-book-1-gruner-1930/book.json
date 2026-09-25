@@ -9,6 +9,83 @@
   "source_raw_file": "unani/Ibn Sina (Avicenna) - A Treatise on the Canon of Medicine, Book I - Trans. O. Cameron Gruner - 1930.epub",
   "note": "Replaces the previous 0-byte placeholder at this raw_file path (see CLAUDE.md 'Known gaps' -- that section should be updated/removed now that a real file is in place). This is the single most foundational classical Unani/Greco-Arabic medicine text (al-Qanun fi al-tibb) and was entirely absent from this collection before -- Unani previously had only two modern government pharmacopoeia documents (unani-pharmacopia-of-bangladesh-part1-vol4, ayush-national-formulary-of-unani-medicine-part2-vol1), no classical text at all, unlike Homeopathy (Organon) or Ayurveda (Brihat/Laghu Trayi). PARTIAL WORK: Book I only, not the complete Canon (the Canon has 5 books total); no complete free/public-domain English translation of the full work exists anywhere -- the only complete modern translation (Laleh Bakhtiar, 2012, AbjadBook Designers) is copyrighted and was deliberately not used. This specific scan (Internet Archive identifier AvicennasCanonOfMedicine) is an AMS Press 1973 reprint of the original 1930 London edition (verified via the scan's own OCR text: title page, LC catalog data citing 'Reprinted from the edition of 1930, London', preface dated December 1929) -- a stronger public-domain case than most of this collection's 'plausible' claims, since the 1930 first publication clears the US 95-year threshold outright as of 2026, independent of Gruner's death year. The canonical/more commonly cited scan of this same translation (Internet Archive identifier treatiseoncanono0000avic) is Controlled-Digital-Lending-restricted; this alternate community-uploaded copy has identical content and no lending restriction. Small EPUB (624 pages, only 11 embedded images, 4.8MB) -- no oversized-scan problem. Standard IA OCR-export EPUB, processed via the ordinary parse_source_epub() path.",
   "page_count": 609,
+  "chapters": [
+    {
+      "label": "Part 1, Thesis I",
+      "title": "",
+      "start_page": 31
+    },
+    {
+      "label": "Part 1, Thesis II",
+      "title": "THE ELEMENTS LEMENTS",
+      "start_page": 40
+    },
+    {
+      "label": "Part 1, Thesis III",
+      "title": "",
+      "start_page": 63
+    },
+    {
+      "label": "Part 1, Thesis IV",
+      "title": "THE HUMOURS UMO URS : Fluids of the body",
+      "start_page": 82
+    },
+    {
+      "label": "Part 1, Thesis V",
+      "title": "THE MEMBERS",
+      "start_page": 99
+    },
+    {
+      "label": "Part 1, Thesis VI",
+      "title": "The Faculties of the Body",
+      "start_page": 113
+    },
+    {
+      "label": "Part 2, Thesis I",
+      "title": "DISORDERS OF HEALTH",
+      "start_page": 172
+    },
+    {
+      "label": "Part 2, Thesis II",
+      "title": "THE CAUSES OF DISEASE ETIOLOGY",
+      "start_page": 189
+    },
+    {
+      "label": "Part 2, Thesis III",
+      "title": "THE EVIDENCES OF DISEASE",
+      "start_page": 273
+    },
+    {
+      "label": "Part 3, Thesis I",
+      "title": "ON NUTRITION",
+      "start_page": 387
+    },
+    {
+      "label": "Part 3, Thesis II",
+      "title": "THE REGIMEN PROPER FOR THE PHYSICALLY MATURED",
+      "start_page": 405
+    },
+    {
+      "label": "Part 3, Thesis III",
+      "title": "",
+      "start_page": 456
+    },
+    {
+      "label": "Part 3, Thesis IV",
+      "title": "The Regimen Appropriate for Cases where the Temperament is Not Normal",
+      "start_page": 461
+    },
+    {
+      "label": "Part 3, Thesis V",
+      "title": "The Changes in the Atmosphere The Regimen according to the Seasons, and the Variations of the Atmosphere",
+      "start_page": 467
+    },
+    {
+      "label": "Part 3, Thesis VI",
+      "title": "The Symptoms Premonitory of Diseases",
+      "start_page": 470
+    }
+  ],
   "pages": [
     {
       "page_number": null,

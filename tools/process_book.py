@@ -555,6 +555,51 @@ def detect_chapters_sarkar(pages):
     return [chapters[n] for n in sorted(chapters)]
 
 
+# ibn-sina-canon-of-medicine-book-1-gruner-1930: the Canon's real hierarchy is Part -> Thesis
+# -> Doctrine -> Chapter, but only "THESIS N" has a reliable, consistently-marked ALL-CAPS
+# opening in this OCR text -- "PART" only appears in the front-matter table of contents and
+# in forward-references to Books II-V (which this volume doesn't cover), never as an in-body
+# marker, so Part numbers are inferred from where "THESIS I" recurs (each Part restarts
+# numbering at I) rather than matched directly.
+IBN_SINA_CHAPTER_BOOKS = {"ibn-sina-canon-of-medicine-book-1-gruner-1930"}
+
+_IBN_SINA_HEADING_RE = re.compile(
+    r'THESIS\s+([IVXLC]+)\.?[\s•]*(?:[—\-]\s*)?(.*?)(?=i\.\s|\d|["„“\xa7]|\s\.\s|$)'
+)
+
+
+def detect_chapters_ibn_sina(pages):
+    """ibn-sina-canon-of-medicine-book-1-gruner-1930-specific. Book I has 3 Parts covered by
+    this OCR text (a 4th, "The Treatment of Disease", is listed in the front-matter TOC as a
+    single unsubdivided block with no per-thesis breakdown, and no THESIS marker for it was
+    found anywhere in the body text -- not recoverable this way), with 6, 3, and 6 theses
+    respectively -- verified against the book's own front-matter TOC, which spells out
+    exactly this count per Part. Real closing colophons ("END OF THESIS II.") use the same
+    "THESIS N" shape as real openings, so matches immediately preceded by "END OF" are
+    excluded.
+    Titles are genuinely inconsistent in the source -- some theses open with a real title
+    (either ALL-CAPS or Title Case), others open directly into their first numbered sub-item
+    ("i. The Definition of...") with no title at all -- so the title capture stops at
+    whichever comes first: a "i." sub-item marker, a digit (paragraph/verse number), a quote
+    character (these openings often lead into a citation), or end of the extracted text. A
+    thesis with no real title ends up with an empty title, which is correct, not a bug."""
+    current_part = 0
+    chapters = []
+    for p in pages:
+        text = p["text"]
+        for m in _IBN_SINA_HEADING_RE.finditer(text):
+            if "END OF" in text[max(0, m.start() - 10): m.start()].upper():
+                continue
+            roman = m.group(1)
+            if roman == "I":
+                current_part += 1
+            title = re.sub(r"\s+", " ", m.group(2)).strip(" .,-:\"'")
+            chapters.append(
+                {"label": f"Part {current_part}, Thesis {roman}", "title": title, "start_page": p["page_number"]}
+            )
+    return chapters
+
+
 def clean_text(text):
     text = unicodedata.normalize("NFKC", text)
     text = text.replace("­", "")  # soft hyphen artifacts
@@ -864,6 +909,8 @@ def process_one(meta, raw_root, out_root):
         chapters = detect_chapters_latif(pages)
     elif meta["id"] in SARKAR_CHAPTER_BOOKS:
         chapters = detect_chapters_sarkar(pages)
+    elif meta["id"] in IBN_SINA_CHAPTER_BOOKS:
+        chapters = detect_chapters_ibn_sina(pages)
     else:
         chapters = detect_chapters(meta["id"], pages)
 
