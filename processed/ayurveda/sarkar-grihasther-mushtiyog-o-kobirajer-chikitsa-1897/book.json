@@ -8,6 +8,23 @@
   "source_raw_file": "ayurveda/Jashodanandan Sarkar - Grihasther Mushtiyog o Kobirajer Chikitsa - 1897.epub",
   "note": "Fills the gap of a Bengali-ORIGINAL Ayurveda work in this collection, distinct from and complementary to satish-chandra-sharma's Bengali TRANSLATION of the Charaka Samhita -- this is the Ayurveda-side counterpart to majumdar-homoeopathic-chikitsa-prakaran-bengali's role in the homeopathy set. A practical household/Kobiraji (traditional Bengali physician) treatment manual -- a different genre from the academic Samhita/nighantu texts elsewhere in this collection, covering everyday remedies, wound/poison/animal-bite treatment, etc. Published 1897 (Metcalfe Press, Calcutta), well clear of any copyright concern (author's death year unknown but at 129+ years old and pre-1900, safely public domain under any plausible term). Internet Archive identifier dli.ministry.28627, Digital Library of India scan with a real Bengali OCR text layer already applied by Archive.org (Tesseract, high reported confidence) -- standard IA OCR-export EPUB (page_N.html files, media-type application/xhtml+xml, one <p> of OCR text per page), processed via the ordinary parse_source_epub() path, no facsimile/Tesseract-in-this-pipeline step needed.",
   "page_count": 267,
+  "chapters": [
+    {
+      "label": "Chapter 1",
+      "title": "আঁকন্সিক রোগ সমুহের চিকিৎদ!। ১ম প্রকবণ",
+      "start_page": 59
+    },
+    {
+      "label": "Chapter 2",
+      "title": "ভাঁল। ধুতুর! বিষে তাত্রভম্্র ও ছুপ্ধ দ্বারা বদন করাইয়া",
+      "start_page": 97
+    },
+    {
+      "label": "Chapter 3",
+      "title": "ম প্রকরণ। ব্রপ্ন বা কুচকী",
+      "start_page": 122
+    }
+  ],
   "pages": [
     {
       "page_number": null,

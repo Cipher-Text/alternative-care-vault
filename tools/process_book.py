@@ -462,6 +462,99 @@ def detect_chapters_ernst(pages):
     return chapters
 
 
+# latif-yunani-hakimi-chikitsha-pranali-1892: same Bengali-ordinal-word "<ordinal> অধ্যায়"
+# convention as majumdar-homoeopathic-chikitsa-prakaran-bengali, found during a sweep of the
+# ayurveda/unani chapter-less books, 2026-09-25.
+LATIF_CHAPTER_BOOKS = {"latif-yunani-hakimi-chikitsha-pranali-1892"}
+
+# Chapters 1-10 by canonical spelling, plus the specific OCR misreadings observed in this
+# book: "ধ্িতীয়" for দ্বিতীয়/2nd (dropped consonant cluster), "অপ্তম" for সপ্তম/7th.
+_LATIF_ORDINALS = {
+    "প্রথম": 1, "দ্বিতীয়": 2, "ধ্িতীয়": 2, "তৃতীয়": 3, "চতুর্থ": 4, "পঞ্চম": 5,
+    "ষষ্ঠ": 6, "সপ্তম": 7, "অপ্তম": 7, "অষ্টম": 8,
+    "নবম": 9, "দশম": 10,
+}
+_LATIF_ORDINAL_ALT = "|".join(sorted(_LATIF_ORDINALS, key=len, reverse=True))
+_LATIF_HEADING_RE = re.compile(rf"({_LATIF_ORDINAL_ALT})\s*অধ্যায়(?!ে)[।\s0-9]*([^।]{{2,60}})")
+
+
+def detect_chapters_latif(pages):
+    """latif-yunani-hakimi-chikitsha-pranali-1892-specific. Real headings are an ordinal word
+    immediately followed by bare "অধ্যায়" ("chapter") + danda, e.g. "তৃতীয় অধ্যায়। ফাস্ত বা
+    রক্তমোক্ষণ প্রক্রিয়া।" (Chapter 3. Bloodletting procedure.) -- same convention as
+    majumdar-homoeopathic-chikitsa-prakaran-bengali. Two false-positive sources excluded:
+    inline cross-references use the locative form "অধ্যায়ে" ("in the chapter") instead of
+    bare "অধ্যায়" -- excluded via a negative lookahead for the trailing "ে", not just a
+    different regex -- and page 7 is a standalone errata page ("ভ্রম সংশোধন") that happens to
+    mention "অষ্টম অধ্যায়" (chapter 8) as a correction reference, excluded by page number
+    since it's the only one. 8 of 10 chapters recovered (1st and 8th have no extractable
+    heading anywhere in the OCR text) -- best-effort, same as the other CHAPTER_PATTERNS
+    books."""
+    chapters = []
+    for p in pages:
+        if p["page_number"] == 7:
+            continue
+        for m in _LATIF_HEADING_RE.finditer(p["text"]):
+            num = _LATIF_ORDINALS[m.group(1)]
+            title = re.sub(r"\s+", " ", m.group(2)).strip(" .,-।")
+            chapters.append({"label": f"Chapter {num}", "title": title, "start_page": p["page_number"]})
+    return chapters
+
+
+# sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897: only 3 chapters (পরিচ্ছেদ) exist in
+# this book, but "চতুর্থ"/etc doesn't apply -- OCR renders this book's ordinal words FAR less
+# consistently than majumdar/latif's "অধ্যায়" convention (its 3rd chapter's ordinal word
+# alone was seen spelled ~20 different corrupted ways), so a lookup table isn't practical.
+SARKAR_CHAPTER_BOOKS = {"sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897"}
+
+# Only chapters 1 and 2's ordinal word ("প্রথম"/"দ্বিতীয়") comes through recognizably, and
+# even then in several corrupted spellings -- these are the ones actually observed.
+_SARKAR_KNOWN_ORDINALS = {
+    "প্রথম": 1, "প্রথষ": 1, "গ্রথম": 1,
+    "দ্বিতীয়": 2, "দ্বিতীঘ্ন": 2, "দদ্বতীয়": 2,
+}
+_SARKAR_HEADING_RE = re.compile(
+    r"(\S{1,15})\s*পরিচ্ছেদ(?!ে)[।\s0-9০-৯]*([^।]{2,50}(?:।\s*[^।]{2,50})?)"
+)
+
+
+def detect_chapters_sarkar(pages):
+    """sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897-specific. Like Ernst, real
+    "<ordinal> পরিচ্ছেদ" ("chapter") headings repeat as a running header on every page of a
+    chapter, not just its opening page, so this keeps only the first occurrence -- but unlike
+    Ernst, the chapter number itself needs a lookup (Bengali ordinal words), and unlike
+    majumdar/latif's ordinal words, OCR mangles this book's 3rd-chapter ordinal ("তৃতীয়")
+    into so many different unrecognizable spellings that no lookup table is practical. Since
+    this book has verifiably only 3 chapters (confirmed by reading to the book's own final
+    page, which is a publisher's ad for the not-yet-released Volume 2), any occurrence that
+    isn't chapter 1 or 2's word is inferred to be chapter 3 -- but only once both 1 and 2 have
+    already been found, so an early unrelated match can't be mistaken for it. Inline
+    cross-references use the locative "পরিচ্ছেদে" ("in the chapter") instead of bare
+    "পরিচ্ছেদ" -- excluded via a negative lookahead, same trick as latif. The front-matter
+    table of contents (pages before 59, where the real chapter 1 heading is) also matches the
+    same bare-word shape and needs its own exclusion, unlike latif where it didn't.
+    Titles are messy best-effort here: the two-danda capture window pulls in a sub-section
+    label ("১ম প্রকরণ") plus, when present, its topic name, but page 97 (chapter 2's start)
+    happens to be a transitional page where the chapter boundary falls mid-paragraph, so its
+    title is leftover text from the prior topic rather than chapter 2's real subject."""
+    chapters = {}
+    for p in pages:
+        if p["page_number"] is not None and p["page_number"] < 59:
+            continue
+        for m in _SARKAR_HEADING_RE.finditer(p["text"]):
+            num = _SARKAR_KNOWN_ORDINALS.get(m.group(1))
+            if num is None:
+                if 1 in chapters and 2 in chapters and 3 not in chapters:
+                    num = 3
+                else:
+                    continue
+            if num in chapters:
+                continue
+            title = re.sub(r"\s+", " ", m.group(2)).strip(" .,-।")
+            chapters[num] = {"label": f"Chapter {num}", "title": title, "start_page": p["page_number"]}
+    return [chapters[n] for n in sorted(chapters)]
+
+
 def clean_text(text):
     text = unicodedata.normalize("NFKC", text)
     text = text.replace("­", "")  # soft hyphen artifacts
@@ -767,6 +860,10 @@ def process_one(meta, raw_root, out_root):
         chapters = detect_chapters_majumdar(pages)
     elif meta["id"] in ERNST_CHAPTER_BOOKS:
         chapters = detect_chapters_ernst(pages)
+    elif meta["id"] in LATIF_CHAPTER_BOOKS:
+        chapters = detect_chapters_latif(pages)
+    elif meta["id"] in SARKAR_CHAPTER_BOOKS:
+        chapters = detect_chapters_sarkar(pages)
     else:
         chapters = detect_chapters(meta["id"], pages)
 

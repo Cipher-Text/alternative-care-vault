@@ -8,6 +8,48 @@
   "source_raw_file": "unani/Abdul Latif - Yunani Hakimi Chikitsha Pranali - 1892.epub",
   "note": "Fills the gap of a Bengali-language Unani work -- previously this discipline had zero Bengali coverage at all (only English-language items: the Gruner Canon of Medicine translation and two modern government pharmacopoeia PDFs). A practical Hakim's treatment manual -- the Unani-tradition counterpart to sarkar-grihasther-mushtiyog-o-kobirajer-chikitsa-1897's role for Ayurveda (Kobiraj) in this collection. Published 1892 (Munindra Mohan Basu, Kolkata), safely public domain given its age. Internet Archive identifier dli.bengal.10689.4225, Digital Library of India scan with a real Bengali OCR text layer already applied (not facsimile), standard IA OCR-export EPUB, small and clean (129K vs 4.7MB PDF), processed via the ordinary parse_source_epub() path.",
   "page_count": 105,
+  "chapters": [
+    {
+      "label": "Chapter 2",
+      "title": "বাহ্য প্রয়োগ ওষধ",
+      "start_page": 23
+    },
+    {
+      "label": "Chapter 3",
+      "title": "ফাস্ত বা রক্তমোক্ষণ প্রক্রিয়া | জৌলাপ অপেক্ষা রক্ত মোক্ষণ উ",
+      "start_page": 36
+    },
+    {
+      "label": "Chapter 4",
+      "title": "মনজেজ অর্থাৎ বিকৃত ধাতু প্রকৃতিস্থ করিবার প্রক্রিয়া",
+      "start_page": 49
+    },
+    {
+      "label": "Chapter 5",
+      "title": "'জোলাপ? মন্জেজ প্রক্রিয়",
+      "start_page": 54
+    },
+    {
+      "label": "Chapter 6",
+      "title": "শাফ",
+      "start_page": 68
+    },
+    {
+      "label": "Chapter 7",
+      "title": "বমন প্রক্রিয়া",
+      "start_page": 70
+    },
+    {
+      "label": "Chapter 9",
+      "title": "বলরৃদ্ধি ও মাংস ক্ষয় প্রভৃতির উষধ",
+      "start_page": 77
+    },
+    {
+      "label": "Chapter 10",
+      "title": "প্রতআ্াব পরীক্ষ",
+      "start_page": 86
+    }
+  ],
   "pages": [
     {
       "page_number": null,
