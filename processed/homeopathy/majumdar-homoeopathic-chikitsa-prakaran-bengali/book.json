@@ -7,6 +7,123 @@
   "source_raw_file": "homeopathy/প্রতাপচন্দ্র মজুমদার - হোমিওপ্যাথিক চিকিৎসা-প্রকরণ.epub",
   "note": "Bengali-language principles-and-practice text -- the Bengali-language counterpart to Hahnemann's Organon already in this collection, not just a materia medica. Author is a documented pioneer who popularized homeopathy in Bengal and wrote extensively in both English and Bengali; his works are described in secondary sources as still inspiring practitioners today. Added after researching the most-read/practiced homeopathy references in Bangladesh specifically in the Bengali language -- distinct from a Bengali translation of a Western classic (e.g. Kent's Repertory has a modern, separately-copyrighted Bengali translation that was deliberately NOT added, per this collection's general/ policy on modern copyrighted works). Internet Archive identifier dli.ministry.28773, real Bengali OCR text layer (not facsimile), same Digital Library of India scan family as this collection's existing homoeopathic-chikitsa-darpan-bengali. Expect uneven OCR accuracy -- the source EPUB itself flags some pages as low-confidence (e.g. page 1 estimated ~30% accurate), consistent with this collection's other century-old Bengali OCR sources.",
   "page_count": 486,
+  "chapters": [
+    {
+      "label": "Chapter 1",
+      "title": "চক্ষুরোগ-চিকিৎসা এই ক্ষুদ্র পুস্তকে ধাঁবাবাহিকবপে সমস্ত চক্ষ",
+      "start_page": 4
+    },
+    {
+      "label": "Chapter 2",
+      "title": "কর্ণিয়ার পীড়া",
+      "start_page": 20
+    },
+    {
+      "label": "Chapter 3",
+      "title": "কর্ণরোগ",
+      "start_page": 45
+    },
+    {
+      "label": "Chapter 4",
+      "title": "নাসিকার পীড়া",
+      "start_page": 52
+    },
+    {
+      "label": "Chapter 5",
+      "title": "শোণিত-সঞ্চালন যন্ত্রাদির পীড়া |. জতপিণ এবং তাহার চতুদ্দিকস্",
+      "start_page": 59
+    },
+    {
+      "label": "Chapter 6",
+      "title": "তরুণ হৃদ্বেউ-বিল্লী প্রদাহ ব",
+      "start_page": 64
+    },
+    {
+      "label": "Chapter 7",
+      "title": "৭ বৃহ বক্তিবন্ নাডীব পীড়",
+      "start_page": 106
+    },
+    {
+      "label": "Chapter 8",
+      "title": "শ্বীসযন্ত্রেব পীড়া বা ডিজিজেজ অবৃ দি রেস্পাই রেট প্র অর্গ্য",
+      "start_page": 111
+    },
+    {
+      "label": "Chapter 9",
+      "title": "ফৃস্ফ,সেব পীড়া বা ডিজিজেজ অব্‌ ছি লংস",
+      "start_page": 123
+    },
+    {
+      "label": "Chapter 10",
+      "title": "ফুস্ক,সপ্রদাহ বা নিউমোনিয়া",
+      "start_page": 138
+    },
+    {
+      "label": "Chapter 11",
+      "title": "বক্ষ-আববক বিল্লীব প্রদাহ বা প্রুবিসি",
+      "start_page": 189
+    },
+    {
+      "label": "Chapter 12",
+      "title": "পবিপাকষন্ত্রেব পীডা",
+      "start_page": 198
+    },
+    {
+      "label": "Chapter 13",
+      "title": "খাদাদ্রব্য পরিপাক করাই পাকস্থলীব গাধান ক্রিযা",
+      "start_page": 219
+    },
+    {
+      "label": "Chapter 14",
+      "title": "অন্ত্রের পীড়া",
+      "start_page": 259
+    },
+    {
+      "label": "Chapter 15",
+      "title": "পেরিটোনিয়ম্‌ বিলীব প্রদাহ বা পেরিটোনাইটিস্‌",
+      "start_page": 310
+    },
+    {
+      "label": "Chapter 16",
+      "title": "যকৃতের পীড়া বা ভিজিজেস্‌ অব্‌ দি লিভার",
+      "start_page": 317
+    },
+    {
+      "label": "Chapter 17",
+      "title": "প্রীহাবেণ ব",
+      "start_page": 340
+    },
+    {
+      "label": "Chapter 18",
+      "title": "ক্লৌমের পীড়",
+      "start_page": 346
+    },
+    {
+      "label": "Chapter 20",
+      "title": "মূত্রস্থলীর পীড়া বা ডিজিজেস্‌ অব্‌ দি বাডার",
+      "start_page": 367
+    },
+    {
+      "label": "Chapter 21",
+      "title": "জননেক্দ্রিয়ের পীড়া বা ডিজিজেস অব. দি জেনিট্যাল অরগ্যান্ন",
+      "start_page": 379
+    },
+    {
+      "label": "Chapter 22",
+      "title": "স্লাচিকিসা বা ডিজিজেস্‌ অব দি ফিমেলস্‌",
+      "start_page": 405
+    },
+    {
+      "label": "Chapter 23",
+      "title": "স্তনের পীড়া বাডিজিজেস অন. দি ম্যামি",
+      "start_page": 444
+    },
+    {
+      "label": "Chapter 24",
+      "title": "চন্মরোগ ব! ডিজিজেস্‌ অব দি ক্ষিন",
+      "start_page": 448
+    }
+  ],
   "pages": [
     {
       "page_number": null,

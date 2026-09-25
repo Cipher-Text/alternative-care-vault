@@ -379,6 +379,57 @@ def detect_chapters_bhavaprakasha(pages):
     return chapters
 
 
+# majumdar-homoeopathic-chikitsa-prakaran-bengali: real headings are Bengali ordinal WORDS
+# (not numerals), e.g. "দ্বিতীয় অধ্যায়" (Chapter 2) -- found during a broader sweep of every
+# homeopathy book without chapters (not just CHAPTER_PATTERNS's original two), 2026-09-25.
+MAJUMDAR_CHAPTER_BOOKS = {"majumdar-homoeopathic-chikitsa-prakaran-bengali"}
+
+# Chapters 1-24 by their expected canonical spelling, plus the specific OCR misreadings
+# actually observed in this book (e.g. "ষষ্ঠ"/6th losing its leading letter to "ষ্ঠ",
+# "ত্রয়োদশ"/13th misread as "প্রয়োদশ") -- verified against this book's own sequential
+# medical topic order (eye, ear, nose, heart, ... skin), not guessed.
+_MAJUMDAR_ORDINALS = {
+    "প্রথম": 1, "দ্বিতীয়": 2, "তৃতীয়": 3, "চতুর্থ": 4, "পঞ্চম": 5,
+    "ষষ্ঠ": 6, "ষ্ঠ": 6,
+    "সপ্তম": 7, "অষ্টম": 8, "অক্টম": 8,
+    "নবম": 9, "দশম": 10,
+    "একাদশ": 11, "দ্বাদশ": 12,
+    "ত্রয়োদশ": 13, "প্রয়োদশ": 13,
+    "চতুর্দশ": 14, "পঞ্চদশ": 15,
+    "ষোড়শ": 16, "যৌড়শ": 16,
+    "সপ্তদশ": 17,
+    "অষ্টাদশ": 18, "অফ্টাদশ": 18,
+    "ঊনবিংশ": 19, "উনবিংশ": 19,
+    "বিংশ": 20,
+    "একবিংশ": 21, "দ্বাবিংশ": 22, "ত্রয়োবিংশ": 23, "চতুর্বিংশ": 24,
+}
+_MAJUMDAR_ORDINAL_ALT = "|".join(sorted(_MAJUMDAR_ORDINALS, key=len, reverse=True))
+_MAJUMDAR_HEADING_RE = re.compile(
+    rf"({_MAJUMDAR_ORDINAL_ALT})\s*(?:অধ্যায়|অন্যায়)[।\s0-9]*([^।]{{2,60}})"
+)
+
+
+def detect_chapters_majumdar(pages):
+    """majumdar-homoeopathic-chikitsa-prakaran-bengali-specific. Real chapter headings are
+    an ordinal word (see _MAJUMDAR_ORDINALS) immediately followed by "অধ্যায়" ("chapter") --
+    or its single observed OCR misreading "অন্যায়" ("wrong/injustice", chapter 1 only) --
+    e.g. "দ্বিতীয় অধ্যায়। কর্ণিয়ার পীড়া।" (Chapter 2. Corneal disease.). Numbers come from
+    the ordinal word's lookup value directly, not position, so a missing chapter (19, no
+    extractable heading anywhere in this OCR text) doesn't shift any later chapter's number
+    -- unlike a positional counter would. No front-matter TOC contamination was found for
+    this book (each of the 23 recovered chapter numbers appears exactly once), unlike
+    Madhava Nidana/Bhavaprakasha, so no page-range exclusion is needed here. Best-effort:
+    titles are truncated at the next Bengali danda ("।") and may still carry trailing OCR
+    noise when no danda appears within the capture window."""
+    chapters = []
+    for p in pages:
+        for m in _MAJUMDAR_HEADING_RE.finditer(p["text"]):
+            num = _MAJUMDAR_ORDINALS[m.group(1)]
+            title = re.sub(r"\s+", " ", m.group(2)).strip(" .,-।")
+            chapters.append({"label": f"Chapter {num}", "title": title, "start_page": p["page_number"]})
+    return chapters
+
+
 def clean_text(text):
     text = unicodedata.normalize("NFKC", text)
     text = text.replace("­", "")  # soft hyphen artifacts
@@ -680,6 +731,8 @@ def process_one(meta, raw_root, out_root):
         chapters = detect_chapters_adams(pages)
     elif meta["id"] in BHAVAPRAKASHA_CHAPTER_BOOKS:
         chapters = detect_chapters_bhavaprakasha(pages)
+    elif meta["id"] in MAJUMDAR_CHAPTER_BOOKS:
+        chapters = detect_chapters_majumdar(pages)
     else:
         chapters = detect_chapters(meta["id"], pages)
 
