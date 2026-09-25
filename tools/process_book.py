@@ -430,6 +430,38 @@ def detect_chapters_majumdar(pages):
     return chapters
 
 
+# ernst-oxford-handbook-of-complementary-medicine: real "CHAPTER N Title" headers repeat as
+# a running page header on every page within the chapter, not just the opening page, so this
+# needs first-occurrence-per-number dedup rather than "every regex match is a new chapter"
+# like every other book above.
+ERNST_CHAPTER_BOOKS = {"ernst-oxford-handbook-of-complementary-medicine"}
+
+_ERNST_HEADING_RE = re.compile(r"\bCHAPTER\s+(\d+)\s+([^\n]+)")
+
+
+def detect_chapters_ernst(pages):
+    """ernst-oxford-handbook-of-complementary-medicine-specific. "CHAPTER N <Title>" is
+    printed as a running header on every page of that chapter (e.g. "CHAPTER 3 Complementary
+    therapies" appears 35 times across chapter 3's own pages), not just once at the chapter's
+    actual opening -- confirmed by checking each chapter number's occurrence count and page
+    range. So the fix here isn't a false-positive filter like every other book's mechanism
+    above; every match IS a real, correctly-labeled chapter occurrence, there are just far
+    more of them than there are chapters. Keep only the first (lowest page number) occurrence
+    per chapter number. All 7 of this book's chapters recovered, not best-effort -- verified
+    monotonically increasing and with no gaps."""
+    chapters = []
+    seen = set()
+    for p in pages:
+        for m in _ERNST_HEADING_RE.finditer(p["text"]):
+            num = int(m.group(1))
+            if num in seen:
+                continue
+            seen.add(num)
+            title = re.sub(r"\s+", " ", m.group(2)).strip()
+            chapters.append({"label": f"Chapter {num}", "title": title, "start_page": p["page_number"]})
+    return chapters
+
+
 def clean_text(text):
     text = unicodedata.normalize("NFKC", text)
     text = text.replace("­", "")  # soft hyphen artifacts
@@ -733,6 +765,8 @@ def process_one(meta, raw_root, out_root):
         chapters = detect_chapters_bhavaprakasha(pages)
     elif meta["id"] in MAJUMDAR_CHAPTER_BOOKS:
         chapters = detect_chapters_majumdar(pages)
+    elif meta["id"] in ERNST_CHAPTER_BOOKS:
+        chapters = detect_chapters_ernst(pages)
     else:
         chapters = detect_chapters(meta["id"], pages)
 

@@ -7,6 +7,43 @@
   "source_raw_file": "general/Edzard Ernst et al. - Oxford Handbook of Complementary Medicine.epub",
   "note": "Same category of concern as micozzi-fundamentals-of-complementary-and-alternative-medicine-5th: a modern, actively published Oxford University Press clinical handbook, not public domain. Its licence/copyright status has NOT been cleared for redistribution; added at the user's explicit request despite that being flagged. Source PDF metadata (Internet Archive identifier 'oxfordhandbookof0000unse_g8j3') suggests it originated from an Archive.org Controlled Digital Lending scan (one-reader-at-a-time borrowing, not permanent redistribution) rather than a public-domain source -- an arguably clearer licence violation than the collection's older, ambiguous-status works. Converted from that PDF (real OCR text layer, no embedded TOC) to EPUB via the same one-off script used for the Micozzi book; the source PDF also embedded ~900 images, all JPEG2000 (not a valid EPUB image format) and only ~2KB average, judged to be OCR-processing artifacts rather than real figures, so they were dropped during conversion rather than embedded broken.",
   "page_count": 453,
+  "chapters": [
+    {
+      "label": "Chapter 1",
+      "title": "General issues",
+      "start_page": 29
+    },
+    {
+      "label": "Chapter 2",
+      "title": "Diagnostic methods",
+      "start_page": 65
+    },
+    {
+      "label": "Chapter 3",
+      "title": "Complementary therapies",
+      "start_page": 69
+    },
+    {
+      "label": "Chapter 4",
+      "title": "Complementary medicines",
+      "start_page": 143
+    },
+    {
+      "label": "Chapter 5",
+      "title": "Conditions",
+      "start_page": 289
+    },
+    {
+      "label": "Chapter 6",
+      "title": "Vulnerable populations",
+      "start_page": 433
+    },
+    {
+      "label": "Chapter 7",
+      "title": "Frequently asked questions",
+      "start_page": 441
+    }
+  ],
   "pages": [
     {
       "page_number": 1,
