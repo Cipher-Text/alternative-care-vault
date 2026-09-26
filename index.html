@@ -5,11 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#f7f5ef">
     <meta name="description" content="A searchable reading catalogue of historical and modern alternative medicine books.">
+    <meta property="og:title" content="Care Vault — Reading library">
+    <meta property="og:description" content="Explore and read a curated digital collection of books across traditional healing systems.">
+    <meta property="og:type" content="website">
     <title>Care Vault — Reading library</title>
     <link rel="stylesheet" href="style.css">
     <script src="app.js" defer></script>
   </head>
   <body>
+    <a class="skip-link" href="#catalogue">Skip to the book catalogue</a>
     <header class="topbar">
       <a class="brand" href="#library" aria-label="Care Vault home"><span class="brand-mark">CV</span><span>Care Vault</span></a>
       <a class="top-link" href="https://github.com/Cipher-Text/alternative-care-vault">Open collection ↗</a>
@@ -22,9 +26,9 @@
         <div class="stats" id="stats" aria-live="polite"></div>
       </section>
 
-      <section class="library" aria-label="Book catalogue">
+      <section class="library" id="catalogue" aria-label="Book catalogue">
         <div class="toolbar">
-          <label class="search-wrap"><span class="sr-only">Search books by title or author</span><span class="search-icon" aria-hidden="true">⌕</span><input id="catalog-search" type="search" placeholder="Search titles, authors, subjects…" autocomplete="off"></label>
+          <label class="search-wrap"><span class="sr-only">Search books by title or author</span><span class="search-icon" aria-hidden="true">⌕</span><input id="catalog-search" type="search" placeholder="Search titles and authors…" autocomplete="off"></label>
           <label class="select-wrap"><span class="sr-only">Filter by discipline</span><select id="discipline-filter"><option value="all">All traditions</option></select></label>
         </div>
         <div class="results-line"><span id="result-count">Loading catalogue…</span><span>SELECT A BOOK TO READ</span></div>
@@ -39,8 +43,9 @@
         </div>
         <div class="reader-tools">
           <label class="reader-search"><span class="sr-only">Search within this book</span><span aria-hidden="true">⌕</span><input id="text-search" type="search" placeholder="Find in this book…" autocomplete="off"></label>
+          <div class="match-nav" id="match-nav" hidden><button id="previous-match" type="button" aria-label="Previous search result">↑</button><button id="next-match" type="button" aria-label="Next search result">↓</button></div>
           <label class="page-jump"><span>Page</span><input id="page-number" type="number" min="1" value="1"><span id="page-total"></span></label>
-          <span id="search-status" class="search-status"></span>
+          <span id="search-status" class="search-status" aria-live="polite"></span>
         </div>
         <div class="reader-layout"><aside id="chapter-list" class="chapter-list" hidden><h3>Contents</h3><div id="chapter-links"></div></aside><article class="page-card"><div class="page-meta" id="page-meta"></div><div id="page-text" class="page-text"></div><div class="page-nav"><button id="previous-page" type="button">← Previous</button><span id="page-position"></span><button id="next-page" type="button">Next →</button></div></article></div>
       </section>

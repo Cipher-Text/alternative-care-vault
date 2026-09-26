@@ -34,6 +34,7 @@ async function loadBook(id) {
   $("#chapter-list").hidden = true;
   $("#text-search").value = "";
   $("#search-status").textContent = "";
+  $("#match-nav").hidden = true;
   $("#library").hidden = true;
   state.activeBook = book;
   history.replaceState(null, "", `#book/${encodeURIComponent(id)}`);
@@ -88,13 +89,22 @@ function searchInBook() {
     state.matches = [];
     state.matchIndex = -1;
     $("#search-status").textContent = "";
+    $("#match-nav").hidden = true;
     return;
   }
   state.matches = [];
   for (let i = 0; i < state.pages.length; i++) if ((state.pages[i].text || "").toLocaleLowerCase().includes(query)) state.matches.push(i);
   state.matchIndex = state.matches.length ? 0 : -1;
-  $("#search-status").textContent = state.matches.length ? `${state.matches.length} matching pages` : "No matches";
-  if (state.matchIndex >= 0) changePage(state.matches[0]);
+  $("#match-nav").hidden = !state.matches.length;
+  $("#search-status").textContent = state.matches.length ? `1 of ${state.matches.length} matching pages` : "No matches";
+  if (state.matchIndex >= 0) changePage(state.matches[state.matchIndex]);
+}
+
+function moveMatch(direction) {
+  if (!state.matches.length) return;
+  state.matchIndex = (state.matchIndex + direction + state.matches.length) % state.matches.length;
+  $("#search-status").textContent = `${state.matchIndex + 1} of ${state.matches.length} matching pages`;
+  changePage(state.matches[state.matchIndex]);
 }
 
 async function start() {
@@ -119,9 +129,12 @@ async function start() {
 $("#catalog-search").addEventListener("input", renderCatalogue);
 $("#discipline-filter").addEventListener("change", renderCatalogue);
 $("#book-list").addEventListener("click", (event) => { const card = event.target.closest("[data-book]"); if (card) loadBook(card.dataset.book); });
+$(".brand").addEventListener("click", (event) => { if (!$("#reader").hidden) { event.preventDefault(); $("#back-button").click(); } });
 $("#back-button").addEventListener("click", () => { $("#reader").hidden = true; $("#library").hidden = false; history.replaceState(null, "", "#library"); window.scrollTo({ top: $("#library").offsetTop - 20, behavior: "smooth" }); });
 $("#previous-page").addEventListener("click", () => changePage(state.pageIndex - 1));
 $("#next-page").addEventListener("click", () => changePage(state.pageIndex + 1));
+$("#previous-match").addEventListener("click", () => moveMatch(-1));
+$("#next-match").addEventListener("click", () => moveMatch(1));
 $("#page-number").addEventListener("change", (event) => { const wanted = Number(event.target.value); let index = state.pages.findIndex((page, i) => (page.page_number ?? i + 1) === wanted); if (index < 0) index = Math.max(0, Math.min(state.pages.length - 1, wanted - 1)); changePage(index); });
 let searchTimer;
 $("#text-search").addEventListener("input", () => { clearTimeout(searchTimer); searchTimer = setTimeout(searchInBook, 180); });
