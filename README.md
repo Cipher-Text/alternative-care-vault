@@ -89,6 +89,8 @@ raw/                  original, unmodified source files (never edited in place)
 └── unani/
 processed/            clean derivatives generated from raw/, see below
 tools/                the processing pipeline (Python scripts + hand-maintained metadata)
+├── enrichment/       builds app/medicines.json and app/symptoms.json from the books + web (see "Medicines and symptoms data")
+app/                  medicines.json (170 records) and symptoms.json (72 records), EN + BN
 db/                   generated SQLite database (git-ignored, see "Book database" below)
 ```
 
@@ -159,6 +161,21 @@ Metadata should be maintained separately in a catalogue file — see `processed/
 - format
 - source
 - copyright/licence status
+
+## Medicines and symptoms data
+
+`app/medicines.json` (170 records: 66 homeopathy, 56 Ayurveda, 45 Unani, 3 herbal) and `app/symptoms.json` (72 records) are enriched from the processed books plus web research by the pipeline in `tools/enrichment/`. Each record has English and Bengali text. The Bengali was written by Claude and has **not** been reviewed by a native speaker.
+
+- **Homeopathy:** remedies are mined from Boericke's *Pocket Manual* headings and kept only if corroborated by other books; text is drawn from the Boericke/Kent-era materia medica in this collection.
+- **Ayurveda:** 52 formulations from the Oushadhi *Therapeutic Index* (ingredients, indications, dosage, paraphrased; see "Copyright and licensing").
+- **Unani:** 43 single drugs from the *Unani Pharmacopia of Bangladesh*, with the temperament, classical uses and dose; a few botanical identities are flagged `needs_verification` in `tools/enrichment/staging/provenance_unani.json`.
+- **Safety:** hazardous substances carry a caution and no self-medication dose. Entries state traditional claims, not clinical evidence.
+- **Duplicates:** `tools/enrichment/merge.py` resolves names, aliases and spelling variants (`aliases.json`) to one record per tradition and never overwrites an existing value; it only fills empty fields, so reruns are safe.
+
+```sh
+python3 tools/enrichment/merge.py medicines --drafts=drafts_ayurveda.json          # dry run
+python3 tools/enrichment/merge.py medicines --drafts=drafts_ayurveda.json --apply  # write app/medicines.json
+```
 
 ## Adding a book
 
