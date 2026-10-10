@@ -12,9 +12,9 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 50 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 51 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
-### Homeopathy (30 works)
+### Homeopathy (31 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -29,6 +29,7 @@ The collection currently contains 50 valid works. Homeopathy books are kept in [
 | `Edmund Jennings Lee - Repertory of the Characteristic Symptoms, Clinical and Pathogenetic, of the Homoeopathic Materia Medica - 1889.epub` | EPUB | Edmund Jennings Lee; homoeopathic materia medica repertory |
 | `Myron H. Adams - Practical Guide to Homeopathic Treatment - 1913.epub` | EPUB | Myron H. Adams; family and student guide to homeopathic treatment |
 | `Constantine Hering - The Guiding Symptoms of Our Materia Medica - Volume I (1879).epub` | EPUB | Constantine Hering; homoeopathic materia medica reference |
+| `Constantine Hering - The Guiding Symptoms of Our Materia Medica - Volume I (1879) - Page Scan.pdf` | PDF (page scan) | Same Volume I as the entry above, kept **alongside** it as a *complementary* copy (neither is strictly better): re-OCR'd from the Internet Archive image PDF (`guidingsymptomso00heri`, which is Volume I -- two other Hering items checked first were Vols III and IV), dehyphenated, with Hering's margin grading bars (OCR'd as letters glued to the first word, e.g. `tPulse`, `IFace`) restored as `\|`/`\|\|`, then corrected against the original text and proofread online Boericke text. About 6x less junk (0.54 vs 3.56 per 1,000 chars, bar mark excluded) and a dictionary rate of 0.848 vs 0.847, but ~9% more garbled one-off words. 545 pages (scan page index, blanks skipped). Public domain (1879). |
 | `ক্লিনিক্যাল মেটেরিয়া মেডিকা.epub` | EPUB | Bengali clinical materia medica reference; author and publication date not identified |
 | `হোমিওপ্যাথিক চিকিৎসা-দর্পন.epub` | EPUB | Bengali homoeopathic reference; metadata date 1303 BS |
 | `Samuel Hahnemann - Organon of Medicine.pdf` | PDF | Samuel Hahnemann; digitized edition from the Internet Archive |

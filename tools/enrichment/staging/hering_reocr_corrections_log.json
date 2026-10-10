@@ -1,0 +1,4441 @@
+{
+ "counts": {
+  "lexicon_pass1": 155,
+  "margin_markers": 3350,
+  "consensus": 254,
+  "lexicon_pass2": 13
+ },
+ "margin_markers": {
+  "changed": 3350,
+  "by_glyph": [
+   [
+    "t",
+    963
+   ],
+   [
+    "i",
+    693
+   ],
+   [
+    "I",
+    436
+   ],
+   [
+    "1",
+    353
+   ],
+   [
+    "11",
+    93
+   ],
+   [
+    "ti",
+    71
+   ],
+   [
+    "H",
+    67
+   ],
+   [
+    "tt",
+    63
+   ],
+   [
+    "1i",
+    38
+   ],
+   [
+    "!",
+    38
+   ],
+   [
+    "|1",
+    37
+   ],
+   [
+    "mid:|",
+    37
+   ],
+   [
+    "it",
+    34
+   ],
+   [
+    "mid:!",
+    33
+   ],
+   [
+    "mid:I",
+    31
+   ],
+   [
+    "mid:l",
+    25
+   ],
+   [
+    "1t",
+    23
+   ],
+   [
+    "ii",
+    17
+   ],
+   [
+    "mid:t",
+    15
+   ],
+   [
+    "mid:H",
+    14
+   ],
+   [
+    "Hi",
+    12
+   ],
+   [
+    "|",
+    9
+   ],
+   [
+    "tl",
+    8
+   ],
+   [
+    "It",
+    7
+   ],
+   [
+    "1!",
+    7
+   ],
+   [
+    "|!",
+    7
+   ],
+   [
+    "mid:f",
+    6
+   ],
+   [
+    "lc:US",
+    6
+   ],
+   [
+    "lc:ES",
+    6
+   ],
+   [
+    "lc:WS",
+    6
+   ],
+   [
+    "mid:i",
+    5
+   ],
+   [
+    "lc:BS",
+    5
+   ],
+   [
+    "lc:EC",
+    5
+   ],
+   [
+    "mid:e",
+    4
+   ],
+   [
+    "111",
+    4
+   ],
+   [
+    "lc:li",
+    4
+   ],
+   [
+    "lc:EW",
+    4
+   ],
+   [
+    "Ht",
+    4
+   ],
+   [
+    "t1",
+    4
+   ],
+   [
+    "mid:w",
+    3
+   ],
+   [
+    "il",
+    3
+   ],
+   [
+    "!1",
+    3
+   ],
+   [
+    "lc:it",
+    3
+   ],
+   [
+    "lc:u",
+    3
+   ],
+   [
+    "||",
+    3
+   ],
+   [
+    "lc:i",
+    3
+   ],
+   [
+    "mid:b",
+    3
+   ],
+   [
+    "lc:if",
+    3
+   ],
+   [
+    "lc:H",
+    2
+   ],
+   [
+    "lc:a",
+    2
+   ],
+   [
+    "lc:il",
+    2
+   ],
+   [
+    "lc:Un",
+    2
+   ],
+   [
+    "mid:1",
+    2
+   ],
+   [
+    "lc:ED",
+    2
+   ],
+   [
+    "lc:ca",
+    2
+   ],
+   [
+    "II",
+    2
+   ],
+   [
+    "lc:pi",
+    2
+   ],
+   [
+    "lc:e",
+    2
+   ],
+   [
+    "lc:Ur",
+    2
+   ],
+   [
+    "lc:c",
+    2
+   ],
+   [
+    "lc:Te",
+    2
+   ],
+   [
+    "1|",
+    2
+   ],
+   [
+    "l",
+    2
+   ],
+   [
+    "lc:ma",
+    2
+   ],
+   [
+    "lc:pe",
+    2
+   ],
+   [
+    "|i",
+    2
+   ],
+   [
+    "i1",
+    2
+   ],
+   [
+    "!!",
+    2
+   ],
+   [
+    "lc:or",
+    2
+   ],
+   [
+    "lc:er",
+    2
+   ],
+   [
+    "lc:td",
+    2
+   ],
+   [
+    "lc:L",
+    1
+   ],
+   [
+    "lc:cl",
+    1
+   ],
+   [
+    "lc:ep",
+    1
+   ],
+   [
+    "lc:ch",
+    1
+   ],
+   [
+    "lc:Ee",
+    1
+   ],
+   [
+    "1I",
+    1
+   ],
+   [
+    "t1!",
+    1
+   ],
+   [
+    "lc:tt",
+    1
+   ],
+   [
+    "tii",
+    1
+   ],
+   [
+    "lc:DA",
+    1
+   ],
+   [
+    "lc:UF",
+    1
+   ],
+   [
+    "lc:de",
+    1
+   ],
+   [
+    "lc:ET",
+    1
+   ],
+   [
+    "lc:ul",
+    1
+   ],
+   [
+    "tI",
+    1
+   ],
+   [
+    "lc:nW",
+    1
+   ],
+   [
+    "lc:EA",
+    1
+   ],
+   [
+    "lc:SC",
+    1
+   ],
+   [
+    "lc:fe",
+    1
+   ],
+   [
+    "lc:F",
+    1
+   ],
+   [
+    "lc:ne",
+    1
+   ],
+   [
+    "lc:ii",
+    1
+   ],
+   [
+    "lc:ll",
+    1
+   ],
+   [
+    "tti",
+    1
+   ],
+   [
+    "|!1",
+    1
+   ],
+   [
+    "lc:vi",
+    1
+   ],
+   [
+    "lc:|l",
+    1
+   ],
+   [
+    "lc:Ji",
+    1
+   ],
+   [
+    "1!|",
+    1
+   ],
+   [
+    "!i",
+    1
+   ],
+   [
+    "lc:Ta",
+    1
+   ],
+   [
+    "lc:ti",
+    1
+   ],
+   [
+    "lc:du",
+    1
+   ],
+   [
+    "lc:I",
+    1
+   ],
+   [
+    "lc:N",
+    1
+   ],
+   [
+    "lc:C",
+    1
+   ],
+   [
+    "lc:ha",
+    1
+   ],
+   [
+    "mid:u",
+    1
+   ],
+   [
+    "11|",
+    1
+   ],
+   [
+    "lc:JA",
+    1
+   ],
+   [
+    "lc:mi",
+    1
+   ],
+   [
+    "lc:t",
+    1
+   ],
+   [
+    "lc:na",
+    1
+   ],
+   [
+    "lc:fA",
+    1
+   ],
+   [
+    "|1|",
+    1
+   ],
+   [
+    "lc:Kl",
+    1
+   ],
+   [
+    "lc:Hi",
+    1
+   ],
+   [
+    "itl",
+    1
+   ],
+   [
+    "lc:se",
+    1
+   ],
+   [
+    "lc:BA",
+    1
+   ],
+   [
+    "lc:MS",
+    1
+   ],
+   [
+    "lc:BC",
+    1
+   ],
+   [
+    "lc:aC",
+    1
+   ],
+   [
+    "lc:OS",
+    1
+   ],
+   [
+    "lc:SL",
+    1
+   ],
+   [
+    "lc:to",
+    1
+   ],
+   [
+    "lc:Ii",
+    1
+   ],
+   [
+    "lt",
+    1
+   ],
+   [
+    "lc:nh",
+    1
+   ],
+   [
+    "lc:bU",
+    1
+   ],
+   [
+    "lc:BU",
+    1
+   ],
+   [
+    "lc:v",
+    1
+   ],
+   [
+    "lc:fC",
+    1
+   ],
+   [
+    "lc:WG",
+    1
+   ],
+   [
+    "lc:T",
+    1
+   ],
+   [
+    "Hl",
+    1
+   ],
+   [
+    "lc:UV",
+    1
+   ],
+   [
+    "lc:en",
+    1
+   ],
+   [
+    "li",
+    1
+   ],
+   [
+    "lc:bl",
+    1
+   ],
+   [
+    "lc:Me",
+    1
+   ],
+   [
+    "lc:BL",
+    1
+   ],
+   [
+    "lc:at",
+    1
+   ],
+   [
+    "lc:Is",
+    1
+   ],
+   [
+    "!11",
+    1
+   ],
+   [
+    "lc:ta",
+    1
+   ],
+   [
+    "iti",
+    1
+   ],
+   [
+    "lc:sA",
+    1
+   ],
+   [
+    "lc:BN",
+    1
+   ],
+   [
+    "Ii",
+    1
+   ],
+   [
+    "lc:Ho",
+    1
+   ],
+   [
+    "lc:p",
+    1
+   ],
+   [
+    "lc:pa",
+    1
+   ]
+  ]
+ },
+ "consensus": {
+  "changed": 254,
+  "unmatched_pages": 6,
+  "log": [
+   {
+    "page": 16,
+    "before": "homeceopathy",
+    "after": "homoeopathy"
+   },
+   {
+    "page": 18,
+    "before": "fodow",
+    "after": "follow"
+   },
+   {
+    "page": 20,
+    "before": "(ets",
+    "after": "(Gets"
+   },
+   {
+    "page": 22,
+    "before": "§crobiculum",
+    "after": "§Scrobiculum"
+   },
+   {
+    "page": 22,
+    "before": "'tImpeded",
+    "after": "'Impeded"
+   },
+   {
+    "page": 24,
+    "before": "Nua",
+    "after": "Nux"
+   },
+   {
+    "page": 25,
+    "before": "peison,",
+    "after": "poison,"
+   },
+   {
+    "page": 28,
+    "before": "enly",
+    "after": "only"
+   },
+   {
+    "page": 31,
+    "before": "Lloarse,",
+    "after": "Hoarse,"
+   },
+   {
+    "page": 34,
+    "before": "Calearea,",
+    "after": "Calcarea,"
+   },
+   {
+    "page": 35,
+    "before": "Hxtreme",
+    "after": "Extreme"
+   },
+   {
+    "page": 38,
+    "before": "foree",
+    "after": "force"
+   },
+   {
+    "page": 39,
+    "before": "ageravations",
+    "after": "aggravations"
+   },
+   {
+    "page": 39,
+    "before": "!lexternal",
+    "after": "!external"
+   },
+   {
+    "page": 41,
+    "before": "Wthick",
+    "after": "Thick"
+   },
+   {
+    "page": 42,
+    "before": "Eviolent",
+    "after": "Violent"
+   },
+   {
+    "page": 43,
+    "before": "Hof",
+    "after": "Lof"
+   },
+   {
+    "page": 43,
+    "before": "fof",
+    "after": "lof"
+   },
+   {
+    "page": 44,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea"
+   },
+   {
+    "page": 55,
+    "before": "Eby",
+    "after": "Iby"
+   },
+   {
+    "page": 58,
+    "before": "iIn",
+    "after": "Bin"
+   },
+   {
+    "page": 60,
+    "before": "ailated",
+    "after": "dilated"
+   },
+   {
+    "page": 65,
+    "before": "Leucorrheea,",
+    "after": "Leucorrhoea,"
+   },
+   {
+    "page": 65,
+    "before": "'iGiven",
+    "after": "'Given"
+   },
+   {
+    "page": 67,
+    "before": "yuietly",
+    "after": "quietly"
+   },
+   {
+    "page": 70,
+    "before": "uterie",
+    "after": "uterine"
+   },
+   {
+    "page": 76,
+    "before": "aull,",
+    "after": "dull,"
+   },
+   {
+    "page": 78,
+    "before": "Neuralgie",
+    "after": "Neuralgic"
+   },
+   {
+    "page": 78,
+    "before": "Kyes",
+    "after": "Eyes"
+   },
+   {
+    "page": 80,
+    "before": "shght",
+    "after": "slight"
+   },
+   {
+    "page": 80,
+    "before": "Ipressure",
+    "after": "Pressure"
+   },
+   {
+    "page": 82,
+    "before": "Blsevere",
+    "after": "Severe"
+   },
+   {
+    "page": 85,
+    "before": "seapula",
+    "after": "scapula"
+   },
+   {
+    "page": 87,
+    "before": "leucorrheea,",
+    "after": "leucorrhoea,"
+   },
+   {
+    "page": 91,
+    "before": "Nuz",
+    "after": "Nux"
+   },
+   {
+    "page": 95,
+    "before": "lienterie",
+    "after": "lienteric"
+   },
+   {
+    "page": 95,
+    "before": "'tPainfulness",
+    "after": "'Painfulness"
+   },
+   {
+    "page": 95,
+    "before": "Lxcessive",
+    "after": "Excessive"
+   },
+   {
+    "page": 98,
+    "before": "Hpileptic",
+    "after": "Epileptic"
+   },
+   {
+    "page": 101,
+    "before": "Tfeadache",
+    "after": "Headache"
+   },
+   {
+    "page": 102,
+    "before": "§crobiculum,",
+    "after": "§Scrobiculum,"
+   },
+   {
+    "page": 105,
+    "before": "coceyx:",
+    "after": "coccyx:"
+   },
+   {
+    "page": 108,
+    "before": "risitig",
+    "after": "rising"
+   },
+   {
+    "page": 109,
+    "before": "(reat",
+    "after": "(Great"
+   },
+   {
+    "page": 110,
+    "before": "émptiness",
+    "after": "éemptiness"
+   },
+   {
+    "page": 114,
+    "before": "tEruption",
+    "after": "Eruption"
+   },
+   {
+    "page": 114,
+    "before": "Nuzx",
+    "after": "Nux"
+   },
+   {
+    "page": 123,
+    "before": "Tleadache",
+    "after": "Headache"
+   },
+   {
+    "page": 125,
+    "before": "Kating",
+    "after": "Eating"
+   },
+   {
+    "page": 126,
+    "before": "Teaviness,",
+    "after": "Heaviness,"
+   },
+   {
+    "page": 131,
+    "before": "ecaperaeure",
+    "after": "Temperature"
+   },
+   {
+    "page": 134,
+    "before": "Leit",
+    "after": "Left"
+   },
+   {
+    "page": 135,
+    "before": "serobiculum,",
+    "after": "scrobiculum,"
+   },
+   {
+    "page": 136,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea"
+   },
+   {
+    "page": 141,
+    "before": "seratches",
+    "after": "scratches"
+   },
+   {
+    "page": 142,
+    "before": "Nua",
+    "after": "Nux"
+   },
+   {
+    "page": 143,
+    "before": "FSeeing",
+    "after": "Seeing"
+   },
+   {
+    "page": 144,
+    "before": "Kasily",
+    "after": "Easily"
+   },
+   {
+    "page": 144,
+    "before": "Hleaviness",
+    "after": "Heaviness"
+   },
+   {
+    "page": 145,
+    "before": "kyes",
+    "after": "Eyes"
+   },
+   {
+    "page": 146,
+    "before": "seurfy",
+    "after": "scurfy"
+   },
+   {
+    "page": 148,
+    "before": "Istinging",
+    "after": "Stinging"
+   },
+   {
+    "page": 149,
+    "before": "Kasily",
+    "after": "Easily"
+   },
+   {
+    "page": 152,
+    "before": "Leucorrheea",
+    "after": "Leucorrhoea"
+   },
+   {
+    "page": 152,
+    "before": "leucorrheea,",
+    "after": "leucorrhoea,"
+   },
+   {
+    "page": 153,
+    "before": "Conutriction",
+    "after": "Constriction"
+   },
+   {
+    "page": 160,
+    "before": "seabby,",
+    "after": "scabby,"
+   },
+   {
+    "page": 160,
+    "before": "Uleerated",
+    "after": "Ulcerated"
+   },
+   {
+    "page": 161,
+    "before": "Zinewm",
+    "after": "Zincum"
+   },
+   {
+    "page": 165,
+    "before": "obseured",
+    "after": "obscured"
+   },
+   {
+    "page": 169,
+    "before": "nauscous",
+    "after": "nauseous"
+   },
+   {
+    "page": 171,
+    "before": "fulmess",
+    "after": "fullness"
+   },
+   {
+    "page": 173,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea"
+   },
+   {
+    "page": 174,
+    "before": "vesicee",
+    "after": "vesicae"
+   },
+   {
+    "page": 175,
+    "before": "sequele",
+    "after": "sequels"
+   },
+   {
+    "page": 175,
+    "before": "Leucorrheea,",
+    "after": "Leucorrhoea,"
+   },
+   {
+    "page": 179,
+    "before": "searcely",
+    "after": "scarcely"
+   },
+   {
+    "page": 179,
+    "before": "Quter",
+    "after": "Outer"
+   },
+   {
+    "page": 180,
+    "before": "lon",
+    "after": "Ion"
+   },
+   {
+    "page": 180,
+    "before": "spme",
+    "after": "spine"
+   },
+   {
+    "page": 180,
+    "before": "vertebree",
+    "after": "vertebrae"
+   },
+   {
+    "page": 181,
+    "before": "vertebree",
+    "after": "vertebrae"
+   },
+   {
+    "page": 181,
+    "before": "Urper",
+    "after": "Upper"
+   },
+   {
+    "page": 181,
+    "before": "onvulsive",
+    "after": "Convulsive"
+   },
+   {
+    "page": 183,
+    "before": "Tiching,",
+    "after": "Itching,"
+   },
+   {
+    "page": 189,
+    "before": "-TEpilepsy,",
+    "after": "-Epilepsy,"
+   },
+   {
+    "page": 192,
+    "before": "hghtning",
+    "after": "lightning"
+   },
+   {
+    "page": 199,
+    "before": "Musearine,",
+    "after": "Muscarine,"
+   },
+   {
+    "page": 199,
+    "before": "aleoholic",
+    "after": "alcoholic"
+   },
+   {
+    "page": 202,
+    "before": "Kructations",
+    "after": "Eructations"
+   },
+   {
+    "page": 204,
+    "before": "Tloarseness",
+    "after": "Hoarseness"
+   },
+   {
+    "page": 205,
+    "before": "tAnxiety",
+    "after": "Anxiety"
+   },
+   {
+    "page": 212,
+    "before": "Lructation",
+    "after": "Eructation"
+   },
+   {
+    "page": 213,
+    "before": "Cushing,",
+    "after": "Gushing,"
+   },
+   {
+    "page": 215,
+    "before": "lez",
+    "after": "leg"
+   },
+   {
+    "page": 221,
+    "before": "Tiching",
+    "after": "Itching"
+   },
+   {
+    "page": 224,
+    "before": "adynamiec",
+    "after": "adynamic"
+   },
+   {
+    "page": 231,
+    "before": "ery,",
+    "after": "cry,"
+   },
+   {
+    "page": 233,
+    "before": "aud",
+    "after": "and"
+   },
+   {
+    "page": 234,
+    "before": "MHiccough,",
+    "after": "Hiccough,"
+   },
+   {
+    "page": 235,
+    "before": "Diarrheea",
+    "after": "Diarrhoea"
+   },
+   {
+    "page": 235,
+    "before": "vesicze",
+    "after": "vesicae"
+   },
+   {
+    "page": 236,
+    "before": "Elypertrophy",
+    "after": "Hypertrophy"
+   },
+   {
+    "page": 236,
+    "before": "Leucorrhcea",
+    "after": "Leucorrhoea"
+   },
+   {
+    "page": 236,
+    "before": "tdry,",
+    "after": "dry,"
+   },
+   {
+    "page": 239,
+    "before": "vesice",
+    "after": "vesicae"
+   },
+   {
+    "page": 239,
+    "before": "yawnmg",
+    "after": "yawning"
+   },
+   {
+    "page": 243,
+    "before": "Contum",
+    "after": "Conium"
+   },
+   {
+    "page": 244,
+    "before": "Nua",
+    "after": "Nux"
+   },
+   {
+    "page": 247,
+    "before": "Asthenie",
+    "after": "Asthenic"
+   },
+   {
+    "page": 248,
+    "before": "ccoecum,",
+    "after": "coecum,"
+   },
+   {
+    "page": 250,
+    "before": "coilection",
+    "after": "collection"
+   },
+   {
+    "page": 251,
+    "before": "ery",
+    "after": "cry"
+   },
+   {
+    "page": 251,
+    "before": "indistinet",
+    "after": "indistinct"
+   },
+   {
+    "page": 254,
+    "before": "Manthot",
+    "after": "Manihot"
+   },
+   {
+    "page": 255,
+    "before": "Eneyclopedia",
+    "after": "Encyclopedia"
+   },
+   {
+    "page": 258,
+    "before": "dise",
+    "after": "disc"
+   },
+   {
+    "page": 259,
+    "before": "(sequele",
+    "after": "(sequelae"
+   },
+   {
+    "page": 260,
+    "before": "Dyspneea,",
+    "after": "Dyspnoea,"
+   },
+   {
+    "page": 263,
+    "before": "exertiun",
+    "after": "exertion"
+   },
+   {
+    "page": 275,
+    "before": "Hyelids",
+    "after": "Eyelids"
+   },
+   {
+    "page": 275,
+    "before": "cireles",
+    "after": "circles"
+   },
+   {
+    "page": 275,
+    "before": "Kar",
+    "after": "Ear"
+   },
+   {
+    "page": 276,
+    "before": "ITearing",
+    "after": "Tearing"
+   },
+   {
+    "page": 280,
+    "before": "aud",
+    "after": "and"
+   },
+   {
+    "page": 282,
+    "before": "hypochondriae",
+    "after": "hypochondriac"
+   },
+   {
+    "page": 284,
+    "before": "przecordial",
+    "after": "precordial"
+   },
+   {
+    "page": 284,
+    "before": "piereing",
+    "after": "piercing"
+   },
+   {
+    "page": 284,
+    "before": "befure",
+    "after": "before"
+   },
+   {
+    "page": 286,
+    "before": "axille,",
+    "after": "axillae,"
+   },
+   {
+    "page": 286,
+    "before": "Ferrwm",
+    "after": "Ferrum"
+   },
+   {
+    "page": 289,
+    "before": "LEructations,",
+    "after": "Eructations,"
+   },
+   {
+    "page": 298,
+    "before": "fron:",
+    "after": "from:"
+   },
+   {
+    "page": 301,
+    "before": "Uleerated",
+    "after": "Ulcerated"
+   },
+   {
+    "page": 305,
+    "before": "Tongh,",
+    "after": "Tough,"
+   },
+   {
+    "page": 305,
+    "before": "Avergion",
+    "after": "Aversion"
+   },
+   {
+    "page": 306,
+    "before": "serobiculum",
+    "after": "scrobiculum"
+   },
+   {
+    "page": 307,
+    "before": "shght",
+    "after": "slight"
+   },
+   {
+    "page": 308,
+    "before": "seratching",
+    "after": "scratching"
+   },
+   {
+    "page": 315,
+    "before": "scapule",
+    "after": "scapulas"
+   },
+   {
+    "page": 317,
+    "before": "catile",
+    "after": "cattle"
+   },
+   {
+    "page": 325,
+    "before": "Lymphatie",
+    "after": "Lymphatic"
+   },
+   {
+    "page": 327,
+    "before": "seratch,",
+    "after": "scratch,"
+   },
+   {
+    "page": 327,
+    "before": "seraped",
+    "after": "scraped"
+   },
+   {
+    "page": 328,
+    "before": "Anthrae.?",
+    "after": "Anthrac.?"
+   },
+   {
+    "page": 332,
+    "before": "Ferrwm",
+    "after": "Ferrum"
+   },
+   {
+    "page": 333,
+    "before": "(idema",
+    "after": "(Edema"
+   },
+   {
+    "page": 334,
+    "before": "Tleat",
+    "after": "Heat"
+   },
+   {
+    "page": 334,
+    "before": "Exeruciating",
+    "after": "Excruciating"
+   },
+   {
+    "page": 336,
+    "before": "eestatic",
+    "after": "ecstatic"
+   },
+   {
+    "page": 336,
+    "before": "Eestasy",
+    "after": "Ecstasy"
+   },
+   {
+    "page": 336,
+    "before": "conduet",
+    "after": "conduct"
+   },
+   {
+    "page": 336,
+    "before": "Tanto",
+    "after": "Into"
+   },
+   {
+    "page": 337,
+    "before": "‘Quter",
+    "after": "‘Outer"
+   },
+   {
+    "page": 337,
+    "before": "tyrmpanum",
+    "after": "tympanum"
+   },
+   {
+    "page": 339,
+    "before": "Ifor",
+    "after": "For"
+   },
+   {
+    "page": 340,
+    "before": "MHiccough",
+    "after": "Hiccough"
+   },
+   {
+    "page": 341,
+    "before": "Tull",
+    "after": "Full"
+   },
+   {
+    "page": 341,
+    "before": "Diarrhcea,",
+    "after": "Diarrhoea,"
+   },
+   {
+    "page": 342,
+    "before": "Chronie",
+    "after": "Chronic"
+   },
+   {
+    "page": 343,
+    "before": "Leucorrhcea",
+    "after": "Leucorrhoea"
+   },
+   {
+    "page": 343,
+    "before": "Ulfirst",
+    "after": "First"
+   },
+   {
+    "page": 344,
+    "before": "Spasmodie",
+    "after": "Spasmodic"
+   },
+   {
+    "page": 346,
+    "before": "diarrheea",
+    "after": "diarrhoea"
+   },
+   {
+    "page": 350,
+    "before": "Spasmodie",
+    "after": "Spasmodic"
+   },
+   {
+    "page": 351,
+    "before": "sequelee",
+    "after": "sequelae"
+   },
+   {
+    "page": 352,
+    "before": "diarrheea,",
+    "after": "diarrhoea,"
+   },
+   {
+    "page": 360,
+    "before": "papille,",
+    "after": "papillae,"
+   },
+   {
+    "page": 362,
+    "before": "Cisophagus",
+    "after": "Esophagus"
+   },
+   {
+    "page": 362,
+    "before": "ood",
+    "after": "Good"
+   },
+   {
+    "page": 367,
+    "before": "Lvening,",
+    "after": "Evening,"
+   },
+   {
+    "page": 368,
+    "before": "ENo",
+    "after": "Ino"
+   },
+   {
+    "page": 369,
+    "before": "Leucorrheea",
+    "after": "Leucorrhoea"
+   },
+   {
+    "page": 370,
+    "before": "alinost",
+    "after": "almost"
+   },
+   {
+    "page": 371,
+    "before": "Dyspneea",
+    "after": "Dyspnoea"
+   },
+   {
+    "page": 373,
+    "before": "Expectoratioa",
+    "after": "Expectoration"
+   },
+   {
+    "page": 373,
+    "before": "gettimg",
+    "after": "getting"
+   },
+   {
+    "page": 374,
+    "before": "suberepitant",
+    "after": "subcrepitant"
+   },
+   {
+    "page": 383,
+    "before": "Kvery",
+    "after": "Every"
+   },
+   {
+    "page": 385,
+    "before": "tAcute",
+    "after": "Acute"
+   },
+   {
+    "page": 386,
+    "before": "Kethyma",
+    "after": "Ecthyma"
+   },
+   {
+    "page": 387,
+    "before": "Eraption",
+    "after": "Eruption"
+   },
+   {
+    "page": 388,
+    "before": "gonorrhoeal",
+    "after": "gonorrhoea"
+   },
+   {
+    "page": 395,
+    "before": "homcopathically",
+    "after": "homoeopathically"
+   },
+   {
+    "page": 396,
+    "before": "Ditliculty",
+    "after": "Difficulty"
+   },
+   {
+    "page": 398,
+    "before": "BAgitated,",
+    "after": "Agitated,"
+   },
+   {
+    "page": 400,
+    "before": "Flydrocephalus",
+    "after": "Hydrocephalus"
+   },
+   {
+    "page": 400,
+    "before": "Hydrocephalie",
+    "after": "Hydrocephalic"
+   },
+   {
+    "page": 405,
+    "before": "Kyes",
+    "after": "Eyes"
+   },
+   {
+    "page": 408,
+    "before": "Jength",
+    "after": "Length"
+   },
+   {
+    "page": 409,
+    "before": "hrysipelas",
+    "after": "Erysipelas"
+   },
+   {
+    "page": 416,
+    "before": "Chronie",
+    "after": "Chronic"
+   },
+   {
+    "page": 421,
+    "before": "Kvery",
+    "after": "Every"
+   },
+   {
+    "page": 423,
+    "before": "vesicee",
+    "after": "vesicae"
+   },
+   {
+    "page": 428,
+    "before": "iSwelling",
+    "after": "Swelling"
+   },
+   {
+    "page": 429,
+    "before": "leucorrheea",
+    "after": "leucorrhoea"
+   },
+   {
+    "page": 430,
+    "before": "leucorrheea,",
+    "after": "leucorrhoea,"
+   },
+   {
+    "page": 431,
+    "before": "stingmg",
+    "after": "stinging"
+   },
+   {
+    "page": 433,
+    "before": "scemed",
+    "after": "seemed"
+   },
+   {
+    "page": 434,
+    "before": "iExpectoration",
+    "after": "Expectoration"
+   },
+   {
+    "page": 434,
+    "before": "dyspneea,",
+    "after": "dyspnoea,"
+   },
+   {
+    "page": 438,
+    "before": "vertebree,",
+    "after": "vertebrae,"
+   },
+   {
+    "page": 438,
+    "before": "BSeveral",
+    "after": "Several"
+   },
+   {
+    "page": 443,
+    "before": "ery",
+    "after": "Very"
+   },
+   {
+    "page": 452,
+    "before": "otf",
+    "after": "of"
+   },
+   {
+    "page": 454,
+    "before": "anzemic",
+    "after": "anaemic"
+   },
+   {
+    "page": 455,
+    "before": "Cidema",
+    "after": "Edema"
+   },
+   {
+    "page": 460,
+    "before": "Krysipelatous",
+    "after": "Erysipelatous"
+   },
+   {
+    "page": 460,
+    "before": "ESequele",
+    "after": "Sequelae"
+   },
+   {
+    "page": 461,
+    "before": "Furuneuli",
+    "after": "Furunculi"
+   },
+   {
+    "page": 461,
+    "before": "diarrheea,",
+    "after": "diarrhoea,"
+   },
+   {
+    "page": 464,
+    "before": "alternaticn",
+    "after": "alternation"
+   },
+   {
+    "page": 468,
+    "before": "tSmall",
+    "after": "Small"
+   },
+   {
+    "page": 471,
+    "before": "Metallie",
+    "after": "Metallic"
+   },
+   {
+    "page": 472,
+    "before": "ery",
+    "after": "cry"
+   },
+   {
+    "page": 479,
+    "before": "Periodie",
+    "after": "Periodic"
+   },
+   {
+    "page": 479,
+    "before": "museles",
+    "after": "muscles"
+   },
+   {
+    "page": 481,
+    "before": "Useminal",
+    "after": "Seminal"
+   },
+   {
+    "page": 483,
+    "before": "Jast",
+    "after": "Last"
+   },
+   {
+    "page": 484,
+    "before": "Rheumatice",
+    "after": "Rheumatic"
+   },
+   {
+    "page": 484,
+    "before": "Suffness:",
+    "after": "Stiffness:"
+   },
+   {
+    "page": 493,
+    "before": "Hyeball",
+    "after": "Eyeball"
+   },
+   {
+    "page": 494,
+    "before": "ilvery",
+    "after": "livery"
+   },
+   {
+    "page": 495,
+    "before": "papillee",
+    "after": "papillae"
+   },
+   {
+    "page": 497,
+    "before": "Aiver",
+    "after": "After"
+   },
+   {
+    "page": 498,
+    "before": "Tvritative",
+    "after": "Irritative"
+   },
+   {
+    "page": 499,
+    "before": "iRegion",
+    "after": "Region"
+   },
+   {
+    "page": 500,
+    "before": "Diarrhoa",
+    "after": "Diarrhoea"
+   },
+   {
+    "page": 500,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea"
+   },
+   {
+    "page": 500,
+    "before": "Diarrhoca",
+    "after": "Diarrhoea"
+   },
+   {
+    "page": 500,
+    "before": "faeces",
+    "after": "fasces"
+   },
+   {
+    "page": 500,
+    "before": "Nlalternates",
+    "after": "Alternates"
+   },
+   {
+    "page": 501,
+    "before": "tenia",
+    "after": "taenia"
+   },
+   {
+    "page": 503,
+    "before": "Leucorrhcea",
+    "after": "Leucorrhoea"
+   },
+   {
+    "page": 505,
+    "before": "GNo",
+    "after": "Ino"
+   },
+   {
+    "page": 506,
+    "before": "tndurated",
+    "after": "Indurated"
+   },
+   {
+    "page": 507,
+    "before": "Spasmodie",
+    "after": "Spasmodic"
+   },
+   {
+    "page": 513,
+    "before": "cye;",
+    "after": "eye;"
+   },
+   {
+    "page": 516,
+    "before": "axille,",
+    "after": "axillae,"
+   },
+   {
+    "page": 519,
+    "before": "pait",
+    "after": "part"
+   },
+   {
+    "page": 520,
+    "before": "inoments",
+    "after": "moments"
+   },
+   {
+    "page": 523,
+    "before": "Anasarea",
+    "after": "Anasarca"
+   },
+   {
+    "page": 529,
+    "before": "Homeeopathic",
+    "after": "Homoeopathic"
+   },
+   {
+    "page": 530,
+    "before": "purciase",
+    "after": "purchase"
+   },
+   {
+    "page": 530,
+    "before": "Commitice",
+    "after": "Committee"
+   },
+   {
+    "page": 531,
+    "before": "Homceopathy",
+    "after": "Homoeopathy"
+   },
+   {
+    "page": 531,
+    "before": "THomMAS",
+    "after": "Thomas"
+   },
+   {
+    "page": 532,
+    "before": "Wuereas,",
+    "after": "Whereas,"
+   },
+   {
+    "page": 532,
+    "before": "Joun",
+    "after": "John"
+   },
+   {
+    "page": 532,
+    "before": "paTENtT",
+    "after": "patent"
+   },
+   {
+    "page": 533,
+    "before": "HomcopaTHIC",
+    "after": "Homceopathic"
+   },
+   {
+    "page": 533,
+    "before": "Joun",
+    "after": "John"
+   },
+   {
+    "page": 537,
+    "before": "HOMCOPATHIC",
+    "after": "HOMCEOPATHIC"
+   },
+   {
+    "page": 539,
+    "before": "Homeeopathy",
+    "after": "Homoeopathy"
+   }
+  ]
+ },
+ "lexicon_pass1": {
+  "fixes": {
+   "cesophagus": "oesophagus",
+   "dysmenorrhcea": "dysmenorrhoea",
+   "spermatorrhcea": "spermatorrhoea",
+   "diarrhcea": "diarrhoea",
+   "cedema": "oedema",
+   "rheumatie": "rheumatic",
+   "leucorrhcea": "leucorrhoea",
+   "lrembling": "trembling",
+   "gonorrheea": "gonorrhoea",
+   "gonorrhcea": "gonorrhoea",
+   "ttching": "itching",
+   "beericke": "boericke",
+   "tecth": "teeth",
+   "sealp": "scalp",
+   "ltching": "itching",
+   "heemorrhages": "haemorrhages",
+   "inereased": "increased",
+   "oeciput": "occiput",
+   "ceryza": "coryza",
+   "serofulous": "scrofulous",
+   "tncreased": "increased",
+   "trritable": "irritable",
+   "oceiput": "occiput",
+   "cedematous": "oedematous",
+   "eatarrh": "catarrh",
+   "itehing": "itching",
+   "fecling": "feeling",
+   "colie": "colic",
+   "bioody": "bloody",
+   "risimg": "rising",
+   "gonorrhceal": "gonorrhoeal",
+   "swelliug": "swelling",
+   "chronie": "chronic",
+   "seanty": "scanty",
+   "amenorrhcea": "amenorrhoea",
+   "dyspncea": "dyspnoea",
+   "uleers": "ulcers",
+   "urinatiou": "urination",
+   "twitehing": "twitching",
+   "joimts": "joints"
+  },
+  "suggestions_not_applied": {
+   "erent": "erect",
+   "peary": "weary",
+   "staten": "states",
+   "characreristic": "characteristic",
+   "centres": "centers",
+   "sepza": "sepia",
+   "chell": "chill",
+   "tnosebleed": "nosebleed",
+   "iloss": "loss",
+   "inever": "never",
+   "idisturbed": "disturbed",
+   "hdistended": "distended",
+   "ihard": "hard",
+   "trheumatism": "rheumatism",
+   "peison": "poison",
+   "hyperzemia": "hyperaemia",
+   "ihorrible": "horrible",
+   "idelirium": "delirium",
+   "istupor": "stupor",
+   "tprofuse": "profuse",
+   "tsleeplessness": "sleeplessness",
+   "ifebrile": "febrile",
+   "iputrid": "putrid",
+   "paroxymal": "paroxysmal",
+   "anzemia": "anaemia",
+   "calearea": "calcarea",
+   "uopium": "opium",
+   "idisposition": "disposition",
+   "irestlessness": "restlessness",
+   "isadness": "sadness",
+   "ifears": "fears",
+   "iobstinate": "obstinate",
+   "ithreatened": "threatened",
+   "hanxiety": "anxiety",
+   "fanxiety": "anxiety",
+   "lwith": "with",
+   "evertigo": "vertigo",
+   "hvertigo": "vertigo",
+   "tstupor": "stupor",
+   "tpulsation": "pulsation",
+   "icongestive": "congestive",
+   "icongestion": "congestion",
+   "tbends": "bends",
+   "tophthalmia": "ophthalmia",
+   "hypereemia": "hyperaemia",
+   "isticking": "sticking",
+   "tupper": "upper",
+   "tlids": "lids",
+   "iroaring": "roaring",
+   "iringing": "ringing",
+   "ustinging": "stinging",
+   "lexternal": "external",
+   "bcoryza": "coryza",
+   "ifluent": "fluent",
+   "lfrightened": "frightened",
+   "wfiery": "fiery",
+   "elips": "lips",
+   "wduring": "during",
+   "weverything": "everything",
+   "wthick": "thick",
+   "icopious": "copious",
+   "iuvula": "uvula",
+   "tswallowing": "swallowing",
+   "iwine": "wine",
+   "especiallly": "especially",
+   "eworse": "worse",
+   "ivomiting": "vomiting",
+   "hvomiting": "vomiting",
+   "hwhen": "when",
+   "fpressure": "pressure",
+   "ttension": "tension",
+   "epain": "pain",
+   "iliver": "liver",
+   "uolic": "colic",
+   "icolic": "colic",
+   "tcutting": "cutting",
+   "istool": "stool",
+   "tbleeding": "bleeding",
+   "irenal": "renal",
+   "ichildren": "children",
+   "imust": "must",
+   "idysuria": "dysuria",
+   "tenuresis": "enuresis",
+   "iretention": "retention",
+   "tstitching": "stitching",
+   "amenorrheea": "amenorrhoea",
+   "tvagina": "vagina",
+   "irestless": "restless",
+   "iimpending": "impending",
+   "thoarseness": "hoarseness",
+   "tlaryngeal": "laryngeal",
+   "ilabored": "labored",
+   "idifficult": "difficult",
+   "iworse": "worse",
+   "ethin": "thin",
+   "tfrom": "from",
+   "tlancinating": "lancinating",
+   "tintense": "intense",
+   "ifainting": "fainting",
+   "ufull": "full",
+   "islow": "slow",
+   "uslow": "slow",
+   "wlike": "like",
+   "iquick": "quick",
+   "tcrawling": "crawling",
+   "ticed": "tired",
+   "ishooting": "shooting",
+   "ihands": "hands",
+   "tshooting": "shooting",
+   "tlimbs": "limbs",
+   "icramps": "cramps",
+   "tcoldness": "coldness",
+   "iconvulsive": "convulsive",
+   "ilameness": "lameness",
+   "tloud": "loud",
+   "ifaintness": "faintness",
+   "lrestless": "restless",
+   "istarts": "starts",
+   "day’s": "days",
+   "tanxious": "anxious",
+   "ishuddering": "shuddering",
+   "hsudden": "sudden",
+   "hwith": "with",
+   "ichill": "chill",
+   "ialternate": "alternate",
+   "ithirst": "thirst",
+   "iinflammatory": "inflammatory",
+   "iprofuse": "profuse",
+   "imuscular": "muscular",
+   "tglands": "glands",
+   "wurse": "worse",
+   "itingling": "tingling",
+   "terythema": "erythema",
+   "irash": "rash",
+   "bscarlet": "scarlet",
+   "iespecially": "especially",
+   "fibre": "fire",
+   "edark": "dark",
+   "itendency": "tendency",
+   "tsulphur": "sulphur",
+   "usepia": "sepia",
+   "wcoffea": "coffea",
+   "paine": "pains",
+   "ailated": "dilated",
+   "ifear": "fear",
+   "ilncessant": "incessant",
+   "imental": "mental",
+   "imind": "mind",
+   "ifeels": "feels",
+   "irush": "rush",
+   "uintense": "intense",
+   "tdark": "dark",
+   "fwith": "with",
+   "bciliary": "ciliary",
+   "orehead": "forehead",
+   "tneuralgia": "neuralgia",
+   "believed": "relieved",
+   "eswollen": "swollen",
+   "isinking": "sinking",
+   "iuterine": "uterine",
+   "uhysterical": "hysterical",
+   "texhausting": "exhausting",
+   "igiven": "given",
+   "usleeplessness": "sleeplessness",
+   "tpuerperal": "puerperal",
+   "larnyx": "larynx",
+   "inight": "night",
+   "tsharp": "sharp",
+   "hpains": "pains",
+   "wquick": "quick",
+   "iweight": "weight",
+   "hdull": "dull",
+   "irheumatism": "rheumatism",
+   "tepilepsy": "epilepsy",
+   "inervous": "nervous",
+   "uterie": "uterine",
+   "igeneral": "general",
+   "iserous": "serous",
+   "inervousness": "nervousness",
+   "petroz": "petrol",
+   "halso": "also",
+   "iwarm": "warm",
+   "testh": "teeth",
+   "tlameness": "lameness",
+   "hyperzesthesia": "hyperaesthesia",
+   "ipricking": "pricking",
+   "lructations": "eructations",
+   "itaste": "taste",
+   "shght": "sight",
+   "uburning": "burning",
+   "mmuch": "much",
+   "tcongestion": "congestion",
+   "tthrobbing": "throbbing",
+   "tended": "tender",
+   "ifirst": "first",
+   "ustool": "stool",
+   "ibowels": "bowels",
+   "tanus": "anus",
+   "danus": "anus",
+   "iseveral": "several",
+   "happearance": "appearance",
+   "jrinary": "urinary",
+   "wdark": "dark",
+   "iwith": "with",
+   "lyellow": "yellow",
+   "tcatarrhal": "catarrhal",
+   "echronic": "chronic",
+   "seapula": "scapula",
+   "ufunctional": "functional",
+   "tspine": "spine",
+   "etearing": "tearing",
+   "edull": "dull",
+   "contin": "contain",
+   "nevve": "nerve",
+   "icracking": "cracking",
+   "blegs": "legs",
+   "iback": "back",
+   "ithoughts": "thoughts",
+   "ilntermittent": "intermittent",
+   "lrectum": "rectum",
+   "imucous": "mucous",
+   "fglandular": "glandular",
+   "ilead": "lead",
+   "uwith": "with",
+   "bsensation": "sensation",
+   "minability": "inability",
+   "sswelling": "swelling",
+   "therpetic": "herpetic",
+   "patient’s": "patients",
+   "tregurgitation": "regurgitation",
+   "tempty": "empty",
+   "icramp": "cramp",
+   "lxcessive": "excessive",
+   "ibright": "bright",
+   "ucopious": "copious",
+   "espasms": "spasms",
+   "tgeneral": "general",
+   "staying": "staring",
+   "tdilated": "dilated",
+   "tnausea": "nausea",
+   "epruritus": "pruritus",
+   "ideep": "deep",
+   "temission": "emission",
+   "tyellow": "yellow",
+   "fivery": "fiery",
+   "isleeplessness": "sleeplessness",
+   "coceyx": "coccyx",
+   "isprains": "sprains",
+   "iprevents": "prevents",
+   "atincture": "tincture",
+   "textremely": "extremely",
+   "ustupor": "stupor",
+   "tdizzy": "dizzy",
+   "edizziness": "dizziness",
+   "luent": "fluent",
+   "ecovered": "covered",
+   "tdiphtheria": "diphtheria",
+   "mptiness": "emptiness",
+   "pelled": "pulled",
+   "ealmost": "almost",
+   "trapid": "rapid",
+   "tneck": "neck",
+   "chial": "chill",
+   "tcold": "cold",
+   "jattacks": "attacks",
+   "ieruption": "eruption",
+   "tbody": "body",
+   "iwant": "want",
+   "driking": "drinking",
+   "ozzena": "ozaena",
+   "ispots": "spots",
+   "tsores": "sores",
+   "tcomplaints": "complaints",
+   "iurine": "urine",
+   "injuri": "injury",
+   "ithose": "those",
+   "ilife": "life",
+   "tweight": "weight",
+   "allin": "allen",
+   "igriping": "griping",
+   "drageing": "dragging",
+   "twatery": "watery",
+   "nwhen": "when",
+   "tstool": "stool",
+   "istricture": "stricture",
+   "feeces": "feces",
+   "tincontinence": "incontinence",
+   "tfullness": "fullness",
+   "tbackache": "backache",
+   "uterl": "uteri",
+   "isoles": "soles",
+   "zlimbs": "limbs",
+   "ihysteria": "hysteria",
+   "tbetter": "better",
+   "tspots": "spots",
+   "iridis": "iritis",
+   "cornez": "cornea",
+   "tpurulent": "purulent",
+   "otorrheea": "otorrhoea",
+   "inasal": "nasal",
+   "igums": "gums",
+   "ubitter": "bitter",
+   "ispreading": "spreading",
+   "ineuralgia": "neuralgia",
+   "ispasmodic": "spasmodic",
+   "tpyrosis": "pyrosis",
+   "tlead": "lead",
+   "infant’s": "infants",
+   "uslimy": "slimy",
+   "upains": "pains",
+   "eanus": "anus",
+   "apainful": "painful",
+   "imale": "male",
+   "iindurations": "indurations",
+   "vagine": "vagina",
+   "tsore": "sore",
+   "scough": "cough",
+   "tropy": "ropy",
+   "tatonic": "atonic",
+   "icrawling": "crawling",
+   "ilike": "like",
+   "irough": "rough",
+   "tchilblains": "chilblains",
+   "tindolent": "indolent",
+   "sudph": "sulph",
+   "iconfusion": "confusion",
+   "itime": "time",
+   "edisposition": "disposition",
+   "kasily": "easily",
+   "teverything": "everything",
+   "hleaviness": "heaviness",
+   "ewhen": "when",
+   "tspasmodic": "spasmodic",
+   "tredness": "redness",
+   "wdischarge": "discharge",
+   "ozeena": "ozaena",
+   "iseptum": "septum",
+   "narium": "natrium",
+   "itension": "tension",
+   "ttoothache": "toothache",
+   "lacrid": "acrid",
+   "uincreased": "increased",
+   "taversion": "aversion",
+   "isour": "sour",
+   "tliver": "liver",
+   "istitching": "stitching",
+   "idiarrhoea": "diarrhoea",
+   "iclots": "clots",
+   "eitching": "itching",
+   "uchronic": "chronic",
+   "tleucorrhoea": "leucorrhoea",
+   "ustitches": "stitches",
+   "lconstipation": "constipation",
+   "tconstipation": "constipation",
+   "stooped": "stopped",
+   "conutriction": "constriction",
+   "italking": "talking",
+   "ipalpitation": "palpitation",
+   "tdrawing": "drawing",
+   "tinvoluntary": "involuntary",
+   "tspasms": "spasms",
+   "iparalysis": "paralysis",
+   "tsleepiness": "sleepiness",
+   "tchill": "chill",
+   "tslight": "slight",
+   "ichlorosis": "chlorosis",
+   "tintolerable": "intolerable",
+   "uleerated": "ulcerated",
+   "exerescences": "excrescences",
+   "ileprosy": "leprosy",
+   "coniwm": "conium",
+   "thuya": "thuja",
+   "tdelirium": "delirium",
+   "ifollowed": "followed",
+   "climacterie": "climacteric",
+   "tfeeling": "feeling",
+   "muscee": "muscle",
+   "musce": "muscle",
+   "asthenepia": "asthenopia",
+   "tmuscular": "muscular",
+   "hulcers": "ulcers",
+   "ueyes": "eyes",
+   "ilancinating": "lancinating",
+   "pexpression": "expression",
+   "tsweetish": "sweetish",
+   "aphthze": "aphthae",
+   "ltaste": "taste",
+   "fpain": "pain",
+   "vites": "bites",
+   "tfetid": "fetid",
+   "litching": "itching",
+   "iurination": "urination",
+   "ipainful": "painful",
+   "lseveral": "several",
+   "hduring": "during",
+   "hloss": "loss",
+   "nlassitude": "lassitude",
+   "eprolapsus": "prolapsus",
+   "ifour": "four",
+   "ttickling": "tickling",
+   "vislent": "violent",
+   "tconvulsive": "convulsive",
+   "ijerking": "jerking",
+   "icervical": "cervical",
+   "iafter": "after",
+   "sensi": "sense",
+   "ispine": "spine",
+   "tspinal": "spinal",
+   "tsensitiveness": "sensitiveness",
+   "tsudden": "sudden",
+   "urper": "upper",
+   "onvulsive": "convulsive",
+   "tiching": "itching",
+   "tpains": "pains",
+   "ltearing": "tearing",
+   "titch": "itch",
+   "tlivid": "livid",
+   "lheadache": "headache",
+   "twith": "with",
+   "ithighs": "thighs",
+   "itremor": "tremor",
+   "iconvulsions": "convulsions",
+   "uepilepsy": "epilepsy",
+   "tparalysis": "paralysis",
+   "urresistible": "irresistible",
+   "eweary": "weary",
+   "isneezing": "sneezing",
+   "tibiz": "tibia",
+   "lsoreness": "soreness",
+   "groim": "groin",
+   "loften": "often",
+   "ievery": "every",
+   "tinternal": "internal",
+   "imuscles": "muscles",
+   "temaciation": "emaciation",
+   "iwhile": "while",
+   "puisat": "pulsat",
+   "imelancholy": "melancholy",
+   "imusic": "music",
+   "tcopious": "copious",
+   "usore": "sore",
+   "taccumulation": "accumulation",
+   "taggravation": "aggravation",
+   "teructations": "eructations",
+   "ecoldness": "coldness",
+   "iconstipation": "constipation",
+   "tlarge": "large",
+   "tsour": "sour",
+   "isore": "sore",
+   "tasthma": "asthma",
+   "ihollow": "hollow",
+   "uspasmodic": "spasmodic",
+   "iparoxysms": "paroxysms",
+   "tchoking": "choking",
+   "ifinger": "finger",
+   "tmost": "most",
+   "cumphor": "camphor",
+   "eeyelids": "eyelids",
+   "lructation": "eructation",
+   "tscrofulous": "scrofulous",
+   "uuterine": "uterine",
+   "ipulsating": "pulsating",
+   "inosebleed": "nosebleed",
+   "ebloody": "bloody",
+   "ienlarged": "enlarged",
+   "exeept": "except",
+   "cabbonicum": "carbonicum",
+   "lempty": "empty",
+   "tsplenic": "splenic",
+   "ilnvoluntary": "involuntary",
+   "tacrid": "acrid",
+   "wcatarrh": "catarrh",
+   "thysteria": "hysteria",
+   "laverse": "averse",
+   "thectic": "hectic",
+   "bedlad": "bellad",
+   "wnimical": "inimical",
+   "tneuralgic": "neuralgic",
+   "iltching": "itching",
+   "inose": "nose",
+   "kruption": "eruption",
+   "texternal": "external",
+   "tsometimes": "sometimes",
+   "mhiccough": "hiccough",
+   "kructations": "eructations",
+   "rfrequent": "frequent",
+   "hexcessive": "excessive",
+   "tgreen": "green",
+   "tstools": "stools",
+   "ihypertrophy": "hypertrophy",
+   "idaily": "daily",
+   "scapulz": "scapula",
+   "icold": "cold",
+   "icannot": "cannot",
+   "tchilliness": "chilliness",
+   "iproduces": "produces",
+   "contum": "conium",
+   "tsummer": "summer",
+   "tdifficult": "difficult",
+   "tlungs": "lungs",
+   "rosacee": "rosacea",
+   "ibrilliant": "brilliant",
+   "heaved": "heated",
+   "rosacew": "rosacea",
+   "intro": "into",
+   "ttemporal": "temporal",
+   "kverything": "everything",
+   "tciliary": "ciliary",
+   "hintense": "intense",
+   "icrampy": "crampy",
+   "iregion": "region",
+   "conyulsions": "convulsions",
+   "icardiac": "cardiac",
+   "tsuffocation": "suffocation",
+   "luttering": "fluttering",
+   "esevere": "severe",
+   "thands": "hands",
+   "exertiun": "exertion",
+   "tleast": "least",
+   "hopen": "open",
+   "excresences": "excrescences",
+   "imemory": "memory",
+   "ithinks": "thinks",
+   "ifixed": "fixed",
+   "tmelancholy": "melancholy",
+   "iexcited": "excited",
+   "tdullness": "dullness",
+   "uwaking": "waking",
+   "bnervous": "nervous",
+   "eweakness": "weakness",
+   "hour’s": "hours",
+   "hyelids": "eyelids",
+   "thardness": "hardness",
+   "tfluent": "fluent",
+   "trepeated": "repeated",
+   "iitching": "itching",
+   "jacute": "acute",
+   "tobacvo": "tobacco",
+   "iwater": "water",
+   "luntil": "until",
+   "tsuppuration": "suppuration",
+   "tthirst": "thirst",
+   "ihardness": "hardness",
+   "espasmodic": "spasmodic",
+   "battacks": "attacks",
+   "ecough": "cough",
+   "texpectoration": "expectoration",
+   "tchest": "chest",
+   "bchilblains": "chilblains",
+   "ttetanus": "tetanus",
+   "iepilepsy": "epilepsy",
+   "tsweats": "sweats",
+   "lobstruction": "obstruction",
+   "przecordial": "praecordial",
+   "piereing": "piercing",
+   "befure": "before",
+   "iwhite": "white",
+   "iexcessively": "excessively",
+   "ferrwm": "ferrum",
+   "unosebleed": "nosebleed",
+   "leructations": "eructations",
+   "nflammation": "inflammation",
+   "seratching": "scratching",
+   "hsoreness": "soreness",
+   "igrowths": "growths",
+   "bsubmaxillary": "submaxillary",
+   "isyphilis": "syphilis",
+   "teruptions": "eruptions",
+   "ipustules": "pustules",
+   "iulcerated": "ulcerated",
+   "wdifficulty": "difficulty",
+   "uswelling": "swelling",
+   "tabscesses": "abscesses",
+   "hrysipelatous": "erysipelatous",
+   "tboils": "boils",
+   "llancinating": "lancinating",
+   "krysipelas": "erysipelas",
+   "tscarlet": "scarlet",
+   "iulcers": "ulcers",
+   "nalis": "nails",
+   "vomice": "voice",
+   "facute": "acute",
+   "tongh": "tough",
+   "avergion": "aversion",
+   "icutting": "cutting",
+   "serotum": "scrotum",
+   "ithreatening": "threatening",
+   "tnodes": "nodes",
+   "scapulze": "scapulae",
+   "gangrenie": "gangrene",
+   "iintense": "intense",
+   "textending": "extending",
+   "timpossible": "impossible",
+   "toffensive": "offensive",
+   "imouth": "mouth",
+   "isaliva": "saliva",
+   "iswallowing": "swallowing",
+   "ovium": "opium",
+   "eswelling": "swelling",
+   "blivid": "livid",
+   "qsensation": "sensation",
+   "lymphatie": "lymphatic",
+   "tabundant": "abundant",
+   "igangrenous": "gangrenous",
+   "tabsorption": "absorption",
+   "iblack": "black",
+   "ilarge": "large",
+   "bmost": "most",
+   "teaspoonsful": "teaspoonful",
+   "hruptions": "eruptions",
+   "arsenitum": "arsenicum",
+   "echild": "child",
+   "econgestion": "congestion",
+   "taching": "aching",
+   "tdisposition": "disposition",
+   "fstoppage": "stoppage",
+   "isuppurating": "suppurating",
+   "tdryness": "dryness",
+   "iptyalism": "ptyalism",
+   "inursing": "nursing",
+   "tpainful": "painful",
+   "lwatery": "watery",
+   "hliquid": "liquid",
+   "istools": "stools",
+   "tbrown": "brown",
+   "texcited": "excited",
+   "itenderness": "tenderness",
+   "idischarge": "discharge",
+   "iinflamed": "inflamed",
+   "nafter": "after",
+   "hvoluptuous": "voluptuous",
+   "usleepiness": "sleepiness",
+   "linclination": "inclination",
+   "tuseful": "useful",
+   "ipimples": "pimples",
+   "tacne": "acne",
+   "iurticaria": "urticaria",
+   "tyoung": "young",
+   "srelationship": "relationship",
+   "hencke": "hence",
+   "iedges": "edges",
+   "teyes": "eyes",
+   "tnostrils": "nostrils",
+   "banxious": "anxious",
+   "isuffering": "suffering",
+   "econvulsive": "convulsive",
+   "tpustules": "pustules",
+   "tmouth": "mouth",
+   "tthick": "thick",
+   "wsmall": "small",
+   "iless": "less",
+   "tlittle": "little",
+   "baversion": "aversion",
+   "ifoul": "foul",
+   "enausea": "nausea",
+   "tgastric": "gastric",
+   "tpressure": "pressure",
+   "itenesmus": "tenesmus",
+   "iviolent": "violent",
+   "requent": "frequent",
+   "tcholera": "cholera",
+   "tspasm": "spasm",
+   "twarts": "warts",
+   "ifeeble": "feeble",
+   "tspeech": "speech",
+   "scroup": "croup",
+   "ibreathing": "breathing",
+   "tbreathing": "breathing",
+   "ibreath": "breath",
+   "achild": "child",
+   "toppression": "oppression",
+   "lrelieved": "relieved",
+   "isuffocative": "suffocative",
+   "mspells": "spells",
+   "ldrowsiness": "drowsiness",
+   "irelieves": "relieves",
+   "tbetween": "between",
+   "fviolent": "violent",
+   "bcough": "cough",
+   "trattling": "rattling",
+   "econstant": "constant",
+   "udifficult": "difficult",
+   "expectoratioa": "expectoration",
+   "xpectoration": "expectoration",
+   "gettimg": "getting",
+   "egreat": "great",
+   "imotion": "motion",
+   "islight": "slight",
+   "wrattling": "rattling",
+   "estrong": "strong",
+   "idilatation": "dilatation",
+   "ustiff": "stiff",
+   "ineck": "neck",
+   "imost": "most",
+   "tcould": "could",
+   "itwitching": "twitching",
+   "idampness": "dampness",
+   "ifingers": "fingers",
+   "ilimbs": "limbs",
+   "paing": "pains",
+   "tjerking": "jerking",
+   "uchild": "child",
+   "werves": "nerves",
+   "tchild": "child",
+   "iprostration": "prostration",
+   "teven": "even",
+   "esleeplessness": "sleeplessness",
+   "tnightly": "nightly",
+   "imorning": "morning",
+   "fafter": "after",
+   "echill": "chill",
+   "achilliness": "chilliness",
+   "itemperature": "temperature",
+   "tmucous": "mucous",
+   "tpustular": "pustular",
+   "oskin": "skin",
+   "ichest": "chest",
+   "eraption": "eruption",
+   "hchild": "child",
+   "dicated": "dilated",
+   "aafter": "after",
+   "troduced": "produced",
+   "lespecially": "especially",
+   "iincrease": "increase",
+   "homcopathically": "homeopathically",
+   "bchild": "child",
+   "ecould": "could",
+   "ethinks": "thinks",
+   "tnymphomania": "nymphomania",
+   "acrying": "crying",
+   "bsingle": "single",
+   "tconstantly": "constantly",
+   "tdread": "dread",
+   "ewill": "will",
+   "lirritable": "irritable",
+   "tailments": "ailments",
+   "requently": "frequently",
+   "sloss": "loss",
+   "bsudden": "sudden",
+   "iforehead": "forehead",
+   "tnervous": "nervous",
+   "imeningitis": "meningitis",
+   "ierysipelas": "erysipelas",
+   "twould": "would",
+   "idiplopia": "diplopia",
+   "adilated": "dilated",
+   "epupil": "pupil",
+   "ismarting": "smarting",
+   "cornex": "cornea",
+   "iiritis": "iritis",
+   "retine": "retina",
+   "tgreatly": "greatly",
+   "ilnflamed": "inflamed",
+   "photophopia": "photophobia",
+   "pviolent": "violent",
+   "ipuffy": "puffy",
+   "wscalding": "scalding",
+   "weyelids": "eyelids",
+   "iredness": "redness",
+   "iconjunctiva": "conjunctiva",
+   "teyelids": "eyelids",
+   "tlower": "lower",
+   "isecretion": "secretion",
+   "alupus": "lupus",
+   "ilashes": "flashes",
+   "ushooting": "shooting",
+   "texpression": "expression",
+   "iexpression": "expression",
+   "gdema": "dema",
+   "tsallow": "sallow",
+   "lushed": "flushed",
+   "tpeculiar": "peculiar",
+   "healed": "heated",
+   "iteeth": "teeth",
+   "tcannot": "cannot",
+   "uinability": "inability",
+   "ilnflammation": "inflammation",
+   "ongue": "tongue",
+   "etongue": "tongue",
+   "tcancer": "cancer",
+   "iscalded": "scalded",
+   "tfetor": "fetor",
+   "itenacious": "tenacious",
+   "itonsillitis": "tonsillitis",
+   "itonsils": "tonsils",
+   "hvivid": "vivid",
+   "tthroat": "throat",
+   "usensation": "sensation",
+   "ttalking": "talking",
+   "tdifficulty": "difficulty",
+   "tshivering": "shivering",
+   "tabsence": "absence",
+   "idesire": "desire",
+   "iextreme": "extreme",
+   "tgastralgia": "gastralgia",
+   "tcollapse": "collapse",
+   "tperitonitis": "peritonitis",
+   "ifullness": "fullness",
+   "esense": "sense",
+   "tenlargement": "enlargement",
+   "klectric": "electric",
+   "ttenesmus": "tenesmus",
+   "irepeated": "repeated",
+   "utendency": "tendency",
+   "byellowish": "yellowish",
+   "tpainless": "painless",
+   "ewatery": "watery",
+   "useveral": "several",
+   "iexcessive": "excessive",
+   "islimy": "slimy",
+   "tfrequent": "frequent",
+   "ismall": "small",
+   "tintestinal": "intestinal",
+   "lanus": "anus",
+   "uriae": "urine",
+   "epiles": "piles",
+   "bswelling": "swelling",
+   "trenal": "renal",
+   "imorbid": "morbid",
+   "ustitching": "stitching",
+   "umicturition": "micturition",
+   "bscanty": "scanty",
+   "isuppression": "suppression",
+   "burine": "urine",
+   "ipassed": "passed",
+   "ihalf": "half",
+   "bhydrocele": "hydrocele",
+   "itightness": "tightness",
+   "hpain": "pain",
+   "uirritation": "irritation",
+   "twhile": "while",
+   "tovary": "ovary",
+   "qovarian": "ovarian",
+   "hovarian": "ovarian",
+   "ibearing": "bearing",
+   "tulceration": "ulceration",
+   "tdiseases": "diseases",
+   "imenorrhagia": "menorrhagia",
+   "oongestive": "congestive",
+   "tsuppression": "suppression",
+   "igreen": "green",
+   "iabortion": "abortion",
+   "icancer": "cancer",
+   "tovarian": "ovarian",
+   "ihoarseness": "hoarseness",
+   "tvoice": "voice",
+   "tsubacute": "subacute",
+   "irattling": "rattling",
+   "trespiration": "respiration",
+   "irespiration": "respiration",
+   "tlabored": "labored",
+   "idyspnoea": "dyspnoea",
+   "ilntense": "intense",
+   "tshort": "short",
+   "tcoughing": "coughing",
+   "iexpectoration": "expectoration",
+   "fcough": "cough",
+   "ushort": "short",
+   "bafter": "after",
+   "teffusion": "effusion",
+   "bpulse": "pulse",
+   "hchest": "chest",
+   "wglands": "glands",
+   "expecially": "especially",
+   "ilower": "lower",
+   "scapulve": "scapulae",
+   "bseveral": "several",
+   "wsticking": "sticking",
+   "iwrist": "wrist",
+   "ivesicles": "vesicles",
+   "tboth": "both",
+   "ifeet": "feet",
+   "puralyzed": "paralyzed",
+   "teczema": "eczema",
+   "fankles": "ankles",
+   "tboring": "boring",
+   "tfoot": "foot",
+   "tswollen": "swollen",
+   "iswollen": "swollen",
+   "iheavy": "heavy",
+   "tdropsy": "dropsy",
+   "iunable": "unable",
+   "ysteria": "hysteria",
+   "twhole": "whole",
+   "ipartial": "partial",
+   "ileft": "left",
+   "isleepiness": "sleepiness",
+   "icontinuous": "continuous",
+   "tdisturbed": "disturbed",
+   "tsuddenly": "suddenly",
+   "waked": "wakes",
+   "tbefore": "before",
+   "ichilliness": "chilliness",
+   "hchill": "chill",
+   "tevening": "evening",
+   "eshivering": "shivering",
+   "talternate": "alternate",
+   "wsweat": "sweat",
+   "tchills": "chills",
+   "hanbs": "hands",
+   "anzemic": "anaemic",
+   "ttumors": "tumors",
+   "tunhealthy": "unhealthy",
+   "igout": "gout",
+   "lgouty": "gouty",
+   "wsharp": "sharp",
+   "carbuneles": "carbuncles",
+   "hanasarca": "anasarca",
+   "wgeneral": "general",
+   "idropsical": "dropsical",
+   "idropsy": "dropsy",
+   "hydrotborax": "hydrothorax",
+   "hruption": "eruption",
+   "twhite": "white",
+   "untensely": "intensely",
+   "tbright": "bright",
+   "tcovered": "covered",
+   "itred": "tired",
+   "turticaria": "urticaria",
+   "tmeasles": "measles",
+   "ulcera": "ulcers",
+   "wchild": "child",
+   "diarrhova": "diarrhoea",
+   "twomen": "women",
+   "altertating": "alternating",
+   "urritable": "irritable",
+   "tlymphatic": "lymphatic",
+   "meningites": "meningitis",
+   "astupor": "stupor",
+   "bling": "being",
+   "ipatient": "patient",
+   "tbloated": "bloated",
+   "ibilious": "bilious",
+   "wscanty": "scanty",
+   "tblood": "blood",
+   "igreatly": "greatly",
+   "idrowsiness": "drowsiness",
+   "estupor": "stupor",
+   "iclammy": "clammy",
+   "metallie": "metallic",
+   "fanxious": "anxious",
+   "ifelt": "felt",
+   "dulness": "dullness",
+   "blids": "lids",
+   "tstricture": "stricture",
+   "intolerence": "intolerance",
+   "taffections": "affections",
+   "esudden": "sudden",
+   "iscratching": "scratching",
+   "ppainful": "painful",
+   "anzesthesia": "anaesthesia",
+   "tbruised": "bruised",
+   "tsweat": "sweat",
+   "turination": "urination",
+   "hyellowish": "yellowish",
+   "iscrotum": "scrotum",
+   "ipurulent": "purulent",
+   "wsore": "sore",
+   "tulcers": "ulcers",
+   "tlaughing": "laughing",
+   "iphthisis": "phthisis",
+   "tstitches": "stitches",
+   "icalves": "calves",
+   "pulpitation": "palpitation",
+   "tjoints": "joints",
+   "estooping": "stooping",
+   "useminal": "seminal",
+   "wfatigue": "fatigue",
+   "imany": "many",
+   "ecrushed": "crushed",
+   "wovary": "ovary",
+   "buraing": "burning",
+   "kruptions": "eruptions",
+   "lyeop": "lycop",
+   "tfrequently": "frequently",
+   "tthinks": "thinks",
+   "toften": "often",
+   "iconstantly": "constantly",
+   "talways": "always",
+   "ieasily": "easily",
+   "hincessant": "incessant",
+   "isometimes": "sometimes",
+   "tconfusion": "confusion",
+   "uspells": "spells",
+   "astitches": "stitches",
+   "tpressing": "pressing",
+   "isight": "sight",
+   "wsuch": "such",
+   "lexcessive": "excessive",
+   "hyeball": "eyeball",
+   "tsyphilitic": "syphilitic",
+   "wciliary": "ciliary",
+   "tconjunctiva": "conjunctiva",
+   "ewith": "with",
+   "ismell": "smell",
+   "tcomplexion": "complexion",
+   "tlooks": "looks",
+   "icould": "could",
+   "ispeech": "speech",
+   "trawness": "rawness",
+   "dulled": "pulled",
+   "icoffee": "coffee",
+   "aiver": "liver",
+   "hructation": "eructation",
+   "kincessant": "incessant",
+   "tomach": "stomach",
+   "bflatulent": "flatulent",
+   "ignawing": "gnawing",
+   "ipassing": "passing",
+   "tbowels": "bowels",
+   "faeces": "fauces",
+   "estools": "stools",
+   "ibleeding": "bleeding",
+   "tscanty": "scanty",
+   "tretention": "retention",
+   "torchitis": "orchitis",
+   "iinternal": "internal",
+   "ispasms": "spasms",
+   "sawakes": "awakes",
+   "tnocturnal": "nocturnal",
+   "isubacute": "subacute",
+   "tpalpitation": "palpitation",
+   "tattack": "attack",
+   "tndurated": "indurated",
+   "ifrequently": "frequently",
+   "bnails": "nails",
+   "elassitude": "lassitude",
+   "tdebility": "debility",
+   "elimbs": "limbs",
+   "inightly": "nightly",
+   "inerves": "nerves",
+   "iperiodical": "periodical",
+   "tchorea": "chorea",
+   "icreeping": "creeping",
+   "isees": "sees",
+   "ucolic": "colic",
+   "stimulat": "stimulant",
+   "lasthma": "asthma",
+   "opthalmia": "ophthalmia",
+   "tchilly": "chilly",
+   "ichilly": "chilly",
+   "eevening": "evening",
+   "imalarial": "malarial",
+   "tasthmatic": "asthmatic",
+   "axillee": "axillae",
+   "iseptic": "septic",
+   "igetting": "getting",
+   "ierysipelatous": "erysipelatous",
+   "isyphilitic": "syphilitic",
+   "cruda": "crude",
+   "twarm": "warm",
+   "hating": "eating",
+   "iintestinal": "intestinal",
+   "iincreased": "increased",
+   "unephritis": "nephritis",
+   "timpotence": "impotence",
+   "tgonorrhoea": "gonorrhoea",
+   "taphonia": "aphonia",
+   "isuppressed": "suppressed",
+   "anasarea": "anasarca",
+   "krysipelatous": "erysipelatous",
+   "homeeopathic": "homeopathic",
+   "gudding": "guiding",
+   "homceopathy": "homeopathy",
+   "homcopathic": "homeopathic",
+   "speciaal": "special",
+   "homceopathically": "homeopathically",
+   "homeeopathy": "homeopathy",
+   "fcould": "could",
+   "tforgetful": "forgetful",
+   "ithinking": "thinking",
+   "traving": "craving",
+   "teasily": "easily",
+   "tstate": "state",
+   "wsuddenly": "suddenly"
+  },
+  "log": [
+   {
+    "page": 20,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 22,
+    "before": "Dysmenorrhcea",
+    "after": "Dysmenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 26,
+    "before": "Spermatorrhcea",
+    "after": "Spermatorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 30,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 32,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 32,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 42,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 42,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 43,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 43,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 44,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 58,
+    "before": "rheumatie",
+    "after": "rheumatic",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 69,
+    "before": "Dysmenorrhcea",
+    "after": "Dysmenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 79,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 82,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 84,
+    "before": "leucorrhcea",
+    "after": "leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 95,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 98,
+    "before": "lrembling",
+    "after": "trembling",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 103,
+    "before": "gonorrheea",
+    "after": "gonorrhoea",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 103,
+    "before": "gonorrhcea",
+    "after": "gonorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 103,
+    "before": "Ttching",
+    "after": "Itching",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 103,
+    "before": "Leucorrhcea",
+    "after": "Leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 118,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 133,
+    "before": "Beericke",
+    "after": "Boericke",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 137,
+    "before": "gonorrhcea",
+    "after": "gonorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 137,
+    "before": "leucorrhcea",
+    "after": "leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 141,
+    "before": "tecth",
+    "after": "teeth",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 142,
+    "before": "leucorrhcea",
+    "after": "leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 147,
+    "before": "Leucorrhcea",
+    "after": "Leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 148,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 148,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 148,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 152,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 157,
+    "before": "leucorrhcea",
+    "after": "leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 159,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 159,
+    "before": "sealp",
+    "after": "scalp",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 168,
+    "before": "ltching",
+    "after": "itching",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 170,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 175,
+    "before": "gonorrhcea",
+    "after": "gonorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 175,
+    "before": "Leucorrhcea",
+    "after": "Leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 180,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 191,
+    "before": "tecth",
+    "after": "teeth",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 196,
+    "before": "sealp",
+    "after": "scalp",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 198,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 204,
+    "before": "leucorrhcea",
+    "after": "leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 208,
+    "before": "leucorrhcea",
+    "after": "leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 216,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 220,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 228,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 229,
+    "before": "Ttching",
+    "after": "Itching",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 229,
+    "before": "heemorrhages",
+    "after": "haemorrhages",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 234,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 236,
+    "before": "gonorrheea",
+    "after": "gonorrhoea",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 236,
+    "before": "leucorrhcea",
+    "after": "leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 242,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 243,
+    "before": "inereased",
+    "after": "increased",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 244,
+    "before": "oeciput",
+    "after": "occiput",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 245,
+    "before": "Ceryza",
+    "after": "Coryza",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 246,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 246,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 249,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 249,
+    "before": "Serofulous",
+    "after": "Scrofulous",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 259,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 260,
+    "before": "Tncreased",
+    "after": "Increased",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 272,
+    "before": "Dysmenorrhcea",
+    "after": "Dysmenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 273,
+    "before": "Trritable",
+    "after": "Irritable",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 288,
+    "before": "Oceiput",
+    "after": "Occiput",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 298,
+    "before": "ltching",
+    "after": "itching",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 301,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 306,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 312,
+    "before": "leucorrhcea",
+    "after": "leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 320,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 320,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 323,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 325,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 325,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 328,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 331,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 333,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 336,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 336,
+    "before": "eatarrh",
+    "after": "catarrh",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 338,
+    "before": "itehing",
+    "after": "itching",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 338,
+    "before": "fecling",
+    "after": "feeling",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 342,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 342,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 358,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 359,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 362,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 363,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 364,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 364,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 365,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 366,
+    "before": "Colie",
+    "after": "Colic",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 366,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 367,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 369,
+    "before": "Dysmenorrhcea",
+    "after": "Dysmenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 369,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 372,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 373,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 375,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 375,
+    "before": "bioody",
+    "after": "bloody",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 378,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 379,
+    "before": "risimg",
+    "after": "rising",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 388,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 388,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 388,
+    "before": "gonorrhceal",
+    "after": "gonorrhoeal",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 406,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 408,
+    "before": "swelliug",
+    "after": "swelling",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 408,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 408,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 411,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 413,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 413,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 416,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 420,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 421,
+    "before": "Chronie",
+    "after": "Chronic",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 421,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 421,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 422,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 426,
+    "before": "seanty",
+    "after": "scanty",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 430,
+    "before": "Dysmenorrhcea",
+    "after": "Dysmenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 430,
+    "before": "Dysmenorrhcea",
+    "after": "Dysmenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 430,
+    "before": "Dysmenorrhcea",
+    "after": "Dysmenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 430,
+    "before": "dysmenorrhcea",
+    "after": "dysmenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 430,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 430,
+    "before": "amenorrhcea",
+    "after": "amenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 430,
+    "before": "Amenorrhcea",
+    "after": "Amenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 433,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 433,
+    "before": "Dyspncea",
+    "after": "Dyspnoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 435,
+    "before": "Amenorrhcea",
+    "after": "Amenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 440,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 444,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 449,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 456,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 459,
+    "before": "cedema",
+    "after": "oedema",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 459,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 460,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 461,
+    "before": "Uleers",
+    "after": "Ulcers",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 461,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 463,
+    "before": "diarrhcea",
+    "after": "diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 466,
+    "before": "Amenorrhcea",
+    "after": "Amenorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 476,
+    "before": "gonorrhcea",
+    "after": "gonorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 476,
+    "before": "gonorrhceal",
+    "after": "gonorrhoeal",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 476,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 480,
+    "before": "cedematous",
+    "after": "oedematous",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 496,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 497,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 497,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 498,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 500,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 514,
+    "before": "cesophagus",
+    "after": "oesophagus",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 516,
+    "before": "ltching",
+    "after": "itching",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 520,
+    "before": "urinatiou",
+    "after": "urination",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 522,
+    "before": "Twitehing",
+    "after": "Twitching",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 522,
+    "before": "joimts",
+    "after": "joints",
+    "reason": "ocr-confusion"
+   }
+  ]
+ },
+ "lexicon_pass2": {
+  "fixes": {
+   "gonorrheea": "gonorrhoea",
+   "leucorrhcea": "leucorrhoea",
+   "diarrhcea": "diarrhoea",
+   "dyspneea": "dyspnoea",
+   "cedema": "oedema",
+   "gonorrhceal": "gonorrhoeal",
+   "spasmodie": "spasmodic",
+   "stiffmess": "stiffness",
+   "tcndency": "tendency"
+  },
+  "suggestions_not_applied": {
+   "peary": "weary",
+   "staten": "states",
+   "characreristic": "characteristic",
+   "centres": "centers",
+   "sepza": "sepia",
+   "hyperzemia": "hyperaemia",
+   "paroxymal": "paroxysmal",
+   "anzemia": "anaemia",
+   "uopium": "opium",
+   "ivertigo": "vertigo",
+   "fanxiety": "anxiety",
+   "evertigo": "vertigo",
+   "hypereemia": "hyperaemia",
+   "ustinging": "stinging",
+   "bcoryza": "coryza",
+   "wfiery": "fiery",
+   "elips": "lips",
+   "wduring": "during",
+   "weverything": "everything",
+   "especiallly": "especially",
+   "eworse": "worse",
+   "fpressure": "pressure",
+   "istitches": "stitches",
+   "epain": "pain",
+   "uolic": "colic",
+   "tstitching": "stitching",
+   "amenorrheea": "amenorrhoea",
+   "irestless": "restless",
+   "tlaryngeal": "laryngeal",
+   "tdeep": "deep",
+   "idifficult": "difficult",
+   "ethin": "thin",
+   "ipulse": "pulse",
+   "ufull": "full",
+   "islow": "slow",
+   "uslow": "slow",
+   "wlike": "like",
+   "idelirium": "delirium",
+   "day’s": "days",
+   "ifever": "fever",
+   "wurse": "worse",
+   "fibre": "fire",
+   "tsulphur": "sulphur",
+   "usepia": "sepia",
+   "wcoffea": "coffea",
+   "paine": "pains",
+   "ilncessant": "incessant",
+   "uintense": "intense",
+   "bciliary": "ciliary",
+   "orehead": "forehead",
+   "believed": "relieved",
+   "eswollen": "swollen",
+   "iscanty": "scanty",
+   "uhysterical": "hysterical",
+   "isharp": "sharp",
+   "usleeplessness": "sleeplessness",
+   "larnyx": "larynx",
+   "wquick": "quick",
+   "petroz": "petrol",
+   "ipain": "pain",
+   "testh": "teeth",
+   "tlameness": "lameness",
+   "hyperzesthesia": "hyperaesthesia",
+   "lructations": "eructations",
+   "uburning": "burning",
+   "tcnderness": "tenderness",
+   "mmuch": "much",
+   "jrinary": "urinary",
+   "wdark": "dark",
+   "echronic": "chronic",
+   "contin": "contain",
+   "nevve": "nerve",
+   "blegs": "legs",
+   "ilntermittent": "intermittent",
+   "lrectum": "rectum",
+   "fglandular": "glandular",
+   "uwith": "with",
+   "bsensation": "sensation",
+   "minability": "inability",
+   "sswelling": "swelling",
+   "patient’s": "patients",
+   "ucopious": "copious",
+   "espasms": "spasms",
+   "staying": "staring",
+   "tchronic": "chronic",
+   "epruritus": "pruritus",
+   "atincture": "tincture",
+   "ustupor": "stupor",
+   "edizziness": "dizziness",
+   "luent": "fluent",
+   "ecovered": "covered",
+   "pelled": "pulled",
+   "ealmost": "almost",
+   "iweak": "weak",
+   "tneck": "neck",
+   "chial": "chill",
+   "jattacks": "attacks",
+   "driking": "drinking",
+   "ozzena": "ozaena",
+   "injuri": "injury",
+   "allin": "allen",
+   "drageing": "dragging",
+   "feeces": "feces",
+   "uterl": "uteri",
+   "zlimbs": "limbs",
+   "iridis": "iritis",
+   "cornez": "cornea",
+   "otorrheea": "otorrhoea",
+   "ubitter": "bitter",
+   "infant’s": "infants",
+   "uslimy": "slimy",
+   "igreat": "great",
+   "upains": "pains",
+   "apainful": "painful",
+   "vagine": "vagina",
+   "sudph": "sulph",
+   "edisposition": "disposition",
+   "teverything": "everything",
+   "wdischarge": "discharge",
+   "ozeena": "ozaena",
+   "narium": "natrium",
+   "lacrid": "acrid",
+   "uincreased": "increased",
+   "eitching": "itching",
+   "uchronic": "chronic",
+   "ustitches": "stitches",
+   "lconstipation": "constipation",
+   "stooped": "stopped",
+   "tabdomen": "abdomen",
+   "exerescences": "excrescences",
+   "ileprosy": "leprosy",
+   "coniwm": "conium",
+   "thuya": "thuja",
+   "idull": "dull",
+   "climacterie": "climacteric",
+   "muscee": "muscle",
+   "musce": "muscle",
+   "asthenepia": "asthenopia",
+   "hulcers": "ulcers",
+   "ueyes": "eyes",
+   "pexpression": "expression",
+   "aphthze": "aphthae",
+   "fpain": "pain",
+   "iburning": "burning",
+   "nlassitude": "lassitude",
+   "eprolapsus": "prolapsus",
+   "vislent": "violent",
+   "sensi": "sense",
+   "ltearing": "tearing",
+   "idrawing": "drawing",
+   "lheadache": "headache",
+   "uepilepsy": "epilepsy",
+   "eweary": "weary",
+   "ifrequent": "frequent",
+   "tibiz": "tibia",
+   "groim": "groin",
+   "puisat": "pulsat",
+   "icough": "cough",
+   "uspasmodic": "spasmodic",
+   "cumphor": "camphor",
+   "eeyelids": "eyelids",
+   "tdull": "dull",
+   "uuterine": "uterine",
+   "ebloody": "bloody",
+   "exeept": "except",
+   "cabbonicum": "carbonicum",
+   "lempty": "empty",
+   "ilnvoluntary": "involuntary",
+   "wcatarrh": "catarrh",
+   "kxhaustion": "exhaustion",
+   "bedlad": "bellad",
+   "wnimical": "inimical",
+   "iltching": "itching",
+   "kruption": "eruption",
+   "kructations": "eructations",
+   "rfrequent": "frequent",
+   "idiarrhoea": "diarrhoea",
+   "scapulz": "scapula",
+   "tsoreness": "soreness",
+   "isudden": "sudden",
+   "tchilliness": "chilliness",
+   "rosacee": "rosacea",
+   "heaved": "heated",
+   "rosacew": "rosacea",
+   "intro": "into",
+   "kverything": "everything",
+   "icrampy": "crampy",
+   "conyulsions": "convulsions",
+   "luttering": "fluttering",
+   "esevere": "severe",
+   "excresences": "excrescences",
+   "bnervous": "nervous",
+   "eweakness": "weakness",
+   "hour’s": "hours",
+   "tobacvo": "tobacco",
+   "espasmodic": "spasmodic",
+   "battacks": "attacks",
+   "tlegs": "legs",
+   "bchilblains": "chilblains",
+   "tiching": "itching",
+   "unosebleed": "nosebleed",
+   "nflammation": "inflammation",
+   "seratching": "scratching",
+   "wlcers": "ulcers",
+   "bsubmaxillary": "submaxillary",
+   "wdifficulty": "difficulty",
+   "hrysipelatous": "erysipelatous",
+   "llancinating": "lancinating",
+   "krysipelas": "erysipelas",
+   "vomice": "voice",
+   "serotum": "scrotum",
+   "tevery": "every",
+   "tworse": "worse",
+   "scapulze": "scapulae",
+   "gangrenie": "gangrene",
+   "terysipelatous": "erysipelatous",
+   "toffensive": "offensive",
+   "ovium": "opium",
+   "blivid": "livid",
+   "qsensation": "sensation",
+   "bmost": "most",
+   "teaspoonsful": "teaspoonful",
+   "arsenitum": "arsenicum",
+   "echild": "child",
+   "econgestion": "congestion",
+   "fstoppage": "stoppage",
+   "isuppurating": "suppurating",
+   "tdryness": "dryness",
+   "tdiarrhoea": "diarrhoea",
+   "tgreat": "great",
+   "nafter": "after",
+   "usleepiness": "sleepiness",
+   "srelationship": "relationship",
+   "hencke": "hence",
+   "thead": "head",
+   "banxious": "anxious",
+   "econvulsive": "convulsive",
+   "enausea": "nausea",
+   "hzemoptysis": "haemoptysis",
+   "requent": "frequent",
+   "scroup": "croup",
+   "achild": "child",
+   "ldrowsiness": "drowsiness",
+   "fviolent": "violent",
+   "imuch": "much",
+   "econstant": "constant",
+   "udifficult": "difficult",
+   "xpectoration": "expectoration",
+   "egreat": "great",
+   "wrattling": "rattling",
+   "estrong": "strong",
+   "tpulse": "pulse",
+   "paing": "pains",
+   "uchild": "child",
+   "werves": "nerves",
+   "esleeplessness": "sleeplessness",
+   "fafter": "after",
+   "dicated": "dilated",
+   "aafter": "after",
+   "troduced": "produced",
+   "bchild": "child",
+   "ecould": "could",
+   "ethinks": "thinks",
+   "tnymphomania": "nymphomania",
+   "acrying": "crying",
+   "lirritable": "irritable",
+   "requently": "frequently",
+   "bsudden": "sudden",
+   "adilated": "dilated",
+   "epupil": "pupil",
+   "eviolent": "violent",
+   "cornex": "cornea",
+   "retine": "retina",
+   "ilnflamed": "inflamed",
+   "photophopia": "photophobia",
+   "pviolent": "violent",
+   "ipuffy": "puffy",
+   "wscalding": "scalding",
+   "weyelids": "eyelids",
+   "tshooting": "shooting",
+   "tswelling": "swelling",
+   "alupus": "lupus",
+   "hyelids": "eyelids",
+   "ushooting": "shooting",
+   "gdema": "dema",
+   "lushed": "flushed",
+   "tskin": "skin",
+   "healed": "heated",
+   "uinability": "inability",
+   "ilnflammation": "inflammation",
+   "ongue": "tongue",
+   "etongue": "tongue",
+   "tleft": "left",
+   "usensation": "sensation",
+   "klectric": "electric",
+   "utendency": "tendency",
+   "byellowish": "yellowish",
+   "ewatery": "watery",
+   "useveral": "several",
+   "chyonic": "chronic",
+   "uriae": "urine",
+   "epiles": "piles",
+   "ustitching": "stitching",
+   "umicturition": "micturition",
+   "bhydrocele": "hydrocele",
+   "uirritation": "irritation",
+   "chieflly": "chiefly",
+   "qovarian": "ovarian",
+   "oongestive": "congestive",
+   "iabortion": "abortion",
+   "ilntense": "intense",
+   "ushort": "short",
+   "bafter": "after",
+   "bpulse": "pulse",
+   "expecially": "especially",
+   "scapulve": "scapulae",
+   "puralyzed": "paralyzed",
+   "fankles": "ankles",
+   "ysteria": "hysteria",
+   "waked": "wakes",
+   "eshivering": "shivering",
+   "wsweat": "sweat",
+   "hanbs": "hands",
+   "carbuneles": "carbuncles",
+   "wgeneral": "general",
+   "hydrotborax": "hydrothorax",
+   "kruptions": "eruptions",
+   "tscarlet": "scarlet",
+   "ulcera": "ulcers",
+   "wchild": "child",
+   "diarrhova": "diarrhoea",
+   "altertating": "alternating",
+   "urritable": "irritable",
+   "meningites": "meningitis",
+   "astupor": "stupor",
+   "ifinger": "finger",
+   "estupor": "stupor",
+   "tbody": "body",
+   "fanxious": "anxious",
+   "dulness": "dullness",
+   "intolerence": "intolerance",
+   "esudden": "sudden",
+   "iregion": "region",
+   "ppainful": "painful",
+   "anzesthesia": "anaesthesia",
+   "wungry": "hungry",
+   "tattacks": "attacks",
+   "pulpitation": "palpitation",
+   "estooping": "stooping",
+   "wfatigue": "fatigue",
+   "ilegs": "legs",
+   "ecrushed": "crushed",
+   "wovary": "ovary",
+   "buraing": "burning",
+   "lyeop": "lycop",
+   "tloss": "loss",
+   "iwhen": "when",
+   "astitches": "stitches",
+   "wsuch": "such",
+   "wciliary": "ciliary",
+   "ewith": "with",
+   "dulled": "pulled",
+   "hructation": "eructation",
+   "kincessant": "incessant",
+   "tomach": "stomach",
+   "bflatulent": "flatulent",
+   "elassitude": "lassitude",
+   "elimbs": "limbs",
+   "iperiodical": "periodical",
+   "kpilepsy": "epilepsy",
+   "ucolic": "colic",
+   "stimulat": "stimulant",
+   "opthalmia": "ophthalmia",
+   "eevening": "evening",
+   "axillee": "axillae",
+   "cruda": "crude",
+   "hating": "eating",
+   "unephritis": "nephritis",
+   "timpotence": "impotence",
+   "tgonorrhoea": "gonorrhoea",
+   "krysipelatous": "erysipelatous",
+   "gudding": "guiding",
+   "speciaal": "special",
+   "homceopathy": "homeopathy",
+   "homeeopathic": "homeopathic",
+   "homceopathically": "homeopathically",
+   "fcould": "could",
+   "wsuddenly": "suddenly"
+  },
+  "log": [
+   {
+    "page": 46,
+    "before": "Gonorrheea",
+    "after": "Gonorrhoea",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 84,
+    "before": "Leucorrhcea",
+    "after": "Leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 127,
+    "before": "Diarrhcea",
+    "after": "Diarrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 129,
+    "before": "Leucorrhcea",
+    "after": "Leucorrhoea",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 136,
+    "before": "dyspneea",
+    "after": "dyspnoea",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 153,
+    "before": "Dyspneea",
+    "after": "Dyspnoea",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 260,
+    "before": "Dyspneea",
+    "after": "Dyspnoea",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 290,
+    "before": "Gonorrheea",
+    "after": "Gonorrhoea",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 358,
+    "before": "Gonorrhceal",
+    "after": "Gonorrhoeal",
+    "reason": "ligature oe->ce"
+   },
+   {
+    "page": 410,
+    "before": "Spasmodie",
+    "after": "Spasmodic",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 438,
+    "before": "Stiffmess",
+    "after": "Stiffness",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 475,
+    "before": "Tcndency",
+    "after": "Tendency",
+    "reason": "ocr-confusion"
+   },
+   {
+    "page": 521,
+    "before": "Gonorrheea",
+    "after": "Gonorrhoea",
+    "reason": "ocr-confusion"
+   }
+  ]
+ }
+}

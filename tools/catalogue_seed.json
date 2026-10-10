@@ -164,7 +164,37 @@
     "author": "Constantine Hering",
     "year": 1879,
     "volume": "Volume I",
-    "language": "en"
+    "language": "en",
+    "see_also": "hering-guiding-symptoms-vol-1-1879-reocr"
+  },
+  {
+    "id": "hering-guiding-symptoms-vol-1-1879-reocr",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/Constantine Hering - The Guiding Symptoms of Our Materia Medica - Volume I (1879) - Page Scan.pdf",
+    "title": "The Guiding Symptoms of Our Materia Medica (page-scan re-OCR)",
+    "author": "Constantine Hering",
+    "year": 1879,
+    "volume": "Volume I",
+    "language": "en",
+    "source_format": "facsimile-pdf",
+    "ocr_lang": "eng",
+    "dehyphenate": true,
+    "ocr_threshold": false,
+    "note": "Re-OCR of the same Volume I (1879) from the Internet Archive scan guidingsymptomso00heri (image PDF), kept ALONGSIDE the original EPUB entry, not replacing it. Pages re-OCR'd by this pipeline (Tesseract eng, 300 dpi, no binarization -- this scan is clean -- line-break hyphens joined) and consensus-corrected against the original text; page_number is the scan page index (blank pages skipped), not the printed folio. See tools/process_book.py parse_source_facsimile_pdf and the re-OCR runbook in CLAUDE.md.",
+    "revision": {
+      "status": "re-ocr + margin-markers normalised + consensus/lexicon-corrected",
+      "date": "2026-10-11",
+      "reference": "the original EPUB entry (independent OCR of the same scan) and proofread online Boericke text",
+      "corrections": {
+        "lexicon_pass1": 155,
+        "margin_markers": 3350,
+        "consensus": 254,
+        "lexicon_pass2": 13
+      },
+      "log": "tools/enrichment/staging/hering_reocr_corrections_log.json",
+      "complements": "hering-guiding-symptoms-vol-1-1879",
+      "comparison": "junk 0.54 vs 3.56 per 1000 (excluding the | marker), dictionary rate 0.848 vs 0.847, but ~9% more garbled one-off words (1997 vs 1835); the grading marks in the margin are kept as | and || instead of letters; neither copy is strictly better"
+    }
   },
   {
     "id": "clinical-materia-medica-bengali",

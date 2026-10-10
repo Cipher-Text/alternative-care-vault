@@ -743,11 +743,11 @@ def _dehyphenate(text):
     return re.sub(r"([A-Za-z]{2,})-[ \t]*\n[ \t]*([a-z]{2,})", join, text)
 
 
-def parse_source_facsimile_pdf(pdf_path, ocr_lang, workers=6, dehyphenate=False):
+def parse_source_facsimile_pdf(pdf_path, ocr_lang, workers=6, dehyphenate=False, threshold=0.65):
     """For image-only PDFs (a page scan with no usable text layer). Renders each page at 300 dpi with `pdftoppm`,
     binarizes it (see _binarize_page) and runs the `tesseract` CLI (--psm 6). Needs poppler (`pdftoppm`/`pdfinfo`),
     tesseract, and numpy/scipy/Pillow. Set PROCESS_BOOK_OCR_CACHE=<dir> to reuse/store per-page text (<dir>/0001.txt ...)
-    so an interrupted ~15 min run can resume. `"dehyphenate": true` in the catalogue entry joins line-break hyphen splits (off by default). Blank pages are skipped; page_number is the scan page index."""
+    so an interrupted ~15 min run can resume. `"dehyphenate": true` in the catalogue entry joins line-break hyphen splits (off by default); `"ocr_threshold": <k>` overrides the binarization threshold, `false` skips binarization (clean scans). Blank pages are skipped; page_number is the scan page index."""
     n_pages = int(re.search(r"^Pages:\s+(\d+)", subprocess.run(["pdfinfo", str(pdf_path)], capture_output=True, text=True).stdout, re.M).group(1))
     cache = Path(os.environ["PROCESS_BOOK_OCR_CACHE"]) if os.environ.get("PROCESS_BOOK_OCR_CACHE") else None
     if cache: cache.mkdir(parents=True, exist_ok=True)
@@ -760,8 +760,10 @@ def parse_source_facsimile_pdf(pdf_path, ocr_lang, workers=6, dehyphenate=False)
             subprocess.run(["pdftoppm", "-r", "300", "-gray", "-f", str(i), "-l", str(i), "-png", str(pdf_path), f"{tmp}/p"],
                            capture_output=True)
             src = next(Path(tmp).glob("p-*.png"))
-            _binarize_page(src, f"{tmp}/b.png")
-            r = subprocess.run(["tesseract", f"{tmp}/b.png", "stdout", "-l", ocr_lang, "--psm", "6"],
+            img = f"{tmp}/b.png"
+            if threshold: _binarize_page(src, img, k=threshold)
+            else: img = str(src)                                   # clean scans OCR best with no binarization at all
+            r = subprocess.run(["tesseract", img, "stdout", "-l", ocr_lang, "--psm", "6"],
                                capture_output=True, text=True, env={**os.environ, "OMP_THREAD_LIMIT": "1"})
         if cached: cached.write_text(r.stdout)
         return i, r.stdout
@@ -947,7 +949,7 @@ def process_one(meta, raw_root, out_root):
     if meta.get("source_format") == "facsimile-epub":
         pages = parse_source_facsimile_epub(raw_path, meta.get("ocr_lang", "eng"))
     elif meta.get("source_format") == "facsimile-pdf":
-        pages = parse_source_facsimile_pdf(raw_path, meta.get("ocr_lang", "eng"), dehyphenate=meta.get("dehyphenate", False))
+        pages = parse_source_facsimile_pdf(raw_path, meta.get("ocr_lang", "eng"), dehyphenate=meta.get("dehyphenate", False), threshold=meta.get("ocr_threshold", 0.65))
     elif raw_path.suffix.lower() == ".pdf":
         pages = parse_source_pdf(raw_path)
     else:
