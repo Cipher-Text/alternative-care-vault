@@ -1,0 +1,417 @@
+[
+  {
+    "name_en": "Anjabar",
+    "botanical_name": "Bistorta officinalis (syn. Persicaria bistorta, Polygonum bistorta)",
+    "family": "Polygonaceae",
+    "common_name_en": "Bistort",
+    "category_unani": null,
+    "uses_modern": [
+      {"term": "Ishal", "meaning": "diarrhoea", "confidence": "sourced"},
+      {"term": "Zaheer", "meaning": "dysentery", "confidence": "caller-supplied"},
+      {"term": "Baul-ul-dam", "meaning": "blood in the urine", "confidence": "inferred from component words"},
+      {"term": "Ishal-e-Damvi", "meaning": "bloody diarrhoea", "confidence": "inferred from component words"},
+      {"term": "Sil", "meaning": "pulmonary tuberculosis / wasting lung disease", "confidence": "standard-glossary-knowledge"},
+      {"term": "Zof-e-Ishteha", "meaning": "loss of appetite", "confidence": "inferred from component words"},
+      {"term": "Sahaj-e-Ama", "meaning": "abrasion or erosion of the intestinal lining", "confidence": "standard-glossary-knowledge"},
+      {"term": "Ghasayan", "meaning": "nausea", "confidence": "standard-glossary-knowledge"},
+      {"term": "Bawaseer-e-Damia", "meaning": "bleeding haemorrhoids", "confidence": "sourced"},
+      {"term": "Wajaul mafasil", "meaning": "joint pain", "confidence": "sourced"},
+      {"term": "Wajaul amma", "meaning": "intestinal pain / colic", "confidence": "inferred from component words"}
+    ],
+    "description_en": "A rhizome rich in tannins, used as an astringent for diarrhoea, bleeding and wounds.",
+    "safety_note": null,
+    "evidence_note": "Traditional astringent use only; the sources found cite no clinical or pharmacological studies.",
+    "urls": ["https://en.wikipedia.org/wiki/Bistorta_officinalis"]
+  },
+  {
+    "name_en": "Attees Shireen",
+    "botanical_name": "Aconitum heterophyllum Wall. ex Royle",
+    "family": "Ranunculaceae",
+    "common_name_en": "Atis (Indian atees)",
+    "category_unani": "Daf-e-Humma (antipyretic), Qabiz (astringent), Habis-ud-Dam (styptic), Muqawwi-e-Meda (stomach tonic), Moharrik-e-Asab (nerve stimulant)",
+    "uses_modern": [
+      {"term": "Jof-e-Meda", "meaning": null, "confidence": "unconfirmed"},
+      {"term": "Qai", "meaning": "vomiting", "confidence": "standard-glossary-knowledge"},
+      {"term": "Ishal", "meaning": "diarrhoea", "confidence": "sourced"},
+      {"term": "Zaheer-e-Muzmin", "meaning": "chronic dysentery", "confidence": "inferred from component words"}
+    ],
+    "description_en": "A Himalayan herb whose root tubers are processed and used in Ayurvedic and Unani remedies, notably for fever and diarrhoea.",
+    "safety_note": "Aconitum roots contain toxic diterpenoid alkaloids that can be fatal to the heart and nerves, with a narrow safe range; raw root is the main hazard and traditional processing is used to reduce toxicity. Use only as processed, professionally supplied preparations.",
+    "evidence_note": "Traditional use with mainly preclinical research; no clinical trials found, and the species is IUCN Endangered.",
+    "urls": ["https://en.wikipedia.org/wiki/Aconitum_heterophyllum"],
+    "extra_search_sources_not_fetched": ["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8314510/"]
+  },
+  {
+    "name_en": "Bakayin",
+    "botanical_name": "Melia azedarach L.",
+    "family": "Meliaceae",
+    "common_name_en": "Chinaberry (Persian lilac)",
+    "category_unani": null,
+    "uses_modern": [
+      {"term": "Qula", "meaning": "stomatitis / mouth ulcers", "confidence": "standard-glossary-knowledge"},
+      {"term": "Juzam", "meaning": "leprosy", "confidence": "sourced"},
+      {"term": "Bars", "meaning": "vitiligo", "confidence": "sourced"},
+      {"term": "Arg-un Nisa", "meaning": "sciatica", "confidence": "sourced"},
+      {"term": "Nalkh-e-Shikam", "meaning": null, "confidence": "unconfirmed (possibly OCR error for Nafkh-e-Shikam, abdominal bloating)"}
+    ],
+    "description_en": "A tree whose bark is used in Unani medicine, while its berries are known to be poisonous.",
+    "safety_note": "Fruits and other parts contain meliatoxins (tetranortriterpenes); eating the berries can cause vomiting, diarrhoea, seizures and cardiac effects, and deaths have been reported.",
+    "evidence_note": "Traditional use only; no clinical trials found, and the plant is mainly studied as a pesticide and for its toxicity.",
+    "urls": ["https://en.wikipedia.org/wiki/Melia_azedarach", "https://www.ivis.org/library/guide-to-poisonous-house-and-garden-plants/melia-azedarach-chinaberry"]
+  },
+  {
+    "name_en": "Baobarang",
+    "botanical_name": "Embelia ribes Burm.f.",
+    "family": "Primulaceae",
+    "common_name_en": "False black pepper (vidanga)",
+    "category_unani": "Qatil-e-Deedan-e-A'ama (anthelmintic), Mushil (purgative)",
+    "uses_modern": [
+      {"term": "Deedan-e-A'ama", "meaning": "intestinal worms", "confidence": "inferred from component words"},
+      {"term": "Waj-ul-Mafasil", "meaning": "joint pain", "confidence": "sourced"}
+    ],
+    "description_en": "The dried berries of a climbing shrub, traditionally used to expel intestinal worms.",
+    "safety_note": "Animal studies show anti-implantation and antifertility effects (embelin) and fetal abnormalities in rats given high doses of a formulation containing it; reviewers advise caution in pregnancy and in children. No human safety data found.",
+    "evidence_note": "Mostly preclinical research; one small children's study reported worm clearance, and reviewers call for clinical trials.",
+    "urls": ["https://en.wikipedia.org/wiki/Embelia_ribes", "https://pmc.ncbi.nlm.nih.gov/articles/PMC9311956/"]
+  },
+  {
+    "name_en": "Basal",
+    "botanical_name": "Allium cepa L.",
+    "family": "Amaryllidaceae",
+    "common_name_en": "Onion (seeds)",
+    "category_unani": null,
+    "uses_modern": [
+      {"term": "Daus-Salab", "meaning": "alopecia areata (patchy hair loss)", "confidence": "standard-glossary-knowledge"},
+      {"term": "Kalaf", "meaning": "melasma / facial pigmentation", "confidence": "standard-glossary-knowledge"},
+      {"term": "Behaq", "meaning": "pityriasis (patchy skin discolouration)", "confidence": "unconfirmed"},
+      {"term": "Zof-e-Bah", "meaning": "sexual weakness / low libido", "confidence": "standard-glossary-knowledge"},
+      {"term": "Zof-e-Asab", "meaning": "nervous weakness", "confidence": "inferred from component words"}
+    ],
+    "description_en": "The seeds of the common onion, used in Unani medicine for skin, hair and sexual weakness complaints.",
+    "safety_note": "Onions can cause contact allergy, dermatitis and, rarely, anaphylaxis in sensitive people.",
+    "evidence_note": "Traditional use; no clinical evidence found for the seed uses listed.",
+    "urls": ["https://en.wikipedia.org/wiki/Onion"]
+  },
+  {
+    "name_en": "Behman Safed",
+    "botanical_name": "Centaurea behen L.",
+    "family": "Asteraceae",
+    "common_name_en": "White behen",
+    "category_unani": null,
+    "uses_modern": [
+      {"term": "Zaufe Diamgh", "meaning": "weakness of the brain / cognitive weakness", "confidence": "inferred from component words"},
+      {"term": "Qalb wa Jigar", "meaning": "heart and liver complaints", "confidence": "inferred from component words"},
+      {"term": "Khafqan", "meaning": "palpitation", "confidence": "sourced"},
+      {"term": "Warme Kabid", "meaning": "liver inflammation / swelling", "confidence": "inferred from component words"},
+      {"term": "Malenkolia (Melancholia)", "meaning": "melancholia (low mood)", "confidence": "inferred from component words"},
+      {"term": "Zaufe Bah", "meaning": "sexual weakness / low libido", "confidence": "standard-glossary-knowledge"},
+      {"term": "Yarqan", "meaning": "jaundice", "confidence": "standard-glossary-knowledge"},
+      {"term": "Hissate urda", "meaning": "kidney stones (likely Hasat-e-Kulya)", "confidence": "unconfirmed"},
+      {"term": "Hissate Masana", "meaning": "bladder stones", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "A root used as a traditional tonic in Unani and Ayurvedic medicine, mainly for heart, liver and sexual weakness.",
+    "safety_note": null,
+    "evidence_note": "Traditional use only; no clinical studies found.",
+    "urls": ["https://en.wikipedia.org/wiki/Centaurea_behen"]
+  },
+  {
+    "name_en": "Behman Surkh",
+    "botanical_name": "Salvia pratensis subsp. haematodes (syn. Salvia haematodes)",
+    "family": "Lamiaceae",
+    "common_name_en": "Red behen (meadow clary)",
+    "category_unani": null,
+    "uses_modern": [
+      {"term": "Khafqan", "meaning": "palpitation", "confidence": "sourced"},
+      {"term": "Zof-e-Qalb", "meaning": "weakness of the heart", "confidence": "inferred from component words"},
+      {"term": "Zof-e-Bah", "meaning": "sexual weakness / low libido", "confidence": "standard-glossary-knowledge"},
+      {"term": "Zof-e-Demagh", "meaning": "weakness of the brain / cognitive weakness", "confidence": "inferred from component words"}
+    ],
+    "description_en": "A red-tinted root of a sage-family plant used as a traditional heart and brain tonic.",
+    "safety_note": null,
+    "evidence_note": "Traditional use only; Wikipedia coverage of this species gives no medicinal evidence, and the identity of red behen in Unani literature is not firmly settled.",
+    "urls": ["https://en.wikipedia.org/wiki/Salvia_pratensis"]
+  },
+  {
+    "name_en": "Chanbeli",
+    "botanical_name": "Jasminum officinale L.",
+    "family": "Oleaceae",
+    "common_name_en": "Common jasmine",
+    "category_unani": "Musakkin-e-Waj-e-Dandan (relieves toothache)",
+    "uses_modern": [
+      {"term": "Qula", "meaning": "stomatitis / mouth ulcers", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "The leaves of a fragrant climbing jasmine, used traditionally for mouth ulcers and toothache.",
+    "safety_note": "Jasmine can cause allergic reactions and skin irritation; its effect during breastfeeding has not been adequately studied.",
+    "evidence_note": "Traditional use; the sources found describe fragrance and cultural use and cite no clinical evidence for the leaf uses.",
+    "urls": ["https://en.wikipedia.org/wiki/Jasminum_officinale", "https://en.wikipedia.org/wiki/Jasmine"]
+  },
+  {
+    "name_en": "Darchini",
+    "botanical_name": "Cinnamomum verum J.Presl (syn. C. zeylanicum)",
+    "family": "Lauraceae",
+    "common_name_en": "Cinnamon (Ceylon cinnamon)",
+    "category_unani": "Mulattif, Kasir-e-Riyah (carminative), Munaffis-e-Balgam (expectorant), Muqawwi-e-Meda, Muqawwi-e-Kabid, Qabiz, Moharrik-e-Bah, Mudirr-e-Baul (diuretic), Mudirr-e-Haiz (emmenagogue)",
+    "uses_modern": [
+      {"term": "Bakhr-ul-Fam", "meaning": "bad breath (halitosis)", "confidence": "standard-glossary-knowledge"},
+      {"term": "Bahaq", "meaning": "pityriasis (patchy skin discolouration)", "confidence": "unconfirmed"},
+      {"term": "Zof-e-Bah", "meaning": "sexual weakness / low libido", "confidence": "standard-glossary-knowledge"},
+      {"term": "Zeequn Nafas", "meaning": "asthma / shortness of breath", "confidence": "sourced"},
+      {"term": "Ehtebas-e-Baul", "meaning": "urinary retention", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "The inner bark of the cinnamon tree, a common spice used traditionally to aid digestion and breathing.",
+    "safety_note": "Some cinnamon products are high in coumarin, which can harm the liver; stomach upset and allergic reactions occur, and it may interact with drugs processed by CYP450 enzymes and statins. Medicinal doses in pregnancy are not well studied.",
+    "evidence_note": "Mixed evidence for blood sugar and lipid effects; other traditional uses lack scientific support.",
+    "urls": ["https://en.wikipedia.org/wiki/Cinnamomum_verum", "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/cinnamon"]
+  },
+  {
+    "name_en": "Funduq",
+    "botanical_name": "Corylus avellana L.",
+    "family": "Betulaceae",
+    "common_name_en": "Hazelnut (European hazel)",
+    "category_unani": null,
+    "uses_modern": [
+      {"term": "Zof-e-Dimagh", "meaning": "weakness of the brain / cognitive weakness", "confidence": "inferred from component words"},
+      {"term": "Zof-e-Kabid", "meaning": "weakness of the liver", "confidence": "inferred from component words"},
+      {"term": "Suzak", "meaning": "gonorrhoea", "confidence": "standard-glossary-knowledge"},
+      {"term": "Khafqan", "meaning": "palpitation", "confidence": "sourced"},
+      {"term": "Zeequn Nafas", "meaning": "asthma / shortness of breath", "confidence": "sourced"},
+      {"term": "Qillat-e-Kerm-e-Mani", "meaning": "low sperm count", "confidence": "inferred from component words"},
+      {"term": "Zof-e-Kerm-e-Mani", "meaning": "weak or poor-quality sperm", "confidence": "inferred from component words"}
+    ],
+    "description_en": "The edible hazelnut, used in Unani medicine as a general tonic and for sexual and respiratory complaints.",
+    "safety_note": "Hazelnuts are a tree-nut allergen and can trigger reactions from mild to severe anaphylaxis in allergic people (stated in the monograph; not confirmed by the Wikipedia pages fetched).",
+    "evidence_note": "Traditional use; no clinical evidence found for the listed Unani uses.",
+    "urls": ["https://en.wikipedia.org/wiki/Common_hazel", "https://en.wikipedia.org/wiki/Hazelnut"]
+  },
+  {
+    "name_en": "Heel Khurd",
+    "botanical_name": "Elettaria cardamomum (L.) Maton",
+    "family": "Zingiberaceae",
+    "common_name_en": "Cardamom (green cardamom)",
+    "category_unani": "Muqawwi-e-Meda (stomach tonic), Mutayyib-e-Dahan (breath freshener), Kasir-e-Riyah (carminative), Mufarreh (exhilarant), Musakkin, Muqawwi-e-Qalb (heart tonic)",
+    "uses_modern": [
+      {"term": "Bakhr-ul-Fam", "meaning": "bad breath (halitosis)", "confidence": "standard-glossary-knowledge"},
+      {"term": "Zof-e-Hazm", "meaning": "weak digestion / indigestion", "confidence": "inferred from component words"},
+      {"term": "Nafkh-e-Shikam", "meaning": "abdominal bloating / flatulence", "confidence": "standard-glossary-knowledge"},
+      {"term": "Zof-e-Qalb", "meaning": "weakness of the heart", "confidence": "inferred from component words"},
+      {"term": "Khafqan", "meaning": "palpitation", "confidence": "sourced"},
+      {"term": "Qai", "meaning": "vomiting", "confidence": "standard-glossary-knowledge"},
+      {"term": "Ghisyan", "meaning": "nausea", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "The aromatic seeds of the cardamom plant, a spice used traditionally for digestion, nausea and bad breath.",
+    "safety_note": "Food amounts are fine, but medicinal amounts are not well studied in pregnancy and breastfeeding; the seed can trigger gallstone colic, so avoid larger-than-food amounts with gallstones.",
+    "evidence_note": "Traditional digestive use only; reviewers rate the evidence for medicinal uses as insufficient.",
+    "urls": ["https://en.wikipedia.org/wiki/Cardamom", "https://www.rxlist.com/supplements/cardamom.htm"]
+  },
+  {
+    "name_en": "Hummaz",
+    "botanical_name": "Rumex vesicarius L.",
+    "family": "Polygonaceae",
+    "common_name_en": "Ruby dock (bladder dock)",
+    "category_unani": "Mufarreh (exhilarant), Muqawwi-e-Bah, Mutayyib-e-Dahan, Muqawwi-e-Meda, Qabiz (astringent), Kasir-e-Riyah (carminative), Mukhaddir (narcotic/numbing)",
+    "uses_modern": [
+      {"term": "Ishal", "meaning": "diarrhoea", "confidence": "sourced"},
+      {"term": "Qurooh-e-Ama", "meaning": "intestinal ulcers", "confidence": "inferred from component words"},
+      {"term": "Ghasayan", "meaning": "nausea", "confidence": "standard-glossary-knowledge"},
+      {"term": "Qai", "meaning": "vomiting", "confidence": "standard-glossary-knowledge"},
+      {"term": "Atash-e-Mufrit", "meaning": "excessive thirst", "confidence": "inferred from component words"},
+      {"term": "Taqteer-e-Baul", "meaning": "painful, dribbling urination", "confidence": "standard-glossary-knowledge"},
+      {"term": "Humma", "meaning": "fever", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "The seeds of a tart-leaved dock plant, used traditionally for diarrhoea, nausea and thirst.",
+    "safety_note": "Rumex plants contain oxalic acid and some anthraquinones; reviews flag possible oxalate and anthraquinone-related adverse effects, though species-specific data were not found.",
+    "evidence_note": "Animal studies show liver-protective and antioxidant effects; no clinical trials found.",
+    "urls": ["https://en.wikipedia.org/wiki/Rumex_vesicarius"],
+    "extra_search_sources_not_fetched": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC12714801"]
+  },
+  {
+    "name_en": "Kababchini",
+    "botanical_name": "Piper cubeba L.f.",
+    "family": "Piperaceae",
+    "common_name_en": "Cubeb (tailed pepper)",
+    "category_unani": "Mulattif, Mufatteh-Sudad (unblocks obstructions), Mutayyib-e-Dahan, Mohallil-e-Waram (anti-inflammatory), Mudirr-e-Baul (diuretic), Mudirr-e-Haiz (emmenagogue)",
+    "uses_modern": [
+      {"term": "Sual", "meaning": "cough", "confidence": "sourced"},
+      {"term": "Qurooh", "meaning": "ulcers / sores", "confidence": "standard-glossary-knowledge"},
+      {"term": "Ehtebas-e-Boul", "meaning": "urinary retention", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "The dried berries of a climbing pepper, used traditionally for coughs and urinary complaints.",
+    "safety_note": "The constituent cubebin irritates mucous membranes; animal toxicity studies found no harm at tested doses but no human safety data exist. The monograph notes blood-pressure lowering and drowsiness with anaesthetic drugs.",
+    "evidence_note": "Mostly lab and animal research; the only human report is a single case study, so clinical evidence is lacking.",
+    "urls": ["https://en.wikipedia.org/wiki/Cubeb", "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.1048520/full"]
+  },
+  {
+    "name_en": "Kalonji",
+    "botanical_name": "Nigella sativa L.",
+    "family": "Ranunculaceae",
+    "common_name_en": "Black seed (black cumin)",
+    "category_unani": "Jali (cleanser), Munaffis-e-Balgham (expectorant), Muqawwi-e-Meda, Qatil-e-Deedan-e-A'ama (anthelmintic), Mudirr-e-Haiz, Musakkin, Mohallil-e-Waram",
+    "uses_modern": [
+      {"term": "Bahaq", "meaning": "pityriasis (patchy skin discolouration)", "confidence": "unconfirmed"},
+      {"term": "Bars", "meaning": "vitiligo", "confidence": "sourced"},
+      {"term": "Quba", "meaning": "ringworm (dermatophytosis)", "confidence": "sourced"},
+      {"term": "Shaqeeqa", "meaning": "migraine / one-sided headache", "confidence": "standard-glossary-knowledge"},
+      {"term": "Zeequn Nafas", "meaning": "asthma / shortness of breath", "confidence": "sourced"},
+      {"term": "Zof-e-Meda", "meaning": "weak stomach / digestion", "confidence": "inferred from component words"},
+      {"term": "Nafkh-e-Shikam", "meaning": "abdominal bloating / flatulence", "confidence": "standard-glossary-knowledge"},
+      {"term": "Qulanj", "meaning": "colic", "confidence": "standard-glossary-knowledge"},
+      {"term": "Yarqan", "meaning": "jaundice", "confidence": "standard-glossary-knowledge"},
+      {"term": "Waj-ul-Mafasil", "meaning": "joint pain", "confidence": "sourced"},
+      {"term": "Waj-ul-Qutn", "meaning": "lower back pain", "confidence": "standard-glossary-knowledge"},
+      {"term": "Falij", "meaning": "paralysis", "confidence": "standard-glossary-knowledge"},
+      {"term": "Laqwa", "meaning": "facial paralysis (Bell's palsy)", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "The black seeds of the nigella plant, a widely used spice and traditional remedy for respiratory, digestive and skin conditions.",
+    "safety_note": "Amounts above food levels are considered likely unsafe in pregnancy because it may relax the uterus; it may lower blood sugar and pressure and affect clotting, and may interact with CYP2D6/3A4 drugs and warfarin. Topical oil has caused contact dermatitis.",
+    "evidence_note": "Insufficient high-quality clinical evidence; small trials suggest possible benefit in asthma, arthritis and blood pressure, but results are mixed.",
+    "urls": ["https://en.wikipedia.org/wiki/Nigella_sativa", "https://www.mskcc.org/print/cancer-care/integrative-medicine/herbs/nigella-sativa"]
+  },
+  {
+    "name_en": "Kamila",
+    "botanical_name": "Mallotus philippensis (Lam.) Müll.Arg.",
+    "family": "Euphorbiaceae",
+    "common_name_en": "Kamala tree (monkey-face tree)",
+    "category_unani": "Qatil-e-Deedan-e-A'ama (anthelmintic), Mushil (purgative), Mujaffif (drying), Daf-e-Tafun (antiseptic)",
+    "uses_modern": [
+      {"term": "Bussor", "meaning": "pustular skin eruptions", "confidence": "unconfirmed"},
+      {"term": "Jarab", "meaning": "scabies", "confidence": "standard-glossary-knowledge"},
+      {"term": "Hikka", "meaning": "hiccups", "confidence": "standard-glossary-knowledge"},
+      {"term": "Deedan-e-A'ama", "meaning": "intestinal worms", "confidence": "inferred from component words"}
+    ],
+    "description_en": "The red powder from the fruit of a small tree, used traditionally as a purgative and worm remedy.",
+    "safety_note": "Dedicated human toxicity data are lacking; a rat study of seed extract reduced fertility hormones, and the powder is often adulterated. The monograph notes nausea. As a purgative it can irritate the gut.",
+    "evidence_note": "Traditional anthelmintic use; modern work is mostly preclinical and a review says anthelmintic activity still needs investigation.",
+    "urls": ["https://en.wikipedia.org/wiki/Mallotus_philippensis", "https://pmc.ncbi.nlm.nih.gov/articles/PMC4109133"]
+  },
+  {
+    "name_en": "Kaner",
+    "botanical_name": "Nerium oleander L.",
+    "family": "Apocynaceae",
+    "common_name_en": "Oleander",
+    "category_unani": "Muqawwi-e-Bah, Musaffi-e-Dam (blood purifier), Jali (cleanser), Mujaffif (drying), Muhallil-e-Waram (anti-inflammatory)",
+    "uses_modern": [
+      {"term": "Juzam", "meaning": "leprosy", "confidence": "sourced"},
+      {"term": "Bars", "meaning": "vitiligo", "confidence": "sourced"},
+      {"term": "Aatishak", "meaning": "syphilis", "confidence": "standard-glossary-knowledge"},
+      {"term": "Suzak", "meaning": "gonorrhoea", "confidence": "standard-glossary-knowledge"},
+      {"term": "Qurooh", "meaning": "ulcers / sores", "confidence": "standard-glossary-knowledge"},
+      {"term": "Zof-e-Bah", "meaning": "sexual weakness / low libido", "confidence": "standard-glossary-knowledge"},
+      {"term": "Fasad-ud-Dam", "meaning": "impure or vitiated blood", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "The leaves of the oleander shrub, used externally and in tiny doses in Unani skin and venereal remedies.",
+    "safety_note": "Highly poisonous: contains cardiac glycosides such as oleandrin that cause vomiting, slow or irregular heartbeat and can be fatal, with deaths reported from teas made from leaves; sap irritates skin and eyes. Should not be self-administered.",
+    "evidence_note": "No clinical evidence supports the traditional uses; modern literature focuses on its toxicity.",
+    "urls": ["https://en.wikipedia.org/wiki/Nerium"],
+    "extra_search_sources_not_fetched": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC11946565/"]
+  },
+  {
+    "name_en": "Khar-E-Khasak Khurd",
+    "botanical_name": "Tribulus terrestris L.",
+    "family": "Zygophyllaceae",
+    "common_name_en": "Puncture vine (small caltrops)",
+    "category_unani": "Mudirr-e-Boul (diuretic), Mudirr-e-Haiz (emmenagogue), Mufattit-e-Hasat (stone breaker)",
+    "uses_modern": [
+      {"term": "Hasat-e-Masana", "meaning": "bladder stones", "confidence": "standard-glossary-knowledge"},
+      {"term": "Hirqat-ul-Boul", "meaning": "burning urination", "confidence": "standard-glossary-knowledge"},
+      {"term": "Ehtabas-e-Haiz", "meaning": "absent or suppressed menstruation", "confidence": "inferred from component words"},
+      {"term": "Surat-e-Inzal", "meaning": "premature ejaculation", "confidence": "standard-glossary-knowledge"},
+      {"term": "Jiryan", "meaning": "spermatorrhoea (involuntary loss of semen)", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "The spiny fruits of a creeping weed, used traditionally for urinary stones and sexual complaints.",
+    "safety_note": "Reports of stomach irritation and, in case reports, serious liver, kidney and nerve toxicity and priapism; may add to blood-pressure, diabetes and diuretic drugs, and pregnancy use is considered possibly unsafe. Prostate cancer patients should consult a doctor.",
+    "evidence_note": "Human trials show mixed or no effect on testosterone and athletic performance; evidence for stones is lab and animal only.",
+    "urls": ["https://en.wikipedia.org/wiki/Tribulus_terrestris", "https://www.mskcc.org/print/cancer-care/integrative-medicine/herbs/tribulus-terrestris"]
+  },
+  {
+    "name_en": "Khiyar Shamber",
+    "botanical_name": "Cassia fistula L.",
+    "family": "Fabaceae",
+    "common_name_en": "Golden shower tree (purging cassia)",
+    "category_unani": "Mushil (purgative), Mulaiyin (laxative), Mohallil-e-Waram (anti-inflammatory), Mudirr-e-Haiz (emmenagogue)",
+    "uses_modern": [
+      {"term": "Qabz", "meaning": "constipation", "confidence": "sourced"},
+      {"term": "Sual", "meaning": "cough", "confidence": "sourced"},
+      {"term": "Waram-e-Lauzatain", "meaning": "tonsillitis (swollen tonsils)", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "The sweet pulp from the long pods of the golden shower tree, a gentle traditional laxative.",
+    "safety_note": "Can cause nausea, vomiting, abdominal cramps and diarrhoea; the monograph advises avoiding it in pregnancy and lactation, and Ayurvedic texts discourage self-medication.",
+    "evidence_note": "A small meta-analysis suggests partial benefit for childhood constipation, but the studies are few and at high risk of bias.",
+    "urls": ["https://en.wikipedia.org/wiki/Cassia_fistula"],
+    "extra_search_sources_not_fetched": ["https://pubmed.ncbi.nlm.nih.gov/35974950/"]
+  },
+  {
+    "name_en": "Khiyarzah",
+    "botanical_name": "Cucumis melo L.",
+    "family": "Cucurbitaceae",
+    "common_name_en": "Melon (long melon seeds)",
+    "category_unani": null,
+    "uses_modern": [
+      {"term": "Hurqat-e-Baul", "meaning": "burning urination", "confidence": "standard-glossary-knowledge"},
+      {"term": "Ehtebas-e-Tams", "meaning": "absent or suppressed menstruation", "confidence": "inferred from component words"},
+      {"term": "Atash Mufrit", "meaning": "excessive thirst", "confidence": "inferred from component words"}
+    ],
+    "description_en": "The dried seeds of the long melon, used as a cooling remedy for urinary and thirst complaints.",
+    "safety_note": null,
+    "evidence_note": "Traditional use only; no clinical evidence found, and the exact melon variety is not established.",
+    "urls": ["https://en.wikipedia.org/wiki/Cucumis_melo"]
+  },
+  {
+    "name_en": "Khubbazi",
+    "botanical_name": "Malva sylvestris L.",
+    "family": "Malvaceae",
+    "common_name_en": "Common mallow",
+    "category_unani": null,
+    "uses_modern": [
+      {"term": "Amraz-e-Riya", "meaning": "lung diseases", "confidence": "inferred from component words"},
+      {"term": "Sahaj-e-Ama", "meaning": "abrasion or erosion of the intestinal lining", "confidence": "standard-glossary-knowledge"},
+      {"term": "Qurooh-e-Meda", "meaning": "stomach ulcers", "confidence": "inferred from component words"},
+      {"term": "Qurooh-e-Ama", "meaning": "intestinal ulcers", "confidence": "inferred from component words"},
+      {"term": "Sozish-e-Kulya", "meaning": "burning sensation in the kidneys / urinary tract", "confidence": "inferred from component words"},
+      {"term": "Sozish-Masana", "meaning": "burning sensation in the bladder", "confidence": "inferred from component words"},
+      {"term": "Suda", "meaning": "headache", "confidence": "caller-supplied"},
+      {"term": "Zaheer", "meaning": "dysentery", "confidence": "caller-supplied"},
+      {"term": "Waj-ul-Kabid", "meaning": "liver pain", "confidence": "inferred from component words"}
+    ],
+    "description_en": "The soft, mucilage-rich fruits of the mallow plant, used as a soothing remedy for the gut, lungs and urinary tract.",
+    "safety_note": null,
+    "evidence_note": "Traditional demulcent use; European herbal authorities accept mallow flower for dry cough and mouth or throat irritation, but clinical evidence is limited.",
+    "urls": ["https://en.wikipedia.org/wiki/Malva_sylvestris"],
+    "extra_search_sources_not_fetched": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC9898411/"]
+  },
+  {
+    "name_en": "Kishmish",
+    "botanical_name": "Vitis vinifera L.",
+    "family": "Vitaceae",
+    "common_name_en": "Raisins (dried grapes)",
+    "category_unani": null,
+    "uses_modern": [
+      {"term": "Qabz", "meaning": "constipation", "confidence": "sourced"},
+      {"term": "Zof-e-Aam", "meaning": null, "confidence": "unconfirmed"},
+      {"term": "Zof-e-Dimagh", "meaning": "weakness of the brain / cognitive weakness", "confidence": "inferred from component words"},
+      {"term": "Zof-e-Qalb", "meaning": "weakness of the heart", "confidence": "inferred from component words"},
+      {"term": "Khafqan", "meaning": "palpitation", "confidence": "sourced"},
+      {"term": "Sual-e-ratab", "meaning": "productive (wet) cough", "confidence": "standard-glossary-knowledge"}
+    ],
+    "description_en": "Dried grapes, eaten as a nourishing food and used traditionally as a gentle laxative and tonic.",
+    "safety_note": "Calorie and sugar dense (about 65 g sugars per 100 g), so large amounts raise weight and blood sugar; raisins can cause kidney failure in dogs and cats.",
+    "evidence_note": "A food with nutritional value; no clinical evidence found for the traditional medicinal uses listed.",
+    "urls": ["https://en.wikipedia.org/wiki/Raisin", "https://en.wikipedia.org/wiki/Vitis_vinifera"]
+  },
+  {
+    "name_en": "Kulthi",
+    "botanical_name": "Macrotyloma uniflorum (Lam.) Verdc.",
+    "family": "Fabaceae",
+    "common_name_en": "Horse gram",
+    "category_unani": "Mufattit-e-Hasat (stone breaker), Mudirr-e-Boul (diuretic), Mudirr-e-Haiz (emmenagogue), Jali (cleanser), Mufatteh-Sudad (unblocks obstructions), Mulaiyin (laxative)",
+    "uses_modern": [
+      {"term": "Hasat-e-Kulaiya", "meaning": "kidney stones", "confidence": "standard-glossary-knowledge"},
+      {"term": "Hasat-e-Masana", "meaning": "bladder stones", "confidence": "standard-glossary-knowledge"},
+      {"term": "Ehtabas-e-Baul", "meaning": "urinary retention", "confidence": "standard-glossary-knowledge"},
+      {"term": "Ehtabas-e-Haiz", "meaning": "absent or suppressed menstruation", "confidence": "inferred from component words"}
+    ],
+    "description_en": "The seeds of the horse gram legume, used traditionally as a diuretic and for urinary stones.",
+    "safety_note": "Raw seeds contain sugars that cause gas and diarrhoea and higher levels of trypsin inhibitors and haemagglutinins than most beans, so they need thorough cooking; the monograph lists indigestion, vomiting and bloating.",
+    "evidence_note": "Traditional kidney-stone use rests on folk belief; no clinical trials found. The monograph names Vigna unguiculata, but Kulthi in Unani practice is horse gram (Macrotyloma uniflorum).",
+    "urls": ["https://en.wikipedia.org/wiki/Horse_gram"]
+  }
+]

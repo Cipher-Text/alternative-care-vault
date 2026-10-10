@@ -1,0 +1,944 @@
+{
+ "Abhayarishta": {
+  "oushadhi_name": "Abhayarishtam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "11 Main Ingredients : Terminalia chebula, Emblica officinalis, Citrullus colocynthis, Symplocos cochinchinensis, Piper nigrum, Piper longum, Embelia ribes, Jaggery",
+  "key_herbs": [
+   "Haritaki (Terminalia chebula)",
+   "Amalaki (Emblica officinalis)",
+   "Indravaruni (Citrullus colocynthis)",
+   "Lodhra (Symplocos cochinchinensis)",
+   "Maricha (Piper nigrum)",
+   "Pippali (Piper longum)",
+   "Vidanga (Embelia ribes)"
+  ],
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base).",
+  "evidence_note": "Evidence is mostly traditional use plus lab or small studies; no robust clinical trials of the specific formulation.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Chyawanprash"
+  ]
+ },
+ "Amritarishta": {
+  "oushadhi_name": "Amrutharishtam",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": "23 Main Ingredients : Tinospora cordifolia, Dasamoolam, Jaggery, Apium graveolens, Oldenlandia corymbosa, Cyperus rotundus, Picrorrhiza curroa, Aconitum heterophyllum, Holarrhena antidysenterica",
+  "key_herbs": [
+   "Guduchi (Tinospora cordifolia)",
+   "Dashamoola",
+   "Musta (Cyperus rotundus)",
+   "Kutki (Picrorhiza kurroa)",
+   "Ativisha (Aconitum heterophyllum)",
+   "Kutaja (Holarrhena antidysenterica)"
+  ],
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base).",
+  "evidence_note": "Guduchi has some small-trial support for fever and immunity, but this formulation has no clinical trials.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha"
+  ]
+ },
+ "Ashwagandharishta": {
+  "oushadhi_name": "Aswagandharishtam",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": "27 Main Ingredients : Withania somnifera, Curculigo orchioides, Rubia cordifolia, Glycyrrhiza glabra, Ipomoea mauritiana, Santalum album, Acorus calamus, Hemidesmus indicus, Curcuma longa, Alpinia calcarata, Elettaria cardamomum, Honey",
+  "key_herbs": [
+   "Ashwagandha (Withania somnifera)",
+   "Musali (Curculigo orchioides)",
+   "Manjishtha (Rubia cordifolia)",
+   "Yashtimadhu (Glycyrrhiza glabra)",
+   "Sariva (Hemidesmus indicus)",
+   "Haridra (Curcuma longa)"
+  ],
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Ashwagandha: avoid in pregnancy; reports of liver injury and thyroid effects; may add to sedatives.",
+  "evidence_note": "Ashwagandha has limited human trial data (stress, anxiety); the arishta itself is unstudied.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Balarishta": {
+  "oushadhi_name": "Balarishtam",
+  "classical_reference": "Bhalshajyaratnavali",
+  "ingredients": "12 Ingredients : Sida cordifolia, Withania somnifera, Jaggery, Holostemma ada-kodien, Ricinus communis. Alpinia calcarata, Elettaria cardamomum, Merrimia tridentata, Eugenia caryophyllate, Vetiveria zizanioides, Tribulus terrestris, Woodfordia fruiticosa. 7 THERAPEUTIC INDEX",
+  "key_herbs": [
+   "Bala (Sida cordifolia)",
+   "Ashwagandha (Withania somnifera)",
+   "Eranda (Ricinus communis)",
+   "Elaichi (Elettaria cardamomum)",
+   "Gokshura (Tribulus terrestris)",
+   "Dhataki (Woodfordia fruticosa)"
+  ],
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Contains ashwagandha: avoid in pregnancy.",
+  "evidence_note": "Evidence is mostly traditional use plus lab or small studies; no robust clinical trials of the specific formulation.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Dashamoolarishta": {
+  "oushadhi_name": "Dasamoolarishtam",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": "70 Main Ingredients : Dasamoolam, Tinospora cordifolia, Emblica officinalis, Clerodendrum serratum, Alpinia calcarata, Curcuma longa, Piper longum, Cyperus rotundus, Ipomoea mauritiana, Withania somnifera, Raisins, Jaggery, Honey, Santalum album",
+  "key_herbs": [
+   "Dashamoola (ten-root group)",
+   "Guduchi (Tinospora cordifolia)",
+   "Amalaki (Emblica officinalis)",
+   "Bharangi (Clerodendrum serratum)",
+   "Pippali (Piper longum)",
+   "Ashwagandha (Withania somnifera)"
+  ],
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Commonly used post-partum, but use under physician guidance.",
+  "evidence_note": "Evidence is mostly traditional use plus lab or small studies; no robust clinical trials of the specific formulation.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Saraswatarishta": {
+  "oushadhi_name": "Saraswatharishtam",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": "19 Main Ingredients : Bacopa monnieri, Ipomoea mauritiana, Asparagus racemosus, Honey, Sugar, Merrimia turpethum, Acorus calamus, Withania somnifera, Tinospora cordifolia, Embelia ribes, Gold (24 carat-processed)",
+  "key_herbs": [
+   "Brahmi (Bacopa monnieri)",
+   "Shatavari (Asparagus racemosus)",
+   "Vacha (Acorus calamus)",
+   "Ashwagandha (Withania somnifera)",
+   "Guduchi (Tinospora cordifolia)",
+   "Vidanga (Embelia ribes)"
+  ],
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Parsed record lists processed gold; this version contains Acorus calamus (vacha), which has regulatory restrictions in some countries.",
+  "evidence_note": "Bacopa has limited and inconsistent evidence for memory; the formulation itself is untested.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Bacopa_monnieri",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Kumaryasava": {
+  "oushadhi_name": "Kumaryasavam",
+  "classical_reference": "Sarngadharasamhitha",
+  "ingredients": "45 Main Ingredients : Aloe vera, Jaggery, Honey, Iron, Embelia ribes, Thrikatu, Picrorrhiza curroa, Coriandrum sativum, Curcuma longa, Coscinium fenestratum, Sida cordifolia, Glycyrrhiza glabra, Mucuna pruriens, Boerrhavia diffusa, Woodfordia fruiticosa, Ferri sulphuretum (processed)",
+  "key_herbs": [
+   "Kumari (Aloe vera)",
+   "Lauha bhasma (iron)",
+   "Vidanga (Embelia ribes)",
+   "Trikatu",
+   "Katuki (Picrorhiza kurroa)",
+   "Dhataki (Woodfordia fruticosa)"
+  ],
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Contains processed iron; avoid in pregnancy unless advised.",
+  "evidence_note": "Evidence is mostly traditional use plus lab or small studies; no robust clinical trials of the specific formulation.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Piper_nigrum"
+  ]
+ },
+ "Chyavanaprasha": {
+  "oushadhi_name": "Chyavanaprasam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "48 Main Ingredients : Dasamoolam, Sida cordifolia, Piper longum, Phyllanthus niruri, Elettaria cardamomum, Raisins, Santalum album, Tinospora cordifolia, Adhatoda beddomei, Withania somnifera, Emblica officinalis, Cow ghee, Gingeliy oil, Sugarcandy, Chathurjathakam, Honey, Curcuma angustifolia",
+  "key_herbs": [
+   "Amalaki (Emblica officinalis)",
+   "Dashamoola",
+   "Pippali (Piper longum)",
+   "Bala (Sida cordifolia)",
+   "Ashwagandha (Withania somnifera)",
+   "Guduchi (Tinospora cordifolia)"
+  ],
+  "safety_note": "Contains sugar and honey: caution in diabetes. Heavy-metal content has been questioned for some Ayurvedic products; one 2011 consumer test found major brands acceptable.",
+  "evidence_note": "Widely used; small studies on immunity and respiratory outcomes exist but high-quality trials are scarce.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Chyawanprash",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Brahma Rasayana": {
+  "oushadhi_name": "Brahma Rasayanam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "45 Main ingredients : Terminalia chebula, Emblica officinalis, Aegle marmelos, Oroxylum indicum, Gmelina arborea, Sugar, cow’sGhee, Gingely oil, Honey",
+  "key_herbs": [
+   "Haritaki (Terminalia chebula)",
+   "Amalaki (Emblica officinalis)",
+   "Bilva (Aegle marmelos)",
+   "Syonaka (Oroxylum indicum)",
+   "Gambhari (Gmelina arborea)"
+  ],
+  "safety_note": "Contains sugar and honey: caution in diabetes.",
+  "evidence_note": "Only traditional use plus limited preclinical research; no solid clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Chyawanprash"
+  ]
+ },
+ "Agastya Rasayana": {
+  "oushadhi_name": "Agasthyarasayanam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "27 Main Ingredients : Dasamoolarn, Kaempferia galanga, Sida cordifolia, Clerodendrum serratum, Hordeum vulgare, Terminalia chebula, Jaggery, Cow ghee, Gingelly oil, Honey, Piper longum",
+  "key_herbs": [
+   "Dashamoola",
+   "Pippali (Piper longum)",
+   "Haritaki (Terminalia chebula)",
+   "Kaempferia galanga (Kacholam)",
+   "Bala (Sida cordifolia)",
+   "Bharangi (Clerodendrum serratum)"
+  ],
+  "safety_note": "Contains jaggery, ghee and honey: caution in diabetes.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Brahmi Ghrita": {
+  "oushadhi_name": "Brahmi Ghrutham",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "12 Main Ingredients : Bacopa monnieri, Thrikatu, Merrimia turpethum, Baliospermum montanum, Clitoria ternatea, Cassia fistula, Embelia ribes, Cow ghee",
+  "key_herbs": [
+   "Brahmi (Bacopa monnieri)",
+   "Trikatu",
+   "Trivrit (Operculina turpethum)",
+   "Danti (Baliospermum montanum)",
+   "Shankhapushpi (Clitoria ternatea)",
+   "Aragvadha (Cassia fistula)",
+   "Vidanga (Embelia ribes)"
+  ],
+  "safety_note": "Ghee base: caution with high cholesterol. Bacopa may cause nausea and gut upset.",
+  "evidence_note": "Bacopa has limited and inconsistent evidence for cognition; this ghee is untested clinically.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Bacopa_monnieri",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Kalyanaka Ghrita": {
+  "oushadhi_name": "Kallyanaka Ghrutham",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "29 Main Ingredients : Thriphala, Citrullus colocynthis, Curcuma longa, Desmodium gangeticum, Embelia ribes, Punica granatum, Baliospermum montanum, Santalum album, Cow ghee",
+  "key_herbs": [
+   "Triphala",
+   "Indravaruni (Citrullus colocynthis)",
+   "Haridra (Curcuma longa)",
+   "Shalaparni (Desmodium gangeticum)",
+   "Vidanga (Embelia ribes)",
+   "Daadima (Punica granatum)",
+   "Chandana (Santalum album)"
+  ],
+  "safety_note": "Ghee base: caution with high cholesterol; physician supervision advised for epilepsy or infertility.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Mahatiktaka Ghrita": {
+  "oushadhi_name": "Mahathikthaka Ghrutham",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "34 Main Ingredients : Alstonia scholaris, Thriphala, Cassia fistula, Coscinium fenestraatum, Azadirachta indica, Santalum album, Citrullus colocynthis, Tinospora cordifolia, Trichosanthes anguina, Aconitum heterophyllum, Emblica officinalis, Cow ghee",
+  "key_herbs": [
+   "Saptaparna (Alstonia scholaris)",
+   "Triphala",
+   "Aragvadha (Cassia fistula)",
+   "Daruharidra (Coscinium fenestratum)",
+   "Neem (Azadirachta indica)",
+   "Chandana (Santalum album)",
+   "Guduchi (Tinospora cordifolia)"
+  ],
+  "safety_note": "Ghee base: caution with high cholesterol.",
+  "evidence_note": "Traditional use only; limited small studies.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Narayana Taila": {
+  "oushadhi_name": "Narayana Thailam",
+  "classical_reference": "Sarngadharasamhitha",
+  "ingredients": "33 Main Ingredients : Withania somnifera, Sida cordifolia, Dasamoolam, Azadirachta indica, Boerrhavia diffusa, Acorus calamus, Cow milk, Gingelly oil, Asparagus racemosus",
+  "key_herbs": [
+   "Ashwagandha (Withania somnifera)",
+   "Bala (Sida cordifolia)",
+   "Dashamoola",
+   "Neem (Azadirachta indica)",
+   "Punarnava (Boerhavia diffusa)",
+   "Vacha (Acorus calamus)",
+   "Shatavari (Asparagus racemosus)"
+  ],
+  "safety_note": "Mainly external; avoid on broken skin or in fever and acute inflammation unless advised.",
+  "evidence_note": "Traditional use only; small studies on oil massage are low quality.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Dhanvantaram Taila": {
+  "oushadhi_name": "Dhanwantharam Thailam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "48 Main Ingredients : Sida cordifolia, Hordeum vulgare, Ziziphus jujuba, Horse gram, Dasamoolam, Asparagus racemosus, Rubia cordifolia, Withania somnifera, Hemidesmus indicus, Santalum album, Ipomoea mauritiana, Acorus calamus, Rock salt, Asphaltum, Boerrhavia diffusa, Thriphala, Chathurjathakam, Gingelly oil, Cow milk",
+  "key_herbs": [
+   "Bala (Sida cordifolia)",
+   "Yava (Hordeum vulgare)",
+   "Dashamoola",
+   "Shatavari (Asparagus racemosus)",
+   "Manjishtha (Rubia cordifolia)",
+   "Ashwagandha (Withania somnifera)",
+   "Sariva (Hemidesmus indicus)"
+  ],
+  "safety_note": "Mainly external; patch-test first; oral use only under supervision.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Mahamasha Taila": {
+  "oushadhi_name": "Mahamasha Thailam",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": "39 Main Ingredients : Phaseolus mungo, Sida cordifolia, Dasamoolam, Alpinia calcarata, Jeevaneeyaganam, Thrikatu, Rock salt, Ricinus communis, Gingelly oil, Mutton soup, Cow milk",
+  "key_herbs": [
+   "Masha (Phaseolus mungo)",
+   "Bala (Sida cordifolia)",
+   "Dashamoola",
+   "Kolakulatha (Alpinia calcarata)",
+   "Trikatu",
+   "Eranda (Ricinus communis)",
+   "Jeevaneeya group"
+  ],
+  "safety_note": "Mainly external; patch-test first.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Kottamchukkadi Taila": {
+  "oushadhi_name": "Kottamchukkadi Thailam",
+  "classical_reference": "Sahasrayogam",
+  "ingredients": "12 Main Ingredients : Tamarindus indica (Leaves), Saussurea lappa, Dried ginger, Acorus calamus, Allium sativum, Alpinia calcarata, Gingelly oil, Curd",
+  "key_herbs": [
+   "Tamarind leaf (Tamarindus indica)",
+   "Kushtha (Saussurea lappa)",
+   "Shunthi (Zingiber officinale)",
+   "Vacha (Acorus calamus)",
+   "Lasuna (Allium sativum)",
+   "Kolakulatha (Alpinia calcarata)"
+  ],
+  "safety_note": "External use only; garlic may irritate sensitive skin; patch-test.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Chandraprabha Vati": {
+  "oushadhi_name": "Chandraprabha Gulika (Tablet)",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": "36 Main Ingredients : Embelia ribes.Thrikatu, Thriphala, Acorus calamus, Rock salt, Potassium carbonate, Aconitum heterophyllum, Asphaltum, Commiphora wightii (purified), Eclipta alba",
+  "key_herbs": [
+   "Shilajit (asphaltum)",
+   "Guggulu (Commiphora wightii)",
+   "Vidanga (Embelia ribes)",
+   "Trikatu",
+   "Triphala",
+   "Vacha (Acorus calamus)"
+  ],
+  "safety_note": "Contains shilajit and guggulu; metal content concerns generally apply to Ayurvedic mineral products; guggul may affect thyroid and drug metabolism (CYP3A4); caution in pregnancy.",
+  "evidence_note": "Traditional use with a few small trials in urinary symptoms and diabetes, low quality.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Kaishora Guggulu": {
+  "oushadhi_name": "Kaisoragulgulu Gulika (Tablet)",
+  "classical_reference": "Sarngadharasamhitha",
+  "ingredients": "15 Main Ingredients : Commiphora wightii (purified), Thriphala, Tinospora cordifolia, Thrikatu, Embelia ribes, Baliospermum montanum, Merrimia turpethum, Cow ghee",
+  "key_herbs": [
+   "Guggulu (Commiphora wightii)",
+   "Triphala",
+   "Guduchi (Tinospora cordifolia)",
+   "Trikatu",
+   "Vidanga (Embelia ribes)",
+   "Danti (Baliospermum montanum)",
+   "Trivrit (Operculina turpethum)"
+  ],
+  "safety_note": "Guggul can interact with CYP3A4 drugs, affect thyroid tests, cause GI upset, and rarely liver injury; caution in pregnancy.",
+  "evidence_note": "Traditional use only; guggul evidence mixed.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Kanchanara Guggulu": {
+  "oushadhi_name": "Kanchanaraguggulu Gulika (Tablet)",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "ingredients": "15 Main ingredients : Bauhinia variegata, Terminalia chebula, Terminalia bellerica, Emblica officinalis, Commiphora wightii etc",
+  "key_herbs": [
+   "Kanchanara (Bauhinia variegata)",
+   "Haritaki (Terminalia chebula)",
+   "Vibhitaki (Terminalia bellirica)",
+   "Amalaki (Emblica officinalis)",
+   "Guggulu (Commiphora wightii)"
+  ],
+  "safety_note": "Guggul may alter thyroid hormones and CYP3A4 drug levels; see physician if on thyroid medication or in pregnancy.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Triphala Guggulu": {
+  "oushadhi_name": "Thriphala Guggulu",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "ingredients": "5 Ingredients : Thriphala, Commiphora mukul",
+  "key_herbs": [
+   "Haritaki (Terminalia chebula)",
+   "Vibhitaki (Terminalia bellirica)",
+   "Amalaki (Emblica officinalis)",
+   "Guggulu (Commiphora wightii)",
+   "Pippali (Piper longum)"
+  ],
+  "safety_note": "Guggul may interact with CYP3A4 drugs and thyroid tests; caution in pregnancy.",
+  "evidence_note": "Traditional use only; triphala has small studies, guggul evidence is mixed.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Yogaraja Guggulu": {
+  "oushadhi_name": "Yogarajagulgulu Gulika (Tablet)",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": "28 Main Ingredients : Plumbago rosea, Cuminum cyminum, Embelia ribes, Cedrus deodara, Rock salt, Alpinia calcarata, Tribulus terrestris, Thriphala, Thrikatu, Potassi carbonas, Commiphora wightii (purified)",
+  "key_herbs": [
+   "Guggulu (Commiphora wightii)",
+   "Chitraka (Plumbago rosea)",
+   "Jeeraka (Cuminum cyminum)",
+   "Vidanga (Embelia ribes)",
+   "Devadaru (Cedrus deodara)",
+   "Gokshura (Tribulus terrestris)",
+   "Triphala"
+  ],
+  "safety_note": "Some versions contain metals (bhasma) in the full classical recipe; guggul may interact with CYP3A4 drugs and thyroid tests; caution in pregnancy.",
+  "evidence_note": "Traditional use; a few small trials in arthritis, low quality.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Punarnava Guggulu": {
+  "oushadhi_name": "Punarnnava Guggulu",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "ingredients": "20 Ingredients : Boerhavia diffusa, Ricinus communis, Zingiber officinalis, Castor oil etc",
+  "key_herbs": [
+   "Punarnava (Boerhavia diffusa)",
+   "Guggulu (Commiphora wightii)",
+   "Eranda (Ricinus communis)",
+   "Shunthi (Zingiber officinale)"
+  ],
+  "safety_note": "Guggul may interact with CYP3A4 drugs and thyroid tests; caution in pregnancy.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Sudarshana Churna": {
+  "oushadhi_name": "Sudarsanachoornam",
+  "classical_reference": "Sahasrayogam",
+  "ingredients": "54 Ingredients : Thriphala, Cyperus rotundus, Solanum xanthocarpum, Kaempferia galanga, Thrikatu, Tinospora cordifolia, Piccrorrhiza curroa, Oldenlandia corymbosa, Azadirachta indica, Clerodendrum serratum, Desmodium gangeticum, Pseudarthria viscida, Abies spectabilis, Andrographis paniculata",
+  "key_herbs": [
+   "Triphala",
+   "Musta (Cyperus rotundus)",
+   "Kantakari (Solanum xanthocarpum)",
+   "Guduchi (Tinospora cordifolia)",
+   "Kutki (Picrorhiza kurroa)",
+   "Bhunimba (Andrographis paniculata)",
+   "Neem (Azadirachta indica)"
+  ],
+  "safety_note": "Very bitter; may upset the stomach; caution in pregnancy.",
+  "evidence_note": "Traditional use; limited small studies of components such as Andrographis.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Trikatu Churna": {
+  "oushadhi_name": "Trikatu Choornam",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "ingredients": "3 Main ingredients : Zingiber officinale, Piper nigrum, Piper Iongum",
+  "key_herbs": [
+   "Shunthi (Zingiber officinale)",
+   "Maricha (Piper nigrum)",
+   "Pippali (Piper longum)"
+  ],
+  "safety_note": "Pungent; may aggravate acidity or ulcers; piperine can increase absorption of some drugs.",
+  "evidence_note": "Mostly traditional use plus piperine bioavailability research.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Piper_nigrum",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Hinguvachadi Churna": {
+  "oushadhi_name": "Hinguvachadi Choornam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "24 Ingredients : Ferula asafoetida, Acorus calamus, Terminalia chebula, Punica granatum, Coriandrum sativum, Kaempferia galanga, Thrikatu, Thrilavanam, Soda carbonas impura (processed), Potassium carbonas Impura (processed)",
+  "key_herbs": [
+   "Hingu (Ferula asafoetida)",
+   "Vacha (Acorus calamus)",
+   "Haritaki (Terminalia chebula)",
+   "Daadima (Punica granatum)",
+   "Dhanyaka (Coriandrum sativum)",
+   "Trikatu"
+  ],
+  "safety_note": "Contains alkaline salts; caution with hyperacidity; avoid in pregnancy unless advised.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Piper_nigrum",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Avipattikara Churna": {
+  "oushadhi_name": "Avipathi Choornam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "11 Ingredients : Thrikatu, Thrijathakam, Cyperus rotundus, Embelia ribes, Emblica officinalis, Merrimia turpethum, Sugar",
+  "key_herbs": [
+   "Trikatu: Shunthi (Zingiber officinale), Maricha (Piper nigrum), Pippali (Piper longum)",
+   "Triphala: Haritaki (Terminalia chebula), Bibhitaki (Terminalia bellirica), Amalaki (Phyllanthus emblica)",
+   "Musta (Cyperus rotundus)",
+   "Vidanga (Embelia ribes)",
+   "Trivrit (Operculina turpethum)"
+  ],
+  "safety_note": "Purgative: avoid in pregnancy, diarrhoea or dehydration; sugar content matters for diabetics; Embelia and turpeth are not well studied for safety.",
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Embelia_ribes",
+   "https://en.wikipedia.org/wiki/Cyperus_rotundus"
+  ]
+ },
+ "Pushyanuga Churna": {
+  "oushadhi_name": "Pushyanugachoornam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "26 Ingredients : Cyclea peltata, Syzygium cumini, Mangifera indica (cotyledon), Rotula aquatica, Coscinium fenestratum, Symplocos cochinchinensis, Red ochre, Glycyrrhiza glabra, Terminalia arjuna",
+  "key_herbs": [
+   "Patha (Cyclea peltata)",
+   "Jambu seed (Syzygium cumini)",
+   "Amra seed (Mangifera indica)",
+   "Pashanabheda (Rotula aquatica)",
+   "Daruharidra (Coscinium fenestratum)",
+   "Yashtimadhu (Glycyrrhiza glabra)"
+  ],
+  "safety_note": "Licorice component can raise blood pressure/lower potassium with heavy use; avoid in pregnancy unless supervised; persistent abnormal bleeding needs medical diagnosis.",
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/licorice-root",
+   "https://en.wikipedia.org/wiki/Glycyrrhiza_glabra",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ "Maharasnadi Kashayam": {
+  "oushadhi_name": "Maharasnadi Kashayam",
+  "classical_reference": "Sarngadharasamhitha",
+  "ingredients": null,
+  "key_herbs": [
+   "Rasna (Pluchea lanceolata, per general Ayurvedic sources; not verified on fetched pages)",
+   "Guduchi (Tinospora cordifolia)",
+   "Shunthi (Zingiber officinale)"
+  ],
+  "safety_note": "Guduchi has been linked to herb-induced liver injury; avoid in autoimmune disease and pregnancy unless supervised.",
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Guduchyadi Kashayam": {
+  "oushadhi_name": "Guluchyadi Kashayam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": null,
+  "key_herbs": [
+   "Guduchi (Tinospora cordifolia)"
+  ],
+  "safety_note": "Guduchi has been linked to liver injury in India; avoid with autoimmune disease or liver disease.",
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Nimbadi Kashayam": {
+  "oushadhi_name": "Nimbadi Kashayam",
+  "classical_reference": "Sahasrayogam",
+  "ingredients": "10 Ingredients : Azadirachta indica, Tinospora cordifolia, Zingiber officinale, Emblica officinalis, Terminalia chebula",
+  "key_herbs": [
+   "Nimba (Azadirachta indica)",
+   "Guduchi (Tinospora cordifolia)",
+   "Shunthi (Zingiber officinale)",
+   "Amalaki (Phyllanthus emblica)",
+   "Haritaki (Terminalia chebula)"
+  ],
+  "safety_note": "Neem may lower blood sugar and is traditionally avoided in pregnancy; neem oil is toxic to small children; guduchi has liver-injury reports.",
+  "evidence_note": "Neem has insufficient clinical evidence; this decoction is untested.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Azadirachta_indica",
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia"
+  ]
+ },
+ "Varanadi Kashayam": {
+  "oushadhi_name": "Varanadi Kashayam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "15 Ingredients & Indication : Same as Varanadi kashayachoornam",
+  "key_herbs": [
+   "Varuna (Crateva nurvala; general Ayurvedic sources, not verified on fetched pages)",
+   "Shunthi (Zingiber officinale)"
+  ],
+  "safety_note": null,
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Gokshura Churna": {
+  "oushadhi_name": "Gokshura Choornam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": null,
+  "key_herbs": [
+   "Gokshura (Tribulus terrestris)"
+  ],
+  "safety_note": "NCCIH-cited note: not proven safe; rare liver toxicity suggested; avoid in pregnancy; hormonal claims unproven.",
+  "evidence_note": "Controlled studies show no consistent testosterone effect; no strong human trials for urinary uses.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tribulus_terrestris",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Guduchi Churna": {
+  "oushadhi_name": "Guluchi Choornam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": null,
+  "key_herbs": [
+   "Guduchi (Tinospora cordifolia)"
+  ],
+  "safety_note": "Supplement use has been linked to herb-induced liver injury in India, sometimes severe; avoid in autoimmune disease, liver disease and pregnancy; may lower blood sugar.",
+  "evidence_note": "Reviews find no good clinical evidence of benefit.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Arjuna Churna": {
+  "oushadhi_name": "Arjuna Choornam",
+  "classical_reference": "The Ayurvedic Pharmacopiea of India",
+  "ingredients": "1 Ingredients : Terminalia arjuna",
+  "key_herbs": [
+   "Arjuna bark (Terminalia arjuna)"
+  ],
+  "safety_note": "Safety is not well documented; use cautiously with cardiac medicines and seek medical care for heart disease.",
+  "evidence_note": "Wikipedia lists only preclinical studies; clinical evidence is limited.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Terminalia_arjuna",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ "Shatavari Churna": {
+  "oushadhi_name": "Sathavari Choornam",
+  "classical_reference": "Chakradattam",
+  "ingredients": null,
+  "key_herbs": [
+   "Shatavari (Asparagus racemosus)"
+  ],
+  "safety_note": "Safety not well studied; avoid in pregnancy unless supervised; may affect blood sugar.",
+  "evidence_note": "Preliminary trials only; Wikipedia notes high-quality evidence is lacking.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Asparagus_racemosus",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Vacha Churna": {
+  "oushadhi_name": "Vacha Choornam",
+  "classical_reference": "Chakradattam",
+  "ingredients": null,
+  "key_herbs": [
+   "Vacha (Acorus calamus)"
+  ],
+  "safety_note": "Contains beta-asarone, considered carcinogenic in animals; US FDA banned calamus in food in 1968; can cause vomiting; Ayurvedic purification lowers beta-asarone; avoid in pregnancy.",
+  "evidence_note": "No clinical evidence of safety or efficacy.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Acorus_calamus",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Yashtimadhu Churna": {
+  "oushadhi_name": "Yashti Choornam",
+  "classical_reference": "Bhavaprakasham",
+  "ingredients": null,
+  "key_herbs": [
+   "Yashtimadhu (Glycyrrhiza glabra)"
+  ],
+  "safety_note": "Glycyrrhizin can cause high blood pressure, low potassium and arrhythmia with long or heavy use; avoid in pregnancy, hypertension, heart or kidney disease; interacts with corticosteroids.",
+  "evidence_note": "Weak, preliminary evidence (e.g. mouth rinses, sore throat); not enough to support any condition.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/licorice-root",
+   "https://en.wikipedia.org/wiki/Glycyrrhiza_glabra"
+  ]
+ },
+ "Sarpagandha Churna": {
+  "oushadhi_name": "Sarpagandhi Choornam",
+  "classical_reference": "Susruthasamhitha",
+  "ingredients": null,
+  "key_herbs": [
+   "Sarpagandha (Rauvolfia serpentina)"
+  ],
+  "safety_note": "Contains reserpine-type alkaloids; can cause depression, nasal congestion, dizziness, GI upset; interacts with antihypertensives and antidepressants; avoid in depression, ulcer and pregnancy.",
+  "evidence_note": "Reserpine lowered systolic BP about 8 mmHg in a review; whole-root powder lacks trials.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Rauvolfia_serpentina",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Punarnava Churna": {
+  "oushadhi_name": "Punarnava Choornam",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "ingredients": "1 Main ingredients : Boerhaavia diffusa",
+  "key_herbs": [
+   "Punarnava (Boerhavia diffusa)"
+  ],
+  "safety_note": "Safety not documented in sources found; diuretic effect may interact with diuretics and affect kidney function.",
+  "evidence_note": "Only lab studies such as lunamarine in vitro; no human trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Boerhavia_diffusa",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Musta Churna": {
+  "oushadhi_name": "Mustha Choornam",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": null,
+  "key_herbs": [
+   "Mustaka (Cyperus rotundus)"
+  ],
+  "safety_note": null,
+  "evidence_note": "Little clinical evidence; traditional and laboratory data only.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Cyperus_rotundus",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ "Pippali Churna": {
+  "oushadhi_name": "Pippalee Choornam",
+  "classical_reference": "Bhavaprakasam",
+  "ingredients": null,
+  "key_herbs": [
+   "Pippali (Piper longum)"
+  ],
+  "safety_note": "May cause heartburn; large amounts avoided in pregnancy and with stomach ulcers; may alter drug absorption (piperine, general knowledge).",
+  "evidence_note": "No clinical trials for these uses on the pages reviewed.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Long_pepper",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ "Lasunadi Vati": {
+  "oushadhi_name": "Lasunadi Vati",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "ingredients": "8 Ingredients : Allium sativum, Cuminum cyminum, Sulphur, Zingiber officinalis etc",
+  "key_herbs": [
+   "Lasuna (Allium sativum)",
+   "Jiraka (Cuminum cyminum)",
+   "Gandhaka (purified sulphur)",
+   "Shunthi (Zingiber officinale)"
+  ],
+  "safety_note": "Garlic may raise bleeding risk with anticoagulants and interact with some drugs; stop before surgery; contains processed sulphur.",
+  "evidence_note": "Garlic evidence is mixed; no trials of this tablet.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Allium_sativum",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ "Sanjeevani Vati": {
+  "oushadhi_name": "Sanjeevani Vati",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "ingredients": "11 Ingredients : Embelia ribes, Zingiber officinalis, Thriphala, Acorus calamus etc",
+  "key_herbs": [
+   "Vidanga (Embelia ribes)",
+   "Shunthi (Zingiber officinale)",
+   "Triphala: Haritaki, Bibhitaki, Amalaki",
+   "Vacha (Acorus calamus)"
+  ],
+  "safety_note": "Formulations vary; some contain processed aconite (Vatsanabha), which is toxic if mis-processed; calamus contains beta-asarone; avoid in pregnancy.",
+  "evidence_note": "Traditional use; no robust human trials.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Embelia_ribes",
+   "https://en.wikipedia.org/wiki/Acorus_calamus",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Dhanvantaram Gulika": {
+  "oushadhi_name": "Dhanwantharam Gulika (Tablet)",
+  "classical_reference": "Sahasrayogam",
+  "ingredients": "16 Main Ingredients : Elettaria cardamomum, Dried ginger, Terminalia chebula, Cuminum cyminum, Elaeocarpus tuberculatus, Camphor, Rose water. 53 THERAPEUTIC INDEX",
+  "key_herbs": [
+   "Ela (Elettaria cardamomum)",
+   "Shunthi (Zingiber officinale)",
+   "Haritaki (Terminalia chebula)",
+   "Jiraka (Cuminum cyminum)",
+   "Karpura (Cinnamomum camphora)"
+  ],
+  "safety_note": "Contains camphor; avoid in infants and in pregnancy unless supervised.",
+  "evidence_note": "No trials found; traditional use only.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Elettaria_cardamomum",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Vidangadi Gulika": {
+  "oushadhi_name": "Vidangadi Gulika (Tablet)",
+  "classical_reference": "Proprietary Medicine",
+  "ingredients": "4 Main Ingredients : Embelia ribes, Hibiscus rosasenensis, Ferula asafoetida",
+  "key_herbs": [
+   "Vidanga (Embelia ribes)",
+   "Japa (Hibiscus rosa-sinensis)",
+   "Hingu (Ferula asafoetida)"
+  ],
+  "safety_note": "Embelia has been used as a contraceptive/abortifacient in some traditions; avoid in pregnancy; proprietary, not classical.",
+  "evidence_note": "Proprietary product, no trials found; weakly sourced.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Embelia_ribes",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ "Haridrakhanda": {
+  "oushadhi_name": "Haridrakhandam",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": "18 Main Ingredients : Curcuma longa, Cow milk, Cow ghee, Sugarcandy, Thrikatu, Chathurjathakam, Embelia ribes, Thriphala, Merrimia turpethum, Cyperus rotundus, Loha sindooram",
+  "key_herbs": [
+   "Haridra (Curcuma longa)",
+   "Trikatu: Shunthi, Maricha, Pippali",
+   "Triphala: Haritaki, Bibhitaki, Amalaki",
+   "Vidanga (Embelia ribes)",
+   "Trivrit (Operculina turpethum)"
+  ],
+  "safety_note": "Sugar content matters for diabetics; contains Loha bhasma (iron); turmeric supplements can rarely cause liver injury; avoid in pregnancy unless supervised.",
+  "evidence_note": "Turmeric evidence is weak; no trials of this formula.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/turmeric",
+   "https://en.wikipedia.org/wiki/Curcuma_longa",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ "Kantakaryavaleha": {
+  "oushadhi_name": "Kantakaryavaleham",
+  "classical_reference": "The Ayurvecic Formulary of India",
+  "ingredients": "19 Ingredients : Solanum surattense, Tinospora cordifolia, Plumbago zeylanica, Cyperus rotundus, Zingiber officinale, Piper nigrum, Piper longum etc",
+  "key_herbs": [
+   "Kantakari (Solanum virginianum)",
+   "Guduchi (Tinospora cordifolia)",
+   "Chitraka (Plumbago zeylanica)",
+   "Musta (Cyperus rotundus)",
+   "Shunthi (Zingiber officinale)",
+   "Pippali (Piper longum)"
+  ],
+  "safety_note": "Sugar/jaggery content; Solanum fruit is poisonous in raw form; guduchi liver-injury reports; plumbago (Chitraka) is irritant and avoided in pregnancy.",
+  "evidence_note": "Lab-level studies of Solanum only; no trials of this formula.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Solanum_virginianum",
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia",
+   "https://en.wikipedia.org/wiki/Long_pepper"
+  ]
+ },
+ "Lohasava": {
+  "oushadhi_name": "Lohasavam",
+  "classical_reference": "Sarngadharasamhitha",
+  "ingredients": "14 Main Ingredients : Iron (processed), Thrikatu, Thriphala, Cuminum cyminum, Embelia ribes, Cyperus rotundus, Plumbago rosea, Woodfordia fruiticosa, Honey, Jaggery",
+  "key_herbs": [
+   "Loha bhasma (processed iron)",
+   "Trikatu: Shunthi, Maricha, Pippali",
+   "Triphala: Haritaki, Bibhitaki, Amalaki",
+   "Jiraka (Cuminum cyminum)",
+   "Vidanga (Embelia ribes)",
+   "Madhu (honey)"
+  ],
+  "safety_note": "Self-generated alcohol; contains processed iron (avoid with haemochromatosis, caution with iron supplements); heavy-metal contamination risk in some Ayurvedic products; avoid in pregnancy and with diabetes unless supervised.",
+  "evidence_note": "No trials found; NCCIH notes evidence for Ayurveda is limited and metal safety is a concern.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ "Drakshadi Lehya": {
+  "oushadhi_name": "Drakshadi Lehyam",
+  "classical_reference": "Ashtangahridayam",
+  "ingredients": "8 Main Ingredients : Raisins, Piper longum, Sugar, Glycyrrhiza glabra, Dried ginger, Curcuma angustifolia, Emblica officinalis, Honey",
+  "key_herbs": [
+   "Draksha (Vitis vinifera, raisins)",
+   "Pippali (Piper longum)",
+   "Yashtimadhu (Glycyrrhiza glabra)",
+   "Shunthi (Zingiber officinale)",
+   "Amalaki (Phyllanthus emblica)",
+   "Madhu (honey)"
+  ],
+  "safety_note": "Sugar and honey content matters for diabetics; licorice component warrants caution with hypertension.",
+  "evidence_note": "No trials found.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/licorice-root",
+   "https://en.wikipedia.org/wiki/Phyllanthus_emblica",
+   "https://en.wikipedia.org/wiki/Long_pepper"
+  ]
+ },
+ "Dashamoola Kashaya Churna": {
+  "oushadhi_name": "Dasamoolam Kashayachoornam",
+  "classical_reference": "Bhaishajyaratnavali",
+  "ingredients": "10 Ingredients : Dasamoolam",
+  "key_herbs": [
+   "Dashamoola (ten roots; includes Aegle marmelos, Solanum virginianum, Tribulus terrestris)"
+  ],
+  "safety_note": "Pregnancy caution; decoction preparation varies.",
+  "evidence_note": "Ten roots in classical combination; no strong clinical data found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tribulus_terrestris",
+   "https://en.wikipedia.org/wiki/Solanum_virginianum",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ "Triphaladi Taila": {
+  "oushadhi_name": "Thriphaladi Thailam",
+  "classical_reference": "Sahasrayogam",
+  "ingredients": "37 Main Ingredients : Thriphala, Tinospora cordifolia, Pterocarpus marsupium, Emblica officinalis, Eclipta alba, Withania somnifera, Kaempferia galanga, Galena, Gingelly oil, Cow milk",
+  "key_herbs": [
+   "Triphala: Haritaki, Bibhitaki, Amalaki (Phyllanthus emblica)",
+   "Guduchi (Tinospora cordifolia)",
+   "Bhringaraja (Eclipta alba)",
+   "Ashwagandha (Withania somnifera)",
+   "Kaempferia galanga"
+  ],
+  "safety_note": "External use only; may cause cold or sinus congestion if applied wet or over long periods; caution with sensitive skin; contains galena (lead sulphide) per parsed record, a heavy-metal concern.",
+  "evidence_note": "Traditional use only.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Withania_somnifera",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ }
+}

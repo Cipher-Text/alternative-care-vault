@@ -31,34 +31,6 @@
       "Pulsatilla Nigricans",
       "Puls"
     ],
-    "Ocimum Sanctum": [
-      "Tulsi",
-      "Holy Basil",
-      "Ocimum Tenuiflorum"
-    ],
-    "Withania Somnifera": [
-      "Ashwagandha"
-    ],
-    "Bacopa Monnieri": [
-      "Brahmi"
-    ],
-    "Nigella Sativa": [
-      "Kalonji",
-      "Black Seed",
-      "Black Cumin"
-    ],
-    "Curcuma Longa": [
-      "Turmeric",
-      "Haldi"
-    ],
-    "Zingiber Officinale": [
-      "Ginger",
-      "Adrak"
-    ],
-    "Matricaria Chamomilla": [
-      "Chamomilla",
-      "Chamomile"
-    ],
     "Helleborus Niger": [
       "Helleborus"
     ],
@@ -124,6 +96,208 @@
     "Sulphur": [
       "Sulfur",
       "Sulph"
+    ],
+    "Ashwagandha": [
+      "Aswagandha",
+      "Aswagandha Choornam",
+      "Ashwagandha Choornam",
+      "Withania Somnifera",
+      "Asgandh",
+      "Asgandh Nagori"
+    ],
+    "Triphala": [
+      "Thriphala",
+      "Thriphala Choornam",
+      "Vara Choornam",
+      "Vara Choornam / Thriphala Choornam",
+      "Triphala Churna",
+      "Triphala Choornam"
+    ],
+    "Brahmi": [
+      "Bacopa Monnieri",
+      "Brahmi Choornam",
+      "Bacopa"
+    ],
+    "Turmeric": [
+      "Nisa Choornam",
+      "Haridra",
+      "Haldi",
+      "Curcuma Longa",
+      "Zard Chob"
+    ],
+    "Ginger": [
+      "Sundi Choornam",
+      "Sunthi",
+      "Shunthi",
+      "Zanjabeel",
+      "Zanjabil",
+      "Zingiber Officinale",
+      "Sunti"
+    ],
+    "Senna": [
+      "Sana",
+      "Sana Makki",
+      "Cassia Angustifolia",
+      "Senna Alexandrina"
+    ],
+    "Kalonji": [
+      "Nigella Sativa",
+      "Habbat Ul Sauda",
+      "Black Seed",
+      "Shuniz",
+      "Black Cumin"
+    ],
+    "Chamomile": [
+      "Babuna",
+      "Matricaria Chamomilla",
+      "Babuna Gul"
+    ],
+    "Tulsi": [
+      "Ocimum Sanctum",
+      "Holy Basil",
+      "Ocimum Tenuiflorum",
+      "Raihan"
+    ],
+    "Abhayarishta": [
+      "Abhayarishtam"
+    ],
+    "Amritarishta": [
+      "Amrutharishtam"
+    ],
+    "Ashwagandharishta": [
+      "Aswagandharishtam"
+    ],
+    "Balarishta": [
+      "Balarishtam"
+    ],
+    "Dashamoolarishta": [
+      "Dasamoolarishtam"
+    ],
+    "Saraswatarishta": [
+      "Saraswatharishtam"
+    ],
+    "Kumaryasava": [
+      "Kumaryasavam"
+    ],
+    "Chyavanaprasha": [
+      "Chyavanaprasam"
+    ],
+    "Brahma Rasayana": [
+      "Brahma Rasayanam"
+    ],
+    "Agastya Rasayana": [
+      "Agasthyarasayanam"
+    ],
+    "Brahmi Ghrita": [
+      "Brahmi Ghrutham"
+    ],
+    "Kalyanaka Ghrita": [
+      "Kallyanaka Ghrutham"
+    ],
+    "Mahatiktaka Ghrita": [
+      "Mahathikthaka Ghrutham"
+    ],
+    "Narayana Taila": [
+      "Narayana Thailam"
+    ],
+    "Dhanvantaram Taila": [
+      "Dhanwantharam Thailam"
+    ],
+    "Mahamasha Taila": [
+      "Mahamasha Thailam"
+    ],
+    "Kottamchukkadi Taila": [
+      "Kottamchukkadi Thailam"
+    ],
+    "Chandraprabha Vati": [
+      "Chandraprabha Gulika (Tablet)"
+    ],
+    "Kaishora Guggulu": [
+      "Kaisoragulgulu Gulika (Tablet)"
+    ],
+    "Kanchanara Guggulu": [
+      "Kanchanaraguggulu Gulika (Tablet)"
+    ],
+    "Triphala Guggulu": [
+      "Thriphala Guggulu"
+    ],
+    "Yogaraja Guggulu": [
+      "Yogarajagulgulu Gulika (Tablet)"
+    ],
+    "Punarnava Guggulu": [
+      "Punarnnava Guggulu"
+    ],
+    "Sudarshana Churna": [
+      "Sudarsanachoornam"
+    ],
+    "Trikatu Churna": [
+      "Trikatu Choornam"
+    ],
+    "Hinguvachadi Churna": [
+      "Hinguvachadi Choornam"
+    ],
+    "Avipattikara Churna": [
+      "Avipathi Choornam"
+    ],
+    "Pushyanuga Churna": [
+      "Pushyanugachoornam"
+    ],
+    "Guduchyadi Kashayam": [
+      "Guluchyadi Kashayam"
+    ],
+    "Gokshura Churna": [
+      "Gokshura Choornam"
+    ],
+    "Guduchi Churna": [
+      "Guluchi Choornam"
+    ],
+    "Arjuna Churna": [
+      "Arjuna Choornam"
+    ],
+    "Shatavari Churna": [
+      "Sathavari Choornam"
+    ],
+    "Vacha Churna": [
+      "Vacha Choornam"
+    ],
+    "Yashtimadhu Churna": [
+      "Yashti Choornam"
+    ],
+    "Sarpagandha Churna": [
+      "Sarpagandhi Choornam"
+    ],
+    "Punarnava Churna": [
+      "Punarnava Choornam"
+    ],
+    "Musta Churna": [
+      "Mustha Choornam"
+    ],
+    "Pippali Churna": [
+      "Pippalee Choornam"
+    ],
+    "Dhanvantaram Gulika": [
+      "Dhanwantharam Gulika (Tablet)"
+    ],
+    "Vidangadi Gulika": [
+      "Vidangadi Gulika (Tablet)"
+    ],
+    "Haridrakhanda": [
+      "Haridrakhandam"
+    ],
+    "Kantakaryavaleha": [
+      "Kantakaryavaleham"
+    ],
+    "Lohasava": [
+      "Lohasavam"
+    ],
+    "Drakshadi Lehya": [
+      "Drakshadi Lehyam"
+    ],
+    "Dashamoola Kashaya Churna": [
+      "Dasamoolam Kashayachoornam"
+    ],
+    "Triphaladi Taila": [
+      "Thriphaladi Thailam"
     ]
   },
   "symptoms": {

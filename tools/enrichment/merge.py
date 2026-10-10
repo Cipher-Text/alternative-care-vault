@@ -21,7 +21,8 @@ SYM_CATS = {"neurological", "respiratory", "digestive", "musculoskeletal", "ment
             "general", "immune", "cardiovascular", "metabolic", "reproductive", "urinary"}
 
 def validate(kind, r):
-    errs = [f"missing {k}" for k in REQUIRED[kind] if not str(r.get(k, "")).strip()]
+    req = [k for k in REQUIRED[kind] if not (kind == "medicines" and k == "potency" and r.get("system") != "homeopathy")]
+    errs = [f"missing {k}" for k in req if not str(r.get(k, "")).strip()]
     if kind == "medicines" and r.get("system") not in SYSTEMS: errs.append(f"bad system {r.get('system')!r}")
     if kind == "symptoms" and r.get("category") not in SYM_CATS: errs.append(f"bad category {r.get('category')!r}")
     return errs
@@ -30,13 +31,19 @@ def main():
     kind = sys.argv[1]; apply = "--apply" in sys.argv
     path = APP / f"{kind}.json"
     existing = json.loads(path.read_text())[kind]
-    drafts = json.loads((HERE / "staging" / f"drafts_{kind}.json").read_text())
-    reg = Registry(kind, existing)
+    name = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--drafts=")), f"drafts_{kind}.json")
+    drafts = json.loads((HERE / "staging" / name).read_text())
+    def reg_for(system):
+        # same tradition only; 'herbal' is a system-agnostic bucket that collides with any non-homeopathic herb
+        ok = (lambda r: True) if kind == "symptoms" else (
+            (lambda r: r["system"] in (system, "herbal") or (system == "herbal" and r["system"] != "homeopathy")))
+        return Registry(kind, [r for r in existing if ok(r)])
     by_name = {r["name_en"]: r for r in existing}
     added, filled, dups, invalid = [], [], [], []
     for d in drafts:
+        reg = reg_for(d.get("system"))
         canon, how = reg.lookup(d["name_en"])
-        if canon and canon in by_name:                         # duplicate of a record we hold
+        if canon and reg.is_existing(canon) and canon in by_name:                         # duplicate of a record we hold
             cur = by_name[canon]
             for k, v in d.items():
                 if v not in (None, "", []) and cur.get(k) in (None, "", []):
@@ -45,8 +52,7 @@ def main():
         errs = validate(kind, d)
         if errs: invalid.append((d.get("name_en"), errs)); continue
         d.setdefault("is_global", True); d.setdefault("is_active", True)
-        existing.append(d); by_name[d["name_en"]] = d; reg.add(d["name_en"])
-        for alias in d.get("_aliases", []): reg.canon[__import__("common").norm(alias)] = d["name_en"]
+        existing.append(d); by_name[d["name_en"]] = d
         added.append(d["name_en"])
     for d in existing: d.pop("_aliases", None)
     print(f"{kind}: +{len(added)} new, {len(dups)} duplicates skipped, {len(filled)} empty fields filled, {len(invalid)} invalid")

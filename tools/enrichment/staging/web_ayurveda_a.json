@@ -1,0 +1,821 @@
+[
+ {
+  "name_en": "Abhayarishtam",
+  "display_name": "Abhayarishta",
+  "form": "Arishta",
+  "classical_reference": "Ashtanga Hridaya",
+  "key_herbs": [
+   "Haritaki (Terminalia chebula)",
+   "Amalaki (Emblica officinalis)",
+   "Indravaruni (Citrullus colocynthis)",
+   "Lodhra (Symplocos cochinchinensis)",
+   "Maricha (Piper nigrum)",
+   "Pippali (Piper longum)",
+   "Vidanga (Embelia ribes)"
+  ],
+  "category_ayurveda": "Anulomana, Arshoghna",
+  "indications_modern": [
+   "Piles",
+   "Constipation",
+   "Anaemia",
+   "Digestive weakness",
+   "Worm infestation",
+   "Oedema"
+  ],
+  "description_en": "A fermented haritaki-based tonic traditionally used for piles and constipation.",
+  "anupana": "Equal quantity of warm water after meals",
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base).",
+  "evidence_note": "Evidence is mostly traditional use plus lab or small studies; no robust clinical trials of the specific formulation.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Chyawanprash"
+  ]
+ },
+ {
+  "name_en": "Amrutharishtam",
+  "display_name": "Amritarishta",
+  "form": "Arishta",
+  "classical_reference": "Bhaishajyaratnavali",
+  "key_herbs": [
+   "Guduchi (Tinospora cordifolia)",
+   "Dashamoola",
+   "Musta (Cyperus rotundus)",
+   "Kutki (Picrorhiza kurroa)",
+   "Ativisha (Aconitum heterophyllum)",
+   "Kutaja (Holarrhena antidysenterica)"
+  ],
+  "category_ayurveda": "Jwaghna",
+  "indications_modern": [
+   "Chronic or recurrent fever",
+   "Flu-like illness",
+   "Indigestion",
+   "Low immunity after illness"
+  ],
+  "description_en": "A guduchi-based fermented preparation traditionally used for fevers and indigestion.",
+  "anupana": "Equal quantity of warm water after meals",
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base).",
+  "evidence_note": "Guduchi has some small-trial support for fever and immunity, but this formulation has no clinical trials.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha"
+  ]
+ },
+ {
+  "name_en": "Aswagandharishtam",
+  "display_name": "Ashwagandharishta",
+  "form": "Arishta",
+  "classical_reference": "Bhaishajyaratnavali",
+  "key_herbs": [
+   "Ashwagandha (Withania somnifera)",
+   "Musali (Curculigo orchioides)",
+   "Manjishtha (Rubia cordifolia)",
+   "Yashtimadhu (Glycyrrhiza glabra)",
+   "Sariva (Hemidesmus indicus)",
+   "Haridra (Curcuma longa)"
+  ],
+  "category_ayurveda": "Rasayana, Medhya, Balya",
+  "indications_modern": [
+   "Stress and anxiety",
+   "Epilepsy and mental disturbance (traditional)",
+   "Rheumatic complaints",
+   "Heart weakness",
+   "Physical weakness",
+   "Low vitality"
+  ],
+  "description_en": "A fermented ashwagandha tonic traditionally used for nervous weakness and vitality.",
+  "anupana": "Equal quantity of warm water after meals",
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Ashwagandha: avoid in pregnancy; reports of liver injury and thyroid effects; may add to sedatives.",
+  "evidence_note": "Ashwagandha has limited human trial data (stress, anxiety); the arishta itself is unstudied.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Balarishtam",
+  "display_name": "Balarishta",
+  "form": "Arishta",
+  "classical_reference": "Bhaishajyaratnavali",
+  "key_herbs": [
+   "Bala (Sida cordifolia)",
+   "Ashwagandha (Withania somnifera)",
+   "Eranda (Ricinus communis)",
+   "Elaichi (Elettaria cardamomum)",
+   "Gokshura (Tribulus terrestris)",
+   "Dhataki (Woodfordia fruticosa)"
+  ],
+  "category_ayurveda": "Vatahara, Balya",
+  "indications_modern": [
+   "Rheumatic disorders",
+   "Nervous disorders",
+   "General weakness",
+   "Poor appetite",
+   "Convalescence"
+  ],
+  "description_en": "A bala-based fermented tonic traditionally used for nerve and joint complaints and strength.",
+  "anupana": "Equal quantity of warm water after meals",
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Contains ashwagandha: avoid in pregnancy.",
+  "evidence_note": "Evidence is mostly traditional use plus lab or small studies; no robust clinical trials of the specific formulation.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Dasamoolarishtam",
+  "display_name": "Dashamoolarishta",
+  "form": "Arishta",
+  "classical_reference": "Bhaishajyaratnavali",
+  "key_herbs": [
+   "Dashamoola (ten-root group)",
+   "Guduchi (Tinospora cordifolia)",
+   "Amalaki (Emblica officinalis)",
+   "Bharangi (Clerodendrum serratum)",
+   "Pippali (Piper longum)",
+   "Ashwagandha (Withania somnifera)"
+  ],
+  "category_ayurveda": "Vatahara, Balya",
+  "indications_modern": [
+   "Rheumatic and joint pain",
+   "Cough and bronchitis",
+   "Breathlessness",
+   "Gastric disorders",
+   "Anaemia",
+   "Post-natal weakness"
+  ],
+  "description_en": "A widely used fermented dashamoola tonic for joint pain, respiratory complaints and post-natal recovery.",
+  "anupana": "Equal quantity of warm water after meals",
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Commonly used post-partum, but use under physician guidance.",
+  "evidence_note": "Evidence is mostly traditional use plus lab or small studies; no robust clinical trials of the specific formulation.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Saraswatharishtam",
+  "display_name": "Saraswatarishta",
+  "form": "Arishta",
+  "classical_reference": "Bhaishajyaratnavali",
+  "key_herbs": [
+   "Brahmi (Bacopa monnieri)",
+   "Shatavari (Asparagus racemosus)",
+   "Vacha (Acorus calamus)",
+   "Ashwagandha (Withania somnifera)",
+   "Guduchi (Tinospora cordifolia)",
+   "Vidanga (Embelia ribes)"
+  ],
+  "category_ayurveda": "Medhya",
+  "indications_modern": [
+   "Poor memory",
+   "Anxiety and mental restlessness",
+   "Stammering",
+   "Fear in children",
+   "Poor concentration"
+  ],
+  "description_en": "A brahmi-based fermented tonic traditionally used to support memory and calm the mind.",
+  "anupana": "Equal quantity of warm water after meals",
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Parsed record lists processed gold; this version contains Acorus calamus (vacha), which has regulatory restrictions in some countries.",
+  "evidence_note": "Bacopa has limited and inconsistent evidence for memory; the formulation itself is untested.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Bacopa_monnieri",
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Kumaryasavam",
+  "display_name": "Kumaryasava",
+  "form": "Asava",
+  "classical_reference": "Sarngadhara Samhita",
+  "key_herbs": [
+   "Kumari (Aloe vera)",
+   "Lauha bhasma (iron)",
+   "Vidanga (Embelia ribes)",
+   "Trikatu",
+   "Katuki (Picrorhiza kurroa)",
+   "Dhataki (Woodfordia fruticosa)"
+  ],
+  "category_ayurveda": "Garbhashaya shodhana, Deepana",
+  "indications_modern": [
+   "Painful periods",
+   "Scanty or irregular periods",
+   "Poor appetite",
+   "Urinary tract complaints",
+   "Abdominal colic",
+   "General weakness"
+  ],
+  "description_en": "An aloe-based fermented tonic traditionally used for menstrual problems and uterine health.",
+  "anupana": "Equal quantity of warm water after meals",
+  "safety_note": "Arishta/asava are self-fermented and contain some alcohol; use caution with alcohol avoidance, liver disease, pregnancy and diabetes (sugar/jaggery base). Contains processed iron; avoid in pregnancy unless advised.",
+  "evidence_note": "Evidence is mostly traditional use plus lab or small studies; no robust clinical trials of the specific formulation.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Piper_nigrum"
+  ]
+ },
+ {
+  "name_en": "Chyavanaprasam",
+  "display_name": "Chyavanprash",
+  "form": "Lehya/Avaleha",
+  "classical_reference": "Ashtanga Hridaya",
+  "key_herbs": [
+   "Amalaki (Emblica officinalis)",
+   "Dashamoola",
+   "Pippali (Piper longum)",
+   "Bala (Sida cordifolia)",
+   "Ashwagandha (Withania somnifera)",
+   "Guduchi (Tinospora cordifolia)"
+  ],
+  "category_ayurveda": "Rasayana",
+  "indications_modern": [
+   "Chronic bronchitis and asthma recovery",
+   "Low immunity",
+   "Fatigue and weakness",
+   "Poor memory",
+   "Dry cough",
+   "Convalescence"
+  ],
+  "description_en": "The classic amla-based herbal jam used as a daily rejuvenating tonic for immunity and respiratory health.",
+  "anupana": "Warm milk or warm water",
+  "safety_note": "Contains sugar and honey: caution in diabetes. Heavy-metal content has been questioned for some Ayurvedic products; one 2011 consumer test found major brands acceptable.",
+  "evidence_note": "Widely used; small studies on immunity and respiratory outcomes exist but high-quality trials are scarce.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Chyawanprash",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Brahma Rasayanam",
+  "display_name": "Brahma Rasayana",
+  "form": "Rasayana",
+  "classical_reference": "Ashtanga Hridaya",
+  "key_herbs": [
+   "Haritaki (Terminalia chebula)",
+   "Amalaki (Emblica officinalis)",
+   "Bilva (Aegle marmelos)",
+   "Syonaka (Oroxylum indicum)",
+   "Gambhari (Gmelina arborea)"
+  ],
+  "category_ayurveda": "Rasayana, Medhya",
+  "indications_modern": [
+   "Physical and mental weakness",
+   "Fever recovery",
+   "Premature ageing",
+   "Poor memory",
+   "Low stamina"
+  ],
+  "description_en": "A ghee-and-honey based rejuvenative preparation traditionally taken to improve vitality, memory and longevity.",
+  "anupana": "Warm milk or warm water",
+  "safety_note": "Contains sugar and honey: caution in diabetes.",
+  "evidence_note": "Only traditional use plus limited preclinical research; no solid clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Chyawanprash"
+  ]
+ },
+ {
+  "name_en": "Agasthyarasayanam",
+  "display_name": "Agastya Rasayana",
+  "form": "Lehya/Avaleha",
+  "classical_reference": "Ashtanga Hridaya",
+  "key_herbs": [
+   "Dashamoola",
+   "Pippali (Piper longum)",
+   "Haritaki (Terminalia chebula)",
+   "Kaempferia galanga (Kacholam)",
+   "Bala (Sida cordifolia)",
+   "Bharangi (Clerodendrum serratum)"
+  ],
+  "category_ayurveda": "Rasayana, Kasahara",
+  "indications_modern": [
+   "Cough",
+   "Asthma",
+   "Bronchitis",
+   "Sinusitis",
+   "Nasal catarrh",
+   "Hiccups"
+  ],
+  "description_en": "A herbal jam traditionally used for cough, asthma and other respiratory disorders.",
+  "anupana": "Warm water or warm milk",
+  "safety_note": "Contains jaggery, ghee and honey: caution in diabetes.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Brahmi Ghrutham",
+  "display_name": "Brahmi Ghrita",
+  "form": "Ghrita",
+  "classical_reference": "Ashtanga Hridaya",
+  "key_herbs": [
+   "Brahmi (Bacopa monnieri)",
+   "Trikatu",
+   "Trivrit (Operculina turpethum)",
+   "Danti (Baliospermum montanum)",
+   "Shankhapushpi (Clitoria ternatea)",
+   "Aragvadha (Cassia fistula)",
+   "Vidanga (Embelia ribes)"
+  ],
+  "category_ayurveda": "Medhya, Unmada-hara",
+  "indications_modern": [
+   "Poor memory",
+   "Anxiety and depression",
+   "Epilepsy (traditional)",
+   "Stammering",
+   "Bedwetting",
+   "Poor concentration"
+  ],
+  "description_en": "A medicated ghee traditionally used for memory, mental disorders and speech problems.",
+  "anupana": "Warm water or milk",
+  "safety_note": "Ghee base: caution with high cholesterol. Bacopa may cause nausea and gut upset.",
+  "evidence_note": "Bacopa has limited and inconsistent evidence for cognition; this ghee is untested clinically.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Bacopa_monnieri",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Kallyanaka Ghrutham",
+  "display_name": "Kalyanaka Ghrita",
+  "form": "Ghrita",
+  "classical_reference": "Ashtanga Hridaya",
+  "key_herbs": [
+   "Triphala",
+   "Indravaruni (Citrullus colocynthis)",
+   "Haridra (Curcuma longa)",
+   "Shalaparni (Desmodium gangeticum)",
+   "Vidanga (Embelia ribes)",
+   "Daadima (Punica granatum)",
+   "Chandana (Santalum album)"
+  ],
+  "category_ayurveda": "Medhya, Balya",
+  "indications_modern": [
+   "Epilepsy and mental disturbance (traditional)",
+   "Menstrual disorders",
+   "Infertility",
+   "Low sperm count",
+   "Loss of memory",
+   "Emaciation"
+  ],
+  "description_en": "A medicated ghee traditionally used for mental disorders, reproductive problems and general nourishment.",
+  "anupana": "Warm water or milk",
+  "safety_note": "Ghee base: caution with high cholesterol; physician supervision advised for epilepsy or infertility.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Mahathikthaka Ghrutham",
+  "display_name": "Mahatiktaka Ghrita",
+  "form": "Ghrita",
+  "classical_reference": "Ashtanga Hridaya",
+  "key_herbs": [
+   "Saptaparna (Alstonia scholaris)",
+   "Triphala",
+   "Aragvadha (Cassia fistula)",
+   "Daruharidra (Coscinium fenestratum)",
+   "Neem (Azadirachta indica)",
+   "Chandana (Santalum album)",
+   "Guduchi (Tinospora cordifolia)"
+  ],
+  "category_ayurveda": "Raktashodhaka, Kushthaghna",
+  "indications_modern": [
+   "Chronic skin diseases",
+   "Boils and abscesses",
+   "Chronic wounds and ulcers",
+   "Erysipelas",
+   "Anaemia"
+  ],
+  "description_en": "A bitter medicated ghee traditionally used for skin diseases and blood purification.",
+  "anupana": "Warm water; also used in classical purification therapy",
+  "safety_note": "Ghee base: caution with high cholesterol.",
+  "evidence_note": "Traditional use only; limited small studies.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Narayana Thailam",
+  "display_name": "Narayana Taila",
+  "form": "Taila",
+  "classical_reference": "Sarngadhara Samhita",
+  "key_herbs": [
+   "Ashwagandha (Withania somnifera)",
+   "Bala (Sida cordifolia)",
+   "Dashamoola",
+   "Neem (Azadirachta indica)",
+   "Punarnava (Boerhavia diffusa)",
+   "Vacha (Acorus calamus)",
+   "Shatavari (Asparagus racemosus)"
+  ],
+  "category_ayurveda": "Vatahara",
+  "indications_modern": [
+   "Hemiplegia",
+   "Lumbago and sciatica",
+   "Arthritis",
+   "Back pain",
+   "Hernia and hydrocele (traditional)",
+   "Cervical spondylosis"
+  ],
+  "description_en": "A sesame-oil based medicated oil for nerve and joint disorders, used externally and in vasti.",
+  "anupana": "External application, nasya, vasti, pichu, dhara",
+  "safety_note": "Mainly external; avoid on broken skin or in fever and acute inflammation unless advised.",
+  "evidence_note": "Traditional use only; small studies on oil massage are low quality.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Dhanwantharam Thailam",
+  "display_name": "Dhanwantaram Taila",
+  "form": "Taila",
+  "classical_reference": "Ashtanga Hridaya",
+  "key_herbs": [
+   "Bala (Sida cordifolia)",
+   "Yava (Hordeum vulgare)",
+   "Dashamoola",
+   "Shatavari (Asparagus racemosus)",
+   "Manjishtha (Rubia cordifolia)",
+   "Ashwagandha (Withania somnifera)",
+   "Sariva (Hemidesmus indicus)"
+  ],
+  "category_ayurveda": "Vatahara, Balya",
+  "indications_modern": [
+   "Rheumatic diseases",
+   "Fractures and sprains",
+   "Emaciation",
+   "Neurological and mental disorders",
+   "Ante- and post-natal care",
+   "Menstrual irregularities"
+  ],
+  "description_en": "A classic medicated oil for musculoskeletal and neurological complaints, widely used in infant and post-natal massage.",
+  "anupana": "External application, also nasya, vasti and oral use under supervision",
+  "safety_note": "Mainly external; patch-test first; oral use only under supervision.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ashwagandha",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Mahamasha Thailam",
+  "display_name": "Mahamasha Taila",
+  "form": "Taila",
+  "classical_reference": "Bhaishajyaratnavali",
+  "key_herbs": [
+   "Masha (Phaseolus mungo)",
+   "Bala (Sida cordifolia)",
+   "Dashamoola",
+   "Kolakulatha (Alpinia calcarata)",
+   "Trikatu",
+   "Eranda (Ricinus communis)",
+   "Jeevaneeya group"
+  ],
+  "category_ayurveda": "Vatahara",
+  "indications_modern": [
+   "Numbness",
+   "Facial paralysis",
+   "Hemiplegia",
+   "Sciatica",
+   "Brachial palsy",
+   "Ear ache and tinnitus"
+  ],
+  "description_en": "A black-gram based medicated oil traditionally used for paralytic and nerve disorders.",
+  "anupana": "External application and vasti",
+  "safety_note": "Mainly external; patch-test first.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Kottamchukkadi Thailam",
+  "display_name": "Kottamchukkadi Taila",
+  "form": "Taila",
+  "classical_reference": "Sahasrayogam",
+  "key_herbs": [
+   "Tamarind leaf (Tamarindus indica)",
+   "Kushtha (Saussurea lappa)",
+   "Shunthi (Zingiber officinale)",
+   "Vacha (Acorus calamus)",
+   "Lasuna (Allium sativum)",
+   "Kolakulatha (Alpinia calcarata)"
+  ],
+  "category_ayurveda": "Vatahara, Shothahara",
+  "indications_modern": [
+   "Rheumatic complaints",
+   "Muscle cramps",
+   "Numbness",
+   "Swelling",
+   "Joint stiffness"
+  ],
+  "description_en": "A medicated oil applied externally for rheumatic pain, cramps and swelling.",
+  "anupana": "External application only",
+  "safety_note": "External use only; garlic may irritate sensitive skin; patch-test.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Chandraprabha Gulika (Tablet)",
+  "display_name": "Chandraprabha Vati",
+  "form": "Vati/Gulika",
+  "classical_reference": "Bhaishajyaratnavali",
+  "key_herbs": [
+   "Shilajit (asphaltum)",
+   "Guggulu (Commiphora wightii)",
+   "Vidanga (Embelia ribes)",
+   "Trikatu",
+   "Triphala",
+   "Vacha (Acorus calamus)"
+  ],
+  "category_ayurveda": "Mutrala, Vrishya",
+  "indications_modern": [
+   "Urinary tract infection",
+   "Painful or difficult urination",
+   "Urinary stones",
+   "Urinary incontinence",
+   "Spermatorrhoea",
+   "Leucorrhoea",
+   "Diabetes (traditional)"
+  ],
+  "description_en": "A multi-ingredient tablet traditionally used for urinary and genito-urinary disorders.",
+  "anupana": "Warm milk, honey or Brihatyadi kashaya",
+  "safety_note": "Contains shilajit and guggulu; metal content concerns generally apply to Ayurvedic mineral products; guggul may affect thyroid and drug metabolism (CYP3A4); caution in pregnancy.",
+  "evidence_note": "Traditional use with a few small trials in urinary symptoms and diabetes, low quality.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Kaisoragulgulu Gulika (Tablet)",
+  "display_name": "Kaishora Guggulu",
+  "form": "Guggulu",
+  "classical_reference": "Sarngadhara Samhita",
+  "key_herbs": [
+   "Guggulu (Commiphora wightii)",
+   "Triphala",
+   "Guduchi (Tinospora cordifolia)",
+   "Trikatu",
+   "Vidanga (Embelia ribes)",
+   "Danti (Baliospermum montanum)",
+   "Trivrit (Operculina turpethum)"
+  ],
+  "category_ayurveda": "Raktashodhaka, Vatarakta-hara",
+  "indications_modern": [
+   "Skin diseases",
+   "Chronic arthritis and gout",
+   "Chronic wounds",
+   "Acne",
+   "Anaemia",
+   "Ascites and oedema"
+  ],
+  "description_en": "A guggulu tablet traditionally used for skin disease, gout and chronic wounds.",
+  "anupana": "Warm water or Guduchi decoction",
+  "safety_note": "Guggul can interact with CYP3A4 drugs, affect thyroid tests, cause GI upset, and rarely liver injury; caution in pregnancy.",
+  "evidence_note": "Traditional use only; guggul evidence mixed.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Kanchanaraguggulu Gulika (Tablet)",
+  "display_name": "Kanchanara Guggulu",
+  "form": "Guggulu",
+  "classical_reference": "Ayurvedic Formulary of India",
+  "key_herbs": [
+   "Kanchanara (Bauhinia variegata)",
+   "Haritaki (Terminalia chebula)",
+   "Vibhitaki (Terminalia bellirica)",
+   "Amalaki (Emblica officinalis)",
+   "Guggulu (Commiphora wightii)"
+  ],
+  "category_ayurveda": "Granthihara, Lekhana",
+  "indications_modern": [
+   "Thyroid disorders",
+   "Benign lumps and growths",
+   "Fistula",
+   "Skin diseases",
+   "Lymph node swelling"
+  ],
+  "description_en": "A guggulu tablet traditionally used for thyroid swellings, cysts and tumours.",
+  "anupana": "Warm water or Kanchanara decoction",
+  "safety_note": "Guggul may alter thyroid hormones and CYP3A4 drug levels; see physician if on thyroid medication or in pregnancy.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Thriphala Guggulu",
+  "display_name": "Triphala Guggulu",
+  "form": "Guggulu",
+  "classical_reference": "Ayurvedic Formulary of India",
+  "key_herbs": [
+   "Haritaki (Terminalia chebula)",
+   "Vibhitaki (Terminalia bellirica)",
+   "Amalaki (Emblica officinalis)",
+   "Guggulu (Commiphora wightii)",
+   "Pippali (Piper longum)"
+  ],
+  "category_ayurveda": "Shothahara",
+  "indications_modern": [
+   "Inflammation",
+   "Fistula",
+   "Haemorrhoids",
+   "Ascites",
+   "Constipation"
+  ],
+  "description_en": "A triphala and guggul tablet traditionally used for piles, fistula and swelling.",
+  "anupana": "Warm water",
+  "safety_note": "Guggul may interact with CYP3A4 drugs and thyroid tests; caution in pregnancy.",
+  "evidence_note": "Traditional use only; triphala has small studies, guggul evidence is mixed.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Yogarajagulgulu Gulika (Tablet)",
+  "display_name": "Yogaraja Guggulu",
+  "form": "Guggulu",
+  "classical_reference": "Bhaishajyaratnavali",
+  "key_herbs": [
+   "Guggulu (Commiphora wightii)",
+   "Chitraka (Plumbago rosea)",
+   "Jeeraka (Cuminum cyminum)",
+   "Vidanga (Embelia ribes)",
+   "Devadaru (Cedrus deodara)",
+   "Gokshura (Tribulus terrestris)",
+   "Triphala"
+  ],
+  "category_ayurveda": "Vatahara",
+  "indications_modern": [
+   "Rheumatic and joint disease",
+   "Skin diseases",
+   "Piles",
+   "Fistula",
+   "Male genital disorders",
+   "Epilepsy (traditional)"
+  ],
+  "description_en": "A classical guggulu tablet traditionally used for arthritis and joint pain.",
+  "anupana": "Warm water",
+  "safety_note": "Some versions contain metals (bhasma) in the full classical recipe; guggul may interact with CYP3A4 drugs and thyroid tests; caution in pregnancy.",
+  "evidence_note": "Traditional use; a few small trials in arthritis, low quality.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Punarnnava Guggulu",
+  "display_name": "Punarnava Guggulu",
+  "form": "Guggulu",
+  "classical_reference": "Ayurvedic Formulary of India",
+  "key_herbs": [
+   "Punarnava (Boerhavia diffusa)",
+   "Guggulu (Commiphora wightii)",
+   "Eranda (Ricinus communis)",
+   "Shunthi (Zingiber officinale)"
+  ],
+  "category_ayurveda": "Shothahara, Mutrala",
+  "indications_modern": [
+   "Rheumatic complaints",
+   "Inflammation and swelling",
+   "Sciatica",
+   "Oedema"
+  ],
+  "description_en": "A guggulu tablet with punarnava traditionally used for swelling and joint complaints.",
+  "anupana": "Warm water",
+  "safety_note": "Guggul may interact with CYP3A4 drugs and thyroid tests; caution in pregnancy.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/guggul",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Sudarsanachoornam",
+  "display_name": "Sudarshana Churna",
+  "form": "Churna",
+  "classical_reference": "Sahasrayogam",
+  "key_herbs": [
+   "Triphala",
+   "Musta (Cyperus rotundus)",
+   "Kantakari (Solanum xanthocarpum)",
+   "Guduchi (Tinospora cordifolia)",
+   "Kutki (Picrorhiza kurroa)",
+   "Bhunimba (Andrographis paniculata)",
+   "Neem (Azadirachta indica)"
+  ],
+  "category_ayurveda": "Jwaghna",
+  "indications_modern": [
+   "Fever including recurrent fever",
+   "Flu",
+   "Indigestion",
+   "Jaundice",
+   "Skin disorders"
+  ],
+  "description_en": "A bitter multi-herb powder traditionally used for fevers and indigestion.",
+  "anupana": "Warm water",
+  "safety_note": "Very bitter; may upset the stomach; caution in pregnancy.",
+  "evidence_note": "Traditional use; limited small studies of components such as Andrographis.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Trikatu Choornam",
+  "display_name": "Trikatu Churna",
+  "form": "Churna",
+  "classical_reference": "Ayurvedic Formulary of India",
+  "key_herbs": [
+   "Shunthi (Zingiber officinale)",
+   "Maricha (Piper nigrum)",
+   "Pippali (Piper longum)"
+  ],
+  "category_ayurveda": "Deepana-Pachana",
+  "indications_modern": [
+   "Poor appetite",
+   "Indigestion",
+   "Sore throat",
+   "Common cold",
+   "Skin disease",
+   "Sluggish metabolism"
+  ],
+  "description_en": "A three-pungent-spice powder used to kindle digestion and clear respiratory congestion.",
+  "anupana": "Honey or warm water",
+  "safety_note": "Pungent; may aggravate acidity or ulcers; piperine can increase absorption of some drugs.",
+  "evidence_note": "Mostly traditional use plus piperine bioavailability research.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Piper_nigrum",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Hinguvachadi Choornam",
+  "display_name": "Hinguvachadi Churna",
+  "form": "Churna",
+  "classical_reference": "Ashtanga Hridaya",
+  "key_herbs": [
+   "Hingu (Ferula asafoetida)",
+   "Vacha (Acorus calamus)",
+   "Haritaki (Terminalia chebula)",
+   "Daadima (Punica granatum)",
+   "Dhanyaka (Coriandrum sativum)",
+   "Trikatu"
+  ],
+  "category_ayurveda": "Deepana-Pachana, Anulomana",
+  "indications_modern": [
+   "Dyspepsia",
+   "Loss of appetite",
+   "Constipation",
+   "Splenic disorders",
+   "Chest and abdominal pain",
+   "Rheumatic ailments"
+  ],
+  "description_en": "A digestive powder with asafoetida traditionally used for indigestion, gas and constipation.",
+  "anupana": "Warm water or buttermilk",
+  "safety_note": "Contains alkaline salts; caution with hyperacidity; avoid in pregnancy unless advised.",
+  "evidence_note": "Traditional use only; no robust clinical trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Piper_nigrum",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ }
+]

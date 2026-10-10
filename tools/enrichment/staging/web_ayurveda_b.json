@@ -1,0 +1,751 @@
+[
+ {
+  "name_en": "Avipathi Choornam",
+  "display_name": "Avipattikara Churna",
+  "form": "Churna",
+  "classical_reference": "Ashtangahridayam",
+  "botanical_name": null,
+  "key_herbs": [
+   "Trikatu: Shunthi (Zingiber officinale), Maricha (Piper nigrum), Pippali (Piper longum)",
+   "Triphala: Haritaki (Terminalia chebula), Bibhitaki (Terminalia bellirica), Amalaki (Phyllanthus emblica)",
+   "Musta (Cyperus rotundus)",
+   "Vidanga (Embelia ribes)",
+   "Trivrit (Operculina turpethum)"
+  ],
+  "category_ayurveda": "Virechana (purgative), Pittahara",
+  "indications_modern": [
+   "Mild purgative in pitta-type disorders",
+   "Hyperacidity and heartburn",
+   "Constipation",
+   "Itchy skin rashes and urticaria",
+   "Allergic conditions",
+   "Traditionally also for certain poisonings"
+  ],
+  "description_en": "A sugar-containing purgative powder of Trikatu, Triphala and turpeth, used for pitta disorders.",
+  "anupana": "Lukewarm water on an empty stomach",
+  "safety_note": "Purgative: avoid in pregnancy, diarrhoea or dehydration; sugar content matters for diabetics; Embelia and turpeth are not well studied for safety.",
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Embelia_ribes",
+   "https://en.wikipedia.org/wiki/Cyperus_rotundus"
+  ]
+ },
+ {
+  "name_en": "Pushyanugachoornam",
+  "display_name": "Pushyanuga Churna",
+  "form": "Churna",
+  "classical_reference": "Ashtangahridayam",
+  "botanical_name": null,
+  "key_herbs": [
+   "Patha (Cyclea peltata)",
+   "Jambu seed (Syzygium cumini)",
+   "Amra seed (Mangifera indica)",
+   "Pashanabheda (Rotula aquatica)",
+   "Daruharidra (Coscinium fenestratum)",
+   "Yashtimadhu (Glycyrrhiza glabra)"
+  ],
+  "category_ayurveda": "Stambhana (astringent), Raktasthapana",
+  "indications_modern": [
+   "Heavy menstrual bleeding",
+   "Leucorrhoea",
+   "Menstrual disorders",
+   "Urinary and genital tract complaints",
+   "Bleeding piles",
+   "Dysentery and chronic diarrhoea",
+   "Nosebleed"
+  ],
+  "description_en": "An astringent 26-herb powder traditionally used for abnormal vaginal discharge and bleeding disorders.",
+  "anupana": "Rice-wash water, milk or honey",
+  "safety_note": "Licorice component can raise blood pressure/lower potassium with heavy use; avoid in pregnancy unless supervised; persistent abnormal bleeding needs medical diagnosis.",
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/licorice-root",
+   "https://en.wikipedia.org/wiki/Glycyrrhiza_glabra",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ {
+  "name_en": "Maharasnadi Kashayam",
+  "display_name": "Maharasnadi Kashayam",
+  "form": "Kashaya",
+  "classical_reference": "Sarngadharasamhitha",
+  "botanical_name": null,
+  "key_herbs": [
+   "Rasna (Pluchea lanceolata, per general Ayurvedic sources; not verified on fetched pages)",
+   "Guduchi (Tinospora cordifolia)",
+   "Shunthi (Zingiber officinale)"
+  ],
+  "category_ayurveda": "Vatahara",
+  "indications_modern": [
+   "Joint pain and stiffness",
+   "Rheumatic complaints",
+   "Sciatica-type nerve pain",
+   "Paralysis and neurological weakness (traditional)",
+   "Neck and back pain"
+  ],
+  "description_en": "A bitter-pungent decoction used for vata-type joint and nerve disorders.",
+  "anupana": "Warm water",
+  "safety_note": "Guduchi has been linked to herb-induced liver injury; avoid in autoimmune disease and pregnancy unless supervised.",
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Guluchyadi Kashayam",
+  "display_name": "Guluchyadi Kashayam",
+  "form": "Kashaya",
+  "classical_reference": "Ashtangahridayam",
+  "botanical_name": null,
+  "key_herbs": [
+   "Guduchi (Tinospora cordifolia)"
+  ],
+  "category_ayurveda": "Vatahara, Rakta-shodhaka",
+  "indications_modern": [
+   "Gout-type joint pain",
+   "Rheumatoid arthritis symptoms",
+   "Skin conditions",
+   "Vata-pitta fever and burning sensations"
+  ],
+  "description_en": "A guduchi-based decoction traditionally used for gout and skin disorders.",
+  "anupana": "Warm water",
+  "safety_note": "Guduchi has been linked to liver injury in India; avoid with autoimmune disease or liver disease.",
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Nimbadi Kashayam",
+  "display_name": "Nimbadi Kashayam",
+  "form": "Kashaya",
+  "classical_reference": "Sahasrayogam",
+  "botanical_name": null,
+  "key_herbs": [
+   "Nimba (Azadirachta indica)",
+   "Guduchi (Tinospora cordifolia)",
+   "Shunthi (Zingiber officinale)",
+   "Amalaki (Phyllanthus emblica)",
+   "Haritaki (Terminalia chebula)"
+  ],
+  "category_ayurveda": "Rakta-shodhaka (blood-purifying), Kushthaghna",
+  "indications_modern": [
+   "Chronic skin diseases",
+   "Abscesses and boils",
+   "Itching and eczema-like conditions",
+   "Allergic skin reactions"
+  ],
+  "description_en": "A bitter decoction led by neem, used traditionally for skin disease and abscesses.",
+  "anupana": "Warm water",
+  "safety_note": "Neem may lower blood sugar and is traditionally avoided in pregnancy; neem oil is toxic to small children; guduchi has liver-injury reports.",
+  "evidence_note": "Neem has insufficient clinical evidence; this decoction is untested.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Azadirachta_indica",
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia"
+  ]
+ },
+ {
+  "name_en": "Varanadi Kashayam",
+  "display_name": "Varanadi Kashayam",
+  "form": "Kashaya",
+  "classical_reference": "Ashtangahridayam",
+  "botanical_name": null,
+  "key_herbs": [
+   "Varuna (Crateva nurvala; general Ayurvedic sources, not verified on fetched pages)",
+   "Shunthi (Zingiber officinale)"
+  ],
+  "category_ayurveda": "Kaphahara, Medohara",
+  "indications_modern": [
+   "Obesity and high cholesterol (traditional)",
+   "Urinary stones and dysuria",
+   "Abdominal lumps and sluggish digestion",
+   "Sinus and respiratory congestion",
+   "Joint stiffness"
+  ],
+  "description_en": "A 15-herb decoction used for kapha-type disorders such as obesity and urinary complaints.",
+  "anupana": "Warm water",
+  "safety_note": null,
+  "evidence_note": "No good clinical trials of this specific formulation; support is traditional use and laboratory data.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Gokshura Choornam",
+  "display_name": "Gokshura Churna",
+  "form": "Churna",
+  "classical_reference": "Ashtangahridayam",
+  "botanical_name": "Tribulus terrestris",
+  "key_herbs": [
+   "Gokshura (Tribulus terrestris)"
+  ],
+  "category_ayurveda": "Mutrala (diuretic), Vrishya",
+  "indications_modern": [
+   "Urinary tract infection symptoms",
+   "Blood in urine",
+   "Urinary incontinence",
+   "Kidney and bladder stones",
+   "Prostate enlargement or prostatitis",
+   "Painful urination",
+   "Swelling (dropsy)"
+  ],
+  "description_en": "Fruit powder of puncture vine used traditionally for urinary and prostate complaints.",
+  "anupana": "Lukewarm water, tender coconut water or Brihatyadi kashayam",
+  "safety_note": "NCCIH-cited note: not proven safe; rare liver toxicity suggested; avoid in pregnancy; hormonal claims unproven.",
+  "evidence_note": "Controlled studies show no consistent testosterone effect; no strong human trials for urinary uses.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tribulus_terrestris",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Guluchi Choornam",
+  "display_name": "Guduchi Churna",
+  "form": "Churna",
+  "classical_reference": "Ashtangahridayam",
+  "botanical_name": "Tinospora cordifolia",
+  "key_herbs": [
+   "Guduchi (Tinospora cordifolia)"
+  ],
+  "category_ayurveda": "Rasayana, Tridoshahara",
+  "indications_modern": [
+   "Rheumatoid arthritis and joint pain",
+   "Type 2 diabetes (adjunct, traditional)",
+   "Jaundice",
+   "Skin diseases",
+   "Leucorrhoea",
+   "Spermatorrhoea",
+   "Fever and general weakness"
+  ],
+  "description_en": "Stem powder of heart-leaved moonseed, a classic rasayana for immunity and metabolic complaints.",
+  "anupana": "Lukewarm water or honey",
+  "safety_note": "Supplement use has been linked to herb-induced liver injury in India, sometimes severe; avoid in autoimmune disease, liver disease and pregnancy; may lower blood sugar.",
+  "evidence_note": "Reviews find no good clinical evidence of benefit.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Arjuna Choornam",
+  "display_name": "Arjuna Churna",
+  "form": "Churna",
+  "classical_reference": "The Ayurvedic Pharmacopiea of India",
+  "botanical_name": "Terminalia arjuna",
+  "key_herbs": [
+   "Arjuna bark (Terminalia arjuna)"
+  ],
+  "category_ayurveda": "Hridya (cardiotonic)",
+  "indications_modern": [
+   "Cardiac tonic use (traditional)",
+   "High cholesterol",
+   "Excess body fat",
+   "Diabetes (adjunct, traditional)",
+   "Ulcers",
+   "Excess thirst",
+   "Emaciation"
+  ],
+  "description_en": "Bark powder of the arjuna tree, a classical heart tonic.",
+  "anupana": "Lukewarm water or milk (general practice)",
+  "safety_note": "Safety is not well documented; use cautiously with cardiac medicines and seek medical care for heart disease.",
+  "evidence_note": "Wikipedia lists only preclinical studies; clinical evidence is limited.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Terminalia_arjuna",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ {
+  "name_en": "Sathavari Choornam",
+  "display_name": "Shatavari Churna",
+  "form": "Churna",
+  "classical_reference": "Chakradattam",
+  "botanical_name": "Asparagus racemosus",
+  "key_herbs": [
+   "Shatavari (Asparagus racemosus)"
+  ],
+  "category_ayurveda": "Rasayana, Vrishya, Pittahara",
+  "indications_modern": [
+   "Leucorrhoea",
+   "Diabetes (adjunct, traditional)",
+   "Burning sensation in hands and feet",
+   "Menstrual and menopausal complaints",
+   "Support for lactation (traditional)",
+   "Chilblains"
+  ],
+  "description_en": "Root powder of Shatavari, traditionally a women's tonic and cooling rasayana.",
+  "anupana": "Milk",
+  "safety_note": "Safety not well studied; avoid in pregnancy unless supervised; may affect blood sugar.",
+  "evidence_note": "Preliminary trials only; Wikipedia notes high-quality evidence is lacking.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Asparagus_racemosus",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Vacha Choornam",
+  "display_name": "Vacha Churna",
+  "form": "Churna",
+  "classical_reference": "Chakradattam",
+  "botanical_name": "Acorus calamus",
+  "key_herbs": [
+   "Vacha (Acorus calamus)"
+  ],
+  "category_ayurveda": "Medhya, Deepana",
+  "indications_modern": [
+   "Mental and nervous disorders (traditional)",
+   "Colic",
+   "Flatulence",
+   "Constipation",
+   "Poor memory (traditional)"
+  ],
+  "description_en": "Rhizome powder of sweet flag, used traditionally for mental clarity and digestive gas.",
+  "anupana": "Honey or ghee",
+  "safety_note": "Contains beta-asarone, considered carcinogenic in animals; US FDA banned calamus in food in 1968; can cause vomiting; Ayurvedic purification lowers beta-asarone; avoid in pregnancy.",
+  "evidence_note": "No clinical evidence of safety or efficacy.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Acorus_calamus",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Yashti Choornam",
+  "display_name": "Yashtimadhu Churna",
+  "form": "Churna",
+  "classical_reference": "Bhavaprakasham",
+  "botanical_name": "Glycyrrhiza glabra",
+  "key_herbs": [
+   "Yashtimadhu (Glycyrrhiza glabra)"
+  ],
+  "category_ayurveda": "Rasayana, Kanthya, Chakshushya",
+  "indications_modern": [
+   "Eye diseases",
+   "Hoarseness and sore throat",
+   "Cough",
+   "Mouth ulcers",
+   "Wounds (external use)",
+   "Thirst",
+   "Poisoning (traditional)"
+  ],
+  "description_en": "Powdered licorice root used for throat, eye and mouth complaints.",
+  "anupana": "Honey",
+  "safety_note": "Glycyrrhizin can cause high blood pressure, low potassium and arrhythmia with long or heavy use; avoid in pregnancy, hypertension, heart or kidney disease; interacts with corticosteroids.",
+  "evidence_note": "Weak, preliminary evidence (e.g. mouth rinses, sore throat); not enough to support any condition.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/licorice-root",
+   "https://en.wikipedia.org/wiki/Glycyrrhiza_glabra"
+  ]
+ },
+ {
+  "name_en": "Sarpagandhi Choornam",
+  "display_name": "Sarpagandha Churna",
+  "form": "Churna",
+  "classical_reference": "Susruthasamhitha",
+  "botanical_name": "Rauvolfia serpentina",
+  "key_herbs": [
+   "Sarpagandha (Rauvolfia serpentina)"
+  ],
+  "category_ayurveda": "Nidrajanana, Raktachapahara",
+  "indications_modern": [
+   "High blood pressure",
+   "Insomnia",
+   "Anxiety and agitation",
+   "Mental disorders",
+   "Poisonous bites (traditional)"
+  ],
+  "description_en": "Root powder of Indian snakeroot, source of reserpine, used for hypertension and sleeplessness.",
+  "anupana": "Honey",
+  "safety_note": "Contains reserpine-type alkaloids; can cause depression, nasal congestion, dizziness, GI upset; interacts with antihypertensives and antidepressants; avoid in depression, ulcer and pregnancy.",
+  "evidence_note": "Reserpine lowered systolic BP about 8 mmHg in a review; whole-root powder lacks trials.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Rauvolfia_serpentina",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Punarnava Choornam",
+  "display_name": "Punarnava Churna",
+  "form": "Churna",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "botanical_name": "Boerhavia diffusa",
+  "key_herbs": [
+   "Punarnava (Boerhavia diffusa)"
+  ],
+  "category_ayurveda": "Shothahara, Mutrala",
+  "indications_modern": [
+   "Swelling and inflammation",
+   "Leucorrhoea",
+   "Lumbago",
+   "Scabies",
+   "Anaemia",
+   "Cough",
+   "Fluid retention (traditional)"
+  ],
+  "description_en": "Root powder of hogweed, a classic diuretic and anti-swelling herb.",
+  "anupana": "As directed by physician",
+  "safety_note": "Safety not documented in sources found; diuretic effect may interact with diuretics and affect kidney function.",
+  "evidence_note": "Only lab studies such as lunamarine in vitro; no human trials found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Boerhavia_diffusa",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Mustha Choornam",
+  "display_name": "Mustha Churna",
+  "form": "Churna",
+  "classical_reference": "Bhaishajyaratnavali",
+  "botanical_name": "Cyperus rotundus",
+  "key_herbs": [
+   "Mustaka (Cyperus rotundus)"
+  ],
+  "category_ayurveda": "Deepana-Pachana, Stambhana",
+  "indications_modern": [
+   "Loss of appetite",
+   "Indigestion",
+   "Diarrhoea",
+   "Dysentery",
+   "Fever",
+   "Menstrual pain (traditional)"
+  ],
+  "description_en": "Tuber powder of nut grass, used for poor digestion and loose stools.",
+  "anupana": "Honey, ghee or milk",
+  "safety_note": null,
+  "evidence_note": "Little clinical evidence; traditional and laboratory data only.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Cyperus_rotundus",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ {
+  "name_en": "Pippalee Choornam",
+  "display_name": "Pippali Churna",
+  "form": "Churna",
+  "classical_reference": "Bhavaprakasam",
+  "botanical_name": "Piper longum",
+  "key_herbs": [
+   "Pippali (Piper longum)"
+  ],
+  "category_ayurveda": "Deepana, Rasayana, Kaphahara",
+  "indications_modern": [
+   "Cough",
+   "Loss of appetite",
+   "Spleen enlargement",
+   "Anaemia",
+   "Low breast milk (traditional)",
+   "Chronic respiratory complaints"
+  ],
+  "description_en": "Long pepper fruit powder, used for cough and sluggish digestion.",
+  "anupana": "Honey or milk",
+  "safety_note": "May cause heartburn; large amounts avoided in pregnancy and with stomach ulcers; may alter drug absorption (piperine, general knowledge).",
+  "evidence_note": "No clinical trials for these uses on the pages reviewed.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Long_pepper",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ {
+  "name_en": "Lasunadi Vati",
+  "display_name": "Lasunadi Vati",
+  "form": "Vati/Gulika",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "botanical_name": null,
+  "key_herbs": [
+   "Lasuna (Allium sativum)",
+   "Jiraka (Cuminum cyminum)",
+   "Gandhaka (purified sulphur)",
+   "Shunthi (Zingiber officinale)"
+  ],
+  "category_ayurveda": "Deepana-Pachana, Shulahara",
+  "indications_modern": [
+   "Gastroenteritis with cramping pain",
+   "Dysentery",
+   "Sprue and malabsorption",
+   "Indigestion"
+  ],
+  "description_en": "Garlic-based tablet containing purified sulphur, used for colicky gut disorders.",
+  "anupana": "Warm water",
+  "safety_note": "Garlic may raise bleeding risk with anticoagulants and interact with some drugs; stop before surgery; contains processed sulphur.",
+  "evidence_note": "Garlic evidence is mixed; no trials of this tablet.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Allium_sativum",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ {
+  "name_en": "Sanjeevani Vati",
+  "display_name": "Sanjeevani Vati",
+  "form": "Vati/Gulika",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "botanical_name": null,
+  "key_herbs": [
+   "Vidanga (Embelia ribes)",
+   "Shunthi (Zingiber officinale)",
+   "Triphala: Haritaki, Bibhitaki, Amalaki",
+   "Vacha (Acorus calamus)"
+  ],
+  "category_ayurveda": "Deepana-Pachana",
+  "indications_modern": [
+   "Indigestion",
+   "Gastric complaints",
+   "Ascites (traditional)",
+   "Fever and general weakness (traditional)"
+  ],
+  "description_en": "A multi-herb digestive tablet; some versions include purified aconite and mineral components.",
+  "anupana": "Warm water",
+  "safety_note": "Formulations vary; some contain processed aconite (Vatsanabha), which is toxic if mis-processed; calamus contains beta-asarone; avoid in pregnancy.",
+  "evidence_note": "Traditional use; no robust human trials.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Embelia_ribes",
+   "https://en.wikipedia.org/wiki/Acorus_calamus",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Dhanwantharam Gulika (Tablet)",
+  "display_name": "Dhanwantharam Gulika",
+  "form": "Vati/Gulika",
+  "classical_reference": "Sahasrayogam",
+  "botanical_name": null,
+  "key_herbs": [
+   "Ela (Elettaria cardamomum)",
+   "Shunthi (Zingiber officinale)",
+   "Haritaki (Terminalia chebula)",
+   "Jiraka (Cuminum cyminum)",
+   "Karpura (Cinnamomum camphora)"
+  ],
+  "category_ayurveda": "Shwasahara, Hikkanigrahana",
+  "indications_modern": [
+   "Breathlessness",
+   "Cough",
+   "Hiccups",
+   "Vomiting",
+   "Rheumatic complaints",
+   "Tuberculosis (adjunct, traditional)"
+  ],
+  "description_en": "A small aromatic Kerala tablet used for cough, hiccup, vomiting and breathlessness.",
+  "anupana": "Warm water",
+  "safety_note": "Contains camphor; avoid in infants and in pregnancy unless supervised.",
+  "evidence_note": "No trials found; traditional use only.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Elettaria_cardamomum",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Vidangadi Gulika (Tablet)",
+  "display_name": "Vidangadi Gulika",
+  "form": "Vati/Gulika",
+  "classical_reference": "Proprietary Medicine",
+  "botanical_name": null,
+  "key_herbs": [
+   "Vidanga (Embelia ribes)",
+   "Japa (Hibiscus rosa-sinensis)",
+   "Hingu (Ferula asafoetida)"
+  ],
+  "category_ayurveda": "Artavajanana, Vatahara",
+  "indications_modern": [
+   "Painful periods (dysmenorrhoea)",
+   "Menstrual cramps"
+  ],
+  "description_en": "A proprietary tablet of Embelia, hibiscus and asafoetida for menstrual pain.",
+  "anupana": "Thila kashayam",
+  "safety_note": "Embelia has been used as a contraceptive/abortifacient in some traditions; avoid in pregnancy; proprietary, not classical.",
+  "evidence_note": "Proprietary product, no trials found; weakly sourced.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Embelia_ribes",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ {
+  "name_en": "Haridrakhandam",
+  "display_name": "Haridra Khanda",
+  "form": "Lehya/Avaleha",
+  "classical_reference": "Bhaishajyaratnavali",
+  "botanical_name": null,
+  "key_herbs": [
+   "Haridra (Curcuma longa)",
+   "Trikatu: Shunthi, Maricha, Pippali",
+   "Triphala: Haritaki, Bibhitaki, Amalaki",
+   "Vidanga (Embelia ribes)",
+   "Trivrit (Operculina turpethum)"
+  ],
+  "category_ayurveda": "Kushthaghna, Raktashodhaka",
+  "indications_modern": [
+   "Hives (urticaria)",
+   "Skin disorders",
+   "Itching and allergic sneezing",
+   "Worm infestation",
+   "Anaemia",
+   "Eosinophilia"
+  ],
+  "description_en": "A turmeric, ghee and sugar confection with iron ash, used for allergic skin conditions.",
+  "anupana": "Warm water or milk",
+  "safety_note": "Sugar content matters for diabetics; contains Loha bhasma (iron); turmeric supplements can rarely cause liver injury; avoid in pregnancy unless supervised.",
+  "evidence_note": "Turmeric evidence is weak; no trials of this formula.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/turmeric",
+   "https://en.wikipedia.org/wiki/Curcuma_longa",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ },
+ {
+  "name_en": "Kantakaryavaleham",
+  "display_name": "Kantakari Avaleha",
+  "form": "Lehya/Avaleha",
+  "classical_reference": "The Ayurvedic Formulary of India",
+  "botanical_name": null,
+  "key_herbs": [
+   "Kantakari (Solanum virginianum)",
+   "Guduchi (Tinospora cordifolia)",
+   "Chitraka (Plumbago zeylanica)",
+   "Musta (Cyperus rotundus)",
+   "Shunthi (Zingiber officinale)",
+   "Pippali (Piper longum)"
+  ],
+  "category_ayurveda": "Kasahara, Shwasahara",
+  "indications_modern": [
+   "Cough",
+   "Hiccups",
+   "Fever",
+   "Generalised body ache",
+   "Chronic respiratory complaints"
+  ],
+  "description_en": "A jaggery-based confection of kantakari and spices used for cough and hiccup.",
+  "anupana": "Milk or lukewarm water",
+  "safety_note": "Sugar/jaggery content; Solanum fruit is poisonous in raw form; guduchi liver-injury reports; plumbago (Chitraka) is irritant and avoided in pregnancy.",
+  "evidence_note": "Lab-level studies of Solanum only; no trials of this formula.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Solanum_virginianum",
+   "https://en.wikipedia.org/wiki/Tinospora_cordifolia",
+   "https://en.wikipedia.org/wiki/Long_pepper"
+  ]
+ },
+ {
+  "name_en": "Lohasavam",
+  "display_name": "Lohasava",
+  "form": "Asava",
+  "classical_reference": "Sarngadharasamhitha",
+  "botanical_name": null,
+  "key_herbs": [
+   "Loha bhasma (processed iron)",
+   "Trikatu: Shunthi, Maricha, Pippali",
+   "Triphala: Haritaki, Bibhitaki, Amalaki",
+   "Jiraka (Cuminum cyminum)",
+   "Vidanga (Embelia ribes)",
+   "Madhu (honey)"
+  ],
+  "category_ayurveda": "Rakta-vardhaka, Pandughna",
+  "indications_modern": [
+   "Anaemia",
+   "Skin disorders",
+   "Tuberculosis (adjunct, traditional)",
+   "Bleeding piles",
+   "Sprue",
+   "Heart complaints",
+   "Obesity"
+  ],
+  "description_en": "A fermented iron-containing tonic traditionally used for anaemia.",
+  "anupana": "After food, with water",
+  "safety_note": "Self-generated alcohol; contains processed iron (avoid with haemochromatosis, caution with iron supplements); heavy-metal contamination risk in some Ayurvedic products; avoid in pregnancy and with diabetes unless supervised.",
+  "evidence_note": "No trials found; NCCIH notes evidence for Ayurveda is limited and metal safety is a concern.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth",
+   "https://en.wikipedia.org/wiki/Ayurveda",
+   "https://en.wikipedia.org/wiki/Triphala"
+  ]
+ },
+ {
+  "name_en": "Drakshadi Lehyam",
+  "display_name": "Draksha Lehya",
+  "form": "Lehya/Avaleha",
+  "classical_reference": "Ashtangahridayam",
+  "botanical_name": null,
+  "key_herbs": [
+   "Draksha (Vitis vinifera, raisins)",
+   "Pippali (Piper longum)",
+   "Yashtimadhu (Glycyrrhiza glabra)",
+   "Shunthi (Zingiber officinale)",
+   "Amalaki (Phyllanthus emblica)",
+   "Madhu (honey)"
+  ],
+  "category_ayurveda": "Rasayana, Pittahara",
+  "indications_modern": [
+   "Anaemia",
+   "Jaundice",
+   "Fatigue",
+   "Loss of appetite"
+  ],
+  "description_en": "A raisin and honey confection used as a tonic for anaemia and weakness.",
+  "anupana": "After food, with warm water",
+  "safety_note": "Sugar and honey content matters for diabetics; licorice component warrants caution with hypertension.",
+  "evidence_note": "No trials found.",
+  "urls": [
+   "https://www.nccih.nih.gov/health/licorice-root",
+   "https://en.wikipedia.org/wiki/Phyllanthus_emblica",
+   "https://en.wikipedia.org/wiki/Long_pepper"
+  ]
+ },
+ {
+  "name_en": "Dasamoolam Kashayachoornam",
+  "display_name": "Dashamoola Kashaya Churna",
+  "form": "Churna",
+  "classical_reference": "Bhaishajyaratnavali",
+  "botanical_name": null,
+  "key_herbs": [
+   "Dashamoola (ten roots; includes Aegle marmelos, Solanum virginianum, Tribulus terrestris)"
+  ],
+  "category_ayurveda": "Vatahara, Shothahara",
+  "indications_modern": [
+   "Rheumatic pain",
+   "Respiratory complaints",
+   "Cold and flu",
+   "Cough",
+   "Post-partum weakness (traditional)"
+  ],
+  "description_en": "A coarse powder of ten roots decocted for vata disorders, joint pain and respiratory complaints.",
+  "anupana": "Water decoction",
+  "safety_note": "Pregnancy caution; decoction preparation varies.",
+  "evidence_note": "Ten roots in classical combination; no strong clinical data found.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Tribulus_terrestris",
+   "https://en.wikipedia.org/wiki/Solanum_virginianum",
+   "https://en.wikipedia.org/wiki/Ayurveda"
+  ]
+ },
+ {
+  "name_en": "Thriphaladi Thailam",
+  "display_name": "Triphaladi Taila",
+  "form": "Taila",
+  "classical_reference": "Sahasrayogam",
+  "botanical_name": null,
+  "key_herbs": [
+   "Triphala: Haritaki, Bibhitaki, Amalaki (Phyllanthus emblica)",
+   "Guduchi (Tinospora cordifolia)",
+   "Bhringaraja (Eclipta alba)",
+   "Ashwagandha (Withania somnifera)",
+   "Kaempferia galanga"
+  ],
+  "category_ayurveda": "Shirobhyanga (head oil), Netrya",
+  "indications_modern": [
+   "Headache",
+   "Sinusitis",
+   "Rhinitis",
+   "Otitis media",
+   "Premature greying",
+   "Eye strain"
+  ],
+  "description_en": "A medicated sesame oil applied to the head for eye, ear and sinus complaints.",
+  "anupana": "External application on head",
+  "safety_note": "External use only; may cause cold or sinus congestion if applied wet or over long periods; caution with sensitive skin; contains galena (lead sulphide) per parsed record, a heavy-metal concern.",
+  "evidence_note": "Traditional use only.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Triphala",
+   "https://en.wikipedia.org/wiki/Withania_somnifera",
+   "https://www.nccih.nih.gov/health/ayurvedic-medicine-in-depth"
+  ]
+ }
+]
