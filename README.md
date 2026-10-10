@@ -12,9 +12,9 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 45 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 46 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
-### Homeopathy (25 works)
+### Homeopathy (26 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -33,6 +33,7 @@ The collection currently contains 45 valid works. Homeopathy books are kept in [
 | `Samuel Hahnemann - Organon of Medicine.pdf` | PDF | Samuel Hahnemann; digitized edition from the Internet Archive |
 | `Kent - Repertory of the Homoeopathic Materia Medica - 1897.epub` | EPUB | James Tyler Kent, 1st edition; the standard homeopathic repertory. Added to fill a gap identified by researching Bangladesh's most-used homeopathic references — this collection had period materia medica but no repertory/quick-reference works practitioners actually use daily |
 | `William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906).epub` | EPUB | William Boericke; the most-cited quick-reference homeopathic materia medica in practice. 3rd edition (1906) used deliberately, since it's the first to add the repertory section. A later 8th edition (1922) exists but its EPUB embeds a full-resolution scan image per page (~815MB) — the same problem as the Charaka Samhita raw file — so this smaller text-only scan was used instead |
+| `William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906) - Page Scan.pdf` | PDF (page scan) | Same 3rd edition as the entry above, kept **alongside** it (not replacing it): the Internet Archive image PDF (`pocketmanualhom00boergoog`), re-OCR'd by this pipeline (Tesseract, 300 dpi, background-normalised + thresholded) because the original Google text layer is the worst in the English homeopathy collection (about 9x more junk characters). The re-OCR was then lexicon-corrected against proofread online Boericke text (193 unique OCR slips / 389 tokens fixed, log in `tools/enrichment/staging/boericke_reocr_corrections.json`). 1,041 pages (scan page index, 28 blanks skipped), not printed folio numbers. Public domain (1906). |
 | `John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 1 (1900).epub` | EPUB | John Henry Clarke; standard 3-volume homeopathic materia medica reference. Volume I (Abies Canadensis–Hypericum). A cleanly-labeled 1925 reissue set exists but is Controlled-Digital-Lending-restricted on Archive.org, so a Google-digitized copy was used instead and its volume range verified by content sampling |
 | `John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 2 (1900).epub` | EPUB | Volume II, Part I (Iberis–Pelargonium Reniforme). See Volume 1 note above |
 | `John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 3 (1902).epub` | EPUB | Volume II, Part II (Penthorum Sedoides–Zizia, plus the New Appendix). See Volume 1 note above |

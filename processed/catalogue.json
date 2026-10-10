@@ -319,6 +319,20 @@
     "processed_json": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd/book.json"
   },
   {
+    "id": "boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr",
+    "title": "Pocket Manual of Homoeopathic Materia Medica with Repertory (page-scan re-OCR)",
+    "author": "William Boericke",
+    "edition": "3rd Edition",
+    "year": 1906,
+    "language": "en",
+    "discipline": "homeopathy",
+    "page_count": 1041,
+    "source_raw_file": "homeopathy/William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906) - Page Scan.pdf",
+    "processed_epub": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr/book.epub",
+    "processed_json": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr/book.json",
+    "note": "Re-OCR of the same 3rd edition (Internet Archive pocketmanualhom00boergoog, image PDF) kept ALONGSIDE the original Google-text version, not replacing it. Pages were re-OCR'd by this pipeline (Tesseract eng, 300 dpi, background-normalised + thresholded) because the original Google text layer is the worst in the English homeopathy collection (about 9x more junk characters than this re-OCR). page_number is the scan page index (1069 scan pages, blanks skipped), not the printed folio. See tools/process_book.py parse_source_facsimile_pdf. Lexicon-corrected against proofread online reference text: 389 token corrections (see correction log)."
+  },
+  {
     "id": "clarke-dictionary-of-practical-materia-medica-vol1",
     "title": "A Dictionary of Practical Materia Medica",
     "author": "John Henry Clarke",

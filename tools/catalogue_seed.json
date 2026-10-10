@@ -304,6 +304,19 @@
     "note": "The most-cited quick-reference homeopathic materia medica in practice. 3rd edition used deliberately: it's the first edition to add the repertory section that makes this book distinctive. Internet Archive identifier pocketmanualhom00boergoog. A later, more complete 8th edition (1922, in.ernet.dli.2015.125811) exists but its EPUB derivative embeds a full-resolution scan image per page (~815MB total download) -- same problem as the Charaka Samhita raw file -- so this smaller Google-digitized text-only scan was used instead to avoid another oversized, gitignored raw file."
   },
   {
+    "id": "boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906) - Page Scan.pdf",
+    "title": "Pocket Manual of Homoeopathic Materia Medica with Repertory (page-scan re-OCR)",
+    "author": "William Boericke",
+    "edition": "3rd Edition",
+    "year": 1906,
+    "language": "en",
+    "note": "Re-OCR of the same 3rd edition (Internet Archive pocketmanualhom00boergoog, image PDF) kept ALONGSIDE the original Google-text version, not replacing it. Pages were re-OCR'd by this pipeline (Tesseract eng, 300 dpi, background-normalised + thresholded) because the original Google text layer is the worst in the English homeopathy collection (about 9x more junk characters than this re-OCR). page_number is the scan page index (1069 scan pages, blanks skipped), not the printed folio. See tools/process_book.py parse_source_facsimile_pdf.",
+    "source_format": "facsimile-pdf",
+    "ocr_lang": "eng"
+  },
+  {
     "id": "clarke-dictionary-of-practical-materia-medica-vol1",
     "discipline": "homeopathy",
     "raw_file": "homeopathy/John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 1 (1900).epub",

@@ -1,1 +1,4 @@
 pypdf
+numpy      # facsimile-pdf OCR preprocessing (process_book.py)
+scipy
+Pillow

@@ -9,7 +9,9 @@ Usage:
     python3 process_book.py --all
 """
 import argparse
+import concurrent.futures
 import json
+import os
 import re
 import subprocess
 import sys
@@ -713,6 +715,52 @@ def parse_source_facsimile_epub(epub_path, ocr_lang):
         return pages
 
 
+def _binarize_page(src_png, dst_png, k=0.65, sigma=30):
+    """Flatten uneven paper tone/shadows before OCR. Tesseract's own thresholding returns *nothing* on tinted/shadowed
+    scans (~45% of the Boericke 3rd-ed pages came back empty); dividing out a blurred paper-tone estimate and then
+    thresholding at k (tuned on that book: 0.6-0.7 best, 0.9 loses text) fixes it."""
+    import numpy as np
+    from PIL import Image
+    from scipy import ndimage as ndi
+    g = np.asarray(Image.open(src_png).convert("L"), dtype=np.float32)
+    bg = ndi.gaussian_filter(ndi.maximum_filter(g, size=25), sigma)
+    n = np.clip(g / np.maximum(bg, 1), 0, 1.2)
+    Image.fromarray(np.where(n > k, 255, 0).astype(np.uint8)).save(dst_png, dpi=(300, 300))
+
+
+def parse_source_facsimile_pdf(pdf_path, ocr_lang, workers=6):
+    """For image-only PDFs (a page scan with no usable text layer). Renders each page at 300 dpi with `pdftoppm`,
+    binarizes it (see _binarize_page) and runs the `tesseract` CLI (--psm 6). Needs poppler (`pdftoppm`/`pdfinfo`),
+    tesseract, and numpy/scipy/Pillow. Set PROCESS_BOOK_OCR_CACHE=<dir> to reuse/store per-page text (<dir>/0001.txt ...)
+    so an interrupted ~15 min run can resume. Blank pages are skipped; page_number is the scan page index."""
+    n_pages = int(re.search(r"^Pages:\s+(\d+)", subprocess.run(["pdfinfo", str(pdf_path)], capture_output=True, text=True).stdout, re.M).group(1))
+    cache = Path(os.environ["PROCESS_BOOK_OCR_CACHE"]) if os.environ.get("PROCESS_BOOK_OCR_CACHE") else None
+    if cache: cache.mkdir(parents=True, exist_ok=True)
+
+    def ocr_one(i):
+        cached = cache / f"{i:04d}.txt" if cache else None
+        if cached and cached.exists():
+            return i, cached.read_text()
+        with tempfile.TemporaryDirectory() as tmp:
+            subprocess.run(["pdftoppm", "-r", "300", "-gray", "-f", str(i), "-l", str(i), "-png", str(pdf_path), f"{tmp}/p"],
+                           capture_output=True)
+            src = next(Path(tmp).glob("p-*.png"))
+            _binarize_page(src, f"{tmp}/b.png")
+            r = subprocess.run(["tesseract", f"{tmp}/b.png", "stdout", "-l", ocr_lang, "--psm", "6"],
+                               capture_output=True, text=True, env={**os.environ, "OMP_THREAD_LIMIT": "1"})
+        if cached: cached.write_text(r.stdout)
+        return i, r.stdout
+
+    pages, done = [], 0
+    with concurrent.futures.ThreadPoolExecutor(workers) as ex:
+        for i, raw in sorted(ex.map(ocr_one, range(1, n_pages + 1))):
+            text = clean_text(raw)
+            done += 1
+            if text:
+                pages.append({"page_number": i, "label": f"Page {i}", "text": text})
+    return pages
+
+
 def parse_source_pdf(pdf_path):
     """Returns list of {"page_number": int, "label": str, "text": str}, one per PDF page."""
     reader = pypdf.PdfReader(pdf_path)
@@ -883,6 +931,8 @@ def process_one(meta, raw_root, out_root):
     print(f"Processing {meta['id']} ...")
     if meta.get("source_format") == "facsimile-epub":
         pages = parse_source_facsimile_epub(raw_path, meta.get("ocr_lang", "eng"))
+    elif meta.get("source_format") == "facsimile-pdf":
+        pages = parse_source_facsimile_pdf(raw_path, meta.get("ocr_lang", "eng"))
     elif raw_path.suffix.lower() == ".pdf":
         pages = parse_source_pdf(raw_path)
     else:
