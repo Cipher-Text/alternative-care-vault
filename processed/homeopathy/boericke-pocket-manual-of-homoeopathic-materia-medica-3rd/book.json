@@ -7,7 +7,7 @@
   "language": "en",
   "discipline": "homeopathy",
   "source_raw_file": "homeopathy/William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906).epub",
-  "note": "The most-cited quick-reference homeopathic materia medica in practice. 3rd edition used deliberately: it's the first edition to add the repertory section that makes this book distinctive. Internet Archive identifier pocketmanualhom00boergoog. A later, more complete 8th edition (1922, in.ernet.dli.2015.125811) exists but its EPUB derivative embeds a full-resolution scan image per page (~815MB total download) -- same problem as the Charaka Samhita raw file -- so this smaller Google-digitized text-only scan was used instead to avoid another oversized, gitignored raw file.",
+  "note": "The most-cited quick-reference homeopathic materia medica in practice. 3rd edition used deliberately: it's the first edition to add the repertory section that makes this book distinctive. Internet Archive identifier pocketmanualhom00boergoog. A later, more complete 8th edition (1922, in.ernet.dli.2015.125811) exists but its EPUB derivative embeds a full-resolution scan image per page (~815MB total download) -- same problem as the Charaka Samhita raw file -- so this smaller Google-digitized text-only scan was used instead to avoid another oversized, gitignored raw file. NOTE: this Google text layer is low quality (about 9x more junk characters than the page-scan re-OCR, and some remedy headings are garbled); prefer the 'page-scan re-OCR' entry (boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr) for reading and accuracy.",
   "page_count": 927,
   "pages": [
     {

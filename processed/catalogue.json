@@ -316,7 +316,10 @@
     "page_count": 927,
     "source_raw_file": "homeopathy/William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906).epub",
     "processed_epub": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd/book.epub",
-    "processed_json": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd/book.json"
+    "processed_json": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd/book.json",
+    "text_quality": "low",
+    "superseded_by": "boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr",
+    "note": " NOTE: this Google text layer is low quality (about 9x more junk characters than the page-scan re-OCR, and some remedy headings are garbled); prefer the 'page-scan re-OCR' entry (boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr) for reading and accuracy."
   },
   {
     "id": "boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr",
@@ -330,7 +333,15 @@
     "source_raw_file": "homeopathy/William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906) - Page Scan.pdf",
     "processed_epub": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr/book.epub",
     "processed_json": "processed/homeopathy/boericke-pocket-manual-of-homoeopathic-materia-medica-3rd-reocr/book.json",
-    "note": "Re-OCR of the same 3rd edition (Internet Archive pocketmanualhom00boergoog, image PDF) kept ALONGSIDE the original Google-text version, not replacing it. Pages were re-OCR'd by this pipeline (Tesseract eng, 300 dpi, background-normalised + thresholded) because the original Google text layer is the worst in the English homeopathy collection (about 9x more junk characters than this re-OCR). page_number is the scan page index (1069 scan pages, blanks skipped), not the printed folio. See tools/process_book.py parse_source_facsimile_pdf. Lexicon-corrected against proofread online reference text: 389 token corrections (see correction log)."
+    "note": "Re-OCR of the same 3rd edition (Internet Archive pocketmanualhom00boergoog, image PDF) kept ALONGSIDE the original Google-text version, not replacing it. Pages were re-OCR'd by this pipeline (Tesseract eng, 300 dpi, background-normalised + thresholded) because the original Google text layer is the worst in the English homeopathy collection (about 9x more junk characters than this re-OCR). page_number is the scan page index (1069 scan pages, blanks skipped), not the printed folio. See tools/process_book.py parse_source_facsimile_pdf. Lexicon-corrected against proofread online reference text: 389 token corrections (see correction log).",
+    "revision": {
+      "status": "re-ocr + lexicon-corrected",
+      "date": "2026-10-10",
+      "reference": "materiamedica.info (proofread Boericke text, later edition)",
+      "tokens_corrected": 389,
+      "log": "tools/enrichment/staging/boericke_reocr_corrections.json",
+      "supersedes": "boericke-pocket-manual-of-homoeopathic-materia-medica-3rd"
+    }
   },
   {
     "id": "clarke-dictionary-of-practical-materia-medica-vol1",
