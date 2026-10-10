@@ -398,7 +398,29 @@
     "author": "John Henry Clarke",
     "year": 1898,
     "language": "en",
-    "note": "Genuinely distinct work from clarke-dictionary-of-practical-materia-medica-vol1/2/3 (Clarke's 3-volume Dictionary of Practical Materia Medica) -- The Prescriber is a separate, shorter therapeutics-by-symptom reference by the same author, sourced from homeopathy-wishlist.md (§ Practitioner's Guide: দ্য প্রেসক্রাইবার). Internet Archive identifier prescriberadict03clargoog, americana collection, no access restriction, standard IA OCR-export EPUB, processed via the ordinary parse_source_epub() path."
+    "note": "Genuinely distinct work from clarke-dictionary-of-practical-materia-medica-vol1/2/3 (Clarke's 3-volume Dictionary of Practical Materia Medica) -- The Prescriber is a separate, shorter therapeutics-by-symptom reference by the same author, sourced from homeopathy-wishlist.md (§ Practitioner's Guide: দ্য প্রেসক্রাইবার). Internet Archive identifier prescriberadict03clargoog, americana collection, no access restriction, standard IA OCR-export EPUB, processed via the ordinary parse_source_epub() path.",
+    "see_also": "clarke-the-prescriber-1898-reocr"
+  },
+  {
+    "id": "clarke-the-prescriber-1898-reocr",
+    "discipline": "homeopathy",
+    "raw_file": "homeopathy/John Henry Clarke - The Prescriber - A Dictionary of the New Therapeutics - 1898 - Page Scan.pdf",
+    "title": "The Prescriber: A Dictionary of the New Therapeutics (page-scan re-OCR)",
+    "author": "John Henry Clarke",
+    "year": 1898,
+    "language": "en",
+    "note": "Re-OCR of the same 1898 edition (Internet Archive prescriberadict03clargoog, Google image PDF) kept ALONGSIDE the original EPUB entry, not replacing it. Pages re-OCR'd by this pipeline (Tesseract eng, 300 dpi, background-normalised + thresholded); page_number is the scan page index (blank pages skipped), not the printed folio. See tools/process_book.py parse_source_facsimile_pdf and the re-OCR runbook in CLAUDE.md.",
+    "source_format": "facsimile-pdf",
+    "ocr_lang": "eng",
+    "revision": {
+      "status": "re-ocr + consensus-corrected",
+      "date": "2026-10-11",
+      "reference": "the original Google-text entry (independent OCR of the same scan)",
+      "words_corrected": 247,
+      "log": "tools/enrichment/staging/clarke_prescriber_reocr_consensus_log.json",
+      "complements": "clarke-the-prescriber-1898",
+      "comparison": "about 3x less junk (1.08 vs 3.11 per 1000) and better dose digits, but similar dictionary rate (0.797 vs 0.798) and some run-together words; neither copy is strictly better"
+    }
   },
   {
     "id": "anshutz-sexual-ills-and-diseases-1896",

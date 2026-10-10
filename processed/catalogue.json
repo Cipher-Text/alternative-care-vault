@@ -555,7 +555,30 @@
     "source_raw_file": "homeopathy/John Henry Clarke - The Prescriber - A Dictionary of the New Therapeutics - 1898.epub",
     "processed_epub": "processed/homeopathy/clarke-the-prescriber-1898/book.epub",
     "processed_json": "processed/homeopathy/clarke-the-prescriber-1898/book.json",
-    "page_count": 263
+    "page_count": 263,
+    "see_also": "clarke-the-prescriber-1898-reocr"
+  },
+  {
+    "id": "clarke-the-prescriber-1898-reocr",
+    "title": "The Prescriber: A Dictionary of the New Therapeutics (page-scan re-OCR)",
+    "author": "John Henry Clarke",
+    "year": 1898,
+    "language": "en",
+    "discipline": "homeopathy",
+    "source_raw_file": "homeopathy/John Henry Clarke - The Prescriber - A Dictionary of the New Therapeutics - 1898 - Page Scan.pdf",
+    "processed_epub": "processed/homeopathy/clarke-the-prescriber-1898-reocr/book.epub",
+    "processed_json": "processed/homeopathy/clarke-the-prescriber-1898-reocr/book.json",
+    "page_count": 275,
+    "note": "Re-OCR of the same 1898 edition (Internet Archive prescriberadict03clargoog, Google image PDF) kept ALONGSIDE the original EPUB entry, not replacing it. Pages re-OCR'd by this pipeline (Tesseract eng, 300 dpi, background-normalised + thresholded); page_number is the scan page index (blank pages skipped), not the printed folio. See tools/process_book.py parse_source_facsimile_pdf and the re-OCR runbook in CLAUDE.md. Consensus-corrected against an independent OCR of the same scan: 247 word corrections (see correction log).",
+    "revision": {
+      "status": "re-ocr + consensus-corrected",
+      "date": "2026-10-11",
+      "reference": "the original Google-text entry (independent OCR of the same scan)",
+      "words_corrected": 247,
+      "log": "tools/enrichment/staging/clarke_prescriber_reocr_consensus_log.json",
+      "complements": "clarke-the-prescriber-1898",
+      "comparison": "about 3x less junk (1.08 vs 3.11 per 1000) and better dose digits, but similar dictionary rate (0.797 vs 0.798) and some run-together words; neither copy is strictly better"
+    }
   },
   {
     "id": "anshutz-sexual-ills-and-diseases-1896",

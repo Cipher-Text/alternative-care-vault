@@ -12,9 +12,9 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 46 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 47 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
-### Homeopathy (26 works)
+### Homeopathy (27 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -42,6 +42,7 @@ The collection currently contains 46 valid works. Homeopathy books are kept in [
 | `H. C. Allen - Keynotes and Characteristics with Comparisons of Some of the Leading Remedies of the Materia Medica with Nosodes - 1898.epub` | EPUB | H. C. Allen (not Timothy Field Allen — a different work from this collection's Handbook above); sourced from `homeopathy-wishlist.md` |
 | `James Tyler Kent - Lectures on Homoeopathic Materia Medica - 1911.pdf` | PDF | James Tyler Kent; his *Lectures*, a distinct work from this collection's Kent *Repertory* above. Only unrestricted copy found is a real Text PDF with no EPUB derivative (the alternatives were CDL-restricted or an oversized ~1.6GB scan), so processed via the same `parse_source_pdf()` path as Hahnemann's Organon. Sourced from `homeopathy-wishlist.md` |
 | `John Henry Clarke - The Prescriber - A Dictionary of the New Therapeutics - 1898.epub` | EPUB | John Henry Clarke; a shorter symptom-indexed therapeutics reference, distinct from this collection's 3-volume Dictionary of Practical Materia Medica by the same author. Sourced from `homeopathy-wishlist.md` |
+| `John Henry Clarke - The Prescriber - A Dictionary of the New Therapeutics - 1898 - Page Scan.pdf` | PDF (page scan) | Same 1898 edition as the entry above, kept **alongside** it as a *complementary* copy (neither is strictly better): re-OCR'd from the Internet Archive image PDF (`prescriberadict03clargoog`) by this pipeline, then consensus-corrected (247 words) against the original text, since no proofread online text exists. Compared with the original it has ~3x less junk (1.08 vs 3.11 per 1,000 chars) and reads dose digits better (`Bell. 1` not `Bell. I`), but a similar dictionary-word rate and some run-together words. 275 pages (scan page index, blank skipped). Public domain (1898). |
 | `Edward Pollock Anshutz - Sexual Ills and Diseases - 1896.epub` | EPUB | Edward Pollock Anshutz; homeopathic treatment of genitourinary/sexual conditions. Sourced from `homeopathy-wishlist.md` |
 | `H. C. Allen - The Therapeutics of Fevers - 1902.epub` | EPUB | H. C. Allen; fever treatment reference. Sourced from `homeopathy-wishlist.md` |
 

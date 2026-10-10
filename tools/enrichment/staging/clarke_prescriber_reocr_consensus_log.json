@@ -1,0 +1,1241 @@
+{
+ "changed": 247,
+ "unmatched_pages": 1,
+ "log": [
+  {
+   "page": 7,
+   "before": "HOMGOPATHIC",
+   "after": "HOMOEOPATHIC"
+  },
+  {
+   "page": 7,
+   "before": "Diarrhaa",
+   "after": "Diarrhoea"
+  },
+  {
+   "page": 9,
+   "before": "Homceopathy,",
+   "after": "Homoeopathy,"
+  },
+  {
+   "page": 9,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 9,
+   "before": "homceopathists,",
+   "after": "homoeopathists,"
+  },
+  {
+   "page": 11,
+   "before": "miedicines",
+   "after": "medicines"
+  },
+  {
+   "page": 12,
+   "before": "nated,",
+   "after": "named,"
+  },
+  {
+   "page": 14,
+   "before": "homceopathic,",
+   "after": "homoeopathic,"
+  },
+  {
+   "page": 14,
+   "before": "headiugs,",
+   "after": "headings,"
+  },
+  {
+   "page": 15,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 15,
+   "before": "homceopathy",
+   "after": "homoeopathy"
+  },
+  {
+   "page": 15,
+   "before": "Zhe",
+   "after": "The"
+  },
+  {
+   "page": 16,
+   "before": "Jndex",
+   "after": "Index"
+  },
+  {
+   "page": 16,
+   "before": "homcopathist",
+   "after": "homoeopathist"
+  },
+  {
+   "page": 21,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 24,
+   "before": "tinies",
+   "after": "times"
+  },
+  {
+   "page": 28,
+   "before": "Baisam",
+   "after": "Balsam"
+  },
+  {
+   "page": 28,
+   "before": "(Friare’",
+   "after": "(Friars’"
+  },
+  {
+   "page": 29,
+   "before": "yvacemosa",
+   "after": "racemosa"
+  },
+  {
+   "page": 41,
+   "before": "Nua",
+   "after": "Nux"
+  },
+  {
+   "page": 41,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 41,
+   "before": "aleohol",
+   "after": "alcohol"
+  },
+  {
+   "page": 42,
+   "before": "Nuz,;",
+   "after": "Nux,;"
+  },
+  {
+   "page": 42,
+   "before": "Anzemia,",
+   "after": "Anaemia,"
+  },
+  {
+   "page": 43,
+   "before": "Anzemia",
+   "after": "Anaemia"
+  },
+  {
+   "page": 43,
+   "before": "vomitiug,",
+   "after": "vomiting,"
+  },
+  {
+   "page": 43,
+   "before": "Anzemia",
+   "after": "Anaemia"
+  },
+  {
+   "page": 44,
+   "before": "Antram",
+   "after": "Antrum"
+  },
+  {
+   "page": 46,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 48,
+   "before": "Nuzx",
+   "after": "Nux"
+  },
+  {
+   "page": 48,
+   "before": "nigbt",
+   "after": "night"
+  },
+  {
+   "page": 48,
+   "before": "asthiua;",
+   "after": "asthma;"
+  },
+  {
+   "page": 49,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 49,
+   "before": "Calenduia",
+   "after": "Calendula"
+  },
+  {
+   "page": 49,
+   "before": "Sve",
+   "after": "See"
+  },
+  {
+   "page": 50,
+   "before": "/ris",
+   "after": "/Iris"
+  },
+  {
+   "page": 50,
+   "before": "fcetid,",
+   "after": "foetid,"
+  },
+  {
+   "page": 50,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 51,
+   "before": "minnte",
+   "after": "minute"
+  },
+  {
+   "page": 54,
+   "before": "Ruza",
+   "after": "Ruta"
+  },
+  {
+   "page": 54,
+   "before": "bottlé",
+   "after": "bottleé"
+  },
+  {
+   "page": 55,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 56,
+   "before": "Com",
+   "after": "Con"
+  },
+  {
+   "page": 56,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 58,
+   "before": "Arntca",
+   "after": "Arnica"
+  },
+  {
+   "page": 60,
+   "before": "/inseed",
+   "after": "/linseed"
+  },
+  {
+   "page": 60,
+   "before": "Cereecum,",
+   "after": "Caecum,"
+  },
+  {
+   "page": 60,
+   "before": "cecal",
+   "after": "caecal"
+  },
+  {
+   "page": 61,
+   "before": "turice",
+   "after": "thrice"
+  },
+  {
+   "page": 62,
+   "before": "Cicuda",
+   "after": "Cicuta"
+  },
+  {
+   "page": 62,
+   "before": "Feetid",
+   "after": "Foetid"
+  },
+  {
+   "page": 63,
+   "before": "Parns",
+   "after": "Pains"
+  },
+  {
+   "page": 63,
+   "before": "-ipis",
+   "after": "-Apis"
+  },
+  {
+   "page": 64,
+   "before": "Afosch,",
+   "after": "Mosch,"
+  },
+  {
+   "page": 65,
+   "before": "HAydrast",
+   "after": "Hydrast"
+  },
+  {
+   "page": 65,
+   "before": "depres-",
+   "after": "depress-"
+  },
+  {
+   "page": 65,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 65,
+   "before": "PHAGEDANIC",
+   "after": "PHAGEDENIC"
+  },
+  {
+   "page": 65,
+   "before": "/odoform",
+   "after": "/Iodoform"
+  },
+  {
+   "page": 66,
+   "before": "Jodoform",
+   "after": "Iodoform"
+  },
+  {
+   "page": 66,
+   "before": "Parns",
+   "after": "Pains"
+  },
+  {
+   "page": 67,
+   "before": "Rius",
+   "after": "Rhus"
+  },
+  {
+   "page": 69,
+   "before": "com:",
+   "after": "coma:"
+  },
+  {
+   "page": 72,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 73,
+   "before": "Filatulent",
+   "after": "Flatulent"
+  },
+  {
+   "page": 74,
+   "before": "Nur,",
+   "after": "Nux,"
+  },
+  {
+   "page": 74,
+   "before": "smail,",
+   "after": "small,"
+  },
+  {
+   "page": 77,
+   "before": "SYannum",
+   "after": "Stannum"
+  },
+  {
+   "page": 79,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 79,
+   "before": "irritalive",
+   "after": "irritative"
+  },
+  {
+   "page": 80,
+   "before": "Jrritative",
+   "after": "Irritative"
+  },
+  {
+   "page": 80,
+   "before": "pevoxysmal,",
+   "after": "paroxysmal,"
+  },
+  {
+   "page": 80,
+   "before": "Ciza",
+   "after": "Cina"
+  },
+  {
+   "page": 81,
+   "before": "covU",
+   "after": "COU"
+  },
+  {
+   "page": 82,
+   "before": "fcetid",
+   "after": "foetid"
+  },
+  {
+   "page": 83,
+   "before": "Jncessant",
+   "after": "Incessant"
+  },
+  {
+   "page": 84,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 89,
+   "before": "Stlica",
+   "after": "Silica"
+  },
+  {
+   "page": 89,
+   "before": "houmiss",
+   "after": "koumiss"
+  },
+  {
+   "page": 90,
+   "before": "Jris",
+   "after": "Iris"
+  },
+  {
+   "page": 90,
+   "before": "diarrheea,",
+   "after": "diarrhoea,"
+  },
+  {
+   "page": 91,
+   "before": "cating,",
+   "after": "eating,"
+  },
+  {
+   "page": 91,
+   "before": "FPodoph",
+   "after": "Podoph"
+  },
+  {
+   "page": 91,
+   "before": "Nuz",
+   "after": "Nux"
+  },
+  {
+   "page": 94,
+   "before": "piut,",
+   "after": "pint,"
+  },
+  {
+   "page": 95,
+   "before": "koumiiss,",
+   "after": "koumiss,"
+  },
+  {
+   "page": 97,
+   "before": "manuite",
+   "after": "mannite"
+  },
+  {
+   "page": 98,
+   "before": "samz",
+   "after": "same"
+  },
+  {
+   "page": 99,
+   "before": "gargie,",
+   "after": "gargle,"
+  },
+  {
+   "page": 101,
+   "before": "censtriction",
+   "after": "constriction"
+  },
+  {
+   "page": 101,
+   "before": "cesophagus;",
+   "after": "oesophagus;"
+  },
+  {
+   "page": 101,
+   "before": "Vontiting",
+   "after": "Vomiting"
+  },
+  {
+   "page": 102,
+   "before": "vumiting,",
+   "after": "vomiting,"
+  },
+  {
+   "page": 102,
+   "before": "lumina",
+   "after": "Alumina"
+  },
+  {
+   "page": 107,
+   "before": "handg",
+   "after": "hands"
+  },
+  {
+   "page": 107,
+   "before": "Bovisia",
+   "after": "Bovista"
+  },
+  {
+   "page": 109,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 110,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 110,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 111,
+   "before": "wil!",
+   "after": "will!"
+  },
+  {
+   "page": 111,
+   "before": "Zarentula",
+   "after": "Tarentula"
+  },
+  {
+   "page": 112,
+   "before": "cesophagus",
+   "after": "oesophagus"
+  },
+  {
+   "page": 112,
+   "before": "ddies",
+   "after": "Abies"
+  },
+  {
+   "page": 112,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 120,
+   "before": "Kadi",
+   "after": "Kali"
+  },
+  {
+   "page": 121,
+   "before": "Zserine",
+   "after": "Eserine"
+  },
+  {
+   "page": 121,
+   "before": "Cima",
+   "after": "Cina"
+  },
+  {
+   "page": 122,
+   "before": "Sze",
+   "after": "Set"
+  },
+  {
+   "page": 123,
+   "before": "Fetrol,",
+   "after": "Petrol,"
+  },
+  {
+   "page": 123,
+   "before": "/mdigo",
+   "after": "/Indigo"
+  },
+  {
+   "page": 124,
+   "before": "otl",
+   "after": "oil"
+  },
+  {
+   "page": 124,
+   "before": "gtief,",
+   "after": "grief,"
+  },
+  {
+   "page": 127,
+   "before": "(ftbroid",
+   "after": "(Fibroid"
+  },
+  {
+   "page": 128,
+   "before": "Distenpxp,",
+   "after": "Distended,"
+  },
+  {
+   "page": 129,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 129,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 129,
+   "before": "smali",
+   "after": "small"
+  },
+  {
+   "page": 130,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 131,
+   "before": "Sading",
+   "after": "Sabina"
+  },
+  {
+   "page": 136,
+   "before": "lizen;",
+   "after": "linen;"
+  },
+  {
+   "page": 138,
+   "before": "¢hrobbing",
+   "after": "¢throbbing"
+  },
+  {
+   "page": 139,
+   "before": "dowtmwards,",
+   "after": "downwards,"
+  },
+  {
+   "page": 139,
+   "before": "/ris",
+   "after": "/Iris"
+  },
+  {
+   "page": 144,
+   "before": "Carprac,",
+   "after": "Cardiac,"
+  },
+  {
+   "page": 145,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 146,
+   "before": "middie",
+   "after": "middle"
+  },
+  {
+   "page": 146,
+   "before": "Nua",
+   "after": "Nux"
+  },
+  {
+   "page": 148,
+   "before": "brigbt",
+   "after": "bright"
+  },
+  {
+   "page": 148,
+   "before": "sonr",
+   "after": "sour"
+  },
+  {
+   "page": 149,
+   "before": "hehind",
+   "after": "behind"
+  },
+  {
+   "page": 150,
+   "before": "bathivg",
+   "after": "bathing"
+  },
+  {
+   "page": 153,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 153,
+   "before": "Quixine",
+   "after": "Quinine"
+  },
+  {
+   "page": 154,
+   "before": "chiil,",
+   "after": "chill,"
+  },
+  {
+   "page": 155,
+   "before": "Nua",
+   "after": "Nux"
+  },
+  {
+   "page": 156,
+   "before": "Kveas,",
+   "after": "Kreas,"
+  },
+  {
+   "page": 159,
+   "before": "aiso",
+   "after": "also"
+  },
+  {
+   "page": 164,
+   "before": "svap",
+   "after": "soap"
+  },
+  {
+   "page": 165,
+   "before": "eachexia,",
+   "after": "cachexia,"
+  },
+  {
+   "page": 165,
+   "before": "Nuz",
+   "after": "Nux"
+  },
+  {
+   "page": 165,
+   "before": "/ris",
+   "after": "/Iris"
+  },
+  {
+   "page": 166,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 168,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 169,
+   "before": "Nuzx",
+   "after": "Nux"
+  },
+  {
+   "page": 169,
+   "before": "sbouid",
+   "after": "should"
+  },
+  {
+   "page": 171,
+   "before": "Aydrastis",
+   "after": "Hydrastis"
+  },
+  {
+   "page": 171,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 172,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 172,
+   "before": "Zuphrasia",
+   "after": "Euphrasia"
+  },
+  {
+   "page": 173,
+   "before": "Opzum",
+   "after": "Opium"
+  },
+  {
+   "page": 173,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 175,
+   "before": "Sve",
+   "after": "See"
+  },
+  {
+   "page": 178,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 179,
+   "before": "/aborandé",
+   "after": "/Jaborandié"
+  },
+  {
+   "page": 179,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 179,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 180,
+   "before": "papillz,",
+   "after": "papillae,"
+  },
+  {
+   "page": 181,
+   "before": "Murtate",
+   "after": "Muriate"
+  },
+  {
+   "page": 182,
+   "before": "Lumbag»,",
+   "after": "Lumbago»,"
+  },
+  {
+   "page": 182,
+   "before": "(Znflammation",
+   "after": "(Inflammation"
+  },
+  {
+   "page": 185,
+   "before": "Chinia,",
+   "after": "Chinin,"
+  },
+  {
+   "page": 186,
+   "before": "Nua",
+   "after": "Nux"
+  },
+  {
+   "page": 186,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 188,
+   "before": "NVux",
+   "after": "Nux"
+  },
+  {
+   "page": 189,
+   "before": "und",
+   "after": "and"
+  },
+  {
+   "page": 189,
+   "before": "Codeta",
+   "after": "Codeia"
+  },
+  {
+   "page": 192,
+   "before": "Nua",
+   "after": "Nux"
+  },
+  {
+   "page": 194,
+   "before": "bistory,",
+   "after": "history,"
+  },
+  {
+   "page": 194,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 196,
+   "before": "Jris",
+   "after": "Iris"
+  },
+  {
+   "page": 196,
+   "before": "flushes",
+   "after": "flush"
+  },
+  {
+   "page": 197,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 197,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 197,
+   "before": "ConcxSTION",
+   "after": "Congestion"
+  },
+  {
+   "page": 201,
+   "before": "Nax",
+   "after": "Nux"
+  },
+  {
+   "page": 201,
+   "before": "Nua",
+   "after": "Nux"
+  },
+  {
+   "page": 201,
+   "before": "Nua",
+   "after": "Nux"
+  },
+  {
+   "page": 203,
+   "before": "Itcuine:",
+   "after": "Itching:"
+  },
+  {
+   "page": 204,
+   "before": "bload,",
+   "after": "blood,"
+  },
+  {
+   "page": 204,
+   "before": "Sve",
+   "after": "See"
+  },
+  {
+   "page": 204,
+   "before": "Sve",
+   "after": "See"
+  },
+  {
+   "page": 205,
+   "before": "Tonsiis)",
+   "after": "Tonsils)"
+  },
+  {
+   "page": 205,
+   "before": "Barvyta",
+   "after": "Baryta"
+  },
+  {
+   "page": 205,
+   "before": "Aydrastis",
+   "after": "Hydrastis"
+  },
+  {
+   "page": 205,
+   "before": "Hydrastes",
+   "after": "Hydrastis"
+  },
+  {
+   "page": 207,
+   "before": "restlessuess,",
+   "after": "restlessness,"
+  },
+  {
+   "page": 208,
+   "before": "peins",
+   "after": "pains"
+  },
+  {
+   "page": 209,
+   "before": "gonorrheea",
+   "after": "gonorrhoea"
+  },
+  {
+   "page": 209,
+   "before": "Gonorrhcea",
+   "after": "Gonorrhoea"
+  },
+  {
+   "page": 209,
+   "before": "Paytolacca",
+   "after": "Phytolacca"
+  },
+  {
+   "page": 209,
+   "before": "atso",
+   "after": "also"
+  },
+  {
+   "page": 210,
+   "before": "“bdilious’?",
+   "after": "“bilious’?"
+  },
+  {
+   "page": 210,
+   "before": "Zedum",
+   "after": "Ledum"
+  },
+  {
+   "page": 212,
+   "before": "sequele",
+   "after": "sequelae"
+  },
+  {
+   "page": 213,
+   "before": "Lodine",
+   "after": "Iodine"
+  },
+  {
+   "page": 213,
+   "before": "/ris",
+   "after": "/Iris"
+  },
+  {
+   "page": 213,
+   "before": "affer",
+   "after": "after"
+  },
+  {
+   "page": 213,
+   "before": "/aborand?",
+   "after": "/Jaborandi?"
+  },
+  {
+   "page": 213,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 213,
+   "before": "/uglans",
+   "after": "/Juglans"
+  },
+  {
+   "page": 216,
+   "before": "Sze",
+   "after": "See"
+  },
+  {
+   "page": 217,
+   "before": "RAus",
+   "after": "Rhus"
+  },
+  {
+   "page": 218,
+   "before": "anzenria",
+   "after": "anaemia"
+  },
+  {
+   "page": 220,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 221,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 222,
+   "before": "wich",
+   "after": "which"
+  },
+  {
+   "page": 224,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 224,
+   "before": "ellis",
+   "after": "Bellis"
+  },
+  {
+   "page": 227,
+   "before": "Copatbe",
+   "after": "Copaiba"
+  },
+  {
+   "page": 228,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 229,
+   "before": "Mercs",
+   "after": "Merc"
+  },
+  {
+   "page": 229,
+   "before": "Kadi",
+   "after": "Kali"
+  },
+  {
+   "page": 231,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 236,
+   "before": "_tancid,",
+   "after": "_rancid,"
+  },
+  {
+   "page": 237,
+   "before": "Phylolacca,",
+   "after": "Phytolacca,"
+  },
+  {
+   "page": 237,
+   "before": "SorkE,",
+   "after": "Sore,"
+  },
+  {
+   "page": 237,
+   "before": "Kadi",
+   "after": "Kali"
+  },
+  {
+   "page": 239,
+   "before": "Homceopathic",
+   "after": "Homoeopathic"
+  },
+  {
+   "page": 239,
+   "before": "Plamb",
+   "after": "Plumb"
+  },
+  {
+   "page": 240,
+   "before": "drv,",
+   "after": "dry,"
+  },
+  {
+   "page": 242,
+   "before": "Alantago",
+   "after": "Plantago"
+  },
+  {
+   "page": 242,
+   "before": "Kvreasoie",
+   "after": "Kreasote"
+  },
+  {
+   "page": 245,
+   "before": "Exucalypt,",
+   "after": "Eucalypt,"
+  },
+  {
+   "page": 250,
+   "before": "hamorrhage,",
+   "after": "haemorrhage,"
+  },
+  {
+   "page": 251,
+   "before": "Sadin,",
+   "after": "Satin,"
+  },
+  {
+   "page": 255,
+   "before": "/ris",
+   "after": "/Iris"
+  },
+  {
+   "page": 255,
+   "before": "(Mornine",
+   "after": "(Morning"
+  },
+  {
+   "page": 255,
+   "before": "Zauja",
+   "after": "Thuja"
+  },
+  {
+   "page": 256,
+   "before": "tunar",
+   "after": "lunar"
+  },
+  {
+   "page": 256,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 258,
+   "before": "cecum;",
+   "after": "caecum;"
+  },
+  {
+   "page": 258,
+   "before": "perspitation",
+   "after": "perspiration"
+  },
+  {
+   "page": 259,
+   "before": "euffice",
+   "after": "suffice"
+  },
+  {
+   "page": 259,
+   "before": "ptesence",
+   "after": "presence"
+  },
+  {
+   "page": 259,
+   "before": "(noi",
+   "after": "(not"
+  },
+  {
+   "page": 259,
+   "before": "thie",
+   "after": "this"
+  },
+  {
+   "page": 260,
+   "before": "awollen",
+   "after": "swollen"
+  },
+  {
+   "page": 260,
+   "before": "Sce",
+   "after": "See"
+  },
+  {
+   "page": 261,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 262,
+   "before": "comdition",
+   "after": "condition"
+  },
+  {
+   "page": 263,
+   "before": "uritie",
+   "after": "untie"
+  },
+  {
+   "page": 263,
+   "before": "Ecrayma,",
+   "after": "Ecthyma,"
+  },
+  {
+   "page": 265,
+   "before": "Hypocastrium,",
+   "after": "Hypogastrium,"
+  },
+  {
+   "page": 268,
+   "before": "pein",
+   "after": "pain"
+  },
+  {
+   "page": 268,
+   "before": "suc-",
+   "after": "sue-"
+  },
+  {
+   "page": 269,
+   "before": "ScraTica,",
+   "after": "Sciatica,"
+  },
+  {
+   "page": 270,
+   "before": "iusipid",
+   "after": "insipid"
+  }
+ ]
+}
