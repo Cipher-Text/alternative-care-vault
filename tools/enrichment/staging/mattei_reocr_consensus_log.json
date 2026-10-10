@@ -1,0 +1,886 @@
+{
+ "changed": 176,
+ "unmatched_pages": 0,
+ "log": [
+  {
+   "page": 13,
+   "before": "mnitigation",
+   "after": "mitigation"
+  },
+  {
+   "page": 17,
+   "before": "Hdition,",
+   "after": "Edition,"
+  },
+  {
+   "page": 17,
+   "before": "corviction",
+   "after": "conviction"
+  },
+  {
+   "page": 18,
+   "before": "Habnemannians",
+   "after": "Hahnemannians"
+  },
+  {
+   "page": 21,
+   "before": "Angiottic",
+   "after": "Angioitic"
+  },
+  {
+   "page": 22,
+   "before": "Srreet,",
+   "after": "Street,"
+  },
+  {
+   "page": 23,
+   "before": "OANCEROSO",
+   "after": "CANCEROSO"
+  },
+  {
+   "page": 23,
+   "before": "prcrorans",
+   "after": "PECTORALS"
+  },
+  {
+   "page": 27,
+   "before": "homeeopaths",
+   "after": "homoeopaths"
+  },
+  {
+   "page": 39,
+   "before": "wuich",
+   "after": "which"
+  },
+  {
+   "page": 42,
+   "before": "cbserve",
+   "after": "observe"
+  },
+  {
+   "page": 43,
+   "before": "Namus",
+   "after": "Names"
+  },
+  {
+   "page": 45,
+   "before": "Angiottico,",
+   "after": "Angioitico,"
+  },
+  {
+   "page": 53,
+   "before": "diarrhcea,",
+   "after": "diarrhoea,"
+  },
+  {
+   "page": 55,
+   "before": "scitrrhus,",
+   "after": "scirrhus,"
+  },
+  {
+   "page": 58,
+   "before": "anp",
+   "after": "and"
+  },
+  {
+   "page": 68,
+   "before": "anp",
+   "after": "AND"
+  },
+  {
+   "page": 68,
+   "before": "anp",
+   "after": "and"
+  },
+  {
+   "page": 73,
+   "before": "ali",
+   "after": "all"
+  },
+  {
+   "page": 86,
+   "before": "employcd",
+   "after": "employed"
+  },
+  {
+   "page": 92,
+   "before": "riso",
+   "after": "rise"
+  },
+  {
+   "page": 93,
+   "before": "thesc,",
+   "after": "these,"
+  },
+  {
+   "page": 93,
+   "before": "clectricities,",
+   "after": "electricities,"
+  },
+  {
+   "page": 93,
+   "before": "forehcad,",
+   "after": "forehead,"
+  },
+  {
+   "page": 93,
+   "before": "disuppear,",
+   "after": "disappear,"
+  },
+  {
+   "page": 93,
+   "before": "clectricity",
+   "after": "electricity"
+  },
+  {
+   "page": 94,
+   "before": "clectricities",
+   "after": "electricities"
+  },
+  {
+   "page": 97,
+   "before": "Hlectricities",
+   "after": "Electricities"
+  },
+  {
+   "page": 105,
+   "before": "EHlectricities",
+   "after": "Electricities"
+  },
+  {
+   "page": 107,
+   "before": "preseribed",
+   "after": "prescribed"
+  },
+  {
+   "page": 116,
+   "before": "Hach",
+   "after": "Each"
+  },
+  {
+   "page": 122,
+   "before": "cesophagus",
+   "after": "oesophagus"
+  },
+  {
+   "page": 123,
+   "before": "cecum,",
+   "after": "caecum,"
+  },
+  {
+   "page": 128,
+   "before": "finully",
+   "after": "finally"
+  },
+  {
+   "page": 133,
+   "before": "systolc,",
+   "after": "systole,"
+  },
+  {
+   "page": 138,
+   "before": "und",
+   "after": "and"
+  },
+  {
+   "page": 139,
+   "before": "cesophagus,",
+   "after": "oesophagus,"
+  },
+  {
+   "page": 141,
+   "before": "Stummering",
+   "after": "Stammering"
+  },
+  {
+   "page": 145,
+   "before": "develcped",
+   "after": "developed"
+  },
+  {
+   "page": 150,
+   "before": "diseuse",
+   "after": "disease"
+  },
+  {
+   "page": 150,
+   "before": "auy",
+   "after": "any"
+  },
+  {
+   "page": 152,
+   "before": "Scrorotoso,,",
+   "after": "Scrofoloso,,"
+  },
+  {
+   "page": 152,
+   "before": "Scroroxoso,,",
+   "after": "Scrofoloso,,"
+  },
+  {
+   "page": 152,
+   "before": "Linvatico,",
+   "after": "Linfatico,"
+  },
+  {
+   "page": 156,
+   "before": "frequeni",
+   "after": "frequent"
+  },
+  {
+   "page": 157,
+   "before": "Hmorrhages",
+   "after": "Haemorrhages"
+  },
+  {
+   "page": 160,
+   "before": "iis",
+   "after": "its"
+  },
+  {
+   "page": 160,
+   "before": "axille,",
+   "after": "axillae,"
+  },
+  {
+   "page": 163,
+   "before": "DiszaseD",
+   "after": "Diseased"
+  },
+  {
+   "page": 166,
+   "before": "foree",
+   "after": "force"
+  },
+  {
+   "page": 167,
+   "before": "tenia,",
+   "after": "taenia,"
+  },
+  {
+   "page": 168,
+   "before": "diarrhcea,",
+   "after": "diarrhoea,"
+  },
+  {
+   "page": 169,
+   "before": "scerlatina,",
+   "after": "scarlatina,"
+  },
+  {
+   "page": 171,
+   "before": "sevelity",
+   "after": "severity"
+  },
+  {
+   "page": 171,
+   "before": "EpipEmics,",
+   "after": "Epidemics,"
+  },
+  {
+   "page": 173,
+   "before": "ancbylosis,",
+   "after": "anchylosis,"
+  },
+  {
+   "page": 178,
+   "before": "precedeni",
+   "after": "precedent"
+  },
+  {
+   "page": 181,
+   "before": "Fistuna",
+   "after": "Fistula"
+  },
+  {
+   "page": 183,
+   "before": "cesophagus,",
+   "after": "oesophagus,"
+  },
+  {
+   "page": 184,
+   "before": "diarrhcea,",
+   "after": "diarrhoea,"
+  },
+  {
+   "page": 186,
+   "before": "Feetid",
+   "after": "Foetid"
+  },
+  {
+   "page": 188,
+   "before": "cach",
+   "after": "each"
+  },
+  {
+   "page": 192,
+   "before": "indieates",
+   "after": "indicates"
+  },
+  {
+   "page": 196,
+   "before": "Unetions",
+   "after": "Unctions"
+  },
+  {
+   "page": 197,
+   "before": "Generatty",
+   "after": "Generally"
+  },
+  {
+   "page": 197,
+   "before": "ConDItTIons",
+   "after": "Conditions"
+  },
+  {
+   "page": 197,
+   "before": "GarneraL",
+   "after": "General"
+  },
+  {
+   "page": 197,
+   "before": "Batha",
+   "after": "Baths"
+  },
+  {
+   "page": 198,
+   "before": "Viotent",
+   "after": "Violent"
+  },
+  {
+   "page": 200,
+   "before": "Sanaurngous",
+   "after": "Sanguineous"
+  },
+  {
+   "page": 200,
+   "before": "SorrENING",
+   "after": "Softening"
+  },
+  {
+   "page": 201,
+   "before": "Virtico",
+   "after": "Vertigo"
+  },
+  {
+   "page": 201,
+   "before": "Uncetions",
+   "after": "Unctions"
+  },
+  {
+   "page": 202,
+   "before": "eompresses",
+   "after": "compresses"
+  },
+  {
+   "page": 203,
+   "before": "InroxIcaTION",
+   "after": "Intoxication"
+  },
+  {
+   "page": 214,
+   "before": "ixitensity",
+   "after": "intensity"
+  },
+  {
+   "page": 216,
+   "before": "Curonic",
+   "after": "Chronic"
+  },
+  {
+   "page": 217,
+   "before": "LacuRYMATION",
+   "after": "Lachrymation"
+  },
+  {
+   "page": 218,
+   "before": "oceiput,",
+   "after": "occiput,"
+  },
+  {
+   "page": 219,
+   "before": "HMoRRHAGE",
+   "after": "Haemorrhage"
+  },
+  {
+   "page": 221,
+   "before": "ali",
+   "after": "all"
+  },
+  {
+   "page": 222,
+   "before": "feetor",
+   "after": "foetor"
+  },
+  {
+   "page": 228,
+   "before": "Cynancue",
+   "after": "Cynanche"
+  },
+  {
+   "page": 233,
+   "before": "interitis",
+   "after": "Enteritis"
+  },
+  {
+   "page": 233,
+   "before": "sophagitis,",
+   "after": "Esophagitis,"
+  },
+  {
+   "page": 233,
+   "before": "csophagus,",
+   "after": "oesophagus,"
+  },
+  {
+   "page": 236,
+   "before": "chronie",
+   "after": "chronic"
+  },
+  {
+   "page": 241,
+   "before": "Unetions",
+   "after": "Unctions"
+  },
+  {
+   "page": 241,
+   "before": "iwo",
+   "after": "two"
+  },
+  {
+   "page": 242,
+   "before": "WEAENESS",
+   "after": "WEAKNESS"
+  },
+  {
+   "page": 242,
+   "before": "PertopicaL",
+   "after": "Periodical"
+  },
+  {
+   "page": 243,
+   "before": "membratie",
+   "after": "membrane"
+  },
+  {
+   "page": 243,
+   "before": "remedics",
+   "after": "remedies"
+  },
+  {
+   "page": 244,
+   "before": "adynamie",
+   "after": "adynamic"
+  },
+  {
+   "page": 245,
+   "before": "Tleus",
+   "after": "Ileus"
+  },
+  {
+   "page": 247,
+   "before": "ditficult",
+   "after": "difficult"
+  },
+  {
+   "page": 249,
+   "before": "tenia,",
+   "after": "taenia,"
+  },
+  {
+   "page": 250,
+   "before": "hande",
+   "after": "hands"
+  },
+  {
+   "page": 250,
+   "before": "thc",
+   "after": "the"
+  },
+  {
+   "page": 254,
+   "before": "diarrhaa",
+   "after": "diarrhoea"
+  },
+  {
+   "page": 258,
+   "before": "diarrhaa,",
+   "after": "diarrhoea,"
+  },
+  {
+   "page": 259,
+   "before": "Aascarides,",
+   "after": "Ascarides,"
+  },
+  {
+   "page": 259,
+   "before": "diarrhwa,",
+   "after": "diarrhoea,"
+  },
+  {
+   "page": 259,
+   "before": "algo",
+   "after": "also"
+  },
+  {
+   "page": 259,
+   "before": "diarrhcea,",
+   "after": "diarrhoea,"
+  },
+  {
+   "page": 260,
+   "before": "Heworrnoips",
+   "after": "Hemorrhoids"
+  },
+  {
+   "page": 265,
+   "before": "scatlatina",
+   "after": "scarlatina"
+  },
+  {
+   "page": 266,
+   "before": "painfal",
+   "after": "painful"
+  },
+  {
+   "page": 267,
+   "before": "tthe",
+   "after": "the"
+  },
+  {
+   "page": 272,
+   "before": "pai",
+   "after": "pam"
+  },
+  {
+   "page": 275,
+   "before": "diszased",
+   "after": "diseased"
+  },
+  {
+   "page": 278,
+   "before": "Unetions",
+   "after": "Unctions"
+  },
+  {
+   "page": 280,
+   "before": "convulaive",
+   "after": "convulsive"
+  },
+  {
+   "page": 282,
+   "before": "Fase",
+   "after": "False"
+  },
+  {
+   "page": 283,
+   "before": "eut",
+   "after": "cut"
+  },
+  {
+   "page": 291,
+   "before": "Daths",
+   "after": "Baths"
+  },
+  {
+   "page": 291,
+   "before": "HMorruaGe",
+   "after": "Hemorrhage"
+  },
+  {
+   "page": 295,
+   "before": "Uleerations,",
+   "after": "Ulcerations,"
+  },
+  {
+   "page": 300,
+   "before": "PeriopicaL",
+   "after": "Periodical"
+  },
+  {
+   "page": 303,
+   "before": "woynd",
+   "after": "wound"
+  },
+  {
+   "page": 303,
+   "before": "Srines",
+   "after": "Stings"
+  },
+  {
+   "page": 304,
+   "before": "eure",
+   "after": "cure"
+  },
+  {
+   "page": 305,
+   "before": "Coxaera,",
+   "after": "Coxalgia,"
+  },
+  {
+   "page": 306,
+   "before": "Disiocations",
+   "after": "Dislocations"
+  },
+  {
+   "page": 307,
+   "before": "temove",
+   "after": "remove"
+  },
+  {
+   "page": 310,
+   "before": "falis",
+   "after": "falls"
+  },
+  {
+   "page": 314,
+   "before": "uleeration",
+   "after": "ulceration"
+  },
+  {
+   "page": 315,
+   "before": "volantary",
+   "after": "voluntary"
+  },
+  {
+   "page": 315,
+   "before": "atitopsy,",
+   "after": "autopsy,"
+  },
+  {
+   "page": 316,
+   "before": "metkod",
+   "after": "method"
+  },
+  {
+   "page": 318,
+   "before": "cyred",
+   "after": "cured"
+  },
+  {
+   "page": 320,
+   "before": "searcely",
+   "after": "scarcely"
+  },
+  {
+   "page": 320,
+   "before": "ancliylosis",
+   "after": "anchylosis"
+  },
+  {
+   "page": 320,
+   "before": "unetions",
+   "after": "unctions"
+  },
+  {
+   "page": 321,
+   "before": "scrofalous",
+   "after": "scrofulous"
+  },
+  {
+   "page": 324,
+   "before": "tive",
+   "after": "five"
+  },
+  {
+   "page": 324,
+   "before": "Cancernous",
+   "after": "Cancerous"
+  },
+  {
+   "page": 327,
+   "before": "aced",
+   "after": "aged"
+  },
+  {
+   "page": 329,
+   "before": "Caorga,",
+   "after": "Chorea,"
+  },
+  {
+   "page": 330,
+   "before": "firat",
+   "after": "first"
+  },
+  {
+   "page": 331,
+   "before": "gluoules",
+   "after": "globules"
+  },
+  {
+   "page": 331,
+   "before": "Convuxsions",
+   "after": "Convulsions"
+  },
+  {
+   "page": 332,
+   "before": "coxalyia",
+   "after": "coxalgia"
+  },
+  {
+   "page": 332,
+   "before": "coxalgié",
+   "after": "coxalgiaé"
+  },
+  {
+   "page": 332,
+   "before": "blocd",
+   "after": "blood"
+  },
+  {
+   "page": 335,
+   "before": "diarrhcea",
+   "after": "diarrhoea"
+  },
+  {
+   "page": 335,
+   "before": "cccasional",
+   "after": "occasional"
+  },
+  {
+   "page": 339,
+   "before": "monthe",
+   "after": "months"
+  },
+  {
+   "page": 339,
+   "before": "cared",
+   "after": "cured"
+  },
+  {
+   "page": 340,
+   "before": "anctions",
+   "after": "unctions"
+  },
+  {
+   "page": 341,
+   "before": "himeelf",
+   "after": "himself"
+  },
+  {
+   "page": 341,
+   "before": "eondition",
+   "after": "condition"
+  },
+  {
+   "page": 342,
+   "before": "Looal",
+   "after": "Local"
+  },
+  {
+   "page": 343,
+   "before": "maticr,",
+   "after": "matter,"
+  },
+  {
+   "page": 343,
+   "before": "waa",
+   "after": "was"
+  },
+  {
+   "page": 344,
+   "before": "seos",
+   "after": "sees"
+  },
+  {
+   "page": 346,
+   "before": "anzsthesia",
+   "after": "anaesthesia"
+  },
+  {
+   "page": 348,
+   "before": "tbe",
+   "after": "the"
+  },
+  {
+   "page": 349,
+   "before": "Drorsy",
+   "after": "Dropsy"
+  },
+  {
+   "page": 353,
+   "before": "becamo",
+   "after": "became"
+  },
+  {
+   "page": 354,
+   "before": "cysi",
+   "after": "cyst"
+  },
+  {
+   "page": 358,
+   "before": "monthe",
+   "after": "months"
+  },
+  {
+   "page": 359,
+   "before": "deveioped,",
+   "after": "developed,"
+  },
+  {
+   "page": 359,
+   "before": "violertt",
+   "after": "violent"
+  },
+  {
+   "page": 359,
+   "before": "upplied",
+   "after": "applied"
+  },
+  {
+   "page": 360,
+   "before": "Sxin",
+   "after": "Skin"
+  },
+  {
+   "page": 361,
+   "before": "dinmeter",
+   "after": "diameter"
+  },
+  {
+   "page": 361,
+   "before": "nnctions",
+   "after": "unctions"
+  },
+  {
+   "page": 363,
+   "before": "usc",
+   "after": "use"
+  },
+  {
+   "page": 363,
+   "before": "paing",
+   "after": "pains"
+  },
+  {
+   "page": 364,
+   "before": "serofulous",
+   "after": "scrofulous"
+  },
+  {
+   "page": 366,
+   "before": "waa",
+   "after": "was"
+  },
+  {
+   "page": 367,
+   "before": "Eczzmatovs",
+   "after": "Eczematous"
+  },
+  {
+   "page": 368,
+   "before": "secing",
+   "after": "seeing"
+  },
+  {
+   "page": 368,
+   "before": "eure,",
+   "after": "cure,"
+  },
+  {
+   "page": 372,
+   "before": "Hiecough,",
+   "after": "Hiccough,"
+  }
+ ]
+}

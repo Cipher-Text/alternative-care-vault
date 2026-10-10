@@ -12,9 +12,9 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 49 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 50 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
-### Homeopathy (29 works)
+### Homeopathy (30 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -22,6 +22,7 @@ The collection currently contains 49 valid works. Homeopathy books are kept in [
 | `ডাঃ এস. এন. পাণ্ডে - হোমিওপ্যাথিক প্র্যাকটিস অফ মেডিসিন.epub` | EPUB (facsimile) | Bengali; Dr. S. N. Pandey. Same as above: pure page-scan facsimile, OCR'd (ben+eng) during processing |
 | `W. A. Dewey - Practical Homoeopathic Therapeutics - 1900.epub` | EPUB | W. A. Dewey; practical homoeopathic therapeutics |
 | `Count Cesare Mattei - Electro-Homoeopathic Medicine - A New Medical System Being a Popular and Domestic Guide Founded on Experience - 2nd Edition (1891).epub` | EPUB | Count Cesare Mattei; electro-homoeopathic medicine |
+| `Count Cesare Mattei - Electro-Homoeopathic Medicine - 2nd Edition (1891) - Page Scan.pdf` | PDF (page scan) | Same 2nd edition as the entry above, kept **alongside** it as a *marginally different* copy (neither is clearly better): re-OCR'd from a Google image PDF (`electrohomoeopa00mattgoog`, a different scan from the one the original text came from), dehyphenated, then consensus-corrected (176 words) against the original text. 27% less junk (1.06 vs 1.46 per 1,000 chars) at the same dictionary-word rate (0.827 vs 0.826) but slightly more garbled one-off words. 367 pages (scan page index, blanks skipped). Public domain (1891). |
 | `E. A. Farrington - Clinical Materia Medica - 4th Edition (1908).epub` | EPUB | E. A. Farrington; clinical homoeopathic materia medica |
 | `Andrew Lockie - Encyclopedia of Homeopathy - Updated Edition (2006).epub` | EPUB | Andrew Lockie; homeopathy reference guide |
 | `Timothy Field Allen - Handbook of Materia Medica and Homoeopathic Therapeutics - 1889.epub` | EPUB | Timothy Field Allen; materia medica and homoeopathic therapeutics |
