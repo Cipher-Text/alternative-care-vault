@@ -1,0 +1,1291 @@
+{
+ "changed": 257,
+ "unmatched_pages": 3,
+ "log": [
+  {
+   "page": 10,
+   "before": "Strect,",
+   "after": "Street,"
+  },
+  {
+   "page": 12,
+   "before": "Homeeopathy",
+   "after": "Homoeopathy"
+  },
+  {
+   "page": 12,
+   "before": "origmal,",
+   "after": "original,"
+  },
+  {
+   "page": 13,
+   "before": "bemg",
+   "after": "being"
+  },
+  {
+   "page": 14,
+   "before": "succeedmg",
+   "after": "succeeding"
+  },
+  {
+   "page": 15,
+   "before": "pomt",
+   "after": "point"
+  },
+  {
+   "page": 21,
+   "before": "onty",
+   "after": "only"
+  },
+  {
+   "page": 22,
+   "before": "homeeopathists",
+   "after": "homoeopathists"
+  },
+  {
+   "page": 22,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 23,
+   "before": "Homeceopathists,",
+   "after": "Homoeopathists,"
+  },
+  {
+   "page": 25,
+   "before": "Nove",
+   "after": "Note"
+  },
+  {
+   "page": 26,
+   "before": "funetions",
+   "after": "functions"
+  },
+  {
+   "page": 27,
+   "before": "allepathie",
+   "after": "allopathic"
+  },
+  {
+   "page": 28,
+   "before": "eurable",
+   "after": "curable"
+  },
+  {
+   "page": 29,
+   "before": "homceopathie",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 29,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 31,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 32,
+   "before": "homeeopathy,",
+   "after": "homoeopathy,"
+  },
+  {
+   "page": 33,
+   "before": "cvery",
+   "after": "every"
+  },
+  {
+   "page": 36,
+   "before": "varlous",
+   "after": "various"
+  },
+  {
+   "page": 43,
+   "before": "origi,",
+   "after": "origin,"
+  },
+  {
+   "page": 45,
+   "before": "dvawing",
+   "after": "drawing"
+  },
+  {
+   "page": 46,
+   "before": "tle",
+   "after": "the"
+  },
+  {
+   "page": 46,
+   "before": "decilliouth",
+   "after": "decillionth"
+  },
+  {
+   "page": 46,
+   "before": "pleuritie",
+   "after": "pleuritic"
+  },
+  {
+   "page": 46,
+   "before": "antiphlogistie",
+   "after": "antiphlogistic"
+  },
+  {
+   "page": 48,
+   "before": "ancurysm,",
+   "after": "aneurysm,"
+  },
+  {
+   "page": 48,
+   "before": "simultancous",
+   "after": "simultaneous"
+  },
+  {
+   "page": 48,
+   "before": "zine,",
+   "after": "zinc,"
+  },
+  {
+   "page": 49,
+   "before": "fronr",
+   "after": "from"
+  },
+  {
+   "page": 52,
+   "before": "clcan",
+   "after": "clean"
+  },
+  {
+   "page": 59,
+   "before": "haying",
+   "after": "having"
+  },
+  {
+   "page": 67,
+   "before": "intcrnal",
+   "after": "internal"
+  },
+  {
+   "page": 69,
+   "before": "natur@)",
+   "after": "nature@)"
+  },
+  {
+   "page": 69,
+   "before": "affcction",
+   "after": "affection"
+  },
+  {
+   "page": 74,
+   "before": "pharmacopceia,",
+   "after": "pharmacopoeia,"
+  },
+  {
+   "page": 76,
+   "before": "tts",
+   "after": "its"
+  },
+  {
+   "page": 81,
+   "before": "mercly",
+   "after": "merely"
+  },
+  {
+   "page": 81,
+   "before": "ccase",
+   "after": "cease"
+  },
+  {
+   "page": 81,
+   "before": "brmg",
+   "after": "bring"
+  },
+  {
+   "page": 82,
+   "before": "degrce",
+   "after": "degree"
+  },
+  {
+   "page": 82,
+   "before": "gaincd",
+   "after": "gained"
+  },
+  {
+   "page": 83,
+   "before": "(Chronte",
+   "after": "(Chronic"
+  },
+  {
+   "page": 85,
+   "before": "cach",
+   "after": "each"
+  },
+  {
+   "page": 87,
+   "before": "dase",
+   "after": "base"
+  },
+  {
+   "page": 87,
+   "before": "esscntial",
+   "after": "essential"
+  },
+  {
+   "page": 88,
+   "before": "whieh",
+   "after": "which"
+  },
+  {
+   "page": 91,
+   "before": "(homecopathic)",
+   "after": "(homoeopathic)"
+  },
+  {
+   "page": 91,
+   "before": "homccopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 97,
+   "before": "ewphrasia",
+   "after": "euphrasia"
+  },
+  {
+   "page": 97,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 98,
+   "before": "que",
+   "after": "quae"
+  },
+  {
+   "page": 98,
+   "before": "tiber",
+   "after": "iiber"
+  },
+  {
+   "page": 99,
+   "before": "Hacn*",
+   "after": "Haen*"
+  },
+  {
+   "page": 100,
+   "before": "adematous",
+   "after": "edematous"
+  },
+  {
+   "page": 101,
+   "before": "ili,",
+   "after": "iii,"
+  },
+  {
+   "page": 103,
+   "before": "Geoffroy,”",
+   "after": "Geoffrey,”"
+  },
+  {
+   "page": 104,
+   "before": "Matcria",
+   "after": "Materia"
+  },
+  {
+   "page": 105,
+   "before": "homcopathically.®",
+   "after": "homceopathically.®"
+  },
+  {
+   "page": 107,
+   "before": "homcopathically,",
+   "after": "homoeopathically,"
+  },
+  {
+   "page": 108,
+   "before": "Matcria",
+   "after": "Materia"
+  },
+  {
+   "page": 110,
+   "before": "wixe",
+   "after": "wine"
+  },
+  {
+   "page": 110,
+   "before": "fea",
+   "after": "tea"
+  },
+  {
+   "page": 111,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 114,
+   "before": "homeceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 116,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 117,
+   "before": "homeceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 127,
+   "before": "Colden,’",
+   "after": "Golden,’"
+  },
+  {
+   "page": 127,
+   "before": "eroup",
+   "after": "croup"
+  },
+  {
+   "page": 128,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 133,
+   "before": "resulis,",
+   "after": "results,"
+  },
+  {
+   "page": 133,
+   "before": "sce",
+   "after": "see"
+  },
+  {
+   "page": 133,
+   "before": "homoopathically",
+   "after": "homoeopathically"
+  },
+  {
+   "page": 133,
+   "before": "doscs",
+   "after": "doses"
+  },
+  {
+   "page": 134,
+   "before": "Lsopathy,",
+   "after": "Isopathy,"
+  },
+  {
+   "page": 136,
+   "before": "cxample",
+   "after": "example"
+  },
+  {
+   "page": 136,
+   "before": "alludcd",
+   "after": "alluded"
+  },
+  {
+   "page": 136,
+   "before": "yation",
+   "after": "vation"
+  },
+  {
+   "page": 137,
+   "before": "otl",
+   "after": "oil"
+  },
+  {
+   "page": 137,
+   "before": "simulia",
+   "after": "similia"
+  },
+  {
+   "page": 137,
+   "before": "(Ogera,",
+   "after": "(Opera,"
+  },
+  {
+   "page": 139,
+   "before": "contrartis)",
+   "after": "contrariis)"
+  },
+  {
+   "page": 139,
+   "before": "WVho",
+   "after": "Who"
+  },
+  {
+   "page": 140,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 140,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 140,
+   "before": "manncr,",
+   "after": "manner,"
+  },
+  {
+   "page": 144,
+   "before": "cach",
+   "after": "each"
+  },
+  {
+   "page": 144,
+   "before": "¢heoretic",
+   "after": "¢theoretic"
+  },
+  {
+   "page": 144,
+   "before": "aet,",
+   "after": "act,"
+  },
+  {
+   "page": 145,
+   "before": "diseasc,",
+   "after": "disease,"
+  },
+  {
+   "page": 146,
+   "before": "(Rav,",
+   "after": "(Rau,"
+  },
+  {
+   "page": 148,
+   "before": "eombat,",
+   "after": "combat,"
+  },
+  {
+   "page": 148,
+   "before": "whieh,",
+   "after": "which,"
+  },
+  {
+   "page": 148,
+   "before": "exeited",
+   "after": "excited"
+  },
+  {
+   "page": 148,
+   "before": "eontempt,",
+   "after": "contempt,"
+  },
+  {
+   "page": 148,
+   "before": "proeedure",
+   "after": "procedure"
+  },
+  {
+   "page": 148,
+   "before": "antagonistie",
+   "after": "antagonistic"
+  },
+  {
+   "page": 148,
+   "before": "enantiopathie",
+   "after": "enantiopathic"
+  },
+  {
+   "page": 148,
+   "before": "eured",
+   "after": "cured"
+  },
+  {
+   "page": 148,
+   "before": "physieian,",
+   "after": "physician,"
+  },
+  {
+   "page": 148,
+   "before": "eommon",
+   "after": "common"
+  },
+  {
+   "page": 148,
+   "before": "sueh",
+   "after": "such"
+  },
+  {
+   "page": 148,
+   "before": "ehief",
+   "after": "chief"
+  },
+  {
+   "page": 155,
+   "before": "cxre",
+   "after": "cure"
+  },
+  {
+   "page": 157,
+   "before": "Jntroduction",
+   "after": "Introduction"
+  },
+  {
+   "page": 157,
+   "before": "ittself",
+   "after": "itself"
+  },
+  {
+   "page": 162,
+   "before": "hommopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 164,
+   "before": "(homecopathic)",
+   "after": "(homoeopathic)"
+  },
+  {
+   "page": 164,
+   "before": "ttself,",
+   "after": "itself,"
+  },
+  {
+   "page": 164,
+   "before": "forcc,",
+   "after": "force,"
+  },
+  {
+   "page": 164,
+   "before": "oftcn",
+   "after": "often"
+  },
+  {
+   "page": 164,
+   "before": "unburtful",
+   "after": "unhurtful"
+  },
+  {
+   "page": 165,
+   "before": "degrecs,",
+   "after": "degrees,"
+  },
+  {
+   "page": 170,
+   "before": "imoculation",
+   "after": "inoculation"
+  },
+  {
+   "page": 171,
+   "before": "devclop-",
+   "after": "develop-"
+  },
+  {
+   "page": 174,
+   "before": "ageressive",
+   "after": "aggressive"
+  },
+  {
+   "page": 179,
+   "before": "similay",
+   "after": "similar"
+  },
+  {
+   "page": 180,
+   "before": "ples",
+   "after": "pies"
+  },
+  {
+   "page": 181,
+   "before": "Closs*",
+   "after": "Gloss*"
+  },
+  {
+   "page": 181,
+   "before": "Miitter,",
+   "after": "Mutter,"
+  },
+  {
+   "page": 183,
+   "before": "homeeopathically",
+   "after": "homceopathically"
+  },
+  {
+   "page": 192,
+   "before": "(coniraria",
+   "after": "(contraria"
+  },
+  {
+   "page": 194,
+   "before": "ageravation",
+   "after": "aggravation"
+  },
+  {
+   "page": 199,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 200,
+   "before": "ccrtain",
+   "after": "certain"
+  },
+  {
+   "page": 202,
+   "before": "hommopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 207,
+   "before": "misundcrstood,",
+   "after": "misunderstood,"
+  },
+  {
+   "page": 214,
+   "before": "WVarnung",
+   "after": "Warming"
+  },
+  {
+   "page": 218,
+   "before": "(hommopathic)",
+   "after": "(homceopathic)"
+  },
+  {
+   "page": 219,
+   "before": "conccivable,",
+   "after": "conceivable,"
+  },
+  {
+   "page": 220,
+   "before": "yaundice,",
+   "after": "jaundice,"
+  },
+  {
+   "page": 220,
+   "before": "(danalen,",
+   "after": "(Annalen,"
+  },
+  {
+   "page": 220,
+   "before": "guol",
+   "after": "gaol"
+  },
+  {
+   "page": 221,
+   "before": "illa",
+   "after": "ilia"
+  },
+  {
+   "page": 222,
+   "before": "ouly",
+   "after": "only"
+  },
+  {
+   "page": 223,
+   "before": "evamination",
+   "after": "examination"
+  },
+  {
+   "page": 226,
+   "before": "gencral",
+   "after": "general"
+  },
+  {
+   "page": 226,
+   "before": "slecp",
+   "after": "sleep"
+  },
+  {
+   "page": 227,
+   "before": "casily",
+   "after": "easily"
+  },
+  {
+   "page": 227,
+   "before": "quatrelsome,",
+   "after": "quarrelsome,"
+  },
+  {
+   "page": 229,
+   "before": "prescnt",
+   "after": "present"
+  },
+  {
+   "page": 232,
+   "before": "casc”",
+   "after": "case”"
+  },
+  {
+   "page": 232,
+   "before": "pcrsous",
+   "after": "persons"
+  },
+  {
+   "page": 235,
+   "before": "homeceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 237,
+   "before": "bettcr",
+   "after": "better"
+  },
+  {
+   "page": 239,
+   "before": "lcarn",
+   "after": "learn"
+  },
+  {
+   "page": 241,
+   "before": "homeeopathy",
+   "after": "homoeopathy"
+  },
+  {
+   "page": 242,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 243,
+   "before": "producc",
+   "after": "produce"
+  },
+  {
+   "page": 244,
+   "before": "raisc’",
+   "after": "raise’"
+  },
+  {
+   "page": 245,
+   "before": "corporcal",
+   "after": "corporeal"
+  },
+  {
+   "page": 245,
+   "before": "cvery",
+   "after": "every"
+  },
+  {
+   "page": 246,
+   "before": "potencics",
+   "after": "potencies"
+  },
+  {
+   "page": 247,
+   "before": "fhose",
+   "after": "those"
+  },
+  {
+   "page": 248,
+   "before": "Ience-",
+   "after": "Hence-"
+  },
+  {
+   "page": 248,
+   "before": "chanee",
+   "after": "chance"
+  },
+  {
+   "page": 248,
+   "before": "unaequainted,",
+   "after": "unacquainted,"
+  },
+  {
+   "page": 249,
+   "before": "bornc",
+   "after": "borne"
+  },
+  {
+   "page": 249,
+   "before": "encrgy",
+   "after": "energy"
+  },
+  {
+   "page": 252,
+   "before": "altcrations",
+   "after": "alterations"
+  },
+  {
+   "page": 252,
+   "before": "cqually",
+   "after": "equally"
+  },
+  {
+   "page": 263,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 263,
+   "before": "cnitically",
+   "after": "critically"
+  },
+  {
+   "page": 263,
+   "before": "nuinbers",
+   "after": "numbers"
+  },
+  {
+   "page": 264,
+   "before": "OKGANON",
+   "after": "ORGANON"
+  },
+  {
+   "page": 264,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 265,
+   "before": "homeeopathic,",
+   "after": "homoeopathic,"
+  },
+  {
+   "page": 265,
+   "before": "homeeopathy,",
+   "after": "homoeopathy,"
+  },
+  {
+   "page": 268,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 268,
+   "before": "chicfly",
+   "after": "chiefly"
+  },
+  {
+   "page": 269,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 270,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 272,
+   "before": "homczopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 274,
+   "before": "employcd",
+   "after": "employed"
+  },
+  {
+   "page": 274,
+   "before": "homccopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 275,
+   "before": "(nausca,",
+   "after": "(nausea,"
+  },
+  {
+   "page": 275,
+   "before": "nonc",
+   "after": "none"
+  },
+  {
+   "page": 275,
+   "before": "homeceopathically",
+   "after": "homoeopathically"
+  },
+  {
+   "page": 275,
+   "before": "ecmploy-",
+   "after": "employ-"
+  },
+  {
+   "page": 275,
+   "before": "rescinblance,",
+   "after": "resemblance,"
+  },
+  {
+   "page": 276,
+   "before": "morc",
+   "after": "more"
+  },
+  {
+   "page": 276,
+   "before": "sclcct-",
+   "after": "select-"
+  },
+  {
+   "page": 280,
+   "before": "sujtable,",
+   "after": "suitable,"
+  },
+  {
+   "page": 281,
+   "before": "uot",
+   "after": "not"
+  },
+  {
+   "page": 282,
+   "before": "cach",
+   "after": "each"
+  },
+  {
+   "page": 282,
+   "before": "chronié,",
+   "after": "chronicé,"
+  },
+  {
+   "page": 283,
+   "before": "coutact",
+   "after": "contact"
+  },
+  {
+   "page": 284,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 287,
+   "before": "homeeopathicity,",
+   "after": "homoeopathicity,"
+  },
+  {
+   "page": 287,
+   "before": "homecopathically",
+   "after": "homoeopathically"
+  },
+  {
+   "page": 288,
+   "before": "vencreal,",
+   "after": "venereal,"
+  },
+  {
+   "page": 293,
+   "before": "ixcorrecily,",
+   "after": "incorrectly,"
+  },
+  {
+   "page": 294,
+   "before": "yct",
+   "after": "yet"
+  },
+  {
+   "page": 295,
+   "before": "pursucd",
+   "after": "pursued"
+  },
+  {
+   "page": 295,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 295,
+   "before": "inalady",
+   "after": "malady"
+  },
+  {
+   "page": 295,
+   "before": "casc,",
+   "after": "case,"
+  },
+  {
+   "page": 298,
+   "before": "cou-",
+   "after": "con-"
+  },
+  {
+   "page": 298,
+   "before": "sclects",
+   "after": "selects"
+  },
+  {
+   "page": 301,
+   "before": "diseasc",
+   "after": "disease"
+  },
+  {
+   "page": 302,
+   "before": "transforined",
+   "after": "transformed"
+  },
+  {
+   "page": 302,
+   "before": "yemedies",
+   "after": "remedies"
+  },
+  {
+   "page": 305,
+   "before": "dict",
+   "after": "diet"
+  },
+  {
+   "page": 307,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 311,
+   "before": "wnusual",
+   "after": "unusual"
+  },
+  {
+   "page": 313,
+   "before": "tntermittent",
+   "after": "intermittent"
+  },
+  {
+   "page": 314,
+   "before": "repcated",
+   "after": "repeated"
+  },
+  {
+   "page": 318,
+   "before": "homecopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 318,
+   "before": "caunot",
+   "after": "cannot"
+  },
+  {
+   "page": 322,
+   "before": "homeeopathically",
+   "after": "homoeopathically"
+  },
+  {
+   "page": 323,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 324,
+   "before": "closc",
+   "after": "close"
+  },
+  {
+   "page": 324,
+   "before": "whcre",
+   "after": "where"
+  },
+  {
+   "page": 324,
+   "before": "éxercise",
+   "after": "éexercise"
+  },
+  {
+   "page": 325,
+   "before": "doscs",
+   "after": "doses"
+  },
+  {
+   "page": 325,
+   "before": "forec",
+   "after": "force"
+  },
+  {
+   "page": 325,
+   "before": "tuus,",
+   "after": "thus,"
+  },
+  {
+   "page": 326,
+   "before": "TZhus,",
+   "after": "Thus,"
+  },
+  {
+   "page": 326,
+   "before": "tich",
+   "after": "itch"
+  },
+  {
+   "page": 326,
+   "before": "wethout",
+   "after": "without"
+  },
+  {
+   "page": 326,
+   "before": "slightcst",
+   "after": "slightest"
+  },
+  {
+   "page": 329,
+   "before": "mysclf",
+   "after": "myself"
+  },
+  {
+   "page": 330,
+   "before": "eitlier",
+   "after": "either"
+  },
+  {
+   "page": 333,
+   "before": "honweopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 334,
+   "before": "ucver",
+   "after": "never"
+  },
+  {
+   "page": 336,
+   "before": "paticnts",
+   "after": "patients"
+  },
+  {
+   "page": 337,
+   "before": "homeeopathically",
+   "after": "homoeopathically"
+  },
+  {
+   "page": 337,
+   "before": "cercase",
+   "after": "increase"
+  },
+  {
+   "page": 341,
+   "before": "dosc",
+   "after": "dose"
+  },
+  {
+   "page": 342,
+   "before": "rnistrustful",
+   "after": "mistrustful"
+  },
+  {
+   "page": 346,
+   "before": "washcd",
+   "after": "washed"
+  },
+  {
+   "page": 349,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 350,
+   "before": "anid",
+   "after": "and"
+  },
+  {
+   "page": 355,
+   "before": "homecopathically",
+   "after": "homceopathically"
+  },
+  {
+   "page": 355,
+   "before": "homegopathically",
+   "after": "homceopathically"
+  },
+  {
+   "page": 357,
+   "before": "homeeopathically,",
+   "after": "homoeopathically,"
+  },
+  {
+   "page": 358,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 360,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 363,
+   "before": "tongué",
+   "after": "tongueé"
+  },
+  {
+   "page": 365,
+   "before": "homcopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 371,
+   "before": "statc,",
+   "after": "state,"
+  },
+  {
+   "page": 372,
+   "before": "eatamenia",
+   "after": "catamenia"
+  },
+  {
+   "page": 372,
+   "before": "reccived",
+   "after": "received"
+  },
+  {
+   "page": 372,
+   "before": "statc",
+   "after": "state"
+  },
+  {
+   "page": 373,
+   "before": "oeeupied",
+   "after": "occupied"
+  },
+  {
+   "page": 375,
+   "before": "Dupcgon,",
+   "after": "Dudgeon,"
+  },
+  {
+   "page": 375,
+   "before": "Jonn",
+   "after": "John"
+  },
+  {
+   "page": 375,
+   "before": "RussEuy,",
+   "after": "Russell,"
+  },
+  {
+   "page": 377,
+   "before": "HOMCZOPATHIC",
+   "after": "HOMOEOPATHIC"
+  },
+  {
+   "page": 377,
+   "before": "HOMOPATHIC",
+   "after": "HOMOEOPATHIC"
+  },
+  {
+   "page": 377,
+   "before": "HeapLanp",
+   "after": "Headland"
+  },
+  {
+   "page": 377,
+   "before": "Scartatrna;",
+   "after": "Scarlatina;"
+  },
+  {
+   "page": 377,
+   "before": "PRincrPLes",
+   "after": "Principles"
+  },
+  {
+   "page": 377,
+   "before": "Homceopartuy,",
+   "after": "Homceopathy,"
+  },
+  {
+   "page": 378,
+   "before": "Juondon,",
+   "after": "London,"
+  },
+  {
+   "page": 378,
+   "before": "Lerrer",
+   "after": "Letter"
+  },
+  {
+   "page": 378,
+   "before": "Homceopathice",
+   "after": "Homceopathic"
+  }
+ ]
+}

@@ -52,7 +52,11 @@ def main():
                 wt, wo = mt.group(2), mo.group(2)
                 if wt == wo or len(wt) < 3 or abs(len(wt) - len(wo)) > 2: continue
                 if tw[i1].rstrip(",;:)").endswith("."): continue     # abbreviations (Lyc., Jod., Ars.) are remedy names; never "fix" them toward dictionary words
-                if not valid(wt) and valid(wo) and difflib.SequenceMatcher(None, wt.lower(), wo.lower()).ratio() >= 0.6:
+                # the replacement must be a dictionary word, or a word the target copy itself already uses MORE often than the
+                # word it replaces (so a garbled spelling that merely occurs in both copies can never win)
+                good = wo.lower() in dic or (wo.lower().endswith("s") and wo.lower()[:-1] in dic) or \
+                       (ct.get(wo.lower(), 0) >= 3 and ct.get(wo.lower(), 0) > ct.get(wt.lower(), 0))
+                if not valid(wt) and good and difflib.SequenceMatcher(None, wt.lower(), wo.lower()).ratio() >= 0.6:
                     new = mt.group(1) + (wo.capitalize() if wt[0].isupper() and not wt.isupper() else wo.upper() if wt.isupper() and len(wt) > 1 else wo) + mt.group(3)
                     log.append({"page": tp["page_number"], "before": tw[i1], "after": new}); out[i1] = new; changed += 1
         if out != tw: tp["text"] = " ".join(out) if "\n" not in tp["text"] else _rejoin(tp["text"], tw, out)

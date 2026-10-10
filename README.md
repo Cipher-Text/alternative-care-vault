@@ -12,9 +12,9 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 47 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 48 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
-### Homeopathy (27 works)
+### Homeopathy (28 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -31,6 +31,7 @@ The collection currently contains 47 valid works. Homeopathy books are kept in [
 | `ক্লিনিক্যাল মেটেরিয়া মেডিকা.epub` | EPUB | Bengali clinical materia medica reference; author and publication date not identified |
 | `হোমিওপ্যাথিক চিকিৎসা-দর্পন.epub` | EPUB | Bengali homoeopathic reference; metadata date 1303 BS |
 | `Samuel Hahnemann - Organon of Medicine.pdf` | PDF | Samuel Hahnemann; digitized edition from the Internet Archive |
+| *(same file as the row above)* `Samuel Hahnemann - Organon of Medicine.pdf` | PDF (page-scan OCR) | A second catalogue entry for the same Internet Archive scan, kept **alongside** the original (it re-uses the one raw PDF): instead of the PDF's embedded text layer it re-runs OCR on the page images with this pipeline, then consensus-corrects (257 words) against the embedded layer, since no proofread online text was reachable. Modestly better on every measure — junk 0.49 vs 1.36 per 1,000 chars, dictionary rate 0.827 vs 0.825, fewer garbled words. 380 pages (scan page index, blanks skipped). |
 | `Kent - Repertory of the Homoeopathic Materia Medica - 1897.epub` | EPUB | James Tyler Kent, 1st edition; the standard homeopathic repertory. Added to fill a gap identified by researching Bangladesh's most-used homeopathic references — this collection had period materia medica but no repertory/quick-reference works practitioners actually use daily |
 | `William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906).epub` | EPUB | William Boericke; the most-cited quick-reference homeopathic materia medica in practice. 3rd edition (1906) used deliberately, since it's the first to add the repertory section. A later 8th edition (1922) exists but its EPUB embeds a full-resolution scan image per page (~815MB) — the same problem as the Charaka Samhita raw file — so this smaller text-only scan was used instead ⚠️ **Low-quality text layer** (Google OCR) — superseded for reading by the page-scan re-OCR row below (kept for comparison). |
 | `William Boericke - Pocket Manual of Homoeopathic Materia Medica with Repertory - 3rd Edition (1906) - Page Scan.pdf` | PDF (page scan) | Same 3rd edition as the entry above, kept **alongside** it (not replacing it): the Internet Archive image PDF (`pocketmanualhom00boergoog`), re-OCR'd by this pipeline (Tesseract, 300 dpi, background-normalised + thresholded) because the original Google text layer is the worst in the English homeopathy collection (about 9x more junk characters). The re-OCR was then lexicon-corrected against proofread online Boericke text (193 unique OCR slips / 389 tokens fixed, log in `tools/enrichment/staging/boericke_reocr_corrections.json`). 1,041 pages (scan page index, 28 blanks skipped), not printed folio numbers. Public domain (1906). |

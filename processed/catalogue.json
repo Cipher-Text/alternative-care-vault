@@ -154,7 +154,29 @@
     "page_count": 376,
     "source_raw_file": "homeopathy/Samuel Hahnemann - Organon of Medicine.pdf",
     "processed_epub": "processed/homeopathy/hahnemann-organon-of-medicine/book.epub",
-    "processed_json": "processed/homeopathy/hahnemann-organon-of-medicine/book.json"
+    "processed_json": "processed/homeopathy/hahnemann-organon-of-medicine/book.json",
+    "see_also": "hahnemann-organon-of-medicine-reocr"
+  },
+  {
+    "id": "hahnemann-organon-of-medicine-reocr",
+    "title": "Organon of Medicine (page-scan re-OCR)",
+    "author": "Samuel Hahnemann",
+    "language": "en",
+    "discipline": "homeopathy",
+    "page_count": 380,
+    "source_raw_file": "homeopathy/Samuel Hahnemann - Organon of Medicine.pdf",
+    "processed_epub": "processed/homeopathy/hahnemann-organon-of-medicine-reocr/book.epub",
+    "processed_json": "processed/homeopathy/hahnemann-organon-of-medicine-reocr/book.json",
+    "note": "Re-OCR of the same Internet Archive scan as the original entry (it points at the same raw PDF, which is not duplicated), kept ALONGSIDE the original, not replacing it. The original uses the PDF's embedded Internet Archive text layer; this one re-runs OCR on the page images (Tesseract eng, 300 dpi, background-normalised + thresholded) and is then consensus-corrected against that text layer. page_number is the scan page index (blank pages skipped). See tools/process_book.py parse_source_facsimile_pdf and the re-OCR runbook in CLAUDE.md. Consensus-corrected against an independent OCR of the same scan: 257 word corrections (see correction log).",
+    "revision": {
+      "status": "re-ocr + consensus-corrected",
+      "date": "2026-10-11",
+      "reference": "the original entry's embedded Internet Archive text layer (independent OCR of the same scan)",
+      "words_corrected": 257,
+      "log": "tools/enrichment/staging/organon_reocr_consensus_log.json",
+      "complements": "hahnemann-organon-of-medicine",
+      "comparison": "modestly better on every measure: junk 0.49 vs 1.36 per 1000, dictionary rate 0.827 vs 0.825, fewer garbled singleton words (2366 vs 2605)"
+    }
   },
   {
     "id": "hering-guiding-symptoms-vol-1-1879",
