@@ -1,0 +1,600 @@
+{
+ "candidates": [
+  {
+   "name_en": "Itching",
+   "category": "skin",
+   "books_mentioning": 20,
+   "total_mentions": 6318
+  },
+  {
+   "name_en": "Colic",
+   "category": "digestive",
+   "books_mentioning": 20,
+   "total_mentions": 2021
+  },
+  {
+   "name_en": "Paralysis",
+   "category": "neurological",
+   "books_mentioning": 20,
+   "total_mentions": 1764
+  },
+  {
+   "name_en": "Palpitation",
+   "category": "cardiovascular",
+   "books_mentioning": 19,
+   "total_mentions": 1568
+  },
+  {
+   "name_en": "Restlessness",
+   "category": "mental",
+   "books_mentioning": 20,
+   "total_mentions": 1536
+  },
+  {
+   "name_en": "Numbness",
+   "category": "neurological",
+   "books_mentioning": 19,
+   "total_mentions": 1523
+  },
+  {
+   "name_en": "Fear",
+   "category": "mental",
+   "books_mentioning": 20,
+   "total_mentions": 1202
+  },
+  {
+   "name_en": "Rheumatism",
+   "category": "musculoskeletal",
+   "books_mentioning": 19,
+   "total_mentions": 1154
+  },
+  {
+   "name_en": "Neuralgia",
+   "category": "neurological",
+   "books_mentioning": 19,
+   "total_mentions": 1111
+  },
+  {
+   "name_en": "Typhoid",
+   "category": "immune",
+   "books_mentioning": 19,
+   "total_mentions": 947
+  },
+  {
+   "name_en": "Cramps",
+   "category": "musculoskeletal",
+   "books_mentioning": 20,
+   "total_mentions": 942
+  },
+  {
+   "name_en": "Hoarseness",
+   "category": "respiratory",
+   "books_mentioning": 18,
+   "total_mentions": 902
+  },
+  {
+   "name_en": "Toothache",
+   "category": "ear_nose_throat",
+   "books_mentioning": 19,
+   "total_mentions": 868
+  },
+  {
+   "name_en": "Irritability",
+   "category": "mental",
+   "books_mentioning": 19,
+   "total_mentions": 764
+  },
+  {
+   "name_en": "Debility",
+   "category": "general",
+   "books_mentioning": 20,
+   "total_mentions": 756
+  },
+  {
+   "name_en": "Depression",
+   "category": "mental",
+   "books_mentioning": 20,
+   "total_mentions": 748
+  },
+  {
+   "name_en": "Flatulence",
+   "category": "digestive",
+   "books_mentioning": 18,
+   "total_mentions": 740
+  },
+  {
+   "name_en": "Leucorrhea",
+   "category": "reproductive",
+   "books_mentioning": 19,
+   "total_mentions": 740
+  },
+  {
+   "name_en": "Dyspnea",
+   "category": "respiratory",
+   "books_mentioning": 18,
+   "total_mentions": 674
+  },
+  {
+   "name_en": "Pneumonia",
+   "category": "respiratory",
+   "books_mentioning": 18,
+   "total_mentions": 664
+  },
+  {
+   "name_en": "Cholera",
+   "category": "digestive",
+   "books_mentioning": 20,
+   "total_mentions": 657
+  },
+  {
+   "name_en": "Dropsy",
+   "category": "cardiovascular",
+   "books_mentioning": 20,
+   "total_mentions": 644
+  },
+  {
+   "name_en": "Fainting",
+   "category": "general",
+   "books_mentioning": 20,
+   "total_mentions": 633
+  },
+  {
+   "name_en": "Eczema",
+   "category": "skin",
+   "books_mentioning": 18,
+   "total_mentions": 631
+  },
+  {
+   "name_en": "Hemorrhoids",
+   "category": "digestive",
+   "books_mentioning": 19,
+   "total_mentions": 588
+  },
+  {
+   "name_en": "Emaciation",
+   "category": "general",
+   "books_mentioning": 20,
+   "total_mentions": 533
+  },
+  {
+   "name_en": "Diphtheria",
+   "category": "immune",
+   "books_mentioning": 18,
+   "total_mentions": 532
+  },
+  {
+   "name_en": "Dysentery",
+   "category": "digestive",
+   "books_mentioning": 19,
+   "total_mentions": 531
+  },
+  {
+   "name_en": "Hiccough",
+   "category": "digestive",
+   "books_mentioning": 16,
+   "total_mentions": 526
+  },
+  {
+   "name_en": "Erysipelas",
+   "category": "skin",
+   "books_mentioning": 20,
+   "total_mentions": 524
+  },
+  {
+   "name_en": "Epilepsy",
+   "category": "neurological",
+   "books_mentioning": 20,
+   "total_mentions": 488
+  },
+  {
+   "name_en": "Deafness",
+   "category": "ear_nose_throat",
+   "books_mentioning": 20,
+   "total_mentions": 469
+  },
+  {
+   "name_en": "Worms",
+   "category": "digestive",
+   "books_mentioning": 19,
+   "total_mentions": 468
+  },
+  {
+   "name_en": "Anger",
+   "category": "mental",
+   "books_mentioning": 20,
+   "total_mentions": 459
+  },
+  {
+   "name_en": "Whooping Cough",
+   "category": "respiratory",
+   "books_mentioning": 18,
+   "total_mentions": 423
+  },
+  {
+   "name_en": "Herpes",
+   "category": "skin",
+   "books_mentioning": 19,
+   "total_mentions": 422
+  },
+  {
+   "name_en": "Loss Of Appetite",
+   "category": "digestive",
+   "books_mentioning": 18,
+   "total_mentions": 421
+  },
+  {
+   "name_en": "Boils",
+   "category": "skin",
+   "books_mentioning": 18,
+   "total_mentions": 398
+  },
+  {
+   "name_en": "Croup",
+   "category": "respiratory",
+   "books_mentioning": 19,
+   "total_mentions": 390
+  },
+  {
+   "name_en": "Hysteria",
+   "category": "mental",
+   "books_mentioning": 19,
+   "total_mentions": 382
+  },
+  {
+   "name_en": "Lameness",
+   "category": "musculoskeletal",
+   "books_mentioning": 18,
+   "total_mentions": 378
+  },
+  {
+   "name_en": "Abscess",
+   "category": "skin",
+   "books_mentioning": 20,
+   "total_mentions": 376
+  },
+  {
+   "name_en": "Wounds",
+   "category": "skin",
+   "books_mentioning": 19,
+   "total_mentions": 355
+  },
+  {
+   "name_en": "Measles",
+   "category": "immune",
+   "books_mentioning": 19,
+   "total_mentions": 354
+  },
+  {
+   "name_en": "Heartburn",
+   "category": "digestive",
+   "books_mentioning": 16,
+   "total_mentions": 316
+  },
+  {
+   "name_en": "Sciatica",
+   "category": "neurological",
+   "books_mentioning": 18,
+   "total_mentions": 301
+  },
+  {
+   "name_en": "Urticaria",
+   "category": "skin",
+   "books_mentioning": 16,
+   "total_mentions": 293
+  },
+  {
+   "name_en": "Grief",
+   "category": "mental",
+   "books_mentioning": 19,
+   "total_mentions": 291
+  },
+  {
+   "name_en": "Scarlet Fever",
+   "category": "immune",
+   "books_mentioning": 16,
+   "total_mentions": 279
+  },
+  {
+   "name_en": "Anemia",
+   "category": "metabolic",
+   "books_mentioning": 18,
+   "total_mentions": 277
+  },
+  {
+   "name_en": "Influenza",
+   "category": "respiratory",
+   "books_mentioning": 18,
+   "total_mentions": 273
+  },
+  {
+   "name_en": "Burns",
+   "category": "skin",
+   "books_mentioning": 18,
+   "total_mentions": 269
+  },
+  {
+   "name_en": "Impotence",
+   "category": "reproductive",
+   "books_mentioning": 18,
+   "total_mentions": 245
+  },
+  {
+   "name_en": "Chilblains",
+   "category": "skin",
+   "books_mentioning": 15,
+   "total_mentions": 208
+  },
+  {
+   "name_en": "Psoriasis",
+   "category": "skin",
+   "books_mentioning": 14,
+   "total_mentions": 195
+  },
+  {
+   "name_en": "Cystitis",
+   "category": "urinary",
+   "books_mentioning": 15,
+   "total_mentions": 187
+  },
+  {
+   "name_en": "Varicose Veins",
+   "category": "cardiovascular",
+   "books_mentioning": 15,
+   "total_mentions": 184
+  },
+  {
+   "name_en": "Cholera Infantum",
+   "category": "digestive",
+   "books_mentioning": 13,
+   "total_mentions": 181
+  },
+  {
+   "name_en": "Pleurisy",
+   "category": "respiratory",
+   "books_mentioning": 17,
+   "total_mentions": 179
+  },
+  {
+   "name_en": "Laryngitis",
+   "category": "respiratory",
+   "books_mentioning": 15,
+   "total_mentions": 176
+  },
+  {
+   "name_en": "Night Sweats",
+   "category": "general",
+   "books_mentioning": 18,
+   "total_mentions": 174
+  },
+  {
+   "name_en": "Goitre",
+   "category": "metabolic",
+   "books_mentioning": 17,
+   "total_mentions": 169
+  },
+  {
+   "name_en": "Conjunctivitis",
+   "category": "ear_nose_throat",
+   "books_mentioning": 14,
+   "total_mentions": 168
+  },
+  {
+   "name_en": "Angina Pectoris",
+   "category": "cardiovascular",
+   "books_mentioning": 13,
+   "total_mentions": 167
+  },
+  {
+   "name_en": "Teething",
+   "category": "general",
+   "books_mentioning": 16,
+   "total_mentions": 156
+  },
+  {
+   "name_en": "Retention Of Urine",
+   "category": "urinary",
+   "books_mentioning": 15,
+   "total_mentions": 145
+  },
+  {
+   "name_en": "Incontinence",
+   "category": "urinary",
+   "books_mentioning": 14,
+   "total_mentions": 143
+  },
+  {
+   "name_en": "Tonsillitis",
+   "category": "respiratory",
+   "books_mentioning": 15,
+   "total_mentions": 128
+  },
+  {
+   "name_en": "Amenorrhea",
+   "category": "reproductive",
+   "books_mentioning": 17,
+   "total_mentions": 123
+  },
+  {
+   "name_en": "Gastritis",
+   "category": "digestive",
+   "books_mentioning": 13,
+   "total_mentions": 122
+  },
+  {
+   "name_en": "Sprains",
+   "category": "musculoskeletal",
+   "books_mentioning": 15,
+   "total_mentions": 120
+  },
+  {
+   "name_en": "Labor Pains",
+   "category": "reproductive",
+   "books_mentioning": 12,
+   "total_mentions": 111
+  },
+  {
+   "name_en": "Malaria",
+   "category": "immune",
+   "books_mentioning": 12,
+   "total_mentions": 108
+  },
+  {
+   "name_en": "Tremors",
+   "category": "neurological",
+   "books_mentioning": 14,
+   "total_mentions": 105
+  },
+  {
+   "name_en": "Sore Mouth",
+   "category": "ear_nose_throat",
+   "books_mentioning": 13,
+   "total_mentions": 99
+  },
+  {
+   "name_en": "Tinnitus",
+   "category": "ear_nose_throat",
+   "books_mentioning": 10,
+   "total_mentions": 99
+  },
+  {
+   "name_en": "Styes",
+   "category": "ear_nose_throat",
+   "books_mentioning": 16,
+   "total_mentions": 95
+  },
+  {
+   "name_en": "Menopause",
+   "category": "reproductive",
+   "books_mentioning": 13,
+   "total_mentions": 92
+  },
+  {
+   "name_en": "Sterility",
+   "category": "reproductive",
+   "books_mentioning": 15,
+   "total_mentions": 91
+  },
+  {
+   "name_en": "Arthritis",
+   "category": "musculoskeletal",
+   "books_mentioning": 13,
+   "total_mentions": 89
+  },
+  {
+   "name_en": "Mumps",
+   "category": "immune",
+   "books_mentioning": 14,
+   "total_mentions": 86
+  },
+  {
+   "name_en": "Migraine",
+   "category": "neurological",
+   "books_mentioning": 9,
+   "total_mentions": 76
+  },
+  {
+   "name_en": "Forgetfulness",
+   "category": "mental",
+   "books_mentioning": 14,
+   "total_mentions": 76
+  },
+  {
+   "name_en": "Ringworm",
+   "category": "skin",
+   "books_mentioning": 12,
+   "total_mentions": 72
+  },
+  {
+   "name_en": "Convalescence",
+   "category": "general",
+   "books_mentioning": 17,
+   "total_mentions": 68
+  },
+  {
+   "name_en": "Morning Sickness",
+   "category": "reproductive",
+   "books_mentioning": 14,
+   "total_mentions": 66
+  },
+  {
+   "name_en": "Obesity",
+   "category": "metabolic",
+   "books_mentioning": 14,
+   "total_mentions": 66
+  },
+  {
+   "name_en": "Prostatitis",
+   "category": "urinary",
+   "books_mentioning": 11,
+   "total_mentions": 65
+  },
+  {
+   "name_en": "Neck Pain",
+   "category": "musculoskeletal",
+   "books_mentioning": 11,
+   "total_mentions": 64
+  },
+  {
+   "name_en": "Neuritis",
+   "category": "neurological",
+   "books_mentioning": 10,
+   "total_mentions": 52
+  },
+  {
+   "name_en": "Rickets",
+   "category": "metabolic",
+   "books_mentioning": 10,
+   "total_mentions": 47
+  },
+  {
+   "name_en": "Dandruff",
+   "category": "skin",
+   "books_mentioning": 14,
+   "total_mentions": 44
+  },
+  {
+   "name_en": "Bed Sores",
+   "category": "skin",
+   "books_mentioning": 12,
+   "total_mentions": 42
+  },
+  {
+   "name_en": "Fractures",
+   "category": "musculoskeletal",
+   "books_mentioning": 8,
+   "total_mentions": 32
+  }
+ ],
+ "skipped_duplicates": [
+  {
+   "term": "Hay Fever",
+   "matches": "Allergies",
+   "via": "exact"
+  },
+  {
+   "term": "Vomiting",
+   "matches": "Nausea",
+   "via": "exact"
+  },
+  {
+   "term": "Catarrh",
+   "matches": "Cold",
+   "via": "exact"
+  },
+  {
+   "term": "Hoarseness",
+   "matches": "Hoarseness",
+   "via": "in-batch"
+  },
+  {
+   "term": "Morning Sickness",
+   "matches": "Morning Sickness",
+   "via": "in-batch"
+  },
+  {
+   "term": "Dropsy",
+   "matches": "Dropsy",
+   "via": "in-batch"
+  }
+ ]
+}

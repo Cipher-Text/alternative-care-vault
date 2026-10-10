@@ -1,0 +1,808 @@
+[
+  {
+    "name_en": "Colic",
+    "description_en": "Episodes of cramping abdominal pain, or prolonged unexplained crying in infants",
+    "synonyms": [
+      "cholic",
+      "colicky pain",
+      "infantile colic",
+      "griping pain"
+    ],
+    "category": "digestive",
+    "red_flags": [
+      "Severe pain with vomiting or sweating",
+      "Baby with weak or high-pitched cry"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Colic",
+      "https://www.nhs.uk/conditions/colic/"
+    ]
+  },
+  {
+    "name_en": "Itching",
+    "description_en": "Skin sensation that creates a strong urge to scratch",
+    "synonyms": [
+      "pruritus",
+      "itch",
+      "itchy skin"
+    ],
+    "category": "skin",
+    "red_flags": [
+      "Itching all over the body",
+      "Itching lasting over several weeks",
+      "Itching with a new rash, lump or swelling"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Itch",
+      "https://www.nhs.uk/conditions/itching/"
+    ]
+  },
+  {
+    "name_en": "Palpitation",
+    "description_en": "Awareness of a fast, pounding, fluttering or irregular heartbeat",
+    "synonyms": [
+      "palpitations",
+      "heart palpitations",
+      "fluttering heart",
+      "racing heart"
+    ],
+    "category": "cardiovascular",
+    "red_flags": [
+      "Chest pain",
+      "Shortness of breath",
+      "Fainting or feeling faint"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Palpitations",
+      "https://www.nhs.uk/conditions/heart-palpitations/"
+    ]
+  },
+  {
+    "name_en": "Restlessness",
+    "description_en": "Inability to stay still or relax, with purposeless movement and unease",
+    "synonyms": [
+      "psychomotor agitation",
+      "agitation",
+      "fidgeting",
+      "unrest",
+      "pacing"
+    ],
+    "category": "mental",
+    "red_flags": [
+      "Thoughts of self-harm",
+      "Restlessness with confusion or drug or alcohol withdrawal"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Psychomotor_agitation",
+      "https://medlineplus.gov/anxiety.html",
+      "https://www.nhs.uk/conditions/generalised-anxiety-disorder/"
+    ]
+  },
+  {
+    "name_en": "Neuralgia",
+    "description_en": "Sharp or burning pain along the path of an irritated nerve",
+    "synonyms": [
+      "nerve pain",
+      "neuropathic pain",
+      "tic douloureux",
+      "trigeminal neuralgia"
+    ],
+    "category": "neurological",
+    "red_flags": [
+      "Sudden severe facial pain that does not respond to painkillers",
+      "Weakness or numbness with the pain"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Neuralgia",
+      "https://www.nhs.uk/conditions/trigeminal-neuralgia/"
+    ]
+  },
+  {
+    "name_en": "Rheumatism",
+    "description_en": "Umbrella term for painful conditions of the joints and connective tissue",
+    "synonyms": [
+      "rheumatic disease",
+      "rheumatic disorders",
+      "rheumatic complaints",
+      "joint and muscle aches"
+    ],
+    "category": "musculoskeletal",
+    "red_flags": [
+      "Hot, swollen, painful joint with fever",
+      "Persistent joint pain and stiffness lasting weeks"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Rheumatism",
+      "https://www.nhs.uk/conditions/rheumatoid-arthritis/"
+    ]
+  },
+  {
+    "name_en": "Toothache",
+    "description_en": "Pain in or around a tooth, usually from decay, infection or gum disease",
+    "synonyms": [
+      "tooth pain",
+      "dental pain",
+      "odontalgia",
+      "dentalgia"
+    ],
+    "category": "ear_nose_throat",
+    "red_flags": [
+      "Swelling of face, cheek or jaw",
+      "Fever with tooth pain",
+      "Difficulty breathing or swallowing"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Toothache",
+      "https://www.nhs.uk/conditions/toothache/"
+    ]
+  },
+  {
+    "name_en": "Irritability",
+    "description_en": "Tendency to become easily annoyed, angry or short-tempered",
+    "synonyms": [
+      "irritableness",
+      "short temper",
+      "crankiness",
+      "grumpiness",
+      "touchiness"
+    ],
+    "category": "mental",
+    "red_flags": [
+      "Sudden uncharacteristic irritability with confusion",
+      "Irritability with persistent low mood or thoughts of self-harm"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Irritability",
+      "https://www.nhs.uk/conditions/generalised-anxiety-disorder/"
+    ]
+  },
+  {
+    "name_en": "Debility",
+    "description_en": "General weakness and lack of physical strength or energy",
+    "synonyms": [
+      "weakness",
+      "asthenia",
+      "feebleness",
+      "exhaustion",
+      "fatigue",
+      "lassitude"
+    ],
+    "category": "general",
+    "red_flags": [
+      "Sudden weakness on one side of the body",
+      "Weakness with unexplained weight loss or fever",
+      "Fatigue lasting several weeks"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Weakness",
+      "https://medlineplus.gov/fatigue.html"
+    ]
+  },
+  {
+    "name_en": "Depression",
+    "description_en": "Persistent low mood and loss of interest that disrupts daily life",
+    "synonyms": [
+      "clinical depression",
+      "major depression",
+      "major depressive disorder",
+      "low mood",
+      "melancholia"
+    ],
+    "category": "mental",
+    "red_flags": [
+      "Thoughts of suicide or self-harm",
+      "Low mood lasting more than two weeks"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Major_depressive_disorder",
+      "https://www.nhs.uk/conditions/clinical-depression/"
+    ]
+  },
+  {
+    "name_en": "Flatulence",
+    "description_en": "Passing of gas from the bowel through the anus",
+    "synonyms": [
+      "wind",
+      "gas",
+      "farting",
+      "flatus",
+      "breaking wind",
+      "bloating"
+    ],
+    "category": "digestive",
+    "red_flags": [
+      "Persistent abdominal pain or bloating",
+      "Blood in stool",
+      "Unexplained weight loss"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Flatulence",
+      "https://www.nhs.uk/conditions/flatulence/"
+    ]
+  },
+  {
+    "name_en": "Leucorrhea",
+    "description_en": "Whitish or yellowish vaginal discharge, often from hormonal change or infection",
+    "synonyms": [
+      "leucorrhoea",
+      "leukorrhea",
+      "vaginal discharge",
+      "fluor albus",
+      "the whites"
+    ],
+    "category": "reproductive",
+    "red_flags": [
+      "Foul-smelling, green or frothy discharge",
+      "Itching, soreness or pelvic pain",
+      "Bleeding between periods or after sex"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Leukorrhea",
+      "https://www.nhs.uk/conditions/vaginal-discharge/"
+    ]
+  },
+  {
+    "name_en": "Dyspnea",
+    "description_en": "Uncomfortable feeling of being unable to breathe well enough",
+    "synonyms": [
+      "dyspnoea",
+      "shortness of breath",
+      "breathlessness",
+      "difficulty breathing",
+      "air hunger"
+    ],
+    "category": "respiratory",
+    "red_flags": [
+      "Severe breathing difficulty or inability to speak full sentences",
+      "Blue or grey lips or skin",
+      "Chest pain or sudden confusion"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Shortness_of_breath",
+      "https://www.nhs.uk/conditions/shortness-of-breath/"
+    ]
+  },
+  {
+    "name_en": "Pneumonia",
+    "description_en": "Infection that inflames the lungs' air sacs, causing cough, fever and breathlessness",
+    "synonyms": [
+      "lung infection",
+      "chest infection",
+      "pneumonitis",
+      "bronchopneumonia"
+    ],
+    "category": "respiratory",
+    "red_flags": [
+      "Struggling to breathe",
+      "Blue or pale lips or skin",
+      "Coughing up blood or sudden confusion"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Pneumonia",
+      "https://www.nhs.uk/conditions/pneumonia/"
+    ]
+  },
+  {
+    "name_en": "Dysentery",
+    "description_en": "Intestinal infection causing diarrhoea with blood and mucus",
+    "synonyms": [
+      "bloody diarrhoea",
+      "bloody diarrhea",
+      "bloody flux",
+      "shigellosis",
+      "amoebic dysentery"
+    ],
+    "category": "digestive",
+    "red_flags": [
+      "Bloody diarrhoea",
+      "Signs of dehydration or being unable to keep fluids down",
+      "High fever or severe abdominal pain"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Dysentery",
+      "https://www.nhs.uk/conditions/dysentery/"
+    ]
+  },
+  {
+    "name_en": "Eczema",
+    "description_en": "Inflamed, dry, itchy skin that can crack, weep or crust",
+    "synonyms": [
+      "atopic dermatitis",
+      "atopic eczema",
+      "dermatitis",
+      "dermatitis eczema"
+    ],
+    "category": "skin",
+    "red_flags": [
+      "Weeping, crusting or pus-filled skin",
+      "Painful, swollen or hot skin",
+      "Fever or feeling generally unwell"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Dermatitis",
+      "https://www.nhs.uk/conditions/atopic-eczema/"
+    ]
+  },
+  {
+    "name_en": "Hemorrhoids",
+    "description_en": "Swollen veins in or around the anus causing itching, discomfort or bleeding",
+    "synonyms": [
+      "haemorrhoids",
+      "piles",
+      "hemorrhoidal disease"
+    ],
+    "category": "digestive",
+    "red_flags": [
+      "Heavy or non-stop bleeding",
+      "Severe pain",
+      "Painless rectal bleeding that is new or persistent"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Hemorrhoid",
+      "https://www.nhs.uk/conditions/piles-haemorrhoids/"
+    ]
+  },
+  {
+    "name_en": "Whooping Cough",
+    "description_en": "Contagious bacterial infection causing severe coughing fits with a gasping whoop",
+    "synonyms": [
+      "pertussis",
+      "whooping-cough",
+      "100-day cough"
+    ],
+    "category": "respiratory",
+    "red_flags": [
+      "Baby under 6 months with symptoms",
+      "Blue or grey lips or face",
+      "Very difficult or shallow breathing"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Whooping_cough",
+      "https://www.nhs.uk/conditions/whooping-cough/"
+    ]
+  },
+  {
+    "name_en": "Epilepsy",
+    "description_en": "Brain disorder causing repeated unprovoked seizures",
+    "synonyms": [
+      "seizure disorder",
+      "fits",
+      "convulsive disorder",
+      "epileptic seizures"
+    ],
+    "category": "neurological",
+    "red_flags": [
+      "Seizure lasting over 5 minutes",
+      "Repeated seizures without recovery",
+      "First-ever seizure"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Epilepsy",
+      "https://www.nhs.uk/conditions/epilepsy/"
+    ]
+  },
+  {
+    "name_en": "Herpes",
+    "description_en": "Viral infection causing recurring blisters or sores on the mouth or genitals",
+    "synonyms": [
+      "herpes simplex",
+      "cold sores",
+      "fever blisters",
+      "herpes labialis",
+      "genital herpes",
+      "HSV"
+    ],
+    "category": "skin",
+    "red_flags": [
+      "Eye pain or redness with blisters",
+      "Newborn exposed or infected",
+      "Fever with severe headache or confusion"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Herpes_simplex",
+      "https://medlineplus.gov/herpessimplex.html"
+    ]
+  },
+  {
+    "name_en": "Boils",
+    "description_en": "Painful pus-filled lump forming in an infected hair follicle",
+    "synonyms": [
+      "furuncle",
+      "furuncles",
+      "skin abscess",
+      "carbuncle"
+    ],
+    "category": "skin",
+    "red_flags": [
+      "Fever or chills",
+      "Boil on the face or spine, or very large",
+      "Spreading redness or boil lasting over two weeks"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Furuncle",
+      "https://en.wikipedia.org/wiki/Boil",
+      "https://www.nhs.uk/conditions/abscess/"
+    ]
+  },
+  {
+    "name_en": "Croup",
+    "description_en": "Viral infection of the windpipe causing a barking cough and noisy breathing in children",
+    "synonyms": [
+      "laryngotracheobronchitis",
+      "barking cough",
+      "laryngotracheitis",
+      "false croup"
+    ],
+    "category": "respiratory",
+    "red_flags": [
+      "Noisy breathing at rest or struggling to breathe",
+      "Blue, grey or pale lips",
+      "Drooling or unusually sleepy child"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Croup",
+      "https://www.nhs.uk/conditions/croup/"
+    ]
+  },
+  {
+    "name_en": "Hysteria",
+    "description_en": "Historical term for uncontrollable emotion or unexplained physical symptoms, now called functional or conversion disorder",
+    "synonyms": [
+      "conversion disorder",
+      "functional neurological disorder",
+      "hysterical neurosis",
+      "dissociative disorder"
+    ],
+    "category": "mental",
+    "red_flags": [
+      "Sudden weakness, paralysis or loss of speech needing medical evaluation",
+      "Thoughts of self-harm"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Hysteria",
+      "https://en.wikipedia.org/wiki/Conversion_disorder"
+    ]
+  },
+  {
+    "name_en": "Abscess",
+    "description_en": "Collection of pus in body tissue caused by infection",
+    "synonyms": [
+      "pus pocket",
+      "skin abscess",
+      "boil",
+      "furuncle"
+    ],
+    "category": "skin",
+    "red_flags": [
+      "Fever or chills",
+      "Spreading redness, heat or swelling",
+      "Lump that is getting bigger or very painful"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Abscess",
+      "https://www.nhs.uk/conditions/abscess/"
+    ]
+  },
+  {
+    "name_en": "Wounds",
+    "description_en": "Break or damage to the skin or underlying tissue",
+    "synonyms": [
+      "cuts",
+      "lacerations",
+      "injuries",
+      "abrasions",
+      "sores",
+      "scrapes"
+    ],
+    "category": "skin",
+    "red_flags": [
+      "Deep wound or bleeding that will not stop",
+      "Signs of infection such as spreading redness, warmth or pus",
+      "Wound that does not heal"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Wound",
+      "https://medlineplus.gov/woundsandinjuries.html"
+    ]
+  },
+  {
+    "name_en": "Measles",
+    "description_en": "Highly contagious viral illness causing fever, cough and a spreading red rash",
+    "synonyms": [
+      "rubeola",
+      "morbilli",
+      "red measles"
+    ],
+    "category": "immune",
+    "red_flags": [
+      "Difficulty breathing",
+      "Seizure or stiff neck",
+      "Rash that does not fade under pressure, or extreme drowsiness"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Measles",
+      "https://www.nhs.uk/conditions/measles/"
+    ]
+  },
+  {
+    "name_en": "Heartburn",
+    "description_en": "Burning feeling in the chest from stomach acid rising towards the throat",
+    "synonyms": [
+      "acid reflux",
+      "pyrosis",
+      "indigestion",
+      "acid indigestion",
+      "GERD",
+      "GORD"
+    ],
+    "category": "digestive",
+    "red_flags": [
+      "Difficulty or pain when swallowing",
+      "Unexplained weight loss or persistent vomiting",
+      "Black stools or vomiting blood"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Heartburn",
+      "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+    ]
+  },
+  {
+    "name_en": "Sciatica",
+    "description_en": "Pain radiating from the lower back down the leg along the sciatic nerve",
+    "synonyms": [
+      "sciatic neuritis",
+      "sciatic nerve pain",
+      "lumbar radiculopathy",
+      "radicular leg pain"
+    ],
+    "category": "musculoskeletal",
+    "red_flags": [
+      "Loss of bladder or bowel control",
+      "Numbness around the genitals or bottom",
+      "Severe or worsening weakness in both legs"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Sciatica",
+      "https://www.nhs.uk/conditions/sciatica/"
+    ]
+  },
+  {
+    "name_en": "Urticaria",
+    "description_en": "Itchy raised welts on the skin that come and go",
+    "synonyms": [
+      "hives",
+      "nettle rash",
+      "welts",
+      "wheals"
+    ],
+    "category": "skin",
+    "red_flags": [
+      "Swelling of lips, tongue or throat",
+      "Difficulty breathing or throat tightness",
+      "Fainting or sudden dizziness"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Hives",
+      "https://www.nhs.uk/conditions/hives/"
+    ]
+  },
+  {
+    "name_en": "Grief",
+    "description_en": "Emotional reaction to loss, often the death of a loved one",
+    "synonyms": [
+      "bereavement",
+      "mourning",
+      "sorrow",
+      "loss reaction"
+    ],
+    "category": "mental",
+    "red_flags": [
+      "Thoughts of suicide or self-harm",
+      "Intense grief or low mood lasting many months",
+      "Unable to cope with daily life"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Grief",
+      "https://www.nhs.uk/conditions/stress-anxiety-depression/coping-with-bereavement/"
+    ]
+  },
+  {
+    "name_en": "Influenza",
+    "description_en": "Contagious viral respiratory illness with fever, aches, cough and exhaustion",
+    "synonyms": [
+      "flu",
+      "grippe",
+      "seasonal flu"
+    ],
+    "category": "respiratory",
+    "red_flags": [
+      "Severe difficulty breathing",
+      "Chest pain or coughing up blood",
+      "Confusion, or symptoms not improving after 7 days"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Influenza",
+      "https://www.nhs.uk/conditions/flu/"
+    ]
+  },
+  {
+    "name_en": "Burns",
+    "description_en": "Skin or tissue damage caused by heat, chemicals, electricity or radiation",
+    "synonyms": [
+      "scalds",
+      "burn injuries",
+      "thermal injury",
+      "sunburn"
+    ],
+    "category": "skin",
+    "red_flags": [
+      "Large, deep or charred burn",
+      "Burn on face, hands, genitals or airway",
+      "Chemical or electrical burn"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Burn",
+      "https://www.nhs.uk/conditions/burns-and-scalds/"
+    ]
+  },
+  {
+    "name_en": "Cystitis",
+    "description_en": "Bladder inflammation, usually infection, causing painful, frequent urination",
+    "synonyms": [
+      "bladder infection",
+      "urinary tract infection",
+      "UTI",
+      "acute cystitis"
+    ],
+    "category": "urinary",
+    "red_flags": [
+      "Fever, chills or back and flank pain",
+      "Blood in urine",
+      "Confusion, or symptoms not improving within 48 hours"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Cystitis",
+      "https://www.nhs.uk/conditions/cystitis/"
+    ]
+  },
+  {
+    "name_en": "Laryngitis",
+    "description_en": "Inflammation of the voice box causing hoarseness or loss of voice",
+    "synonyms": [
+      "voice box inflammation",
+      "loss of voice",
+      "vocal cord inflammation"
+    ],
+    "category": "ear_nose_throat",
+    "red_flags": [
+      "Trouble breathing or noisy breathing",
+      "Difficulty swallowing",
+      "Hoarseness lasting more than 2-3 weeks"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Laryngitis",
+      "https://www.nhs.uk/conditions/laryngitis/"
+    ]
+  },
+  {
+    "name_en": "Night Sweats",
+    "description_en": "Repeated episodes of heavy sweating during sleep that soak nightclothes or bedding",
+    "synonyms": [
+      "sleep sweats",
+      "nocturnal hyperhidrosis",
+      "nocturnal hyperhydrosis",
+      "nocturnal sweating"
+    ],
+    "category": "general",
+    "red_flags": [
+      "Unexplained weight loss",
+      "High fever, cough or diarrhoea with sweats",
+      "Sweats that are frequent and persistent"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Night_sweats",
+      "https://www.nhs.uk/conditions/symptoms/night-sweats/"
+    ]
+  },
+  {
+    "name_en": "Conjunctivitis",
+    "description_en": "Inflammation of the thin membrane covering the white of the eye and eyelid",
+    "synonyms": [
+      "pink eye",
+      "pinkeye",
+      "red eye",
+      "sore eyes"
+    ],
+    "category": "ear_nose_throat",
+    "red_flags": [
+      "Eye pain or sensitivity to light",
+      "Vision changes",
+      "Newborn with red, sticky eyes"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Conjunctivitis",
+      "https://www.nhs.uk/conditions/conjunctivitis/"
+    ]
+  },
+  {
+    "name_en": "Teething",
+    "description_en": "Process of a baby's first teeth breaking through the gums",
+    "synonyms": [
+      "cutting teeth",
+      "tooth eruption",
+      "dentition",
+      "odontiasis"
+    ],
+    "category": "general",
+    "red_flags": [
+      "Temperature of 38C or higher",
+      "Diarrhoea or symptoms beyond mouth and gums",
+      "Symptoms that persist or worsen"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Teething",
+      "https://www.nhs.uk/conditions/baby/babys-development/teething/baby-teething-symptoms/"
+    ]
+  },
+  {
+    "name_en": "Tonsillitis",
+    "description_en": "Inflammation of the tonsils, usually from infection, causing sore throat",
+    "synonyms": [
+      "sore throat",
+      "tonsil infection",
+      "strep throat",
+      "pharyngotonsillitis",
+      "angina"
+    ],
+    "category": "ear_nose_throat",
+    "red_flags": [
+      "Difficulty swallowing, breathing or opening the mouth",
+      "Severe or rapidly worsening sore throat",
+      "Swelling inside the mouth or throat"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Tonsillitis",
+      "https://www.nhs.uk/conditions/tonsillitis/"
+    ]
+  },
+  {
+    "name_en": "Hoarseness",
+    "description_en": "Raspy, breathy or strained voice from vocal cord irritation",
+    "synonyms": [
+      "hoarse voice",
+      "dysphonia",
+      "raspy voice",
+      "husky voice"
+    ],
+    "category": "ear_nose_throat",
+    "red_flags": [
+      "Lasting more than 3 weeks",
+      "Coughing up blood or lump in the neck",
+      "Difficulty breathing or swallowing"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Hoarse_voice",
+      "https://medlineplus.gov/voicedisorders.html"
+    ]
+  },
+  {
+    "name_en": "Migraine",
+    "description_en": "Recurring throbbing headaches, often one-sided, with nausea and light sensitivity",
+    "synonyms": [
+      "migraine headache",
+      "megrim",
+      "sick headache",
+      "hemicrania"
+    ],
+    "category": "neurological",
+    "red_flags": [
+      "Sudden extremely severe headache",
+      "Weakness, speech or vision problems, or confusion",
+      "Headache with fever and stiff neck"
+    ],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Migraine",
+      "https://www.nhs.uk/conditions/migraine/"
+    ]
+  }
+]

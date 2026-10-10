@@ -1,0 +1,245 @@
+{
+  "medicines": {
+    "Arnica Montana": [
+      "Arnica"
+    ],
+    "Rhus Toxicodendron": [
+      "Rhus Tox",
+      "Rhus-t"
+    ],
+    "Nux Vomica": [
+      "Nux-v",
+      "Nux Vom"
+    ],
+    "Mercurius Solubilis": [
+      "Merc Sol",
+      "Mercurius",
+      "Merc"
+    ],
+    "Argentum Nitricum": [
+      "Arg Nit",
+      "Argent Nit"
+    ],
+    "Antimonium Crudum": [
+      "Ant Crud",
+      "Antim Crud"
+    ],
+    "Thuja Occidentalis": [
+      "Thuja"
+    ],
+    "Pulsatilla": [
+      "Pulsatilla Nigricans",
+      "Puls"
+    ],
+    "Ocimum Sanctum": [
+      "Tulsi",
+      "Holy Basil",
+      "Ocimum Tenuiflorum"
+    ],
+    "Withania Somnifera": [
+      "Ashwagandha"
+    ],
+    "Bacopa Monnieri": [
+      "Brahmi"
+    ],
+    "Nigella Sativa": [
+      "Kalonji",
+      "Black Seed",
+      "Black Cumin"
+    ],
+    "Curcuma Longa": [
+      "Turmeric",
+      "Haldi"
+    ],
+    "Zingiber Officinale": [
+      "Ginger",
+      "Adrak"
+    ],
+    "Matricaria Chamomilla": [
+      "Chamomilla",
+      "Chamomile"
+    ],
+    "Helleborus Niger": [
+      "Helleborus"
+    ],
+    "Chelidonium Majus": [
+      "Chelidonium"
+    ],
+    "Cocculus Indicus": [
+      "Cocculus"
+    ],
+    "Baptisia Tinctoria": [
+      "Baptisia"
+    ],
+    "Barium Carbonicum": [
+      "Baryta Carb",
+      "Baryta Carbonica"
+    ],
+    "Ammonium Carbonicum": [
+      "Ammonium Carb"
+    ],
+    "Rhododendron Chrysanthum": [
+      "Rhododendron"
+    ],
+    "Aconitum Napellus": [
+      "Aconite",
+      "Acon",
+      "Aconitum"
+    ],
+    "Veratrum Album": [
+      "Veratrum",
+      "Verat Alb"
+    ],
+    "Arsenicum Album": [
+      "Arsenicum",
+      "Ars Alb",
+      "Arsenic Album",
+      "Arsenicosum"
+    ],
+    "Calcarea Carbonica": [
+      "Calc Carb",
+      "Calcarea Carb",
+      "Calcarea"
+    ],
+    "Antimonium Tartaricum": [
+      "Tartar Emetic",
+      "Ant Tart"
+    ],
+    "Apis Mellifica": [
+      "Apis"
+    ],
+    "Agaricus Muscarius": [
+      "Agaricus"
+    ],
+    "Coffea Cruda": [
+      "Coffea"
+    ],
+    "Cannabis Sativa": [
+      "Sativa"
+    ],
+    "Hamamelis Virginiana": [
+      "Hamamelis",
+      "Witch Hazel"
+    ],
+    "Sulphur": [
+      "Sulfur",
+      "Sulph"
+    ]
+  },
+  "symptoms": {
+    "Diarrhea": [
+      "Diarrhoea",
+      "Loose Stools",
+      "Loose Motions"
+    ],
+    "Headache": [
+      "Cephalalgia",
+      "Head Pain"
+    ],
+    "Cough": [
+      "Coughing"
+    ],
+    "Cold": [
+      "Common Cold",
+      "Coryza",
+      "Catarrh"
+    ],
+    "Fever": [
+      "Pyrexia"
+    ],
+    "Indigestion": [
+      "Dyspepsia",
+      "Gastric Trouble"
+    ],
+    "Constipation": [
+      "Costiveness"
+    ],
+    "Insomnia": [
+      "Sleeplessness",
+      "Wakefulness"
+    ],
+    "Skin Rash": [
+      "Eruption",
+      "Rash",
+      "Skin Eruptions"
+    ],
+    "Joint Pain": [
+      "Arthralgia"
+    ],
+    "High Blood Pressure": [
+      "Hypertension"
+    ],
+    "Menstrual Cramps": [
+      "Dysmenorrhea",
+      "Dysmenorrhoea",
+      "Period Pain"
+    ],
+    "Sore Throat": [
+      "Pharyngitis"
+    ],
+    "Ear Infection": [
+      "Otitis Media",
+      "Earache",
+      "Otitis"
+    ],
+    "Sinusitis": [
+      "Sinus Infection"
+    ],
+    "Vertigo": [
+      "Dizziness",
+      "Giddiness"
+    ],
+    "Nosebleed": [
+      "Epistaxis"
+    ],
+    "Anxiety": [
+      "Nervousness",
+      "Apprehension"
+    ],
+    "Fatigue": [
+      "Weakness",
+      "Tiredness",
+      "Exhaustion",
+      "Debility",
+      "Lassitude",
+      "Asthenia"
+    ],
+    "Back Pain": [
+      "Lumbago",
+      "Backache"
+    ],
+    "Diabetes Symptoms": [
+      "Diabetes",
+      "Diabetes Mellitus"
+    ],
+    "Nausea": [
+      "Nausea And Vomiting",
+      "Vomiting"
+    ],
+    "Warts": [
+      "Verruca"
+    ],
+    "Jaundice": [
+      "Icterus"
+    ],
+    "Allergies": [
+      "Allergy",
+      "Hay Fever"
+    ],
+    "Stress": [
+      "Mental Strain",
+      "Overwork"
+    ],
+    "Glandular Swelling": [
+      "Swollen Glands",
+      "Lymphadenitis"
+    ],
+    "Bronchitis": [
+      "Chest Cold"
+    ],
+    "Muscle Soreness": [
+      "Myalgia",
+      "Muscle Pain"
+    ]
+  }
+}

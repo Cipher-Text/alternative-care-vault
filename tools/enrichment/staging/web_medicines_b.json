@@ -1,0 +1,590 @@
+[
+  {
+    "name_en": "Graphites",
+    "source_en": "Graphite, a crystalline allotrope of carbon (mineral carbon), triturated for homeopathic use.",
+    "common_names": [
+      "Plumbago",
+      "Black lead",
+      "Graph."
+    ],
+    "category": "Mineral",
+    "keynotes_en": [
+      "Traditionally indicated for eczema with sticky, honey-like oozing and cracked skin.",
+      "Used for fissures of the nipples, anus and toes.",
+      "Described for chilly, stout, constipated constitutions.",
+      "Said to suit delayed or scanty menses."
+    ],
+    "typical_potency_dosage": "6C to 30C (Boericke lists the 6th to 30th potency).",
+    "safety_note": "Graphite dust can irritate eyes, skin and airways and long exposure may cause lung disease; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Graphite",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/graphites"
+    ]
+  },
+  {
+    "name_en": "Petroleum",
+    "source_en": "Crude petroleum (rock oil), a hydrocarbon mixture, potentised from the refined/crude oil.",
+    "common_names": [
+      "Rock oil",
+      "Kerosenum",
+      "Petrol."
+    ],
+    "category": "Chemical",
+    "keynotes_en": [
+      "Traditionally indicated for cracked, rough skin and eczema worse in winter.",
+      "Used for travel and motion sickness, nausea worse in vehicles or ships.",
+      "Described for morning diarrhoea and heartburn.",
+      "Said to suit dry, deep coughs and hoarseness worse in cold air."
+    ],
+    "typical_potency_dosage": "3C to 30C (Boericke lists 3rd to 30th, noting low doses often work better).",
+    "safety_note": "Crude petroleum contains hydrocarbons, some carcinogenic, and is harmful if swallowed or inhaled; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Petroleum",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/petroleum"
+    ]
+  },
+  {
+    "name_en": "Silicea",
+    "source_en": "Pure silica (silicon dioxide, flint/quartz), prepared by trituration to make it soluble.",
+    "common_names": [
+      "Silica",
+      "Silicic acid",
+      "Sil.",
+      "Pure flint"
+    ],
+    "category": "Mineral",
+    "keynotes_en": [
+      "Traditionally indicated for slow-healing suppuration, boils and abscesses.",
+      "Used for chilly, weak, oversensitive constitutions with poor nutrition.",
+      "Described for brittle nails and slow-growing tissue.",
+      "Said to help expel foreign bodies and soften scar tissue."
+    ],
+    "typical_potency_dosage": "6C to 30C; higher (200C) cited in some sources (Boericke gives ~6x to 30x).",
+    "safety_note": "Inhaled crystalline silica dust causes silicosis and lung disease, but this concerns industrial exposure, not dilutions; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Silicon_dioxide",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/silicea-terra"
+    ]
+  },
+  {
+    "name_en": "Drosera",
+    "source_en": "Sundew, Drosera rotundifolia (family Droseraceae), whole fresh plant.",
+    "common_names": [
+      "Sundew",
+      "Round-leaved sundew",
+      "Dros."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for spasmodic, dry, barking coughs resembling whooping cough.",
+      "Used for coughing fits with vomiting, worse after midnight.",
+      "Described for hoarseness and a scraping throat.",
+      "Said to suit cough worse when lying down or after laughing or talking."
+    ],
+    "typical_potency_dosage": "1x to 12x tincture/dilution per Boericke; 30C in common practice.",
+    "safety_note": "No well-documented acute toxicity in the sources I read; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Drosera_rotundifolia",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/drosera-rotundifolia"
+    ]
+  },
+  {
+    "name_en": "Euphrasia",
+    "source_en": "Eyebright, Euphrasia officinalis (Euphrasia genus, family Orobanchaceae; formerly Scrophulariaceae), whole plant.",
+    "common_names": [
+      "Eyebright",
+      "Euphr."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for profuse, burning, watery eye discharge with a bland nasal discharge.",
+      "Used for red, irritated eyes worse in light and wind.",
+      "Described for early measles or colds with marked eye symptoms.",
+      "Said to suit conjunctival irritation after exposure."
+    ],
+    "typical_potency_dosage": "3C to 6C (Boericke lists 3rd to 6th); tincture also used for eyewash historically.",
+    "safety_note": "Efficacy of eyebright eye preparations is undocumented per the EMA; non-sterile eyewashes may cause infection; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Euphrasia",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/euphrasia-officinalis"
+    ]
+  },
+  {
+    "name_en": "Ledum",
+    "source_en": "Marsh Labrador tea, Rhododendron tomentosum (syn. Ledum palustre; family Ericaceae), plant.",
+    "common_names": [
+      "Marsh tea",
+      "Wild rosemary",
+      "Led.",
+      "Ledum palustre"
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for puncture wounds and insect bites, cold to touch and relieved by cold.",
+      "Used for rheumatic pains ascending from feet, better from cold applications.",
+      "Described for black eyes and bruising.",
+      "Said to suit poison-ivy-like eruptions."
+    ],
+    "typical_potency_dosage": "3C to 30C (Boericke lists 3rd to 30th); 30C or 200C for injuries.",
+    "safety_note": "Plant terpenes (ledol, grayanotoxins) can cause dizziness, spasms, nausea and unconsciousness in overdose; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Rhododendron_tomentosum",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/ledum-palustre"
+    ]
+  },
+  {
+    "name_en": "Podophyllum",
+    "source_en": "Mayapple, Podophyllum peltatum (family Berberidaceae), rhizome/root.",
+    "common_names": [
+      "Mayapple",
+      "American mandrake",
+      "Podo."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for profuse, gushing, offensive morning diarrhoea.",
+      "Used for liver and gallbladder complaints with rumbling of the abdomen.",
+      "Described for diarrhoea during teething in children.",
+      "Said to suit prolapse of rectum or uterus with straining."
+    ],
+    "typical_potency_dosage": null,
+    "safety_note": "All parts of the plant are poisonous; podophyllin is a strong purgative and podophyllotoxin is toxic; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Podophyllum_peltatum",
+      "https://en.wikipedia.org/wiki/Homeopathy"
+    ]
+  },
+  {
+    "name_en": "Phytolacca",
+    "source_en": "Pokeroot, Phytolacca americana/decandra (family Phytolaccaceae), fresh root.",
+    "common_names": [
+      "Poke root",
+      "Pokeweed",
+      "Phyt."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for sore throat with dark red tonsils and pain radiating to the ears.",
+      "Used for hard, painful, swollen glands and mastitis.",
+      "Described for rheumatic and shooting bone pains worse in damp weather.",
+      "Said to suit breast pain when nursing."
+    ],
+    "typical_potency_dosage": "Mother tincture to 3x per Boericke; 30C commonly cited elsewhere.",
+    "safety_note": "Poke is toxic in all parts, especially root and unripe berries; mother tincture can be hazardous; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Phytolacca_americana",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/phytolacca-decandra"
+    ]
+  },
+  {
+    "name_en": "Sabadilla",
+    "source_en": "Seeds of Schoenocaulon officinale (family Melanthiaceae), also called cevadilla (not confirmed on source page).",
+    "common_names": [
+      "Cevadilla",
+      "Sabad."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for hay-fever-like sneezing with watery nose and eyes.",
+      "Used for sore throat with a lump sensation, better from warm drinks.",
+      "Described for chilly, easily startled people with imaginary-illness ideas.",
+      "Said to suit worm complaints with reflex symptoms."
+    ],
+    "typical_potency_dosage": "3C to 30C (Boericke lists 3rd to 30th).",
+    "safety_note": "Seeds are highly toxic (veratridine, cevadine alkaloids) and used as insecticide; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Schoenocaulon_officinale",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/sabadilla"
+    ]
+  },
+  {
+    "name_en": "Staphisagria",
+    "source_en": "Seeds of stavesacre, Delphinium staphisagria (family Ranunculaceae).",
+    "common_names": [
+      "Stavesacre",
+      "Lice-bane",
+      "Staph."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for suppressed anger, indignation and humiliation.",
+      "Used for cystitis-like urinary irritation, including after intimacy ('honeymoon cystitis').",
+      "Described for itchy eczema with crusts and styes.",
+      "Said to suit pain and wounds after surgery or clean cuts."
+    ],
+    "typical_potency_dosage": "6C to 30C; Boericke lists 3rd to 30th.",
+    "safety_note": "All parts are highly toxic; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Delphinium_staphisagria",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/staphysagria"
+    ]
+  },
+  {
+    "name_en": "Valeriana",
+    "source_en": "Valerian root, Valeriana officinalis (family Caprifoliaceae, formerly Valerianaceae).",
+    "common_names": [
+      "Valerian",
+      "Garden heliotrope",
+      "Val."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for nervous excitability, sleeplessness and hysteria-type states.",
+      "Used for oversensitivity to pain and noise.",
+      "Described for cramping pains in the legs at night.",
+      "Said to suit restless states in sensitive women and children."
+    ],
+    "typical_potency_dosage": null,
+    "safety_note": "Valerian is a CNS depressant, avoid with alcohol or sedatives; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this. Herbal valerian (not homeopathic) has mixed evidence for sleep, with EMA recognizing it for mild nervous tension.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Valeriana_officinalis",
+      "https://en.wikipedia.org/wiki/Homeopathy"
+    ]
+  },
+  {
+    "name_en": "Croton Tiglium",
+    "source_en": "Seed oil of Croton tiglium (family Euphorbiaceae), purging croton.",
+    "common_names": [
+      "Croton oil",
+      "Purging croton",
+      "Crot-t."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for sudden, yellow, gushing diarrhoea after eating or drinking.",
+      "Used for intensely itchy, vesicular eczema, especially on genitals, worse on touch.",
+      "Described for skin eruptions that alternate with diarrhoea.",
+      "Said to suit shooting pains from the nipple to the back when nursing."
+    ],
+    "typical_potency_dosage": null,
+    "safety_note": "Seeds are highly toxic and a severe purgative; croton oil is a skin irritant and co-carcinogen; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Croton_tiglium",
+      "https://en.wikipedia.org/wiki/Homeopathy"
+    ]
+  },
+  {
+    "name_en": "Nux Moschata",
+    "source_en": "Seed of nutmeg, Myristica fragrans (family Myristicaceae).",
+    "common_names": [
+      "Nutmeg",
+      "Nux-m."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for drowsiness, fainting and a dreamy, dazed state.",
+      "Used for extreme dryness of mouth with no thirst.",
+      "Described for bloating and gas after eating.",
+      "Said to suit changeable moods, laughing and crying."
+    ],
+    "typical_potency_dosage": "1C to 6C per Boericke (1st to 6th); 30C elsewhere.",
+    "safety_note": "Large nutmeg doses cause delirium, palpitations, convulsions and psychosis; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Nutmeg",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/nux-moschata"
+    ]
+  },
+  {
+    "name_en": "Hippocastanum",
+    "source_en": "Seed (horse chestnut) of Aesculus hippocastanum (family Sapindaceae).",
+    "common_names": [
+      "Horse chestnut",
+      "Aesculus",
+      "Aesc."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for painful, purplish haemorrhoids with a sensation of sticks in the rectum.",
+      "Used for aching low back and sacral pain on walking.",
+      "Described for venous congestion and varicose veins.",
+      "Said to suit dry, burning, raw throat."
+    ],
+    "typical_potency_dosage": "Mother tincture to 3x per Boericke; 6C to 30C common.",
+    "safety_note": "Raw seeds are toxic (aesculin, saponins); tincture can be hazardous; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this. Standardised horse chestnut seed extract (not homeopathy) showed short-term benefit in chronic venous insufficiency in a 2012 Cochrane review of low-quality trials.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Aesculus_hippocastanum",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/aesculus-hippocastanum"
+    ]
+  },
+  {
+    "name_en": "Agnus Castus",
+    "source_en": "Berries of chaste tree, Vitex agnus-castus (family Lamiaceae).",
+    "common_names": [
+      "Chaste tree",
+      "Chasteberry",
+      "Agn."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for low sexual desire and impotence with a sense of melancholy.",
+      "Used for scanty milk in nursing mothers.",
+      "Described for premature ageing of the sexual functions.",
+      "Said to suit irregular menses and PMS complaints."
+    ],
+    "typical_potency_dosage": null,
+    "safety_note": "Herbal vitex may cause GI upset and headache and is discouraged in pregnancy and with hormonal or dopamine-related drugs; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this. Herbal chasteberry has little high-quality clinical evidence for PMS.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Vitex_agnus-castus",
+      "https://en.wikipedia.org/wiki/Homeopathy"
+    ]
+  },
+  {
+    "name_en": "Eucalyptus",
+    "source_en": "Leaf (and oil) of Eucalyptus globulus, blue gum (family Myrtaceae).",
+    "common_names": [
+      "Blue gum",
+      "Eucalyptus globulus",
+      "Euc."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for catarrh with profuse thick discharge.",
+      "Used for bronchitis and moist asthma in the elderly.",
+      "Described for sore, ulcerated throat and tonsils.",
+      "Said to suit intermittent fevers and slow digestion."
+    ],
+    "typical_potency_dosage": "Tincture 1 to 20 drops or lower potencies per Boericke; oil 5 drops.",
+    "safety_note": "Eucalyptus oil is toxic if swallowed, particularly in children; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Eucalyptus_globulus",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/eucalyptus-globulus"
+    ]
+  },
+  {
+    "name_en": "Cicuta Virosa",
+    "source_en": "Water hemlock / cowbane, Cicuta virosa (family Apiaceae), root.",
+    "common_names": [
+      "Cowbane",
+      "Water hemlock",
+      "Cic."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for violent convulsions with rigidity and distortion.",
+      "Used for after-effects of head injury with spasms.",
+      "Described for childish behaviour and staring.",
+      "Said to suit eruptions with thick yellow crusts on the face."
+    ],
+    "typical_potency_dosage": null,
+    "safety_note": "Cicutoxin makes the plant among the most toxic, often fatal in small amounts; mother tincture and low potencies are dangerous; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Cicuta_virosa",
+      "https://en.wikipedia.org/wiki/Homeopathy"
+    ]
+  },
+  {
+    "name_en": "Grindelia",
+    "source_en": "Gumweed, Grindelia robusta/squarrosa (family Asteraceae).",
+    "common_names": [
+      "Gumweed",
+      "Grind."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for asthma with difficulty breathing on lying down or falling asleep.",
+      "Used for thick, tenacious mucus hard to expectorate.",
+      "Described for poison-oak-type skin reactions and blisters.",
+      "Said to suit pain in the spleen region."
+    ],
+    "typical_potency_dosage": "Tincture 1 to 15 drops or lower potencies per Boericke.",
+    "safety_note": "Gumweed resin can irritate; avoid mother tincture without guidance; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Grindelia",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/grindelia-robusta"
+    ]
+  },
+  {
+    "name_en": "Urtica Urens",
+    "source_en": "Small stinging nettle, Urtica urens (family Urticaceae).",
+    "common_names": [
+      "Dwarf nettle",
+      "Annual nettle",
+      "Urt-u."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for burning, stinging hives and nettle rash.",
+      "Used for gouty and uric-acid complaints.",
+      "Described for minor burns and scalds.",
+      "Said to suit low milk supply in nursing mothers."
+    ],
+    "typical_potency_dosage": "Tincture or low potencies per Boericke; 30C elsewhere.",
+    "safety_note": "Fresh plant causes stinging skin irritation; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Urtica_urens",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/urtica-urens"
+    ]
+  },
+  {
+    "name_en": "Viola Tricolor",
+    "source_en": "Wild pansy, Viola tricolor (family Violaceae).",
+    "common_names": [
+      "Heartsease",
+      "Wild pansy",
+      "Viol-t."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for milk crust and eczema of the scalp and face in children.",
+      "Used for impetigo with thick, cracking crusts.",
+      "Described for strong-smelling urine like cat urine.",
+      "Said to suit skin complaints worse in winter."
+    ],
+    "typical_potency_dosage": "Low potencies (Boericke).",
+    "safety_note": "Low toxicity; seeds/roots are an emetic and laxative; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Viola_tricolor",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/viola-tricolor"
+    ]
+  },
+  {
+    "name_en": "Symphytum",
+    "source_en": "Comfrey, Symphytum officinale (family Boraginaceae), root.",
+    "common_names": [
+      "Comfrey",
+      "Knitbone",
+      "Symph."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for fractures slow to heal.",
+      "Used for pain at the fracture site and periosteum.",
+      "Described for blunt injuries to the eyeball.",
+      "Said to suit irritable stumps after amputation."
+    ],
+    "typical_potency_dosage": "Tincture per Boericke; 6C to 30C common.",
+    "safety_note": "Comfrey contains hepatotoxic pyrrolizidine alkaloids; FDA banned internal-use products; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Comfrey",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/symphytum-officinale"
+    ]
+  },
+  {
+    "name_en": "Agaricus Muscarius",
+    "source_en": "Fly agaric mushroom, Amanita muscaria (family Amanitaceae).",
+    "common_names": [
+      "Fly agaric",
+      "Fly amanita",
+      "Agar."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for twitching, tremors and chorea-like jerking.",
+      "Used for burning-itching chilblains worse in cold.",
+      "Described for sensitivity of the spine and trembling.",
+      "Said to suit people sensitive to cold and open air."
+    ],
+    "typical_potency_dosage": null,
+    "safety_note": "Contains muscimol and ibotenic acid, causing delirium and hallucinations; fatalities rare; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Amanita_muscaria",
+      "https://en.wikipedia.org/wiki/Homeopathy"
+    ]
+  },
+  {
+    "name_en": "Magnesia Carbonica",
+    "source_en": "Magnesium carbonate (MgCO3, mineral magnesite).",
+    "common_names": [
+      "Magnesium carbonate",
+      "Mag-c."
+    ],
+    "category": "Mineral",
+    "keynotes_en": [
+      "Traditionally indicated for sour smell and sour stools in infants.",
+      "Used for toothache and neuralgia in tired, worn women.",
+      "Described for sleeplessness with unrefreshing sleep.",
+      "Said to suit facial pains worse at night."
+    ],
+    "typical_potency_dosage": null,
+    "safety_note": "Low toxicity; may be a laxative in large amounts. Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Magnesium_carbonate",
+      "https://en.wikipedia.org/wiki/Homeopathy"
+    ]
+  },
+  {
+    "name_en": "Carbo Animalis",
+    "source_en": "Animal charcoal, charred animal material (bone-char type, with calcium phosphate and carbon).",
+    "common_names": [
+      "Animal charcoal",
+      "Bone char",
+      "Carb-an."
+    ],
+    "category": "Animal",
+    "keynotes_en": [
+      "Traditionally indicated for indurated, hardened glands.",
+      "Used for venous stagnation and bluish skin.",
+      "Described for old, foul, spongy ulcers.",
+      "Said to suit debility after exhausting illness."
+    ],
+    "typical_potency_dosage": "3C to 30C (Boericke lists 3rd to 30th).",
+    "safety_note": "Low toxicity; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Bone_char",
+      "https://en.wikipedia.org/wiki/Homeopathy",
+      "https://www.materiamedica.info/en/materia-medica/william-boericke/carbo-animalis"
+    ]
+  },
+  {
+    "name_en": "Sarsaparilla",
+    "source_en": "Root of Smilax species (e.g. Smilax ornata), sarsaparilla (family Smilacaceae).",
+    "common_names": [
+      "Smilax",
+      "Sarsa."
+    ],
+    "category": "Plant",
+    "keynotes_en": [
+      "Traditionally indicated for severe pain at the end of urination, with gravel.",
+      "Used for dry, cracked skin and eruptions on the face.",
+      "Described for burning urine in children who scream.",
+      "Said to suit eruptions that are worse in spring."
+    ],
+    "typical_potency_dosage": null,
+    "safety_note": "Low toxicity at usual doses; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+    "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Sarsaparilla",
+      "https://en.wikipedia.org/wiki/Homeopathy"
+    ]
+  }
+]

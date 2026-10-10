@@ -1,0 +1,582 @@
+[
+ {
+  "name_en": "Sulphur",
+  "source_en": "Elemental sulfur, a yellow nonmetallic mineral element (symbol S), prepared by trituration/dilution.",
+  "common_names": [
+   "Sulph",
+   "Sulfur",
+   "Flowers of sulphur"
+  ],
+  "category": "Mineral",
+  "keynotes_en": [
+   "Classically used for chronic itchy, burning skin complaints that worsen with heat and washing.",
+   "Traditionally linked to burning sensations and aversion to standing, with a 'ragged philosopher' constitutional picture.",
+   "Early-morning diarrhea that drives the patient out of bed is a classical keynote."
+  ],
+  "typical_potency_dosage": "30C or 200C, a few pellets, repeated sparingly (cited in common materia medica sources)",
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Sulfur"
+  ]
+ },
+ {
+  "name_en": "Sepia",
+  "source_en": "Dried ink of the common cuttlefish (Sepia officinalis, Mollusca: Cephalopoda), triturated.",
+  "common_names": [
+   "Sep",
+   "Cuttlefish ink"
+  ],
+  "category": "Animal",
+  "keynotes_en": [
+   "Traditionally indicated for hormonal-type complaints in women with indifference toward family and a dragging-down sensation in the pelvis.",
+   "Used classically for tiredness with irritability, relieved by vigorous exercise.",
+   "Brown facial pigmentation ('saddle' across the nose) and menstrual irregularities are classical keynotes."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets, repeated as needed",
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Cuttlefish"
+  ]
+ },
+ {
+  "name_en": "Ipecacuanha",
+  "source_en": "Dried root of Carapichea ipecacuanha (Rubiaceae), native to Central and South America; contains emetine and cephaeline.",
+  "common_names": [
+   "Ipecac",
+   "Ipec",
+   "Ipecacuanha root"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for persistent nausea not relieved by vomiting, with a clean tongue.",
+   "Traditionally given for wheezing, rattling chest coughs with gagging.",
+   "Cited for bright-red bleeding accompanied by nausea."
+  ],
+  "typical_potency_dosage": "30C, 3-5 pellets as needed",
+  "safety_note": "Crude ipecac root is a strong emetic (emetine) and syrup of ipecac is no longer recommended medically; Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Carapichea_ipecacuanha"
+  ]
+ },
+ {
+  "name_en": "Causticum",
+  "source_en": "Hahnemann's own preparation, said to be a distillate of freshly slaked lime (calcium hydroxide) with potassium bisulfate; a chemical remedy.",
+  "common_names": [
+   "Caust",
+   "Hahnemann's Causticum"
+  ],
+  "category": "Chemical",
+  "keynotes_en": [
+   "Classically indicated for hoarseness and rawness of the chest, worse in dry cold weather.",
+   "Traditionally used for slowly progressive weakness or paralysis of single parts, such as facial muscles.",
+   "Cited for burns and old burn effects, and for involuntary urine leakage on coughing."
+  ],
+  "typical_potency_dosage": "30C or 200C, a few pellets, repeated sparingly",
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy"
+  ]
+ },
+ {
+  "name_en": "Cantharis",
+  "source_en": "Spanish fly, the blister beetle Lytta vesicatoria (Coleoptera: Meloidae), which produces cantharidin.",
+  "common_names": [
+   "Canth",
+   "Spanish fly",
+   "Lytta vesicatoria"
+  ],
+  "category": "Animal",
+  "keynotes_en": [
+   "Classically used for burning, cutting pain in the bladder with constant urge to urinate.",
+   "Traditionally indicated for burns and scalds with blistering and intense burning pain.",
+   "Cited for burning, raw sensations in mucous membranes."
+  ],
+  "typical_potency_dosage": "30C, 3-5 pellets as needed; 6C-12C also cited",
+  "safety_note": "Cantharidin is highly toxic: lethal doses are reported around tens of milligrams, with severe gastrointestinal, urinary tract and kidney damage and strong skin blistering. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Cantharidin"
+  ]
+ },
+ {
+  "name_en": "Hepar Sulphuris",
+  "source_en": "Hahnemann's calcium sulfide ('hepar sulphuris calcareum'), historically prepared by heating oyster-shell lime with sulfur; a chemical remedy.",
+  "common_names": [
+   "Hepar sulph",
+   "Hep-s",
+   "Hepar sulphuris calcareum",
+   "Calcium sulfide"
+  ],
+  "category": "Chemical",
+  "keynotes_en": [
+   "Classically used for infections with pus formation and sharp splinter-like pains.",
+   "Traditionally indicated for extreme sensitivity to cold air and touch, with irritability.",
+   "Cited for croupy, rattling coughs that are worse in cold dry air."
+  ],
+  "typical_potency_dosage": "6C to 30C, 3-5 pellets; low potencies cited for suppuration, high for abscess prevention",
+  "safety_note": "Calcium sulfide releases toxic hydrogen sulfide with acids or moisture. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Calcium_sulfide"
+  ]
+ },
+ {
+  "name_en": "Magnesia Phosphorica",
+  "source_en": "Magnesium phosphate, a mineral salt (Mg3(PO4)2 and related forms).",
+  "common_names": [
+   "Mag phos",
+   "Mag-p",
+   "Magnesium phosphate"
+  ],
+  "category": "Mineral",
+  "keynotes_en": [
+   "Classically known as the 'antispasmodic' remedy for cramping pains relieved by warmth and pressure.",
+   "Traditionally used for neuralgic, shooting pains that are better for heat and worse for cold.",
+   "Cited for menstrual and colicky cramps, often taken in warm water."
+  ],
+  "typical_potency_dosage": "6X tissue-salt dose, 4 tablets in hot water, repeated frequently (often cited); 30C also used",
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Magnesium_phosphate"
+  ]
+ },
+ {
+  "name_en": "Aconitum Napellus",
+  "source_en": "Whole fresh plant of Aconitum napellus (monkshood, Ranunculaceae), a highly poisonous European perennial containing aconitine.",
+  "common_names": [
+   "Acon",
+   "Aconite",
+   "Monkshood",
+   "Wolfsbane"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used at the very onset of sudden illness after cold dry wind exposure, with fever and restlessness.",
+   "Traditionally indicated for acute fear, anxiety and panic with a sense of impending doom.",
+   "Cited for sudden croup-like barking coughs and sudden, violent first-stage fevers."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets, repeated every 1-2 hours for a short time",
+  "safety_note": "Aconitine is a potent neurotoxin and cardiotoxin; ingestion of the plant can cause fatal arrhythmias and respiratory paralysis within hours, and skin contact can be harmful. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Aconitum_napellus"
+  ]
+ },
+ {
+  "name_en": "Arsenicum Album",
+  "source_en": "Arsenic trioxide (white arsenic, As2O3), a chemical compound of arsenic.",
+  "common_names": [
+   "Ars",
+   "Ars-a",
+   "Arsenic trioxide",
+   "White arsenic"
+  ],
+  "category": "Chemical",
+  "keynotes_en": [
+   "Classically used for burning pains relieved by warmth, with great restlessness and anxiety.",
+   "Traditionally indicated for food poisoning with vomiting and diarrhea, thirst for small sips and prostration.",
+   "Cited for anxious fastidiousness and fear of being alone, and for watery burning nasal discharge."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets as needed; low potencies cited for acute complaints",
+  "safety_note": "Arsenic trioxide is toxic and carcinogenic: about 100 mg ingested can be fatal, and chronic exposure causes skin cancer. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Arsenic_trioxide"
+  ]
+ },
+ {
+  "name_en": "Apis Mellifica",
+  "source_en": "Venom or whole bodies of the Western honey bee (Apis mellifera, Hymenoptera: Apidae).",
+  "common_names": [
+   "Apis",
+   "Apis mel",
+   "Honey bee"
+  ],
+  "category": "Animal",
+  "keynotes_en": [
+   "Classically used for stinging, burning swelling that is rosy and puffy and better for cold applications.",
+   "Traditionally indicated for swelling like insect-sting reactions, with absence of thirst.",
+   "Cited for edema of eyelids, throat or skin that worsens with heat."
+  ],
+  "typical_potency_dosage": "30C, 3-5 pellets as needed; 6C also cited",
+  "safety_note": "Bee venom can trigger severe allergic reactions in sensitized people; treat suspected anaphylaxis as an emergency. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Western_honey_bee"
+  ]
+ },
+ {
+  "name_en": "Calcarea Carbonica",
+  "source_en": "Calcium carbonate prepared from the middle layer of oyster shell (Ostrea edulis); a mineral/animal-derived chemical.",
+  "common_names": [
+   "Calc",
+   "Calc carb",
+   "Calcarea carb",
+   "Oyster shell calcium"
+  ],
+  "category": "Chemical",
+  "keynotes_en": [
+   "Classically used for chilly, easily tired, overweight constitutions with cold damp feet and sweaty head.",
+   "Traditionally indicated for slow dentition and delayed development in children.",
+   "Cited for fearfulness when overworked and for craving for eggs or indigestible things."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets, infrequently repeated",
+  "safety_note": "Calcium carbonate is low in acute toxicity (rat oral LD50 about 6.5 g/kg), though excess calcium can cause hypercalcemia. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Calcium_carbonate"
+  ]
+ },
+ {
+  "name_en": "Ferrum Phosphoricum",
+  "source_en": "Iron phosphate (ferrous/ferric phosphate), a mineral salt; one of the twelve Schuessler tissue salts.",
+  "common_names": [
+   "Ferr phos",
+   "Ferrum phos",
+   "Ferr-p",
+   "Iron phosphate"
+  ],
+  "category": "Mineral",
+  "keynotes_en": [
+   "Classically used at the first stage of fevers and colds before clear symptoms develop.",
+   "Traditionally indicated for early inflammatory complaints with flushed face and moderate fever.",
+   "Cited for nosebleeds and mild, early earaches."
+  ],
+  "typical_potency_dosage": "6X tissue-salt dose, 4 tablets repeated every 30-60 minutes in acute stages; 12X or 30C also used",
+  "safety_note": "Iron phosphate is a skin, eye and respiratory irritant in bulk powder; iron salts are hazardous to children in large amounts. Homeopathic dilutions are ultra-dilute, but low-potency tissue-salt doses contain measurable material.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Iron(II)_phosphate"
+  ]
+ },
+ {
+  "name_en": "Gelsemium",
+  "source_en": "Root of Gelsemium sempervirens (yellow jessamine, Gelsemiaceae), a toxic southeastern North American vine containing gelsemine.",
+  "common_names": [
+   "Gels",
+   "Yellow jasmine",
+   "Carolina jessamine"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for influenza-like illness with heaviness, drooping eyelids and trembling weakness.",
+   "Traditionally indicated for anticipatory anxiety and stage fright, with diarrhea before an event.",
+   "Cited for dull, heavy headaches starting at the back of the head, with absence of thirst."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets as needed",
+  "safety_note": "All parts of the plant contain strychnine-related alkaloids (gelsemine) and are poisonous. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Gelsemium_sempervirens"
+  ]
+ },
+ {
+  "name_en": "Colocynthis",
+  "source_en": "Fruit pulp of Citrullus colocynthis (bitter apple, Cucurbitaceae), a desert vine containing cucurbitacins.",
+  "common_names": [
+   "Coloc",
+   "Bitter apple",
+   "Bitter cucumber"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for violent cramping, colicky abdominal pain relieved by bending double and hard pressure.",
+   "Traditionally indicated for neuralgias, such as sciatica, that are better for warmth and pressure.",
+   "Cited for complaints after anger or indignation."
+  ],
+  "typical_potency_dosage": "30C, 3-5 pellets, repeated during pain",
+  "safety_note": "The plant contains cytotoxic cucurbitacins and is considered unsafe as an herbal medicine; it is a strong purgative. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Citrullus_colocynthis"
+  ]
+ },
+ {
+  "name_en": "Veratrum Album",
+  "source_en": "Root of Veratrum album (white hellebore, Melanthiaceae), a poisonous European mountain plant containing steroidal alkaloids.",
+  "common_names": [
+   "Verat",
+   "Verat alb",
+   "White hellebore"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for violent vomiting and watery diarrhea with cold sweat and collapse.",
+   "Traditionally indicated for cold, bluish, prostrate states with cold sweat on the forehead.",
+   "Cited for ravenous appetite and craving for cold drinks and juicy fruits."
+  ],
+  "typical_potency_dosage": "30C, 3-5 pellets as needed",
+  "safety_note": "All parts are poisonous; ingestion causes vomiting, slow heart rate and low blood pressure within hours. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Veratrum_album"
+  ]
+ },
+ {
+  "name_en": "Coffea Cruda",
+  "source_en": "Raw, unroasted seeds of Coffea arabica (Rubiaceae); contain caffeine and chlorogenic acids.",
+  "common_names": [
+   "Coff",
+   "Coffea",
+   "Raw coffee",
+   "Green coffee"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for sleeplessness from an overactive, racing mind.",
+   "Traditionally indicated for extreme sensitivity to pain, noise and touch.",
+   "Cited for excitement from good news and sleeplessness from joy."
+  ],
+  "typical_potency_dosage": "30C, 3-5 pellets, taken at bedtime or as needed",
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Coffea_arabica"
+  ]
+ },
+ {
+  "name_en": "Digitalis",
+  "source_en": "Leaves of Digitalis purpurea (foxglove, Plantaginaceae), a source of cardiac glycosides (digitoxin, digoxin).",
+  "common_names": [
+   "Dig",
+   "Foxglove",
+   "Digitalis purpurea"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for slow, irregular pulse with a sensation that the heart will stop on moving.",
+   "Traditionally indicated for liver and jaundice complaints with pale stools.",
+   "Cited for weakness with a sinking feeling in the chest."
+  ],
+  "typical_potency_dosage": "6C to 30C, a few pellets, repeated sparingly (low potencies historically cited)",
+  "safety_note": "The crude plant is poisonous and can cause arrhythmias and cardiac arrest; the glycosides have a narrow therapeutic window. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous. Cardiac symptoms need conventional medical care.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Digitalis_purpurea"
+  ]
+ },
+ {
+  "name_en": "Ignatia",
+  "source_en": "Seeds (St Ignatius beans) of Strychnos ignatii (Loganiaceae); contain strychnine and brucine.",
+  "common_names": [
+   "Ign",
+   "Ignatia amara",
+   "St Ignatius bean"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for acute grief and emotional shock, with sighing and sudden mood swings.",
+   "Traditionally indicated for a lump-in-the-throat sensation relieved by swallowing.",
+   "Cited for paradoxical symptoms, such as throat pain better when swallowing solids."
+  ],
+  "typical_potency_dosage": "30C, 3-5 pellets as needed; 200C for deeper grief",
+  "safety_note": "The seeds contain strychnine and brucine and are highly toxic in crude form. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Strychnos_ignatii"
+  ]
+ },
+ {
+  "name_en": "Lycopodium",
+  "source_en": "Spores of Lycopodium clavatum (common clubmoss, Lycopodiaceae); the spores are highly combustible.",
+  "common_names": [
+   "Lyc",
+   "Club moss",
+   "Wolf's claw",
+   "Lycopodium clavatum"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for digestive complaints with bloating that is worse in the late afternoon (4-8 pm) and right-sided complaints.",
+   "Traditionally indicated for a person with insecure inner confidence who may show bluster.",
+   "Cited for early satiety, craving for sweets and right-to-left spreading symptoms."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets, infrequently repeated",
+  "safety_note": "Dense spore clouds are an explosion hazard; no notable toxicity is documented for ordinary use. Homeopathic dilutions are ultra-dilute.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Lycopodium_clavatum"
+  ]
+ },
+ {
+  "name_en": "Phosphorus",
+  "source_en": "Elemental phosphorus (symbol P), prepared as a trituration or alcoholic solution from the highly reactive white allotrope.",
+  "common_names": [
+   "Phos",
+   "Phosphorus"
+  ],
+  "category": "Mineral",
+  "keynotes_en": [
+   "Classically used for tall, sensitive, sympathetic types with burning pains and tendency to bleed.",
+   "Traditionally indicated for chest complaints with a tight, burning cough worse lying on the left side.",
+   "Cited for craving for cold drinks that are vomited when warm in the stomach."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets as needed",
+  "safety_note": "White phosphorus is highly toxic and pyrophoric, causing severe liver damage and, historically, jaw necrosis in match workers. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Phosphorus"
+  ]
+ },
+ {
+  "name_en": "Stramonium",
+  "source_en": "Whole fresh plant of Datura stramonium (thorn apple, jimsonweed, Solanaceae), which contains atropine, hyoscyamine and scopolamine.",
+  "common_names": [
+   "Stram",
+   "Datura",
+   "Thornapple",
+   "Jimsonweed"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for terror, night terrors and violent delirium with fear of darkness.",
+   "Traditionally indicated for fear of being alone and a need for light and company.",
+   "Cited for stuttering, spasms and sudden violent behavior in fevers."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets as needed",
+  "safety_note": "All parts contain tropane alkaloids that cause delirium, hyperthermia and a risk of fatal overdose. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Datura_stramonium"
+  ]
+ },
+ {
+  "name_en": "Aloe",
+  "source_en": "Dried juice (latex) of Aloe species, usually Aloe socotrina or Aloe vera (Asphodelaceae); contains anthraquinones such as aloin.",
+  "common_names": [
+   "Aloe socotrina",
+   "Aloe soc",
+   "Aloe vera"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for diarrhea with a lack of confidence in the rectum and sudden urgency.",
+   "Traditionally indicated for hemorrhoids that hang like a bunch of grapes and are relieved by cold water.",
+   "Cited for flatulence in which stool is passed unintentionally."
+  ],
+  "typical_potency_dosage": "30C, 3-5 pellets as needed; 6C also cited",
+  "safety_note": "The latex is a stimulant laxative; oral aloe can cause cramps, diarrhea and hepatitis, and should not be used in pregnancy. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Aloe_vera"
+  ]
+ },
+ {
+  "name_en": "Capsicum",
+  "source_en": "Fruit of Capsicum annuum (cayenne/red pepper, Solanaceae), which contains capsaicin.",
+  "common_names": [
+   "Caps",
+   "Cayenne",
+   "Red pepper"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for homesickness with sullenness and a flushed face.",
+   "Traditionally indicated for burning pains with chilliness, including burning in the throat and urinary tract.",
+   "Cited for burning sensations in the throat and mucous membranes with coldness."
+  ],
+  "typical_potency_dosage": "30C, 3-5 pellets as needed; 6C also cited",
+  "safety_note": "Capsaicin is a strong irritant to eyes and mucous membranes in concentrated form; low potencies/mother tincture can irritate. Homeopathic dilutions are ultra-dilute.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Capsicum_annuum"
+  ]
+ },
+ {
+  "name_en": "Alumina",
+  "source_en": "Aluminium oxide (alumina, Al2O3), a mineral compound made from bauxite.",
+  "common_names": [
+   "Alum",
+   "Aluminium oxide",
+   "Aluminum oxide"
+  ],
+  "category": "Mineral",
+  "keynotes_en": [
+   "Classically used for severe constipation with no urge, even soft stool passed with difficulty.",
+   "Traditionally indicated for dryness of skin and mucous membranes, and itching skin worse in warm beds.",
+   "Cited for confusion about identity and haste, and for slowness in thinking."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets, infrequently repeated",
+  "safety_note": "Alumina is generally low in acute toxicity, though inhaled dust has occupational exposure limits. Homeopathic dilutions are ultra-dilute.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Aluminium_oxide"
+  ]
+ },
+ {
+  "name_en": "Conium",
+  "source_en": "Fresh flowering plant or juice of Conium maculatum (poison hemlock, Apiaceae), containing coniine.",
+  "common_names": [
+   "Con",
+   "Hemlock",
+   "Poison hemlock",
+   "Spotted hemlock"
+  ],
+  "category": "Plant",
+  "keynotes_en": [
+   "Classically used for gradually ascending weakness or paralysis starting in the legs.",
+   "Traditionally indicated for dizziness on turning the head or lying down.",
+   "Cited for hardness and induration of glands and breasts."
+  ],
+  "typical_potency_dosage": "30C or 200C, 3-5 pellets, infrequently repeated",
+  "safety_note": "Coniine causes ascending paralysis that can stop breathing; roughly 100 mg may be fatal for an adult. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Conium_maculatum"
+  ]
+ }
+]

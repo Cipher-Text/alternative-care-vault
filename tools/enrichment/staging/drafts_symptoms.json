@@ -1,0 +1,280 @@
+[
+ {
+  "name_en": "Colic",
+  "description_en": "Episodes of cramping abdominal pain, or prolonged unexplained crying in infants",
+  "category": "digestive",
+  "name_bn": "উদরশূল",
+  "description_bn": "পেটে খিচুনির মতো ব্যথা, বা শিশুর অকারণ দীর্ঘ কান্না"
+ },
+ {
+  "name_en": "Itching",
+  "description_en": "Skin sensation that creates a strong urge to scratch",
+  "category": "skin",
+  "name_bn": "চুলকানি",
+  "description_bn": "ত্বকে চুলকানোর তীব্র ইচ্ছা সৃষ্টিকারী অনুভূতি"
+ },
+ {
+  "name_en": "Palpitation",
+  "description_en": "Awareness of a fast, pounding, fluttering or irregular heartbeat",
+  "category": "cardiovascular",
+  "name_bn": "বুক ধড়ফড়",
+  "description_bn": "দ্রুত, জোরালো বা অনিয়মিত হৃদস্পন্দনের অনুভূতি"
+ },
+ {
+  "name_en": "Restlessness",
+  "description_en": "Inability to stay still or relax, with purposeless movement and unease",
+  "category": "mental",
+  "name_bn": "অস্থিরতা",
+  "description_bn": "স্থির বা শিথিল থাকতে না পারা এবং উদ্দেশ্যহীন নড়াচড়া"
+ },
+ {
+  "name_en": "Neuralgia",
+  "description_en": "Sharp or burning pain along the path of an irritated nerve",
+  "category": "neurological",
+  "name_bn": "স্নায়ুশূল",
+  "description_bn": "উত্তেজিত স্নায়ুর পথ ধরে তীক্ষ্ণ বা জ্বালাপোড়া ব্যথা"
+ },
+ {
+  "name_en": "Rheumatism",
+  "description_en": "Umbrella term for painful conditions of the joints and connective tissue",
+  "category": "musculoskeletal",
+  "name_bn": "বাত",
+  "description_bn": "গাঁট ও সংযোজক কলার বেদনাদায়ক অবস্থার সাধারণ নাম"
+ },
+ {
+  "name_en": "Toothache",
+  "description_en": "Pain in or around a tooth, usually from decay, infection or gum disease",
+  "category": "ear_nose_throat",
+  "name_bn": "দাঁতের ব্যথা",
+  "description_bn": "দাঁতে বা দাঁতের চারপাশে ব্যথা, সাধারণত ক্ষয়, সংক্রমণ বা মাড়ির রোগ থেকে"
+ },
+ {
+  "name_en": "Irritability",
+  "description_en": "Tendency to become easily annoyed, angry or short-tempered",
+  "category": "mental",
+  "name_bn": "খিটখিটে মেজাজ",
+  "description_bn": "সহজে বিরক্ত, রাগান্বিত বা রুক্ষ হয়ে ওঠার প্রবণতা"
+ },
+ {
+  "name_en": "Debility",
+  "description_en": "General weakness and lack of physical strength or energy",
+  "category": "general"
+ },
+ {
+  "name_en": "Depression",
+  "description_en": "Persistent low mood and loss of interest that disrupts daily life",
+  "category": "mental",
+  "name_bn": "বিষণ্নতা",
+  "description_bn": "দীর্ঘস্থায়ী মন খারাপ ও আগ্রহ হারানো যা দৈনন্দিন জীবনে বাধা দেয়"
+ },
+ {
+  "name_en": "Flatulence",
+  "description_en": "Passing of gas from the bowel through the anus",
+  "category": "digestive",
+  "name_bn": "পেটে গ্যাস",
+  "description_bn": "অন্ত্র থেকে পায়ুপথে গ্যাস নির্গমন"
+ },
+ {
+  "name_en": "Leucorrhea",
+  "description_en": "Whitish or yellowish vaginal discharge, often from hormonal change or infection",
+  "category": "reproductive",
+  "name_bn": "শ্বেতপ্রদর",
+  "description_bn": "হরমোনের পরিবর্তন বা সংক্রমণজনিত সাদা বা হলদে যোনিস্রাব"
+ },
+ {
+  "name_en": "Dyspnea",
+  "description_en": "Uncomfortable feeling of being unable to breathe well enough",
+  "category": "respiratory",
+  "name_bn": "শ্বাসকষ্ট",
+  "description_bn": "পর্যাপ্ত শ্বাস নিতে না পারার অস্বস্তিকর অনুভূতি"
+ },
+ {
+  "name_en": "Pneumonia",
+  "description_en": "Infection that inflames the lungs' air sacs, causing cough, fever and breathlessness",
+  "category": "respiratory",
+  "name_bn": "নিউমোনিয়া",
+  "description_bn": "ফুসফুসের বায়ুথলির সংক্রমণ ও প্রদাহ, যাতে কাশি, জ্বর ও শ্বাসকষ্ট হয়"
+ },
+ {
+  "name_en": "Dysentery",
+  "description_en": "Intestinal infection causing diarrhoea with blood and mucus",
+  "category": "digestive",
+  "name_bn": "আমাশয়",
+  "description_bn": "অন্ত্রের সংক্রমণ যাতে রক্ত ও শ্লেষ্মাসহ পাতলা পায়খানা হয়"
+ },
+ {
+  "name_en": "Eczema",
+  "description_en": "Inflamed, dry, itchy skin that can crack, weep or crust",
+  "category": "skin",
+  "name_bn": "একজিমা",
+  "description_bn": "প্রদাহযুক্ত, শুষ্ক ও চুলকানিযুক্ত ত্বক যা ফেটে যেতে, রস ঝরতে বা মামড়ি পড়তে পারে"
+ },
+ {
+  "name_en": "Hemorrhoids",
+  "description_en": "Swollen veins in or around the anus causing itching, discomfort or bleeding",
+  "category": "digestive",
+  "name_bn": "অর্শ",
+  "description_bn": "মলদ্বারের ভেতরে বা চারপাশের ফোলা শিরা যাতে চুলকানি, অস্বস্তি বা রক্তপাত হয়"
+ },
+ {
+  "name_en": "Whooping Cough",
+  "description_en": "Contagious bacterial infection causing severe coughing fits with a gasping whoop",
+  "category": "respiratory",
+  "name_bn": "হুপিং কাশি",
+  "description_bn": "সংক্রামক ব্যাকটেরিয়াজনিত রোগ, তীব্র কাশির দমকের সঙ্গে হুপ শব্দ"
+ },
+ {
+  "name_en": "Epilepsy",
+  "description_en": "Brain disorder causing repeated unprovoked seizures",
+  "category": "neurological",
+  "name_bn": "মৃগীরোগ",
+  "description_bn": "মস্তিষ্কের রোগ যাতে বারবার কারণহীন খিঁচুনি হয়"
+ },
+ {
+  "name_en": "Herpes",
+  "description_en": "Viral infection causing recurring blisters or sores on the mouth or genitals",
+  "category": "skin",
+  "name_bn": "হার্পিস",
+  "description_bn": "ভাইরাস সংক্রমণ যাতে মুখে বা যৌনাঙ্গে বারবার ফোসকা বা ঘা হয়"
+ },
+ {
+  "name_en": "Boils",
+  "description_en": "Painful pus-filled lump forming in an infected hair follicle",
+  "category": "skin",
+  "name_bn": "ফোড়া",
+  "description_bn": "চুলের গোড়ার সংক্রমণে সৃষ্ট বেদনাদায়ক পুঁজভরা পিণ্ড"
+ },
+ {
+  "name_en": "Croup",
+  "description_en": "Viral infection of the windpipe causing a barking cough and noisy breathing in children",
+  "category": "respiratory",
+  "name_bn": "ক্রুপ",
+  "description_bn": "শিশুদের শ্বাসনালীর ভাইরাস সংক্রমণ, ঘেউ ঘেউ কাশি ও শব্দযুক্ত শ্বাস"
+ },
+ {
+  "name_en": "Hysteria",
+  "description_en": "Historical term for uncontrollable emotion or unexplained physical symptoms, now called functional or conversion disorder",
+  "category": "mental",
+  "name_bn": "হিস্টিরিয়া",
+  "description_bn": "অনিয়ন্ত্রিত আবেগ বা ব্যাখ্যাহীন শারীরিক উপসর্গের ঐতিহাসিক নাম, এখন ফাংশনাল বা কনভার্সন ডিসঅর্ডার"
+ },
+ {
+  "name_en": "Abscess",
+  "description_en": "Collection of pus in body tissue caused by infection",
+  "category": "skin",
+  "name_bn": "পুঁজ জমা (অ্যাবসেস)",
+  "description_bn": "সংক্রমণের কারণে শরীরের কলায় পুঁজ জমা"
+ },
+ {
+  "name_en": "Wounds",
+  "description_en": "Break or damage to the skin or underlying tissue",
+  "category": "skin",
+  "name_bn": "ক্ষত",
+  "description_bn": "ত্বক বা নিচের কলার ছিঁড়ে যাওয়া বা ক্ষতিগ্রস্ত হওয়া"
+ },
+ {
+  "name_en": "Measles",
+  "description_en": "Highly contagious viral illness causing fever, cough and a spreading red rash",
+  "category": "immune",
+  "name_bn": "হাম",
+  "description_bn": "অত্যন্ত সংক্রামক ভাইরাস রোগ, জ্বর, কাশি ও ছড়িয়ে পড়া লাল ফুসকুড়ি"
+ },
+ {
+  "name_en": "Heartburn",
+  "description_en": "Burning feeling in the chest from stomach acid rising towards the throat",
+  "category": "digestive",
+  "name_bn": "বুক জ্বালা",
+  "description_bn": "পাকস্থলীর অ্যাসিড গলার দিকে উঠে আসায় বুকে জ্বালাপোড়া অনুভূতি"
+ },
+ {
+  "name_en": "Sciatica",
+  "description_en": "Pain radiating from the lower back down the leg along the sciatic nerve",
+  "category": "musculoskeletal",
+  "name_bn": "সায়াটিকা",
+  "description_bn": "কোমর থেকে সায়াটিক স্নায়ু বরাবর পা বেয়ে নেমে আসা ব্যথা"
+ },
+ {
+  "name_en": "Urticaria",
+  "description_en": "Itchy raised welts on the skin that come and go",
+  "category": "skin",
+  "name_bn": "আমবাত",
+  "description_bn": "ত্বকে চুলকানিযুক্ত উঁচু দাগ যা আসে ও যায়"
+ },
+ {
+  "name_en": "Grief",
+  "description_en": "Emotional reaction to loss, often the death of a loved one",
+  "category": "mental",
+  "name_bn": "শোক",
+  "description_bn": "প্রিয়জনের মৃত্যু বা অন্য ক্ষতির প্রতি মানসিক প্রতিক্রিয়া"
+ },
+ {
+  "name_en": "Influenza",
+  "description_en": "Contagious viral respiratory illness with fever, aches, cough and exhaustion",
+  "category": "respiratory",
+  "name_bn": "ইনফ্লুয়েঞ্জা",
+  "description_bn": "সংক্রামক ভাইরাস শ্বাসতন্ত্রের রোগ, জ্বর, গা ব্যথা, কাশি ও ক্লান্তি"
+ },
+ {
+  "name_en": "Burns",
+  "description_en": "Skin or tissue damage caused by heat, chemicals, electricity or radiation",
+  "category": "skin",
+  "name_bn": "পোড়া",
+  "description_bn": "তাপ, রাসায়নিক, বিদ্যুৎ বা বিকিরণে ত্বক বা কলার ক্ষতি"
+ },
+ {
+  "name_en": "Cystitis",
+  "description_en": "Bladder inflammation, usually infection, causing painful, frequent urination",
+  "category": "urinary",
+  "name_bn": "মূত্রাশয় প্রদাহ",
+  "description_bn": "মূত্রথলির প্রদাহ, সাধারণত সংক্রমণজনিত, ঘন ঘন ও জ্বালাময় প্রস্রাব"
+ },
+ {
+  "name_en": "Laryngitis",
+  "description_en": "Inflammation of the voice box causing hoarseness or loss of voice",
+  "category": "ear_nose_throat",
+  "name_bn": "স্বরযন্ত্রের প্রদাহ",
+  "description_bn": "স্বরযন্ত্রের প্রদাহ যাতে গলা বসে যায় বা স্বর হারিয়ে যায়"
+ },
+ {
+  "name_en": "Night Sweats",
+  "description_en": "Repeated episodes of heavy sweating during sleep that soak nightclothes or bedding",
+  "category": "general",
+  "name_bn": "রাতে ঘাম",
+  "description_bn": "ঘুমের মধ্যে বারবার প্রচুর ঘাম যাতে পোশাক বা বিছানা ভিজে যায়"
+ },
+ {
+  "name_en": "Conjunctivitis",
+  "description_en": "Inflammation of the thin membrane covering the white of the eye and eyelid",
+  "category": "ear_nose_throat",
+  "name_bn": "চোখ ওঠা",
+  "description_bn": "চোখের সাদা অংশ ও চোখের পাতা ঢাকা পাতলা পর্দার প্রদাহ"
+ },
+ {
+  "name_en": "Teething",
+  "description_en": "Process of a baby's first teeth breaking through the gums",
+  "category": "general",
+  "name_bn": "দাঁত ওঠা",
+  "description_bn": "শিশুর প্রথম দাঁত মাড়ি ভেদ করে ওঠার প্রক্রিয়া"
+ },
+ {
+  "name_en": "Tonsillitis",
+  "description_en": "Inflammation of the tonsils, usually from infection, causing sore throat",
+  "category": "ear_nose_throat",
+  "name_bn": "টনসিলের প্রদাহ",
+  "description_bn": "টনসিলের প্রদাহ, সাধারণত সংক্রমণজনিত, গলা ব্যথাসহ"
+ },
+ {
+  "name_en": "Hoarseness",
+  "description_en": "Raspy, breathy or strained voice from vocal cord irritation",
+  "category": "ear_nose_throat",
+  "name_bn": "স্বরভঙ্গ",
+  "description_bn": "স্বরতন্ত্রীর উত্তেজনায় কর্কশ, ফাঁপা বা চাপা কণ্ঠস্বর"
+ },
+ {
+  "name_en": "Migraine",
+  "description_en": "Recurring throbbing headaches, often one-sided, with nausea and light sensitivity",
+  "category": "neurological",
+  "name_bn": "মাইগ্রেন",
+  "description_bn": "বারবার হওয়া দপদপে মাথাব্যথা, প্রায়ই একপাশে, বমিভাব ও আলোতে অস্বস্তিসহ"
+ }
+]

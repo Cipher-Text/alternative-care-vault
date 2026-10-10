@@ -1,0 +1,745 @@
+{
+ "Sulphur": {
+  "source_en": "Elemental sulfur, a yellow nonmetallic mineral element (symbol S), prepared by trituration/dilution.",
+  "common_names": [
+   "Sulph",
+   "Sulfur",
+   "Flowers of sulphur"
+  ],
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Sulfur"
+  ]
+ },
+ "Sepia": {
+  "source_en": "Dried ink of the common cuttlefish (Sepia officinalis, Mollusca: Cephalopoda), triturated.",
+  "common_names": [
+   "Sep",
+   "Cuttlefish ink"
+  ],
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Cuttlefish"
+  ]
+ },
+ "Ipecacuanha": {
+  "source_en": "Dried root of Carapichea ipecacuanha (Rubiaceae), native to Central and South America; contains emetine and cephaeline.",
+  "common_names": [
+   "Ipecac",
+   "Ipec",
+   "Ipecacuanha root"
+  ],
+  "safety_note": "Crude ipecac root is a strong emetic (emetine) and syrup of ipecac is no longer recommended medically; Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Carapichea_ipecacuanha"
+  ]
+ },
+ "Causticum": {
+  "source_en": "Hahnemann's own preparation, said to be a distillate of freshly slaked lime (calcium hydroxide) with potassium bisulfate; a chemical remedy.",
+  "common_names": [
+   "Caust",
+   "Hahnemann's Causticum"
+  ],
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy"
+  ]
+ },
+ "Cantharis": {
+  "source_en": "Spanish fly, the blister beetle Lytta vesicatoria (Coleoptera: Meloidae), which produces cantharidin.",
+  "common_names": [
+   "Canth",
+   "Spanish fly",
+   "Lytta vesicatoria"
+  ],
+  "safety_note": "Cantharidin is highly toxic: lethal doses are reported around tens of milligrams, with severe gastrointestinal, urinary tract and kidney damage and strong skin blistering. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Cantharidin"
+  ]
+ },
+ "Hepar Sulphuris": {
+  "source_en": "Hahnemann's calcium sulfide ('hepar sulphuris calcareum'), historically prepared by heating oyster-shell lime with sulfur; a chemical remedy.",
+  "common_names": [
+   "Hepar sulph",
+   "Hep-s",
+   "Hepar sulphuris calcareum",
+   "Calcium sulfide"
+  ],
+  "safety_note": "Calcium sulfide releases toxic hydrogen sulfide with acids or moisture. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Calcium_sulfide"
+  ]
+ },
+ "Magnesia Phosphorica": {
+  "source_en": "Magnesium phosphate, a mineral salt (Mg3(PO4)2 and related forms).",
+  "common_names": [
+   "Mag phos",
+   "Mag-p",
+   "Magnesium phosphate"
+  ],
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Magnesium_phosphate"
+  ]
+ },
+ "Aconitum Napellus": {
+  "source_en": "Whole fresh plant of Aconitum napellus (monkshood, Ranunculaceae), a highly poisonous European perennial containing aconitine.",
+  "common_names": [
+   "Acon",
+   "Aconite",
+   "Monkshood",
+   "Wolfsbane"
+  ],
+  "safety_note": "Aconitine is a potent neurotoxin and cardiotoxin; ingestion of the plant can cause fatal arrhythmias and respiratory paralysis within hours, and skin contact can be harmful. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Aconitum_napellus"
+  ]
+ },
+ "Arsenicum Album": {
+  "source_en": "Arsenic trioxide (white arsenic, As2O3), a chemical compound of arsenic.",
+  "common_names": [
+   "Ars",
+   "Ars-a",
+   "Arsenic trioxide",
+   "White arsenic"
+  ],
+  "safety_note": "Arsenic trioxide is toxic and carcinogenic: about 100 mg ingested can be fatal, and chronic exposure causes skin cancer. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Arsenic_trioxide"
+  ]
+ },
+ "Apis Mellifica": {
+  "source_en": "Venom or whole bodies of the Western honey bee (Apis mellifera, Hymenoptera: Apidae).",
+  "common_names": [
+   "Apis",
+   "Apis mel",
+   "Honey bee"
+  ],
+  "safety_note": "Bee venom can trigger severe allergic reactions in sensitized people; treat suspected anaphylaxis as an emergency. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Western_honey_bee"
+  ]
+ },
+ "Calcarea Carbonica": {
+  "source_en": "Calcium carbonate prepared from the middle layer of oyster shell (Ostrea edulis); a mineral/animal-derived chemical.",
+  "common_names": [
+   "Calc",
+   "Calc carb",
+   "Calcarea carb",
+   "Oyster shell calcium"
+  ],
+  "safety_note": "Calcium carbonate is low in acute toxicity (rat oral LD50 about 6.5 g/kg), though excess calcium can cause hypercalcemia. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Calcium_carbonate"
+  ]
+ },
+ "Ferrum Phosphoricum": {
+  "source_en": "Iron phosphate (ferrous/ferric phosphate), a mineral salt; one of the twelve Schuessler tissue salts.",
+  "common_names": [
+   "Ferr phos",
+   "Ferrum phos",
+   "Ferr-p",
+   "Iron phosphate"
+  ],
+  "safety_note": "Iron phosphate is a skin, eye and respiratory irritant in bulk powder; iron salts are hazardous to children in large amounts. Homeopathic dilutions are ultra-dilute, but low-potency tissue-salt doses contain measurable material.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Iron(II)_phosphate"
+  ]
+ },
+ "Gelsemium": {
+  "source_en": "Root of Gelsemium sempervirens (yellow jessamine, Gelsemiaceae), a toxic southeastern North American vine containing gelsemine.",
+  "common_names": [
+   "Gels",
+   "Yellow jasmine",
+   "Carolina jessamine"
+  ],
+  "safety_note": "All parts of the plant contain strychnine-related alkaloids (gelsemine) and are poisonous. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Gelsemium_sempervirens"
+  ]
+ },
+ "Colocynthis": {
+  "source_en": "Fruit pulp of Citrullus colocynthis (bitter apple, Cucurbitaceae), a desert vine containing cucurbitacins.",
+  "common_names": [
+   "Coloc",
+   "Bitter apple",
+   "Bitter cucumber"
+  ],
+  "safety_note": "The plant contains cytotoxic cucurbitacins and is considered unsafe as an herbal medicine; it is a strong purgative. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Citrullus_colocynthis"
+  ]
+ },
+ "Veratrum Album": {
+  "source_en": "Root of Veratrum album (white hellebore, Melanthiaceae), a poisonous European mountain plant containing steroidal alkaloids.",
+  "common_names": [
+   "Verat",
+   "Verat alb",
+   "White hellebore"
+  ],
+  "safety_note": "All parts are poisonous; ingestion causes vomiting, slow heart rate and low blood pressure within hours. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Veratrum_album"
+  ]
+ },
+ "Coffea Cruda": {
+  "source_en": "Raw, unroasted seeds of Coffea arabica (Rubiaceae); contain caffeine and chlorogenic acids.",
+  "common_names": [
+   "Coff",
+   "Coffea",
+   "Raw coffee",
+   "Green coffee"
+  ],
+  "safety_note": null,
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Coffea_arabica"
+  ]
+ },
+ "Digitalis": {
+  "source_en": "Leaves of Digitalis purpurea (foxglove, Plantaginaceae), a source of cardiac glycosides (digitoxin, digoxin).",
+  "common_names": [
+   "Dig",
+   "Foxglove",
+   "Digitalis purpurea"
+  ],
+  "safety_note": "The crude plant is poisonous and can cause arrhythmias and cardiac arrest; the glycosides have a narrow therapeutic window. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous. Cardiac symptoms need conventional medical care.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Digitalis_purpurea"
+  ]
+ },
+ "Ignatia": {
+  "source_en": "Seeds (St Ignatius beans) of Strychnos ignatii (Loganiaceae); contain strychnine and brucine.",
+  "common_names": [
+   "Ign",
+   "Ignatia amara",
+   "St Ignatius bean"
+  ],
+  "safety_note": "The seeds contain strychnine and brucine and are highly toxic in crude form. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Strychnos_ignatii"
+  ]
+ },
+ "Lycopodium": {
+  "source_en": "Spores of Lycopodium clavatum (common clubmoss, Lycopodiaceae); the spores are highly combustible.",
+  "common_names": [
+   "Lyc",
+   "Club moss",
+   "Wolf's claw",
+   "Lycopodium clavatum"
+  ],
+  "safety_note": "Dense spore clouds are an explosion hazard; no notable toxicity is documented for ordinary use. Homeopathic dilutions are ultra-dilute.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Lycopodium_clavatum"
+  ]
+ },
+ "Phosphorus": {
+  "source_en": "Elemental phosphorus (symbol P), prepared as a trituration or alcoholic solution from the highly reactive white allotrope.",
+  "common_names": [
+   "Phos",
+   "Phosphorus"
+  ],
+  "safety_note": "White phosphorus is highly toxic and pyrophoric, causing severe liver damage and, historically, jaw necrosis in match workers. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Phosphorus"
+  ]
+ },
+ "Stramonium": {
+  "source_en": "Whole fresh plant of Datura stramonium (thorn apple, jimsonweed, Solanaceae), which contains atropine, hyoscyamine and scopolamine.",
+  "common_names": [
+   "Stram",
+   "Datura",
+   "Thornapple",
+   "Jimsonweed"
+  ],
+  "safety_note": "All parts contain tropane alkaloids that cause delirium, hyperthermia and a risk of fatal overdose. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Datura_stramonium"
+  ]
+ },
+ "Aloe": {
+  "source_en": "Dried juice (latex) of Aloe species, usually Aloe socotrina or Aloe vera (Asphodelaceae); contains anthraquinones such as aloin.",
+  "common_names": [
+   "Aloe socotrina",
+   "Aloe soc",
+   "Aloe vera"
+  ],
+  "safety_note": "The latex is a stimulant laxative; oral aloe can cause cramps, diarrhea and hepatitis, and should not be used in pregnancy. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Aloe_vera"
+  ]
+ },
+ "Capsicum": {
+  "source_en": "Fruit of Capsicum annuum (cayenne/red pepper, Solanaceae), which contains capsaicin.",
+  "common_names": [
+   "Caps",
+   "Cayenne",
+   "Red pepper"
+  ],
+  "safety_note": "Capsaicin is a strong irritant to eyes and mucous membranes in concentrated form; low potencies/mother tincture can irritate. Homeopathic dilutions are ultra-dilute.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Capsicum_annuum"
+  ]
+ },
+ "Alumina": {
+  "source_en": "Aluminium oxide (alumina, Al2O3), a mineral compound made from bauxite.",
+  "common_names": [
+   "Alum",
+   "Aluminium oxide",
+   "Aluminum oxide"
+  ],
+  "safety_note": "Alumina is generally low in acute toxicity, though inhaled dust has occupational exposure limits. Homeopathic dilutions are ultra-dilute.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Aluminium_oxide"
+  ]
+ },
+ "Conium": {
+  "source_en": "Fresh flowering plant or juice of Conium maculatum (poison hemlock, Apiaceae), containing coniine.",
+  "common_names": [
+   "Con",
+   "Hemlock",
+   "Poison hemlock",
+   "Spotted hemlock"
+  ],
+  "safety_note": "Coniine causes ascending paralysis that can stop breathing; roughly 100 mg may be fatal for an adult. Homeopathic dilutions at 12C and beyond are ultra-dilute, but mother tinctures and low potencies of this toxic substance can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g., Australia's NHMRC 2015, Cochrane) find no reliable evidence that homeopathy works beyond placebo for any condition; no remedy-specific trial evidence was located to change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.nccih.nih.gov/health/homeopathy",
+   "https://en.wikipedia.org/wiki/Conium_maculatum"
+  ]
+ },
+ "Graphites": {
+  "source_en": "Graphite, a crystalline allotrope of carbon (mineral carbon), triturated for homeopathic use.",
+  "common_names": [
+   "Plumbago",
+   "Black lead",
+   "Graph."
+  ],
+  "safety_note": "Graphite dust can irritate eyes, skin and airways and long exposure may cause lung disease; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Graphite",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/graphites"
+  ]
+ },
+ "Petroleum": {
+  "source_en": "Crude petroleum (rock oil), a hydrocarbon mixture, potentised from the refined/crude oil.",
+  "common_names": [
+   "Rock oil",
+   "Kerosenum",
+   "Petrol."
+  ],
+  "safety_note": "Crude petroleum contains hydrocarbons, some carcinogenic, and is harmful if swallowed or inhaled; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Petroleum",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/petroleum"
+  ]
+ },
+ "Silicea": {
+  "source_en": "Pure silica (silicon dioxide, flint/quartz), prepared by trituration to make it soluble.",
+  "common_names": [
+   "Silica",
+   "Silicic acid",
+   "Sil.",
+   "Pure flint"
+  ],
+  "safety_note": "Inhaled crystalline silica dust causes silicosis and lung disease, but this concerns industrial exposure, not dilutions; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Silicon_dioxide",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/silicea-terra"
+  ]
+ },
+ "Drosera": {
+  "source_en": "Sundew, Drosera rotundifolia (family Droseraceae), whole fresh plant.",
+  "common_names": [
+   "Sundew",
+   "Round-leaved sundew",
+   "Dros."
+  ],
+  "safety_note": "No well-documented acute toxicity in the sources I read; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Drosera_rotundifolia",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/drosera-rotundifolia"
+  ]
+ },
+ "Euphrasia": {
+  "source_en": "Eyebright, Euphrasia officinalis (Euphrasia genus, family Orobanchaceae; formerly Scrophulariaceae), whole plant.",
+  "common_names": [
+   "Eyebright",
+   "Euphr."
+  ],
+  "safety_note": "Efficacy of eyebright eye preparations is undocumented per the EMA; non-sterile eyewashes may cause infection; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Euphrasia",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/euphrasia-officinalis"
+  ]
+ },
+ "Ledum": {
+  "source_en": "Marsh Labrador tea, Rhododendron tomentosum (syn. Ledum palustre; family Ericaceae), plant.",
+  "common_names": [
+   "Marsh tea",
+   "Wild rosemary",
+   "Led.",
+   "Ledum palustre"
+  ],
+  "safety_note": "Plant terpenes (ledol, grayanotoxins) can cause dizziness, spasms, nausea and unconsciousness in overdose; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Rhododendron_tomentosum",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/ledum-palustre"
+  ]
+ },
+ "Podophyllum": {
+  "source_en": "Mayapple, Podophyllum peltatum (family Berberidaceae), rhizome/root.",
+  "common_names": [
+   "Mayapple",
+   "American mandrake",
+   "Podo."
+  ],
+  "safety_note": "All parts of the plant are poisonous; podophyllin is a strong purgative and podophyllotoxin is toxic; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Podophyllum_peltatum",
+   "https://en.wikipedia.org/wiki/Homeopathy"
+  ]
+ },
+ "Phytolacca": {
+  "source_en": "Pokeroot, Phytolacca americana/decandra (family Phytolaccaceae), fresh root.",
+  "common_names": [
+   "Poke root",
+   "Pokeweed",
+   "Phyt."
+  ],
+  "safety_note": "Poke is toxic in all parts, especially root and unripe berries; mother tincture can be hazardous; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Phytolacca_americana",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/phytolacca-decandra"
+  ]
+ },
+ "Sabadilla": {
+  "source_en": "Seeds of Schoenocaulon officinale (family Melanthiaceae), also called cevadilla (not confirmed on source page).",
+  "common_names": [
+   "Cevadilla",
+   "Sabad."
+  ],
+  "safety_note": "Seeds are highly toxic (veratridine, cevadine alkaloids) and used as insecticide; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Schoenocaulon_officinale",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/sabadilla"
+  ]
+ },
+ "Staphisagria": {
+  "source_en": "Seeds of stavesacre, Delphinium staphisagria (family Ranunculaceae).",
+  "common_names": [
+   "Stavesacre",
+   "Lice-bane",
+   "Staph."
+  ],
+  "safety_note": "All parts are highly toxic; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Delphinium_staphisagria",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/staphysagria"
+  ]
+ },
+ "Valeriana": {
+  "source_en": "Valerian root, Valeriana officinalis (family Caprifoliaceae, formerly Valerianaceae).",
+  "common_names": [
+   "Valerian",
+   "Garden heliotrope",
+   "Val."
+  ],
+  "safety_note": "Valerian is a CNS depressant, avoid with alcohol or sedatives; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this. Herbal valerian (not homeopathic) has mixed evidence for sleep, with EMA recognizing it for mild nervous tension.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Valeriana_officinalis",
+   "https://en.wikipedia.org/wiki/Homeopathy"
+  ]
+ },
+ "Croton Tiglium": {
+  "source_en": "Seed oil of Croton tiglium (family Euphorbiaceae), purging croton.",
+  "common_names": [
+   "Croton oil",
+   "Purging croton",
+   "Crot-t."
+  ],
+  "safety_note": "Seeds are highly toxic and a severe purgative; croton oil is a skin irritant and co-carcinogen; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Croton_tiglium",
+   "https://en.wikipedia.org/wiki/Homeopathy"
+  ]
+ },
+ "Nux Moschata": {
+  "source_en": "Seed of nutmeg, Myristica fragrans (family Myristicaceae).",
+  "common_names": [
+   "Nutmeg",
+   "Nux-m."
+  ],
+  "safety_note": "Large nutmeg doses cause delirium, palpitations, convulsions and psychosis; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Nutmeg",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/nux-moschata"
+  ]
+ },
+ "Hippocastanum": {
+  "source_en": "Seed (horse chestnut) of Aesculus hippocastanum (family Sapindaceae).",
+  "common_names": [
+   "Horse chestnut",
+   "Aesculus",
+   "Aesc."
+  ],
+  "safety_note": "Raw seeds are toxic (aesculin, saponins); tincture can be hazardous; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this. Standardised horse chestnut seed extract (not homeopathy) showed short-term benefit in chronic venous insufficiency in a 2012 Cochrane review of low-quality trials.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Aesculus_hippocastanum",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/aesculus-hippocastanum"
+  ]
+ },
+ "Agnus Castus": {
+  "source_en": "Berries of chaste tree, Vitex agnus-castus (family Lamiaceae).",
+  "common_names": [
+   "Chaste tree",
+   "Chasteberry",
+   "Agn."
+  ],
+  "safety_note": "Herbal vitex may cause GI upset and headache and is discouraged in pregnancy and with hormonal or dopamine-related drugs; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this. Herbal chasteberry has little high-quality clinical evidence for PMS.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Vitex_agnus-castus",
+   "https://en.wikipedia.org/wiki/Homeopathy"
+  ]
+ },
+ "Eucalyptus": {
+  "source_en": "Leaf (and oil) of Eucalyptus globulus, blue gum (family Myrtaceae).",
+  "common_names": [
+   "Blue gum",
+   "Eucalyptus globulus",
+   "Euc."
+  ],
+  "safety_note": "Eucalyptus oil is toxic if swallowed, particularly in children; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Eucalyptus_globulus",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/eucalyptus-globulus"
+  ]
+ },
+ "Cicuta Virosa": {
+  "source_en": "Water hemlock / cowbane, Cicuta virosa (family Apiaceae), root.",
+  "common_names": [
+   "Cowbane",
+   "Water hemlock",
+   "Cic."
+  ],
+  "safety_note": "Cicutoxin makes the plant among the most toxic, often fatal in small amounts; mother tincture and low potencies are dangerous; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Cicuta_virosa",
+   "https://en.wikipedia.org/wiki/Homeopathy"
+  ]
+ },
+ "Grindelia": {
+  "source_en": "Gumweed, Grindelia robusta/squarrosa (family Asteraceae).",
+  "common_names": [
+   "Gumweed",
+   "Grind."
+  ],
+  "safety_note": "Gumweed resin can irritate; avoid mother tincture without guidance; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Grindelia",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/grindelia-robusta"
+  ]
+ },
+ "Urtica Urens": {
+  "source_en": "Small stinging nettle, Urtica urens (family Urticaceae).",
+  "common_names": [
+   "Dwarf nettle",
+   "Annual nettle",
+   "Urt-u."
+  ],
+  "safety_note": "Fresh plant causes stinging skin irritation; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Urtica_urens",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/urtica-urens"
+  ]
+ },
+ "Viola Tricolor": {
+  "source_en": "Wild pansy, Viola tricolor (family Violaceae).",
+  "common_names": [
+   "Heartsease",
+   "Wild pansy",
+   "Viol-t."
+  ],
+  "safety_note": "Low toxicity; seeds/roots are an emetic and laxative; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Viola_tricolor",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/viola-tricolor"
+  ]
+ },
+ "Symphytum": {
+  "source_en": "Comfrey, Symphytum officinale (family Boraginaceae), root.",
+  "common_names": [
+   "Comfrey",
+   "Knitbone",
+   "Symph."
+  ],
+  "safety_note": "Comfrey contains hepatotoxic pyrrolizidine alkaloids; FDA banned internal-use products; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Comfrey",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/symphytum-officinale"
+  ]
+ },
+ "Agaricus Muscarius": {
+  "source_en": "Fly agaric mushroom, Amanita muscaria (family Amanitaceae).",
+  "common_names": [
+   "Fly agaric",
+   "Fly amanita",
+   "Agar."
+  ],
+  "safety_note": "Contains muscimol and ibotenic acid, causing delirium and hallucinations; fatalities rare; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Amanita_muscaria",
+   "https://en.wikipedia.org/wiki/Homeopathy"
+  ]
+ },
+ "Magnesia Carbonica": {
+  "source_en": "Magnesium carbonate (MgCO3, mineral magnesite).",
+  "common_names": [
+   "Magnesium carbonate",
+   "Mag-c."
+  ],
+  "safety_note": "Low toxicity; may be a laxative in large amounts. Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Magnesium_carbonate",
+   "https://en.wikipedia.org/wiki/Homeopathy"
+  ]
+ },
+ "Carbo Animalis": {
+  "source_en": "Animal charcoal, charred animal material (bone-char type, with calcium phosphate and carbon).",
+  "common_names": [
+   "Animal charcoal",
+   "Bone char",
+   "Carb-an."
+  ],
+  "safety_note": "Low toxicity; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Bone_char",
+   "https://en.wikipedia.org/wiki/Homeopathy",
+   "https://www.materiamedica.info/en/materia-medica/william-boericke/carbo-animalis"
+  ]
+ },
+ "Sarsaparilla": {
+  "source_en": "Root of Smilax species (e.g. Smilax ornata), sarsaparilla (family Smilacaceae).",
+  "common_names": [
+   "Smilax",
+   "Sarsa."
+  ],
+  "safety_note": "Low toxicity at usual doses; Homeopathic dilutions above roughly 12C are ultra-dilute; mother tinctures and very low potencies of toxic substances can be hazardous.",
+  "evidence_note": "Systematic reviews (e.g. Cochrane 2010, Australian NHMRC 2015) find no reliable evidence that homeopathy works beyond placebo; no remedy-specific trials found that change this.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Sarsaparilla",
+   "https://en.wikipedia.org/wiki/Homeopathy"
+  ]
+ }
+}
