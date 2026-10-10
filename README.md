@@ -12,9 +12,9 @@ This repository is a personal/reference collection of books related to alternati
 
 ## Current collection
 
-The collection currently contains 48 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
+The collection currently contains 49 valid works. Homeopathy books are kept in [`raw/homeopathy/`](raw/homeopathy/), Ayurveda books in [`raw/ayurveda/`](raw/ayurveda/), Unani materials in [`raw/unani/`](raw/unani/), and cross-disciplinary works in [`raw/general/`](raw/general/).
 
-### Homeopathy (28 works)
+### Homeopathy (29 works)
 
 | File | Format | Subject / notes |
 | --- | --- | --- |
@@ -39,6 +39,7 @@ The collection currently contains 48 valid works. Homeopathy books are kept in [
 | `John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 2 (1900).epub` | EPUB | Volume II, Part I (Iberis–Pelargonium Reniforme). See Volume 1 note above |
 | `John Henry Clarke - A Dictionary of Practical Materia Medica - Volume 3 (1902).epub` | EPUB | Volume II, Part II (Penthorum Sedoides–Zizia, plus the New Appendix). See Volume 1 note above |
 | `E. B. Nash - Leaders in Homoeopathic Therapeutics - 1901.epub` | EPUB | E. B. Nash; standard homeopathic therapeutics reference. This 1901 Google-digitized copy was the only one found with a working EPUB that wasn't either CDL-restricted or an oversized image-embedded DLI scan |
+| `E. B. Nash - Leaders in Homoeopathic Therapeutics - 1901 - Page Scan.pdf` | PDF (page scan) | Same 1901 edition as the entry above, kept **alongside** it as a *complementary* copy: re-OCR'd from the Internet Archive image PDF (`leadersinhomoeo03nashgoog`), dehyphenated, then consensus-corrected (975 words) against the original text. Half the junk (1.68 vs 3.43 per 1,000 chars) at the same dictionary-word rate (0.840 vs 0.843). The raw re-OCR misread "i" as "z" in remedy names (`Aconzte`, `Bryonza`); those are repaired. 426 pages (scan page index, blanks skipped). Public domain (1901). |
 | `প্রতাপচন্দ্র মজুমদার - হোমিওপ্যাথিক চিকিৎসা-প্রকরণ.epub` | EPUB | Bengali; Pratap Chandra Majumdar (~1303 BS). A principles-and-practice text — the Bengali-language counterpart to Hahnemann's Organon in this collection, not just a materia medica. Majumdar is a documented pioneer who popularized homeopathy in Bengal; added after researching the most-read/practiced homeopathy references specifically in the Bengali language for Bangladesh, as distinct from a modern copyrighted Bengali translation of a Western classic (which was deliberately not added — see catalogue note). Same DLI scan family as this collection's হোমিওপ্যাথিক চিকিৎসা-দর্পন; expect uneven OCR accuracy, same as that book |
 | `H. C. Allen - Keynotes and Characteristics with Comparisons of Some of the Leading Remedies of the Materia Medica with Nosodes - 1898.epub` | EPUB | H. C. Allen (not Timothy Field Allen — a different work from this collection's Handbook above); sourced from `homeopathy-wishlist.md` |
 | `James Tyler Kent - Lectures on Homoeopathic Materia Medica - 1911.pdf` | PDF | James Tyler Kent; his *Lectures*, a distinct work from this collection's Kent *Repertory* above. Only unrestricted copy found is a real Text PDF with no EPUB derivative (the alternatives were CDL-restricted or an oversized ~1.6GB scan), so processed via the same `parse_source_pdf()` path as Hahnemann's Organon. Sourced from `homeopathy-wishlist.md` |

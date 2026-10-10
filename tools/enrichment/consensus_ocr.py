@@ -20,6 +20,9 @@ def main():
     ap = argparse.ArgumentParser()
     for k in ("target", "other", "out", "log"): ap.add_argument("--" + k, required=True)
     ap.add_argument("--min-count", type=int, default=2)
+    ap.add_argument("--char-fix", action="append", default=[], metavar="BAD=GOOD",
+                    help="systematic single-letter OCR confusion in this scan (e.g. z=i); applied after consensus, only when the token is "
+                         "not a valid word and the swapped token is a dictionary word or one the book already uses >=3 times and more often")
     a = ap.parse_args()
     T = json.loads(Path(a.target).read_text()); O = json.loads(Path(a.other).read_text())
     dic = {w.strip().lower() for w in open("/usr/share/dict/words")}
@@ -60,6 +63,22 @@ def main():
                     new = mt.group(1) + (wo.capitalize() if wt[0].isupper() and not wt.isupper() else wo.upper() if wt.isupper() and len(wt) > 1 else wo) + mt.group(3)
                     log.append({"page": tp["page_number"], "before": tw[i1], "after": new}); out[i1] = new; changed += 1
         if out != tw: tp["text"] = " ".join(out) if "\n" not in tp["text"] else _rejoin(tp["text"], tw, out)
+    # optional systematic letter confusion pass (e.g. Nash 1901: "Aconzte" -> "Aconite")
+    if a.char_fix:
+        cnt2 = collections.Counter(w.lower() for p in T["pages"] for w in re.findall(r"[A-Za-z]+", p["text"]))
+        for pair in a.char_fix:
+            bad, good_ch = pair.split("=")
+            def fixtok(m, p=None):
+                w = m.group(0); lw = w.lower()
+                if bad not in lw or valid(lw) or len(lw) < 4: return w
+                y = lw.replace(bad, good_ch)
+                if y in dic or (y.endswith("s") and y[:-1] in dic) or (cnt2.get(y, 0) >= 3 and cnt2.get(y, 0) > cnt2.get(lw, 0)):
+                    new = y.capitalize() if w[0].isupper() and not w.isupper() else y.upper() if w.isupper() and len(w) > 1 else y
+                    log.append({"page": cur["page_number"], "before": w, "after": new, "reason": f"char-fix {pair}"}); return new
+                return w
+            for cur in T["pages"]:
+                cur["text"] = re.sub(r"[A-Za-z]+", fixtok, cur["text"])
+        changed = len(log)
     T["note"] = (T.get("note") or "") + f" Consensus-corrected against an independent OCR of the same scan: {changed} word corrections (see correction log)."
     Path(a.out).write_text(json.dumps(T, ensure_ascii=False, indent=1))
     Path(a.log).write_text(json.dumps({"changed": changed, "unmatched_pages": unmatched, "log": log}, ensure_ascii=False, indent=1))

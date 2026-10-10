@@ -414,7 +414,30 @@
     "page_count": 424,
     "source_raw_file": "homeopathy/E. B. Nash - Leaders in Homoeopathic Therapeutics - 1901.epub",
     "processed_epub": "processed/homeopathy/nash-leaders-in-homoeopathic-therapeutics-1901/book.epub",
-    "processed_json": "processed/homeopathy/nash-leaders-in-homoeopathic-therapeutics-1901/book.json"
+    "processed_json": "processed/homeopathy/nash-leaders-in-homoeopathic-therapeutics-1901/book.json",
+    "see_also": "nash-leaders-in-homoeopathic-therapeutics-1901-reocr"
+  },
+  {
+    "id": "nash-leaders-in-homoeopathic-therapeutics-1901-reocr",
+    "title": "Leaders in Homoeopathic Therapeutics (page-scan re-OCR)",
+    "author": "E. B. Nash",
+    "year": 1901,
+    "language": "en",
+    "discipline": "homeopathy",
+    "page_count": 426,
+    "source_raw_file": "homeopathy/E. B. Nash - Leaders in Homoeopathic Therapeutics - 1901 - Page Scan.pdf",
+    "processed_epub": "processed/homeopathy/nash-leaders-in-homoeopathic-therapeutics-1901-reocr/book.epub",
+    "processed_json": "processed/homeopathy/nash-leaders-in-homoeopathic-therapeutics-1901-reocr/book.json",
+    "note": "Re-OCR of the same 1901 edition (Internet Archive leadersinhomoeo03nashgoog, Google image PDF) kept ALONGSIDE the original EPUB entry, not replacing it. Pages re-OCR'd by this pipeline (Tesseract eng, 300 dpi, background-normalised + thresholded) and consensus-corrected against the original text; page_number is the scan page index (blank pages skipped), not the printed folio. See tools/process_book.py parse_source_facsimile_pdf and the re-OCR runbook in CLAUDE.md. Consensus-corrected against an independent OCR of the same scan: 975 word corrections (see correction log).",
+    "revision": {
+      "status": "re-ocr + dehyphenated + consensus-corrected",
+      "date": "2026-10-11",
+      "reference": "the original EPUB entry (independent OCR of the same Google scan)",
+      "words_corrected": 975,
+      "log": "tools/enrichment/staging/nash_reocr_consensus_log.json",
+      "complements": "nash-leaders-in-homoeopathic-therapeutics-1901",
+      "comparison": "half the junk (1.68 vs 3.43 per 1000), same dictionary rate (0.840 vs 0.843) and garbled-word count after correction; the raw re-OCR systematically misread i as z in remedy names (Aconzte, Bryonza), which the consensus + char-fix passes repair"
+    }
   },
   {
     "id": "majumdar-homoeopathic-chikitsa-prakaran-bengali",

@@ -1,0 +1,4946 @@
+{
+ "changed": 975,
+ "unmatched_pages": 2,
+ "log": [
+  {
+   "page": 8,
+   "before": "Homeceopathic",
+   "after": "Homoeopathic"
+  },
+  {
+   "page": 12,
+   "before": "Homceopathic",
+   "after": "Homoeopathic"
+  },
+  {
+   "page": 13,
+   "before": "minimuin",
+   "after": "minimum"
+  },
+  {
+   "page": 13,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 14,
+   "before": "Homceopathy",
+   "after": "Homoeopathy"
+  },
+  {
+   "page": 16,
+   "before": "Zzacum,",
+   "after": "Zincum,"
+  },
+  {
+   "page": 17,
+   "before": "Homceopathy",
+   "after": "Homoeopathy"
+  },
+  {
+   "page": 17,
+   "before": "Nasu,",
+   "after": "Nash,"
+  },
+  {
+   "page": 19,
+   "before": "homceopathically",
+   "after": "homoeopathically"
+  },
+  {
+   "page": 20,
+   "before": "homceopathic,",
+   "after": "homoeopathic,"
+  },
+  {
+   "page": 20,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 20,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 21,
+   "before": "severa!",
+   "after": "several!"
+  },
+  {
+   "page": 21,
+   "before": "Sefza,",
+   "after": "Sepia,"
+  },
+  {
+   "page": 21,
+   "before": "vomeca",
+   "after": "vomica"
+  },
+  {
+   "page": 21,
+   "before": "NVux",
+   "after": "Nux"
+  },
+  {
+   "page": 22,
+   "before": "homceopathice",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 23,
+   "before": "Aconzte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 24,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 24,
+   "before": "Pudsazilla),",
+   "after": "Pulsatilla),"
+  },
+  {
+   "page": 25,
+   "before": "dnd",
+   "after": "and"
+  },
+  {
+   "page": 25,
+   "before": "tefer",
+   "after": "refer"
+  },
+  {
+   "page": 26,
+   "before": "Pxlsatilla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 26,
+   "before": "hatr,",
+   "after": "hair,"
+  },
+  {
+   "page": 26,
+   "before": "(Stlicea",
+   "after": "(Silicea"
+  },
+  {
+   "page": 26,
+   "before": "Pulsatzlla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 27,
+   "before": "Pydsatlla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 27,
+   "before": "Pulsatdlla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 27,
+   "before": "Jgnatia",
+   "after": "Ignatia"
+  },
+  {
+   "page": 28,
+   "before": "Pulsatella",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 28,
+   "before": "Pulsatlla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 29,
+   "before": "azscharges",
+   "after": "discharges"
+  },
+  {
+   "page": 29,
+   "before": "catarth",
+   "after": "catarrh"
+  },
+  {
+   "page": 29,
+   "before": "Aidsatilla,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 29,
+   "before": "Pulsatzlla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 30,
+   "before": "Pxdsatla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 30,
+   "before": "Pudsatila",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 30,
+   "before": "Pudsatela,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 31,
+   "before": "Pulsatilia",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 31,
+   "before": "Pulsattila",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 31,
+   "before": "Puisations",
+   "after": "Pulsations"
+  },
+  {
+   "page": 32,
+   "before": "Pudlsatilla,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 32,
+   "before": "Bryonta,",
+   "after": "Bryonia,"
+  },
+  {
+   "page": 32,
+   "before": "motton,”",
+   "after": "motion,”"
+  },
+  {
+   "page": 32,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 32,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 33,
+   "before": "Pudsatzlla,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 33,
+   "before": "Bryonta",
+   "after": "Bryonia"
+  },
+  {
+   "page": 33,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 34,
+   "before": "Kalk",
+   "after": "Kali"
+  },
+  {
+   "page": 34,
+   "before": "Sgquilla",
+   "after": "Squilla"
+  },
+  {
+   "page": 34,
+   "before": "Aryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 34,
+   "before": "ageravated",
+   "after": "aggravated"
+  },
+  {
+   "page": 35,
+   "before": "Bryonda",
+   "after": "Bryonia"
+  },
+  {
+   "page": 35,
+   "before": "Nuy",
+   "after": "Nux"
+  },
+  {
+   "page": 35,
+   "before": "Pudsatiila",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 35,
+   "before": "Pxlsatella",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 35,
+   "before": "Bryonta",
+   "after": "Bryonia"
+  },
+  {
+   "page": 35,
+   "before": "diatrheea",
+   "after": "diarrhoea"
+  },
+  {
+   "page": 36,
+   "before": "Pudsatila",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 36,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 36,
+   "before": "Bryonta",
+   "after": "Bryonia"
+  },
+  {
+   "page": 36,
+   "before": "Pudsatilla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 36,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 36,
+   "before": "cating,",
+   "after": "eatings,"
+  },
+  {
+   "page": 37,
+   "before": "Bryonza,",
+   "after": "Bryonia,"
+  },
+  {
+   "page": 37,
+   "before": "¢hzckly",
+   "after": "¢thickly"
+  },
+  {
+   "page": 37,
+   "before": "Axtimonium",
+   "after": "Antimonium"
+  },
+  {
+   "page": 38,
+   "before": "Antemontum",
+   "after": "Antimonium"
+  },
+  {
+   "page": 38,
+   "before": "contenuous",
+   "after": "continuous"
+  },
+  {
+   "page": 39,
+   "before": "Axtimonium",
+   "after": "Antimonium"
+  },
+  {
+   "page": 39,
+   "before": "Bryonza,",
+   "after": "Bryonia,"
+  },
+  {
+   "page": 39,
+   "before": "Axtemonium",
+   "after": "Antimonium"
+  },
+  {
+   "page": 40,
+   "before": "Antimontum",
+   "after": "Antimonium"
+  },
+  {
+   "page": 41,
+   "before": "Arsentcum,",
+   "after": "Arsenicum,"
+  },
+  {
+   "page": 42,
+   "before": "zacrease",
+   "after": "increase"
+  },
+  {
+   "page": 43,
+   "before": ".Vercury",
+   "after": ".Mercury"
+  },
+  {
+   "page": 43,
+   "before": "Afercury,",
+   "after": "Mercury,"
+  },
+  {
+   "page": 43,
+   "before": "Stmilia",
+   "after": "Similia"
+  },
+  {
+   "page": 46,
+   "before": "Homceopathy",
+   "after": "Homoeopathy"
+  },
+  {
+   "page": 46,
+   "before": "emtsstons,",
+   "after": "emissions,"
+  },
+  {
+   "page": 47,
+   "before": "fale,",
+   "after": "pale,"
+  },
+  {
+   "page": 47,
+   "before": "Chzza,",
+   "after": "China,"
+  },
+  {
+   "page": 47,
+   "before": "zzdigested,",
+   "after": "undigested,"
+  },
+  {
+   "page": 48,
+   "before": "Ciza",
+   "after": "Cina"
+  },
+  {
+   "page": 48,
+   "before": "Chzna,",
+   "after": "China,"
+  },
+  {
+   "page": 48,
+   "before": "Cizwa",
+   "after": "China"
+  },
+  {
+   "page": 49,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 49,
+   "before": "homceopath",
+   "after": "homoeopath"
+  },
+  {
+   "page": 49,
+   "before": "homeeopaths,",
+   "after": "homoeopaths,"
+  },
+  {
+   "page": 49,
+   "before": "Kati",
+   "after": "Kali"
+  },
+  {
+   "page": 50,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 50,
+   "before": "Chzna",
+   "after": "China"
+  },
+  {
+   "page": 50,
+   "before": "sensttiveness",
+   "after": "sensitiveness"
+  },
+  {
+   "page": 51,
+   "before": "Chzma",
+   "after": "China"
+  },
+  {
+   "page": 51,
+   "before": "biueness,",
+   "after": "blueness,"
+  },
+  {
+   "page": 52,
+   "before": "Aaleness,",
+   "after": "Paleness,"
+  },
+  {
+   "page": 52,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 52,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 53,
+   "before": "Carto",
+   "after": "Carbo"
+  },
+  {
+   "page": 53,
+   "before": "Pulsatzla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 54,
+   "before": "Zartar",
+   "after": "Tartar"
+  },
+  {
+   "page": 55,
+   "before": "Chzna",
+   "after": "China"
+  },
+  {
+   "page": 56,
+   "before": "dzstressingly",
+   "after": "distressingly"
+  },
+  {
+   "page": 58,
+   "before": "dreak",
+   "after": "break"
+  },
+  {
+   "page": 63,
+   "before": "Arsentcum",
+   "after": "Arsenicum"
+  },
+  {
+   "page": 63,
+   "before": "Sudphur",
+   "after": "Sulphur"
+  },
+  {
+   "page": 63,
+   "before": "homceopathists,",
+   "after": "homoeopathists,"
+  },
+  {
+   "page": 64,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 64,
+   "before": "vztal",
+   "after": "vital"
+  },
+  {
+   "page": 65,
+   "before": "durning,",
+   "after": "burnings,"
+  },
+  {
+   "page": 66,
+   "before": "tiem",
+   "after": "them"
+  },
+  {
+   "page": 68,
+   "before": "vertebrze",
+   "after": "vertebrae"
+  },
+  {
+   "page": 69,
+   "before": "Sudphur",
+   "after": "Sulphur"
+  },
+  {
+   "page": 71,
+   "before": "Sudphur,",
+   "after": "Sulphur,"
+  },
+  {
+   "page": 72,
+   "before": "anzemic,",
+   "after": "anaemic,"
+  },
+  {
+   "page": 73,
+   "before": "anzemic",
+   "after": "anaemic"
+  },
+  {
+   "page": 73,
+   "before": "(Sanzcula)",
+   "after": "(Sanicula)"
+  },
+  {
+   "page": 73,
+   "before": "Stlicea",
+   "after": "Silicea"
+  },
+  {
+   "page": 74,
+   "before": "Aedsatzlla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 74,
+   "before": "Stlicea",
+   "after": "Silicea"
+  },
+  {
+   "page": 74,
+   "before": "Szdicea",
+   "after": "Silicea"
+  },
+  {
+   "page": 74,
+   "before": "Sicea",
+   "after": "Silicea"
+  },
+  {
+   "page": 75,
+   "before": "Szlicea",
+   "after": "Silicea"
+  },
+  {
+   "page": 75,
+   "before": "Stlicea",
+   "after": "Silicea"
+  },
+  {
+   "page": 76,
+   "before": "Sidcea",
+   "after": "Silicea"
+  },
+  {
+   "page": 76,
+   "before": "<Acontte,",
+   "after": "<Aconite,"
+  },
+  {
+   "page": 76,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 76,
+   "before": "Acontte",
+   "after": "Aconite"
+  },
+  {
+   "page": 76,
+   "before": "zzadzcated",
+   "after": "indicated"
+  },
+  {
+   "page": 77,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 77,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 77,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 77,
+   "before": "Ojpsum",
+   "after": "Opium"
+  },
+  {
+   "page": 77,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 78,
+   "before": "zot",
+   "after": "not"
+  },
+  {
+   "page": 78,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 78,
+   "before": "Acontite,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 78,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 78,
+   "before": "homceopaths",
+   "after": "homoeopaths"
+  },
+  {
+   "page": 79,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 79,
+   "before": "Pleurtsy,",
+   "after": "Pleurisy,"
+  },
+  {
+   "page": 80,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 81,
+   "before": "dzrns,",
+   "after": "burns,"
+  },
+  {
+   "page": 81,
+   "before": "Cefa",
+   "after": "Cepa"
+  },
+  {
+   "page": 82,
+   "before": "Arsenzc",
+   "after": "Arsenic"
+  },
+  {
+   "page": 82,
+   "before": "Murtatic",
+   "after": "Muriatic"
+  },
+  {
+   "page": 82,
+   "before": "vegetabiles",
+   "after": "vegetabilis"
+  },
+  {
+   "page": 82,
+   "before": "zwdicated",
+   "after": "indicated"
+  },
+  {
+   "page": 83,
+   "before": "papille",
+   "after": "papillae"
+  },
+  {
+   "page": 84,
+   "before": "Arsentcum",
+   "after": "Arsenicum"
+  },
+  {
+   "page": 84,
+   "before": "durning",
+   "after": "burning"
+  },
+  {
+   "page": 84,
+   "before": "Mercurzus,",
+   "after": "Mercurius,"
+  },
+  {
+   "page": 85,
+   "before": "Jgnatza,",
+   "after": "Ignatia,"
+  },
+  {
+   "page": 86,
+   "before": "petechiee,",
+   "after": "petechiae,"
+  },
+  {
+   "page": 86,
+   "before": "durning",
+   "after": "burning"
+  },
+  {
+   "page": 86,
+   "before": "Arsenzc",
+   "after": "Arsenic"
+  },
+  {
+   "page": 87,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 87,
+   "before": "Acontte",
+   "after": "Aconite"
+  },
+  {
+   "page": 87,
+   "before": "Bryonza,",
+   "after": "Bryonia,"
+  },
+  {
+   "page": 87,
+   "before": "chronie",
+   "after": "chronic"
+  },
+  {
+   "page": 88,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 88,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 88,
+   "before": "Arsenzcum,",
+   "after": "Arsenicum,"
+  },
+  {
+   "page": 88,
+   "before": "pneumonta,",
+   "after": "pneumonia,"
+  },
+  {
+   "page": 88,
+   "before": "Baptista,",
+   "after": "Baptisia,"
+  },
+  {
+   "page": 90,
+   "before": "Lrysipelas",
+   "after": "Erysipelas"
+  },
+  {
+   "page": 90,
+   "before": "yaluable",
+   "after": "valuable"
+  },
+  {
+   "page": 90,
+   "before": "czemas",
+   "after": "Eczemas"
+  },
+  {
+   "page": 92,
+   "before": "Cima",
+   "after": "Cina"
+  },
+  {
+   "page": 93,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 93,
+   "before": "guzckness",
+   "after": "quickness"
+  },
+  {
+   "page": 94,
+   "before": "jorward,",
+   "after": "forward,"
+  },
+  {
+   "page": 94,
+   "before": "Lysszv),",
+   "after": "Lyssin),"
+  },
+  {
+   "page": 95,
+   "before": "Zenderness",
+   "after": "Tenderness"
+  },
+  {
+   "page": 95,
+   "before": "chatr,",
+   "after": "chair,"
+  },
+  {
+   "page": 95,
+   "before": "tssue",
+   "after": "issue"
+  },
+  {
+   "page": 96,
+   "before": "AYyoscyamus",
+   "after": "Hyoscyamus"
+  },
+  {
+   "page": 96,
+   "before": "Ayoscyamus",
+   "after": "Hyoscyamus"
+  },
+  {
+   "page": 97,
+   "before": "medicing",
+   "after": "medicine"
+  },
+  {
+   "page": 97,
+   "before": "fozson",
+   "after": "poison"
+  },
+  {
+   "page": 97,
+   "before": "/ascivious",
+   "after": "/lascivious"
+  },
+  {
+   "page": 97,
+   "before": "Ayoscyamus",
+   "after": "Hyoscyamus"
+  },
+  {
+   "page": 97,
+   "before": "Czcuta",
+   "after": "Cicuta"
+  },
+  {
+   "page": 98,
+   "before": "RAus",
+   "after": "Rhus"
+  },
+  {
+   "page": 98,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 99,
+   "before": "Stramontum",
+   "after": "Stramonium"
+  },
+  {
+   "page": 99,
+   "before": "Stramontum",
+   "after": "Stramonium"
+  },
+  {
+   "page": 99,
+   "before": "HHyoscyamus,",
+   "after": "Hyoscyamus,"
+  },
+  {
+   "page": 102,
+   "before": "anzmia",
+   "after": "anemia"
+  },
+  {
+   "page": 102,
+   "before": "Glonoime",
+   "after": "Glonoine"
+  },
+  {
+   "page": 103,
+   "before": "Lacheszs",
+   "after": "Lachests"
+  },
+  {
+   "page": 103,
+   "before": "Zachests",
+   "after": "Lachests"
+  },
+  {
+   "page": 103,
+   "before": "Zacheszs",
+   "after": "Lachests"
+  },
+  {
+   "page": 103,
+   "before": "Zacheszs",
+   "after": "Lachests"
+  },
+  {
+   "page": 104,
+   "before": "Zacheszs,",
+   "after": "Lachesis,"
+  },
+  {
+   "page": 104,
+   "before": "Lacheszs,",
+   "after": "Lachesis,"
+  },
+  {
+   "page": 105,
+   "before": "appearanice,",
+   "after": "appearance,"
+  },
+  {
+   "page": 105,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 105,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 107,
+   "before": "Pazns",
+   "after": "Pains"
+  },
+  {
+   "page": 108,
+   "before": "Zhe",
+   "after": "The"
+  },
+  {
+   "page": 108,
+   "before": "Zacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 109,
+   "before": "Zachesis",
+   "after": "Lachesis"
+  },
+  {
+   "page": 109,
+   "before": "Zacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 110,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 110,
+   "before": "Zacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 111,
+   "before": "Gelsemzum",
+   "after": "Gelsemium"
+  },
+  {
+   "page": 111,
+   "before": "Zachests",
+   "after": "Lachesis"
+  },
+  {
+   "page": 111,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 111,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 112,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 112,
+   "before": "Lacheszs,",
+   "after": "Lachesis,"
+  },
+  {
+   "page": 113,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 113,
+   "before": "Lacheszs,",
+   "after": "Lachesis,"
+  },
+  {
+   "page": 114,
+   "before": "Zryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 114,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 115,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 115,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 117,
+   "before": "anzmic",
+   "after": "anaemic"
+  },
+  {
+   "page": 117,
+   "before": "Homeceopathy",
+   "after": "Homoeopathy"
+  },
+  {
+   "page": 118,
+   "before": "Hlepar",
+   "after": "Hepar"
+  },
+  {
+   "page": 119,
+   "before": "//ydrastis",
+   "after": "//Hydrastis"
+  },
+  {
+   "page": 121,
+   "before": "zmmediately",
+   "after": "immediately"
+  },
+  {
+   "page": 122,
+   "before": "Kati",
+   "after": "Kali"
+  },
+  {
+   "page": 124,
+   "before": "swee/,",
+   "after": "sweety/,"
+  },
+  {
+   "page": 124,
+   "before": "Sepza",
+   "after": "Sepia"
+  },
+  {
+   "page": 124,
+   "before": "frnction,",
+   "after": "function,"
+  },
+  {
+   "page": 124,
+   "before": "homceopaths",
+   "after": "homoeopaths"
+  },
+  {
+   "page": 125,
+   "before": "Bryonta,",
+   "after": "Bryonia,"
+  },
+  {
+   "page": 125,
+   "before": "Jodine",
+   "after": "Iodine"
+  },
+  {
+   "page": 126,
+   "before": "odjectzve",
+   "after": "objective"
+  },
+  {
+   "page": 126,
+   "before": "Simla",
+   "after": "Similia"
+  },
+  {
+   "page": 127,
+   "before": "homceopaths",
+   "after": "homoeopaths"
+  },
+  {
+   "page": 128,
+   "before": "Kalz",
+   "after": "Kali"
+  },
+  {
+   "page": 128,
+   "before": "Aconzte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 129,
+   "before": "Avsenic",
+   "after": "Arsenic"
+  },
+  {
+   "page": 129,
+   "before": "screains",
+   "after": "screams"
+  },
+  {
+   "page": 130,
+   "before": "Baptista",
+   "after": "Baptisia"
+  },
+  {
+   "page": 131,
+   "before": "potson",
+   "after": "poison"
+  },
+  {
+   "page": 131,
+   "before": "Haknemannian",
+   "after": "Hahnemannian"
+  },
+  {
+   "page": 131,
+   "before": "zenderness",
+   "after": "tenderness"
+  },
+  {
+   "page": 132,
+   "before": "hts",
+   "after": "his"
+  },
+  {
+   "page": 132,
+   "before": "temedy",
+   "after": "remedy"
+  },
+  {
+   "page": 134,
+   "before": "homeceopathist",
+   "after": "homoeopathist"
+  },
+  {
+   "page": 134,
+   "before": "Caztharis",
+   "after": "Cantharis"
+  },
+  {
+   "page": 134,
+   "before": "gteat",
+   "after": "great"
+  },
+  {
+   "page": 135,
+   "before": "durnzng,",
+   "after": "burnings,"
+  },
+  {
+   "page": 135,
+   "before": "durning",
+   "after": "burning"
+  },
+  {
+   "page": 135,
+   "before": "durnings",
+   "after": "burnings"
+  },
+  {
+   "page": 136,
+   "before": "zxcrease",
+   "after": "increase"
+  },
+  {
+   "page": 137,
+   "before": "zntense",
+   "after": "intense"
+  },
+  {
+   "page": 138,
+   "before": "Swlphur,",
+   "after": "Sulphur,"
+  },
+  {
+   "page": 140,
+   "before": "Chamomiila",
+   "after": "Chamomilla"
+  },
+  {
+   "page": 141,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 141,
+   "before": "Chamomilia",
+   "after": "Chamomilla"
+  },
+  {
+   "page": 141,
+   "before": "Aconztte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 141,
+   "before": "Lgnatia,",
+   "after": "Ignatia,"
+  },
+  {
+   "page": 141,
+   "before": "sensztzve",
+   "after": "sensitive"
+  },
+  {
+   "page": 142,
+   "before": "Pulsatilia,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 142,
+   "before": "xumdbness",
+   "after": "numbness"
+  },
+  {
+   "page": 142,
+   "before": "symptomis",
+   "after": "symptoms"
+  },
+  {
+   "page": 143,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 143,
+   "before": "Chamomitla",
+   "after": "Chamomilla"
+  },
+  {
+   "page": 144,
+   "before": "whzle",
+   "after": "while"
+  },
+  {
+   "page": 144,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 145,
+   "before": "Chamomitla",
+   "after": "Chamomilla"
+  },
+  {
+   "page": 145,
+   "before": "partecularly",
+   "after": "particularly"
+  },
+  {
+   "page": 145,
+   "before": "passtve",
+   "after": "passive"
+  },
+  {
+   "page": 145,
+   "before": "tdeas,",
+   "after": "ideas,"
+  },
+  {
+   "page": 145,
+   "before": "Aconzte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 145,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 147,
+   "before": "Aconzte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 147,
+   "before": "szlent",
+   "after": "silent"
+  },
+  {
+   "page": 147,
+   "before": "Jgnata",
+   "after": "Ignatia"
+  },
+  {
+   "page": 147,
+   "before": "Jenatia",
+   "after": "Ignatia"
+  },
+  {
+   "page": 147,
+   "before": "Jgaatia",
+   "after": "Ignatia"
+  },
+  {
+   "page": 147,
+   "before": "/gynatia",
+   "after": "/Ignatia"
+  },
+  {
+   "page": 147,
+   "before": "Jgnatza",
+   "after": "Ignatia"
+  },
+  {
+   "page": 148,
+   "before": "Jgnatza",
+   "after": "Ignatia"
+  },
+  {
+   "page": 148,
+   "before": "Jgnatza",
+   "after": "Ignatia"
+  },
+  {
+   "page": 148,
+   "before": "<Aconzte,",
+   "after": "<Aconite,"
+  },
+  {
+   "page": 148,
+   "before": "[gnatia",
+   "after": "[Ignatia"
+  },
+  {
+   "page": 148,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 149,
+   "before": "/gzatia",
+   "after": "/Ignatia"
+  },
+  {
+   "page": 149,
+   "before": "/gnatia",
+   "after": "/Ignatia"
+  },
+  {
+   "page": 149,
+   "before": "Jgnatia",
+   "after": "Ignatia"
+  },
+  {
+   "page": 149,
+   "before": "grzeved",
+   "after": "grieved"
+  },
+  {
+   "page": 150,
+   "before": "/enatia",
+   "after": "/Ignatia"
+  },
+  {
+   "page": 150,
+   "before": "relzeved",
+   "after": "relieved"
+  },
+  {
+   "page": 150,
+   "before": "Homceopathy,",
+   "after": "Homoeopathy,"
+  },
+  {
+   "page": 150,
+   "before": "uxusual",
+   "after": "unusual"
+  },
+  {
+   "page": 150,
+   "before": "/gnatza",
+   "after": "/Ignatia"
+  },
+  {
+   "page": 150,
+   "before": "Zacheszs,",
+   "after": "Lachesis,"
+  },
+  {
+   "page": 150,
+   "before": "Baptista,",
+   "after": "Baptisia,"
+  },
+  {
+   "page": 150,
+   "before": "Jgnatza,",
+   "after": "Ignatia,"
+  },
+  {
+   "page": 150,
+   "before": "Jgnatza",
+   "after": "Ignatia"
+  },
+  {
+   "page": 151,
+   "before": "Jpecacuanha",
+   "after": "Ipecacuanha"
+  },
+  {
+   "page": 151,
+   "before": "lgnatia",
+   "after": "Ignatia"
+  },
+  {
+   "page": 151,
+   "before": "Jgzatia",
+   "after": "Ignatia"
+  },
+  {
+   "page": 151,
+   "before": "whiich",
+   "after": "which"
+  },
+  {
+   "page": 152,
+   "before": "Lupatorium",
+   "after": "Eupatorium"
+  },
+  {
+   "page": 154,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 154,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 155,
+   "before": "Bryonza,",
+   "after": "Bryonia,"
+  },
+  {
+   "page": 155,
+   "before": "Bryonta",
+   "after": "Bryonia"
+  },
+  {
+   "page": 155,
+   "before": "distenston",
+   "after": "distension"
+  },
+  {
+   "page": 156,
+   "before": "kernza",
+   "after": "hernia"
+  },
+  {
+   "page": 156,
+   "before": "grepeng,",
+   "after": "griping,"
+  },
+  {
+   "page": 156,
+   "before": "Coccudus",
+   "after": "Cocculus"
+  },
+  {
+   "page": 156,
+   "before": "Coccudus",
+   "after": "Cocculus"
+  },
+  {
+   "page": 156,
+   "before": "Coccudus,",
+   "after": "Cocculus,"
+  },
+  {
+   "page": 157,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 158,
+   "before": "Contum",
+   "after": "Conium"
+  },
+  {
+   "page": 158,
+   "before": "Conzum",
+   "after": "Conium"
+  },
+  {
+   "page": 158,
+   "before": "Conzum",
+   "after": "Conium"
+  },
+  {
+   "page": 158,
+   "before": "Siliea",
+   "after": "Silicea"
+  },
+  {
+   "page": 158,
+   "before": "Stlicea,",
+   "after": "Silicea,"
+  },
+  {
+   "page": 158,
+   "before": "Jarge,",
+   "after": "Large,"
+  },
+  {
+   "page": 158,
+   "before": "Conzum",
+   "after": "Conium"
+  },
+  {
+   "page": 158,
+   "before": "Contum",
+   "after": "Conium"
+  },
+  {
+   "page": 159,
+   "before": "Conzum",
+   "after": "Conium"
+  },
+  {
+   "page": 159,
+   "before": "Conzum",
+   "after": "Conium"
+  },
+  {
+   "page": 159,
+   "before": "Conzum",
+   "after": "Conium"
+  },
+  {
+   "page": 160,
+   "before": "notse,",
+   "after": "noise,"
+  },
+  {
+   "page": 161,
+   "before": "Jenatia,",
+   "after": "Ignatia,"
+  },
+  {
+   "page": 161,
+   "before": "Esculus,",
+   "after": "Sculus,"
+  },
+  {
+   "page": 162,
+   "before": "Jron",
+   "after": "Iron"
+  },
+  {
+   "page": 162,
+   "before": "Telieve",
+   "after": "Relieve"
+  },
+  {
+   "page": 163,
+   "before": "toxtcodendron,",
+   "after": "toxicodendron,"
+  },
+  {
+   "page": 163,
+   "before": "Zencum",
+   "after": "Zincum"
+  },
+  {
+   "page": 163,
+   "before": "Zizc",
+   "after": "Zinc"
+  },
+  {
+   "page": 163,
+   "before": "Codait",
+   "after": "Cobalt"
+  },
+  {
+   "page": 163,
+   "before": "Zznc",
+   "after": "Zinc"
+  },
+  {
+   "page": 163,
+   "before": "[gnatia",
+   "after": "[Ignatia"
+  },
+  {
+   "page": 164,
+   "before": "Gelsemzum",
+   "after": "Gelsemium"
+  },
+  {
+   "page": 164,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 165,
+   "before": "Zzncum",
+   "after": "Zincum"
+  },
+  {
+   "page": 165,
+   "before": "Staxnum",
+   "after": "Stannum"
+  },
+  {
+   "page": 166,
+   "before": "Bryonzia",
+   "after": "Bryonia"
+  },
+  {
+   "page": 166,
+   "before": "Tilusion",
+   "after": "Illusion"
+  },
+  {
+   "page": 167,
+   "before": "Jynatia,",
+   "after": "Ignatia,"
+  },
+  {
+   "page": 167,
+   "before": "Acontte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 167,
+   "before": "zncrease",
+   "after": "increase"
+  },
+  {
+   "page": 168,
+   "before": "Chamomitlla",
+   "after": "Chamomilla"
+  },
+  {
+   "page": 169,
+   "before": "Stanaum,",
+   "after": "Stannum,"
+  },
+  {
+   "page": 169,
+   "before": "Stamnum,",
+   "after": "Stannum,"
+  },
+  {
+   "page": 169,
+   "before": "Selenzum",
+   "after": "Selenium"
+  },
+  {
+   "page": 169,
+   "before": "Sedentum",
+   "after": "Selenium"
+  },
+  {
+   "page": 169,
+   "before": "(Sarsaparilia",
+   "after": "(Sarsaparilla"
+  },
+  {
+   "page": 171,
+   "before": "anzemic",
+   "after": "anaemic"
+  },
+  {
+   "page": 172,
+   "before": "Aconzte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 172,
+   "before": "Zacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 173,
+   "before": "whith",
+   "after": "which"
+  },
+  {
+   "page": 173,
+   "before": "/odine,",
+   "after": "/Iodine,"
+  },
+  {
+   "page": 174,
+   "before": "Pulsatilia,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 174,
+   "before": "Hydrastes,",
+   "after": "Hydrastis,"
+  },
+  {
+   "page": 175,
+   "before": "pazn",
+   "after": "pain"
+  },
+  {
+   "page": 175,
+   "before": "znclined",
+   "after": "inclined"
+  },
+  {
+   "page": 175,
+   "before": "¢vemdles",
+   "after": "¢trembles"
+  },
+  {
+   "page": 178,
+   "before": "Sefza",
+   "after": "Sepia"
+  },
+  {
+   "page": 178,
+   "before": "Sefza,",
+   "after": "Sepia,"
+  },
+  {
+   "page": 180,
+   "before": "Sefza",
+   "after": "Sepia"
+  },
+  {
+   "page": 180,
+   "before": "Sepza",
+   "after": "Sepia"
+  },
+  {
+   "page": 180,
+   "before": "Pulsadzlla,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 180,
+   "before": "Pulsaizia",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 181,
+   "before": "Sefza",
+   "after": "Sepia"
+  },
+  {
+   "page": 181,
+   "before": "Sefza",
+   "after": "Sepia"
+  },
+  {
+   "page": 181,
+   "before": "¢errific",
+   "after": "¢terrific"
+  },
+  {
+   "page": 181,
+   "before": "(Caustecum,",
+   "after": "(Causticum,"
+  },
+  {
+   "page": 181,
+   "before": "Sepza",
+   "after": "Sepia"
+  },
+  {
+   "page": 182,
+   "before": "Sefza",
+   "after": "Sepia"
+  },
+  {
+   "page": 182,
+   "before": "Sefza,",
+   "after": "Sepia,"
+  },
+  {
+   "page": 182,
+   "before": "Sepa",
+   "after": "Sepia"
+  },
+  {
+   "page": 182,
+   "before": "Sefza,",
+   "after": "Sepia,"
+  },
+  {
+   "page": 183,
+   "before": "Sefza,",
+   "after": "Sepia,"
+  },
+  {
+   "page": 183,
+   "before": "Sepza",
+   "after": "Sepia"
+  },
+  {
+   "page": 183,
+   "before": "Sefza",
+   "after": "Sepia"
+  },
+  {
+   "page": 184,
+   "before": "szzking,",
+   "after": "sinkings,"
+  },
+  {
+   "page": 184,
+   "before": "stt",
+   "after": "sit"
+  },
+  {
+   "page": 184,
+   "before": "Sefza",
+   "after": "Sepia"
+  },
+  {
+   "page": 184,
+   "before": "Sefza",
+   "after": "Septa"
+  },
+  {
+   "page": 184,
+   "before": "Sega",
+   "after": "Sepia"
+  },
+  {
+   "page": 185,
+   "before": "Ziiium",
+   "after": "Lilium"
+  },
+  {
+   "page": 185,
+   "before": "Lzlium",
+   "after": "Lilium"
+  },
+  {
+   "page": 185,
+   "before": "Pxdsatzlla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 185,
+   "before": "zmperative",
+   "after": "imperative"
+  },
+  {
+   "page": 186,
+   "before": "/ulsatilla,",
+   "after": "/Pulsatilla,"
+  },
+  {
+   "page": 186,
+   "before": "Zygot",
+   "after": "Ergot"
+  },
+  {
+   "page": 187,
+   "before": "heemorrhages,",
+   "after": "haemorrhages,"
+  },
+  {
+   "page": 188,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 188,
+   "before": "phystological",
+   "after": "physiological"
+  },
+  {
+   "page": 188,
+   "before": "homceopathically",
+   "after": "homoeopathically"
+  },
+  {
+   "page": 188,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 188,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 188,
+   "before": "xatural",
+   "after": "natural"
+  },
+  {
+   "page": 188,
+   "before": "Secade",
+   "after": "Secale"
+  },
+  {
+   "page": 189,
+   "before": "mumbness,",
+   "after": "numbness,"
+  },
+  {
+   "page": 190,
+   "before": "znternal",
+   "after": "internal"
+  },
+  {
+   "page": 192,
+   "before": "Pxlsatilla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 193,
+   "before": "eadinmg",
+   "after": "leading"
+  },
+  {
+   "page": 194,
+   "before": "/elonias",
+   "after": "/Helonias"
+  },
+  {
+   "page": 194,
+   "before": "(AJelzlotus)",
+   "after": "(Melilotus)"
+  },
+  {
+   "page": 194,
+   "before": "hzemorrhoids,",
+   "after": "haemorrhoids,"
+  },
+  {
+   "page": 194,
+   "before": "tvritation",
+   "after": "irritation"
+  },
+  {
+   "page": 194,
+   "before": "Jasting",
+   "after": "Lasting"
+  },
+  {
+   "page": 195,
+   "before": "Aconzte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 196,
+   "before": "Homceopathy",
+   "after": "Homoeopathy"
+  },
+  {
+   "page": 196,
+   "before": "Dzgztals",
+   "after": "Digitalis"
+  },
+  {
+   "page": 197,
+   "before": "Digztalzs",
+   "after": "Digitalis"
+  },
+  {
+   "page": 197,
+   "before": "Digztalis",
+   "after": "Digitalis"
+  },
+  {
+   "page": 197,
+   "before": "Digztalis",
+   "after": "Digitalis"
+  },
+  {
+   "page": 198,
+   "before": "Digztalzs",
+   "after": "Digitalis"
+  },
+  {
+   "page": 198,
+   "before": "(GrindeHa",
+   "after": "(Grindelia"
+  },
+  {
+   "page": 198,
+   "before": "(Jodine",
+   "after": "(Iodine"
+  },
+  {
+   "page": 198,
+   "before": "Likum",
+   "after": "Lilium"
+  },
+  {
+   "page": 200,
+   "before": "(Aconzte;",
+   "after": "(Aconite;"
+  },
+  {
+   "page": 200,
+   "before": "vistble",
+   "after": "visible"
+  },
+  {
+   "page": 201,
+   "before": "Spzgelza",
+   "after": "Spigelia"
+  },
+  {
+   "page": 201,
+   "before": "Kalmza",
+   "after": "Kalmia"
+  },
+  {
+   "page": 201,
+   "before": "Kalmza",
+   "after": "Kalmia"
+  },
+  {
+   "page": 201,
+   "before": "Kalmza",
+   "after": "Kalmia"
+  },
+  {
+   "page": 202,
+   "before": "Kalmza",
+   "after": "Kalmia"
+  },
+  {
+   "page": 202,
+   "before": "Spigelza,",
+   "after": "Spigelia,"
+  },
+  {
+   "page": 202,
+   "before": "Aconzte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 202,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 202,
+   "before": "ferszstent",
+   "after": "persistent"
+  },
+  {
+   "page": 202,
+   "before": "/pecacuanha",
+   "after": "/Ipecacuanha"
+  },
+  {
+   "page": 202,
+   "before": "Pxdsatilla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 202,
+   "before": "/pecacuanha",
+   "after": "/Ipecacuanha"
+  },
+  {
+   "page": 203,
+   "before": "/pecacuanha,",
+   "after": "/Ipecacuanha,"
+  },
+  {
+   "page": 203,
+   "before": "Dizgztalzs",
+   "after": "Digitalis"
+  },
+  {
+   "page": 203,
+   "before": "[pecacuanha",
+   "after": "[Ipecacuanha"
+  },
+  {
+   "page": 203,
+   "before": "Jpecacuanha",
+   "after": "Ipecacuanha"
+  },
+  {
+   "page": 203,
+   "before": "/pecacuanha",
+   "after": "/Ipecacuanha"
+  },
+  {
+   "page": 204,
+   "before": "sunkeni,",
+   "after": "sunken,"
+  },
+  {
+   "page": 204,
+   "before": "Arsenzcum",
+   "after": "Arsenicum"
+  },
+  {
+   "page": 204,
+   "before": "/pecacuanha,",
+   "after": "/Ipecacuanha,"
+  },
+  {
+   "page": 204,
+   "before": "anxtety",
+   "after": "anxiety"
+  },
+  {
+   "page": 204,
+   "before": "pase",
+   "after": "pas"
+  },
+  {
+   "page": 205,
+   "before": "/pecacuanha",
+   "after": "/Ipecacuanha"
+  },
+  {
+   "page": 205,
+   "before": "/pecacuanha",
+   "after": "/Ipecacuanha"
+  },
+  {
+   "page": 205,
+   "before": "[pecacuanha",
+   "after": "[Ipecacuanha"
+  },
+  {
+   "page": 206,
+   "before": "heemorrhages,",
+   "after": "haemorrhages,"
+  },
+  {
+   "page": 206,
+   "before": "hzemorrhages",
+   "after": "haemorrhages"
+  },
+  {
+   "page": 207,
+   "before": "homceopaths,",
+   "after": "homoeopaths,"
+  },
+  {
+   "page": 207,
+   "before": "//ecac",
+   "after": "//Ipecac"
+  },
+  {
+   "page": 207,
+   "before": "homeeopathic,",
+   "after": "homoeopathic,"
+  },
+  {
+   "page": 207,
+   "before": "uncever",
+   "after": "uncover"
+  },
+  {
+   "page": 208,
+   "before": "Jutermuttent",
+   "after": "Intermittent"
+  },
+  {
+   "page": 209,
+   "before": "szmzlia",
+   "after": "similia"
+  },
+  {
+   "page": 209,
+   "before": "[pecacuanha,",
+   "after": "[Ipecacuanha,"
+  },
+  {
+   "page": 209,
+   "before": "anv",
+   "after": "any"
+  },
+  {
+   "page": 209,
+   "before": "zame",
+   "after": "name"
+  },
+  {
+   "page": 210,
+   "before": "Zartar",
+   "after": "Tartar"
+  },
+  {
+   "page": 210,
+   "before": "Zartar",
+   "after": "Tartar"
+  },
+  {
+   "page": 210,
+   "before": "temaining",
+   "after": "remaining"
+  },
+  {
+   "page": 211,
+   "before": "mutus",
+   "after": "mucus"
+  },
+  {
+   "page": 211,
+   "before": "[ris",
+   "after": "[Iris"
+  },
+  {
+   "page": 211,
+   "before": "Sfigeda),",
+   "after": "Spigelia),"
+  },
+  {
+   "page": 213,
+   "before": "Jgnatza,",
+   "after": "Ignatia,"
+  },
+  {
+   "page": 213,
+   "before": "growzng",
+   "after": "growing"
+  },
+  {
+   "page": 213,
+   "before": "actd,",
+   "after": "acid,"
+  },
+  {
+   "page": 214,
+   "before": "Arica",
+   "after": "Arnica"
+  },
+  {
+   "page": 214,
+   "before": "Arzzca",
+   "after": "Arnica"
+  },
+  {
+   "page": 214,
+   "before": "Baptista,",
+   "after": "Baptisia,"
+  },
+  {
+   "page": 214,
+   "before": "petechize",
+   "after": "petechiae"
+  },
+  {
+   "page": 215,
+   "before": "Chzxa",
+   "after": "China"
+  },
+  {
+   "page": 215,
+   "before": "Chzna,",
+   "after": "China,"
+  },
+  {
+   "page": 216,
+   "before": "Jenatia",
+   "after": "Ignatia"
+  },
+  {
+   "page": 216,
+   "before": "Muriatzc",
+   "after": "Muriatic"
+  },
+  {
+   "page": 217,
+   "before": "(Jynatia,",
+   "after": "(Ignatia,"
+  },
+  {
+   "page": 217,
+   "before": "fnd",
+   "after": "find"
+  },
+  {
+   "page": 218,
+   "before": "(Ratanhza),",
+   "after": "(Ratanhia),"
+  },
+  {
+   "page": 218,
+   "before": "tzme,",
+   "after": "time,"
+  },
+  {
+   "page": 218,
+   "before": "Benzotc",
+   "after": "Benzoic"
+  },
+  {
+   "page": 219,
+   "before": "sudbjecteve",
+   "after": "subjective"
+  },
+  {
+   "page": 219,
+   "before": "Thiaspi),",
+   "after": "Thlaspi),"
+  },
+  {
+   "page": 219,
+   "before": "acd",
+   "after": "acid"
+  },
+  {
+   "page": 220,
+   "before": "xervous",
+   "after": "nervous"
+  },
+  {
+   "page": 221,
+   "before": "Gelsemzum,",
+   "after": "Gelsemium,"
+  },
+  {
+   "page": 221,
+   "before": "sweflings",
+   "after": "swellings"
+  },
+  {
+   "page": 221,
+   "before": "axzllary,",
+   "after": "axillary,"
+  },
+  {
+   "page": 222,
+   "before": "congue",
+   "after": "tongue"
+  },
+  {
+   "page": 222,
+   "before": "‘vembling",
+   "after": "‘trembling"
+  },
+  {
+   "page": 225,
+   "before": "Sanguznaria,",
+   "after": "Sanguinaria,"
+  },
+  {
+   "page": 225,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 225,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 225,
+   "before": "Baftesca",
+   "after": "Baptisia"
+  },
+  {
+   "page": 225,
+   "before": "Baptisza,",
+   "after": "Baptisia,"
+  },
+  {
+   "page": 225,
+   "before": "Bapizsta",
+   "after": "Baptisia"
+  },
+  {
+   "page": 226,
+   "before": "ptostration",
+   "after": "prostration"
+  },
+  {
+   "page": 226,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 226,
+   "before": "Baptzsza",
+   "after": "Baptisia"
+  },
+  {
+   "page": 227,
+   "before": "Baptista",
+   "after": "Baptisia"
+  },
+  {
+   "page": 227,
+   "before": "/ocal",
+   "after": "/local"
+  },
+  {
+   "page": 227,
+   "before": "Acontte",
+   "after": "Aconite"
+  },
+  {
+   "page": 227,
+   "before": "aneemic",
+   "after": "anaemic"
+  },
+  {
+   "page": 229,
+   "before": "xatural",
+   "after": "natural"
+  },
+  {
+   "page": 229,
+   "before": "Optum",
+   "after": "Opium"
+  },
+  {
+   "page": 230,
+   "before": "wivride",
+   "after": "viride"
+  },
+  {
+   "page": 230,
+   "before": "remiedy",
+   "after": "remedy"
+  },
+  {
+   "page": 232,
+   "before": "gteedy",
+   "after": "greedy"
+  },
+  {
+   "page": 234,
+   "before": "excesszvely",
+   "after": "excessively"
+  },
+  {
+   "page": 234,
+   "before": "Cima",
+   "after": "Cina"
+  },
+  {
+   "page": 235,
+   "before": "Avzica",
+   "after": "Arnica"
+  },
+  {
+   "page": 235,
+   "before": "Czcuta",
+   "after": "Cicuta"
+  },
+  {
+   "page": 235,
+   "before": "Gelsemzum,",
+   "after": "Gelsemium,"
+  },
+  {
+   "page": 236,
+   "before": "paralysts,”",
+   "after": "paralysis,”"
+  },
+  {
+   "page": 236,
+   "before": "paralysts",
+   "after": "paralysis"
+  },
+  {
+   "page": 236,
+   "before": "(Lacheszs",
+   "after": "(Lachests"
+  },
+  {
+   "page": 237,
+   "before": "Sudphur,",
+   "after": "Sulphur,"
+  },
+  {
+   "page": 237,
+   "before": "Sudphur",
+   "after": "Sulphur"
+  },
+  {
+   "page": 238,
+   "before": "symptomis",
+   "after": "symptoms"
+  },
+  {
+   "page": 238,
+   "before": "Caustzcum",
+   "after": "Causticum"
+  },
+  {
+   "page": 240,
+   "before": "homceopath",
+   "after": "homoeopath"
+  },
+  {
+   "page": 240,
+   "before": "Caustzcum",
+   "after": "Causticum"
+  },
+  {
+   "page": 240,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 241,
+   "before": "Caustecum,",
+   "after": "Causticum,"
+  },
+  {
+   "page": 241,
+   "before": "toxtcodendron,",
+   "after": "toxicodendron,"
+  },
+  {
+   "page": 241,
+   "before": "Causte-",
+   "after": "Caustic-"
+  },
+  {
+   "page": 243,
+   "before": "Chzna",
+   "after": "China"
+  },
+  {
+   "page": 243,
+   "before": "caz",
+   "after": "can"
+  },
+  {
+   "page": 244,
+   "before": "HYepar",
+   "after": "Hepar"
+  },
+  {
+   "page": 244,
+   "before": "Hepfar",
+   "after": "Hepar"
+  },
+  {
+   "page": 244,
+   "before": "/eadzng",
+   "after": "/leading"
+  },
+  {
+   "page": 245,
+   "before": "Hefar",
+   "after": "Hepar"
+  },
+  {
+   "page": 245,
+   "before": "Doltchos",
+   "after": "Dolichos"
+  },
+  {
+   "page": 245,
+   "before": "Miric",
+   "after": "Nitric"
+  },
+  {
+   "page": 246,
+   "before": "Hepfar",
+   "after": "Hepar"
+  },
+  {
+   "page": 247,
+   "before": "Mercurzus",
+   "after": "Mercurius"
+  },
+  {
+   "page": 249,
+   "before": "regudar",
+   "after": "regular"
+  },
+  {
+   "page": 250,
+   "before": "homceopath",
+   "after": "homoeopath"
+  },
+  {
+   "page": 250,
+   "before": "Psorznum",
+   "after": "Psorinum"
+  },
+  {
+   "page": 251,
+   "before": "Chzxa",
+   "after": "China"
+  },
+  {
+   "page": 251,
+   "before": "Chzza",
+   "after": "China"
+  },
+  {
+   "page": 251,
+   "before": "drowz,",
+   "after": "brown,"
+  },
+  {
+   "page": 251,
+   "before": "Graphztes",
+   "after": "Graphites"
+  },
+  {
+   "page": 251,
+   "before": "Staphesagria",
+   "after": "Staphisagria"
+  },
+  {
+   "page": 251,
+   "before": "/arge,",
+   "after": "/large,"
+  },
+  {
+   "page": 251,
+   "before": "unzted",
+   "after": "united"
+  },
+  {
+   "page": 252,
+   "before": "Graphztes",
+   "after": "Graphites"
+  },
+  {
+   "page": 253,
+   "before": "Psorznum,",
+   "after": "Psorinum,"
+  },
+  {
+   "page": 253,
+   "before": "Syfhzlimum,",
+   "after": "Syphilinum,"
+  },
+  {
+   "page": 253,
+   "before": "provengs",
+   "after": "provings"
+  },
+  {
+   "page": 253,
+   "before": "Psortnum",
+   "after": "Psorinum"
+  },
+  {
+   "page": 254,
+   "before": "Graphztes",
+   "after": "Graphites"
+  },
+  {
+   "page": 254,
+   "before": "zxtolerably",
+   "after": "intolerably"
+  },
+  {
+   "page": 255,
+   "before": "Psorizzum",
+   "after": "Psorinum"
+  },
+  {
+   "page": 255,
+   "before": "(//epar),",
+   "after": "(//Hepar),"
+  },
+  {
+   "page": 256,
+   "before": "deszres",
+   "after": "desires"
+  },
+  {
+   "page": 257,
+   "before": "Fluortc",
+   "after": "Fluoric"
+  },
+  {
+   "page": 257,
+   "before": "tuddy,",
+   "after": "ruddy,"
+  },
+  {
+   "page": 258,
+   "before": "(Fluortc",
+   "after": "(Fluoric"
+  },
+  {
+   "page": 258,
+   "before": "voung",
+   "after": "young"
+  },
+  {
+   "page": 258,
+   "before": "Guzding",
+   "after": "Guiding"
+  },
+  {
+   "page": 259,
+   "before": "Avgentum",
+   "after": "Argentum"
+  },
+  {
+   "page": 259,
+   "before": "Homceopath",
+   "after": "Homoeopath"
+  },
+  {
+   "page": 260,
+   "before": "swelliug",
+   "after": "swelling"
+  },
+  {
+   "page": 260,
+   "before": "papille",
+   "after": "papillae"
+  },
+  {
+   "page": 262,
+   "before": "Avgentum",
+   "after": "Argentum"
+  },
+  {
+   "page": 262,
+   "before": "dassttude",
+   "after": "lassitude"
+  },
+  {
+   "page": 263,
+   "before": "anzemia",
+   "after": "anaemia"
+  },
+  {
+   "page": 264,
+   "before": "anzemia,",
+   "after": "anaemia,"
+  },
+  {
+   "page": 264,
+   "before": "aneemia",
+   "after": "anaemia"
+  },
+  {
+   "page": 264,
+   "before": "anzemia,",
+   "after": "anaemia,"
+  },
+  {
+   "page": 264,
+   "before": "anzemia",
+   "after": "anaemia"
+  },
+  {
+   "page": 265,
+   "before": "ved,",
+   "after": "red,"
+  },
+  {
+   "page": 266,
+   "before": "Jron",
+   "after": "Iron"
+  },
+  {
+   "page": 266,
+   "before": "hzemorrhages",
+   "after": "haemorrhages"
+  },
+  {
+   "page": 266,
+   "before": "anzemic",
+   "after": "anaemic"
+  },
+  {
+   "page": 266,
+   "before": "hzemorrhagic",
+   "after": "haemorrhagic"
+  },
+  {
+   "page": 267,
+   "before": "Jron,",
+   "after": "Iron,"
+  },
+  {
+   "page": 268,
+   "before": "sensatzon",
+   "after": "sensation"
+  },
+  {
+   "page": 269,
+   "before": "wxder",
+   "after": "under"
+  },
+  {
+   "page": 270,
+   "before": "Chelidontum",
+   "after": "Chelidonium"
+  },
+  {
+   "page": 271,
+   "before": "telieving",
+   "after": "relieving"
+  },
+  {
+   "page": 272,
+   "before": "Leftandra",
+   "after": "Leptandra"
+  },
+  {
+   "page": 272,
+   "before": "oficinalis”",
+   "after": "officinalis”"
+  },
+  {
+   "page": 272,
+   "before": "Leftandra",
+   "after": "Leptandra"
+  },
+  {
+   "page": 272,
+   "before": "fetzd,",
+   "after": "fetid,"
+  },
+  {
+   "page": 273,
+   "before": "numdbness,",
+   "after": "numbness,"
+  },
+  {
+   "page": 273,
+   "before": "/ameness,",
+   "after": "/lameness,"
+  },
+  {
+   "page": 273,
+   "before": "Sufferengs",
+   "after": "Sufferings"
+  },
+  {
+   "page": 274,
+   "before": "Berdberzs,",
+   "after": "Berberis,"
+  },
+  {
+   "page": 274,
+   "before": "Zurpentine",
+   "after": "Turpentine"
+  },
+  {
+   "page": 274,
+   "before": "Berdberts",
+   "after": "Berberis"
+  },
+  {
+   "page": 274,
+   "before": "blocd",
+   "after": "blood"
+  },
+  {
+   "page": 274,
+   "before": "TZerebinth",
+   "after": "Terebinth"
+  },
+  {
+   "page": 274,
+   "before": "gteat",
+   "after": "great"
+  },
+  {
+   "page": 275,
+   "before": "AMercurius",
+   "after": "Mercurius"
+  },
+  {
+   "page": 276,
+   "before": "Pwlsatilla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 276,
+   "before": "Swdphur",
+   "after": "Sulphur"
+  },
+  {
+   "page": 276,
+   "before": "wrinous",
+   "after": "urinous"
+  },
+  {
+   "page": 276,
+   "before": "Benzotc",
+   "after": "Benzoic"
+  },
+  {
+   "page": 276,
+   "before": "Benzozc",
+   "after": "Benzoic"
+  },
+  {
+   "page": 276,
+   "before": "Berberts",
+   "after": "Berberis"
+  },
+  {
+   "page": 276,
+   "before": "Benzozc",
+   "after": "Benzoic"
+  },
+  {
+   "page": 277,
+   "before": "Sarsapariila",
+   "after": "Sarsaparilla"
+  },
+  {
+   "page": 277,
+   "before": "Sarsaparila",
+   "after": "Sarsaparilla"
+  },
+  {
+   "page": 277,
+   "before": "lodine,",
+   "after": "Iodine,"
+  },
+  {
+   "page": 277,
+   "before": "Santcula,",
+   "after": "Sanicula,"
+  },
+  {
+   "page": 278,
+   "before": "Jodine,",
+   "after": "Iodine,"
+  },
+  {
+   "page": 278,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 278,
+   "before": "/egs",
+   "after": "/legs"
+  },
+  {
+   "page": 279,
+   "before": "vellow",
+   "after": "yellow"
+  },
+  {
+   "page": 279,
+   "before": "temedy",
+   "after": "remedy"
+  },
+  {
+   "page": 279,
+   "before": "agaznst",
+   "after": "against"
+  },
+  {
+   "page": 280,
+   "before": "homceopathist",
+   "after": "homoeopathist"
+  },
+  {
+   "page": 280,
+   "before": "chotce",
+   "after": "choice"
+  },
+  {
+   "page": 280,
+   "before": "/pecac,",
+   "after": "/Ipecac,"
+  },
+  {
+   "page": 281,
+   "before": "sexse",
+   "after": "sense"
+  },
+  {
+   "page": 282,
+   "before": "Murtatic",
+   "after": "Muriatic"
+  },
+  {
+   "page": 283,
+   "before": "Arvgentum",
+   "after": "Argentum"
+  },
+  {
+   "page": 283,
+   "before": "Cfzna",
+   "after": "China"
+  },
+  {
+   "page": 284,
+   "before": "valuabl®",
+   "after": "valuable®"
+  },
+  {
+   "page": 284,
+   "before": "Szlphur",
+   "after": "Sulphur"
+  },
+  {
+   "page": 284,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 284,
+   "before": "Bryonza,",
+   "after": "Bryonia,"
+  },
+  {
+   "page": 284,
+   "before": "NVatrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 284,
+   "before": "NMatrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 284,
+   "before": "Chzna,",
+   "after": "China,"
+  },
+  {
+   "page": 284,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 285,
+   "before": "Bryonta",
+   "after": "Bryonia"
+  },
+  {
+   "page": 285,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 285,
+   "before": "Bryonza,",
+   "after": "Bryonia,"
+  },
+  {
+   "page": 285,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 285,
+   "before": "Sudphur",
+   "after": "Sulphur"
+  },
+  {
+   "page": 286,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 287,
+   "before": "Pudsatilla,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 287,
+   "before": "Pxdsatlla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 287,
+   "before": "anzemic",
+   "after": "anaemic"
+  },
+  {
+   "page": 287,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 287,
+   "before": "anzemic,",
+   "after": "anaemic,"
+  },
+  {
+   "page": 287,
+   "before": "Chzna",
+   "after": "China"
+  },
+  {
+   "page": 287,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 288,
+   "before": "anzmic",
+   "after": "anaemic"
+  },
+  {
+   "page": 288,
+   "before": "Homeeopathy,",
+   "after": "Homceopathy,"
+  },
+  {
+   "page": 288,
+   "before": "Mitric",
+   "after": "Nitric"
+  },
+  {
+   "page": 289,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 289,
+   "before": "FPulsatilla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 289,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 289,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 290,
+   "before": "Nairum",
+   "after": "Natrum"
+  },
+  {
+   "page": 290,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 290,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 290,
+   "before": "Chzna);",
+   "after": "China);"
+  },
+  {
+   "page": 290,
+   "before": "lodine",
+   "after": "Iodine"
+  },
+  {
+   "page": 290,
+   "before": "Chzza",
+   "after": "China"
+  },
+  {
+   "page": 290,
+   "before": "Chelzdontum",
+   "after": "Chelidonium"
+  },
+  {
+   "page": 291,
+   "before": "fissuring",
+   "after": "Assuring"
+  },
+  {
+   "page": 291,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 292,
+   "before": "Jgnatia,",
+   "after": "Ignatia,"
+  },
+  {
+   "page": 292,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 292,
+   "before": "/oose",
+   "after": "/loose"
+  },
+  {
+   "page": 292,
+   "before": "(Adrotanum",
+   "after": "(Abrotanum"
+  },
+  {
+   "page": 292,
+   "before": "Sefza",
+   "after": "Sepia"
+  },
+  {
+   "page": 293,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 293,
+   "before": "anzemic",
+   "after": "anaemic"
+  },
+  {
+   "page": 293,
+   "before": "tme",
+   "after": "time"
+  },
+  {
+   "page": 294,
+   "before": "Arsenzcum",
+   "after": "Arsenicum"
+  },
+  {
+   "page": 294,
+   "before": "Guatacum",
+   "after": "Guaiacum"
+  },
+  {
+   "page": 295,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 295,
+   "before": "Homceopathic",
+   "after": "Homoeopathic"
+  },
+  {
+   "page": 296,
+   "before": ".Vatrum",
+   "after": ".Natrum"
+  },
+  {
+   "page": 296,
+   "before": "Homeeopathist,",
+   "after": "Homoeopathist,"
+  },
+  {
+   "page": 296,
+   "before": "Magnesza",
+   "after": "Magnesia"
+  },
+  {
+   "page": 297,
+   "before": "Afercury",
+   "after": "Mercury"
+  },
+  {
+   "page": 297,
+   "before": "MJercury),",
+   "after": "Mercury),"
+  },
+  {
+   "page": 298,
+   "before": "(Pxdsatilla),",
+   "after": "(Pulsatilla),"
+  },
+  {
+   "page": 298,
+   "before": "Magnesza",
+   "after": "Magnesia"
+  },
+  {
+   "page": 298,
+   "before": "Maznesia",
+   "after": "Magnesia"
+  },
+  {
+   "page": 300,
+   "before": "Magnesza",
+   "after": "Magnesia"
+  },
+  {
+   "page": 300,
+   "before": "Crmicifuga,",
+   "after": "Cimicifuga,"
+  },
+  {
+   "page": 300,
+   "before": "/eader,",
+   "after": "/leader,"
+  },
+  {
+   "page": 301,
+   "before": "Baptista,",
+   "after": "Baptisia,"
+  },
+  {
+   "page": 301,
+   "before": "actd,",
+   "after": "acid,"
+  },
+  {
+   "page": 301,
+   "before": "<Acomzte,",
+   "after": "<Aconite,"
+  },
+  {
+   "page": 301,
+   "before": "Hamamelts,",
+   "after": "Hamamelis,"
+  },
+  {
+   "page": 301,
+   "before": "Jodine,",
+   "after": "Iodine,"
+  },
+  {
+   "page": 301,
+   "before": "[odide",
+   "after": "[Iodide"
+  },
+  {
+   "page": 301,
+   "before": "Lacheszs,",
+   "after": "Lachesis,"
+  },
+  {
+   "page": 302,
+   "before": "Homceopath",
+   "after": "Homoeopath"
+  },
+  {
+   "page": 302,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 302,
+   "before": "Ofzum",
+   "after": "Opium"
+  },
+  {
+   "page": 302,
+   "before": "Opzum,",
+   "after": "Opium,"
+  },
+  {
+   "page": 303,
+   "before": "Homceopathic",
+   "after": "Homoeopathic"
+  },
+  {
+   "page": 303,
+   "before": "Opzum",
+   "after": "Opium"
+  },
+  {
+   "page": 303,
+   "before": "Homceopathic",
+   "after": "Homoeopathic"
+  },
+  {
+   "page": 304,
+   "before": "Opzum",
+   "after": "Opium"
+  },
+  {
+   "page": 304,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 304,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 304,
+   "before": "Opzum",
+   "after": "Opium"
+  },
+  {
+   "page": 305,
+   "before": "Ofzum",
+   "after": "Opium"
+  },
+  {
+   "page": 305,
+   "before": "actzon,",
+   "after": "action,"
+  },
+  {
+   "page": 305,
+   "before": "homeceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 305,
+   "before": "Ofzum",
+   "after": "Opium"
+  },
+  {
+   "page": 305,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 305,
+   "before": "Homceopath",
+   "after": "Homoeopath"
+  },
+  {
+   "page": 306,
+   "before": "Opzum,",
+   "after": "Opium,"
+  },
+  {
+   "page": 306,
+   "before": "Ofpiwm",
+   "after": "Opium"
+  },
+  {
+   "page": 306,
+   "before": "Opczuwm",
+   "after": "Opium"
+  },
+  {
+   "page": 307,
+   "before": "Pulsatilia",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 307,
+   "before": "Lacheszs,",
+   "after": "Lachesis,"
+  },
+  {
+   "page": 307,
+   "before": "Vux",
+   "after": "Nux"
+  },
+  {
+   "page": 307,
+   "before": "verv",
+   "after": "very"
+  },
+  {
+   "page": 308,
+   "before": "Aconzte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 309,
+   "before": "Szlicea,",
+   "after": "Silicea,"
+  },
+  {
+   "page": 309,
+   "before": "Stlicea,",
+   "after": "Silicea,"
+  },
+  {
+   "page": 310,
+   "before": "Aarytz,",
+   "after": "Baryta,"
+  },
+  {
+   "page": 311,
+   "before": "Buryta,",
+   "after": "Baryta,"
+  },
+  {
+   "page": 311,
+   "before": "Jodie",
+   "after": "Iodine"
+  },
+  {
+   "page": 312,
+   "before": "/odine",
+   "after": "/Iodine"
+  },
+  {
+   "page": 312,
+   "before": "Lodine,",
+   "after": "Iodine,"
+  },
+  {
+   "page": 312,
+   "before": "Conzum",
+   "after": "Conium"
+  },
+  {
+   "page": 313,
+   "before": "Homeeopaths",
+   "after": "Homoeopaths"
+  },
+  {
+   "page": 314,
+   "before": "Czna",
+   "after": "Cina"
+  },
+  {
+   "page": 314,
+   "before": "gtinds",
+   "after": "grinds"
+  },
+  {
+   "page": 314,
+   "before": "Chamomilia",
+   "after": "Chamomilla"
+  },
+  {
+   "page": 315,
+   "before": "Cia",
+   "after": "Cina"
+  },
+  {
+   "page": 315,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 315,
+   "before": "zame",
+   "after": "name"
+  },
+  {
+   "page": 316,
+   "before": "dack",
+   "after": "back"
+  },
+  {
+   "page": 317,
+   "before": "Dudcamara",
+   "after": "Dulcamara"
+  },
+  {
+   "page": 318,
+   "before": "Pulsaizlla,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 318,
+   "before": "Ruia",
+   "after": "Ruta"
+  },
+  {
+   "page": 319,
+   "before": "Murzatic",
+   "after": "Muriatic"
+  },
+  {
+   "page": 319,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 319,
+   "before": "homeceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 320,
+   "before": "Zedum",
+   "after": "Ledum"
+  },
+  {
+   "page": 320,
+   "before": "Kalmza,",
+   "after": "Kalmia,"
+  },
+  {
+   "page": 321,
+   "before": "Stlicea,",
+   "after": "Silicea,"
+  },
+  {
+   "page": 321,
+   "before": "Szicea",
+   "after": "Silicea"
+  },
+  {
+   "page": 321,
+   "before": "ZLedum,",
+   "after": "Ledum,"
+  },
+  {
+   "page": 321,
+   "before": "ded",
+   "after": "bed"
+  },
+  {
+   "page": 321,
+   "before": "ZLedum",
+   "after": "Ledum"
+  },
+  {
+   "page": 321,
+   "before": "Zedum",
+   "after": "Ledum"
+  },
+  {
+   "page": 322,
+   "before": "temedy",
+   "after": "remedy"
+  },
+  {
+   "page": 322,
+   "before": "Zedum",
+   "after": "Ledum"
+  },
+  {
+   "page": 323,
+   "before": "oly",
+   "after": "only"
+  },
+  {
+   "page": 323,
+   "before": "Arsentcum",
+   "after": "Arsenicum"
+  },
+  {
+   "page": 324,
+   "before": "Kveosote",
+   "after": "Kreosote"
+  },
+  {
+   "page": 325,
+   "before": "Lacheszs",
+   "after": "Lachesis"
+  },
+  {
+   "page": 325,
+   "before": "guzck",
+   "after": "quick"
+  },
+  {
+   "page": 325,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 325,
+   "before": "Pudsatella",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 327,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 327,
+   "before": "Pudlsatella",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 328,
+   "before": "Agpravation",
+   "after": "Aggravation"
+  },
+  {
+   "page": 328,
+   "before": "Pxdsatilla,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 328,
+   "before": "Axacardium",
+   "after": "Anacardium"
+  },
+  {
+   "page": 329,
+   "before": "Azacardium,",
+   "after": "Anacardium,"
+  },
+  {
+   "page": 329,
+   "before": "Axacardium,",
+   "after": "Anacardium,"
+  },
+  {
+   "page": 329,
+   "before": "Arsentcum",
+   "after": "Arsenicum"
+  },
+  {
+   "page": 329,
+   "before": "Arsentcum",
+   "after": "Arsenicum"
+  },
+  {
+   "page": 329,
+   "before": "<Axacardium",
+   "after": "<Anacardium"
+  },
+  {
+   "page": 330,
+   "before": "Axacardium",
+   "after": "Anacardium"
+  },
+  {
+   "page": 330,
+   "before": "Nua",
+   "after": "Nux"
+  },
+  {
+   "page": 331,
+   "before": "Zsculus",
+   "after": "Sculus"
+  },
+  {
+   "page": 331,
+   "before": "/nactivity",
+   "after": "/Inactivity"
+  },
+  {
+   "page": 331,
+   "before": "Stlicea",
+   "after": "Silicea"
+  },
+  {
+   "page": 332,
+   "before": "/arge",
+   "after": "/large"
+  },
+  {
+   "page": 332,
+   "before": "Mumdbness",
+   "after": "Numbness"
+  },
+  {
+   "page": 333,
+   "before": "Szicta",
+   "after": "Sticta"
+  },
+  {
+   "page": 334,
+   "before": "Luphrasza,",
+   "after": "Euphrasia,"
+  },
+  {
+   "page": 334,
+   "before": "Kalt",
+   "after": "Kali"
+  },
+  {
+   "page": 334,
+   "before": "Stzcta",
+   "after": "Sticta"
+  },
+  {
+   "page": 335,
+   "before": "zzspzring",
+   "after": "inspiring"
+  },
+  {
+   "page": 335,
+   "before": "Sfongia,",
+   "after": "Spongia,"
+  },
+  {
+   "page": 335,
+   "before": "(Matrum",
+   "after": "(Natrum"
+  },
+  {
+   "page": 335,
+   "before": "Matrum",
+   "after": "Natrum"
+  },
+  {
+   "page": 336,
+   "before": "Stmilia",
+   "after": "Similia"
+  },
+  {
+   "page": 338,
+   "before": "uno",
+   "after": "no"
+  },
+  {
+   "page": 338,
+   "before": "Arnzca",
+   "after": "Arnica"
+  },
+  {
+   "page": 338,
+   "before": "gxrtremely",
+   "after": "extremely"
+  },
+  {
+   "page": 338,
+   "before": "Ayoscyamus",
+   "after": "Hyoscyamus"
+  },
+  {
+   "page": 339,
+   "before": "Prytolacca",
+   "after": "Phytolacca"
+  },
+  {
+   "page": 341,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 341,
+   "before": "Audsatzlla,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 342,
+   "before": "homceopathicity",
+   "after": "homoeopathicity"
+  },
+  {
+   "page": 342,
+   "before": "Colocynthts",
+   "after": "Colocynthis"
+  },
+  {
+   "page": 343,
+   "before": "Afagnesia",
+   "after": "Magnesia"
+  },
+  {
+   "page": 343,
+   "before": "Chamomilia",
+   "after": "Chamomilla"
+  },
+  {
+   "page": 343,
+   "before": "Duoscorea",
+   "after": "Dioscorea"
+  },
+  {
+   "page": 343,
+   "before": "(Plambum,",
+   "after": "(Plumbum,"
+  },
+  {
+   "page": 344,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 344,
+   "before": "guzding",
+   "after": "guiding"
+  },
+  {
+   "page": 344,
+   "before": "Guaphalium,",
+   "after": "Gnaphalium,"
+  },
+  {
+   "page": 346,
+   "before": "Fetroleum",
+   "after": "Petroleum"
+  },
+  {
+   "page": 346,
+   "before": "etroleum",
+   "after": "Petroleum"
+  },
+  {
+   "page": 346,
+   "before": "veeved",
+   "after": "relieved"
+  },
+  {
+   "page": 346,
+   "before": "Suiphur,",
+   "after": "Sulphur,"
+  },
+  {
+   "page": 347,
+   "before": "Sepza",
+   "after": "Sepia"
+  },
+  {
+   "page": 347,
+   "before": "/gnatia",
+   "after": "/Ignatia"
+  },
+  {
+   "page": 347,
+   "before": "Hydrastes",
+   "after": "Hydrastis"
+  },
+  {
+   "page": 347,
+   "before": "Kait",
+   "after": "Kali"
+  },
+  {
+   "page": 349,
+   "before": "Mitric",
+   "after": "Nitric"
+  },
+  {
+   "page": 349,
+   "before": "Zhuja,",
+   "after": "Thuja,"
+  },
+  {
+   "page": 350,
+   "before": "degin",
+   "after": "begin"
+  },
+  {
+   "page": 350,
+   "before": "Stlicea)",
+   "after": "Silicea)"
+  },
+  {
+   "page": 351,
+   "before": "saine",
+   "after": "same"
+  },
+  {
+   "page": 351,
+   "before": "Chamomulla,",
+   "after": "Chamomilla,"
+  },
+  {
+   "page": 352,
+   "before": "trritable",
+   "after": "irritable"
+  },
+  {
+   "page": 352,
+   "before": "Jfecac",
+   "after": "Ipecac"
+  },
+  {
+   "page": 353,
+   "before": "Staphtsagria",
+   "after": "Staphisagria"
+  },
+  {
+   "page": 353,
+   "before": "Graphztes",
+   "after": "Graphites"
+  },
+  {
+   "page": 353,
+   "before": "atent",
+   "after": "patient"
+  },
+  {
+   "page": 353,
+   "before": "actd",
+   "after": "acid"
+  },
+  {
+   "page": 354,
+   "before": "Zhe",
+   "after": "The"
+  },
+  {
+   "page": 354,
+   "before": "Aconzte,",
+   "after": "Aconite,"
+  },
+  {
+   "page": 355,
+   "before": "Colchz-",
+   "after": "Colchis-"
+  },
+  {
+   "page": 357,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 358,
+   "before": "(/gnatza",
+   "after": "(/Ignatia"
+  },
+  {
+   "page": 359,
+   "before": "zotses,",
+   "after": "noises,"
+  },
+  {
+   "page": 360,
+   "before": "homeeopaths",
+   "after": "homoeopaths"
+  },
+  {
+   "page": 360,
+   "before": "Stlicea,",
+   "after": "Silicea,"
+  },
+  {
+   "page": 361,
+   "before": "Arzica,",
+   "after": "Arnica,"
+  },
+  {
+   "page": 361,
+   "before": "homeeopathicity",
+   "after": "homoeopathicity"
+  },
+  {
+   "page": 362,
+   "before": "Caustzcum",
+   "after": "Causticum"
+  },
+  {
+   "page": 362,
+   "before": "(Bryonza,",
+   "after": "(Bryonia,"
+  },
+  {
+   "page": 362,
+   "before": "Sudphur",
+   "after": "Sulphur"
+  },
+  {
+   "page": 362,
+   "before": "EZupatorium",
+   "after": "Eupatorium"
+  },
+  {
+   "page": 362,
+   "before": "ryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 363,
+   "before": "aife",
+   "after": "wife"
+  },
+  {
+   "page": 363,
+   "before": "perfolratum",
+   "after": "perfoliatum"
+  },
+  {
+   "page": 363,
+   "before": "Capszcum",
+   "after": "Capsicum"
+  },
+  {
+   "page": 363,
+   "before": "Lupatorium",
+   "after": "Eupatorium"
+  },
+  {
+   "page": 364,
+   "before": "Jetween",
+   "after": "Between"
+  },
+  {
+   "page": 365,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 366,
+   "before": "Spongza",
+   "after": "Spongia"
+  },
+  {
+   "page": 366,
+   "before": "dzsappeared",
+   "after": "disappeared"
+  },
+  {
+   "page": 367,
+   "before": "Cantharts,",
+   "after": "Cantharis,"
+  },
+  {
+   "page": 367,
+   "before": "Lguzsetum,",
+   "after": "Equisetum,"
+  },
+  {
+   "page": 367,
+   "before": "Chzmaphila",
+   "after": "Chimaphila"
+  },
+  {
+   "page": 368,
+   "before": "Lagzs",
+   "after": "Lapis"
+  },
+  {
+   "page": 369,
+   "before": "Lapzs",
+   "after": "Lapis"
+  },
+  {
+   "page": 369,
+   "before": "gonorrheea",
+   "after": "gonorrhoea"
+  },
+  {
+   "page": 369,
+   "before": "Axtimonium",
+   "after": "Antimonium"
+  },
+  {
+   "page": 369,
+   "before": "Syphzlinum",
+   "after": "Syphilinum"
+  },
+  {
+   "page": 370,
+   "before": "vears",
+   "after": "years"
+  },
+  {
+   "page": 370,
+   "before": "Pudlsatilla,",
+   "after": "Pulsatilla,"
+  },
+  {
+   "page": 371,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 372,
+   "before": "Zuberculinum",
+   "after": "Tuberculinum"
+  },
+  {
+   "page": 373,
+   "before": "Zuserculinum",
+   "after": "Tuberculinum"
+  },
+  {
+   "page": 373,
+   "before": "Aconzte",
+   "after": "Aconite"
+  },
+  {
+   "page": 375,
+   "before": "Pulsatella",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 376,
+   "before": "Arsentcum,",
+   "after": "Arsenicum,"
+  },
+  {
+   "page": 377,
+   "before": "Cheldontum",
+   "after": "Chelidonium"
+  },
+  {
+   "page": 378,
+   "before": "whzle",
+   "after": "while"
+  },
+  {
+   "page": 378,
+   "before": "temedy",
+   "after": "remedy"
+  },
+  {
+   "page": 379,
+   "before": "durning",
+   "after": "burning"
+  },
+  {
+   "page": 382,
+   "before": "Magnesza",
+   "after": "Magnesia"
+  },
+  {
+   "page": 382,
+   "before": "Zsculus",
+   "after": "Sculus"
+  },
+  {
+   "page": 384,
+   "before": "cactz",
+   "after": "cacti"
+  },
+  {
+   "page": 384,
+   "before": "Clemates",
+   "after": "Clematis"
+  },
+  {
+   "page": 385,
+   "before": "Clemadzs",
+   "after": "Clematis"
+  },
+  {
+   "page": 385,
+   "before": "Lliictum",
+   "after": "Illicium"
+  },
+  {
+   "page": 386,
+   "before": "catatrhal",
+   "after": "catarrhal"
+  },
+  {
+   "page": 386,
+   "before": "gonorrheea,",
+   "after": "gonorrhoea,"
+  },
+  {
+   "page": 386,
+   "before": "Pulsatlla",
+   "after": "Pulsatilla"
+  },
+  {
+   "page": 387,
+   "before": "gonorrheea)",
+   "after": "gonorrhoea)"
+  },
+  {
+   "page": 388,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 388,
+   "before": "sotnetimes",
+   "after": "sometimes"
+  },
+  {
+   "page": 388,
+   "before": "Arsentcum,",
+   "after": "Arsenicum,"
+  },
+  {
+   "page": 389,
+   "before": "Arvsentcum,",
+   "after": "Arsenicum,"
+  },
+  {
+   "page": 390,
+   "before": "toxtcodendron,",
+   "after": "toxicodendron,"
+  },
+  {
+   "page": 390,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 390,
+   "before": "durning",
+   "after": "burning"
+  },
+  {
+   "page": 391,
+   "before": "Bryonza,",
+   "after": "Bryonia,"
+  },
+  {
+   "page": 392,
+   "before": "/hvtolacca",
+   "after": "/Phytolacca"
+  },
+  {
+   "page": 392,
+   "before": "Homeeopathy",
+   "after": "Homoeopathy"
+  },
+  {
+   "page": 392,
+   "before": "Kalz",
+   "after": "Kali"
+  },
+  {
+   "page": 392,
+   "before": "Bryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 393,
+   "before": "preducing",
+   "after": "producing"
+  },
+  {
+   "page": 395,
+   "before": "pfesent",
+   "after": "present"
+  },
+  {
+   "page": 395,
+   "before": "convulsiot",
+   "after": "convulsion"
+  },
+  {
+   "page": 396,
+   "before": "zxtense",
+   "after": "intense"
+  },
+  {
+   "page": 396,
+   "before": "zxtensely",
+   "after": "intensely"
+  },
+  {
+   "page": 396,
+   "before": "Melzlotus",
+   "after": "Melilotus"
+  },
+  {
+   "page": 397,
+   "before": "epistaxts",
+   "after": "epistaxis"
+  },
+  {
+   "page": 397,
+   "before": "Aelladonna",
+   "after": "Belladonna"
+  },
+  {
+   "page": 397,
+   "before": "Glonotne,",
+   "after": "Glonoine,"
+  },
+  {
+   "page": 398,
+   "before": "Opzum,",
+   "after": "Opium,"
+  },
+  {
+   "page": 399,
+   "before": "homeeopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 399,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 399,
+   "before": "homceopathic",
+   "after": "homoeopathic"
+  },
+  {
+   "page": 400,
+   "before": "dyspncea,",
+   "after": "dyspnoea,"
+  },
+  {
+   "page": 402,
+   "before": "symptomis",
+   "after": "symptoms"
+  },
+  {
+   "page": 402,
+   "before": "sucli",
+   "after": "such"
+  },
+  {
+   "page": 403,
+   "before": "Conzum",
+   "after": "Conium"
+  },
+  {
+   "page": 403,
+   "before": "Zhuja",
+   "after": "Thuja"
+  },
+  {
+   "page": 404,
+   "before": "Sexega",
+   "after": "Senega"
+  },
+  {
+   "page": 404,
+   "before": "Qne",
+   "after": "One"
+  },
+  {
+   "page": 404,
+   "before": "Sexega",
+   "after": "Senega"
+  },
+  {
+   "page": 404,
+   "before": "Obstindte",
+   "after": "Obstinate"
+  },
+  {
+   "page": 405,
+   "before": "Gambogza",
+   "after": "Gambogia"
+  },
+  {
+   "page": 406,
+   "before": "Gratzola",
+   "after": "Gratiola"
+  },
+  {
+   "page": 407,
+   "before": "(Zhlaspi",
+   "after": "(Thlaspi"
+  },
+  {
+   "page": 407,
+   "before": "Bovdsta",
+   "after": "Bovista"
+  },
+  {
+   "page": 407,
+   "before": "sfeczal",
+   "after": "special"
+  },
+  {
+   "page": 408,
+   "before": "Aryonza",
+   "after": "Bryonia"
+  },
+  {
+   "page": 408,
+   "before": "vigh/",
+   "after": "right/"
+  },
+  {
+   "page": 408,
+   "before": "/telea",
+   "after": "/Ptelea"
+  },
+  {
+   "page": 408,
+   "before": "/telea",
+   "after": "/Ptelea"
+  },
+  {
+   "page": 409,
+   "before": "¢rzed",
+   "after": "¢tried"
+  },
+  {
+   "page": 409,
+   "before": "Zeucrium",
+   "after": "Teucrium"
+  },
+  {
+   "page": 410,
+   "before": "otorrhcea",
+   "after": "otorrhoea"
+  },
+  {
+   "page": 411,
+   "before": "Stafhesagria",
+   "after": "Staphisagria"
+  },
+  {
+   "page": 418,
+   "before": "zothing",
+   "after": "nothing"
+  },
+  {
+   "page": 418,
+   "before": "voutintsm,",
+   "after": "routinism,"
+  },
+  {
+   "page": 41,
+   "before": "wazt",
+   "after": "wait",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 44,
+   "before": "contznues",
+   "after": "continues",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 50,
+   "before": "Zhzs",
+   "after": "Ihis",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 50,
+   "before": "Quznine",
+   "after": "Quinine",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 54,
+   "before": "Caustzcum",
+   "after": "Causticum",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 60,
+   "before": "vegetabilzs",
+   "after": "vegetabilis",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 73,
+   "before": "Helonzas",
+   "after": "Helonias",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 76,
+   "before": "Sepza",
+   "after": "Sepia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 80,
+   "before": "Bryonza",
+   "after": "Bryonia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 80,
+   "before": "Aconzte",
+   "after": "Aconite",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 81,
+   "before": "Arsenzcum",
+   "after": "Arsenicum",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 90,
+   "before": "varzety",
+   "after": "variety",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 96,
+   "before": "Opzum",
+   "after": "Opium",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 100,
+   "before": "Opzum",
+   "after": "Opium",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 103,
+   "before": "Lacheszs",
+   "after": "Lachesis",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 104,
+   "before": "Sabadzlla",
+   "after": "Sabadilla",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 108,
+   "before": "Lacheszs",
+   "after": "Lachesis",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 110,
+   "before": "Digitalzs",
+   "after": "Digitalis",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 115,
+   "before": "Bryonza",
+   "after": "Bryonia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 119,
+   "before": "Zrzs",
+   "after": "Iris",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 122,
+   "before": "Kalz",
+   "after": "Kali",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 124,
+   "before": "Sepza",
+   "after": "Sepia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 124,
+   "before": "Sanguznaria",
+   "after": "Sanguinaria",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 127,
+   "before": "Kalz",
+   "after": "Kali",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 129,
+   "before": "ztching",
+   "after": "itching",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 142,
+   "before": "Aconzte",
+   "after": "Aconite",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 142,
+   "before": "Bryonza",
+   "after": "Bryonia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 145,
+   "before": "varz",
+   "after": "vari",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 146,
+   "before": "Szmzlza",
+   "after": "Similia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 149,
+   "before": "aczd",
+   "after": "acid",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 150,
+   "before": "Capszcum",
+   "after": "Capsicum",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 152,
+   "before": "Capszcum",
+   "after": "Capsicum",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 158,
+   "before": "erzas",
+   "after": "erias",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 162,
+   "before": "Lacheszs",
+   "after": "Lachesis",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 165,
+   "before": "Kalz",
+   "after": "Kali",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 166,
+   "before": "Sepza",
+   "after": "Sepia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 175,
+   "before": "Spongza",
+   "after": "Spongia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 190,
+   "before": "znternal",
+   "after": "internal",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 201,
+   "before": "Dzgztalis",
+   "after": "Digitalis",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 202,
+   "before": "Spzgelza",
+   "after": "Spigelia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 218,
+   "before": "Ratanhza",
+   "after": "Ratanhia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 223,
+   "before": "Opzum",
+   "after": "Opium",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 242,
+   "before": "Caustzcum",
+   "after": "Causticum",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 253,
+   "before": "Sepza",
+   "after": "Sepia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 255,
+   "before": "Psorznum",
+   "after": "Psorinum",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 257,
+   "before": "zodide",
+   "after": "iodide",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 260,
+   "before": "Mercurzus",
+   "after": "Mercurius",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 265,
+   "before": "Quznzne",
+   "after": "Quinine",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 266,
+   "before": "Chzna",
+   "after": "China",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 268,
+   "before": "Dzoscorea",
+   "after": "Dioscorea",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 271,
+   "before": "Veronzca",
+   "after": "Veronica",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 275,
+   "before": "Kalz",
+   "after": "Kali",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 286,
+   "before": "Kalz",
+   "after": "Kali",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 294,
+   "before": "relzeved",
+   "after": "relieved",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 295,
+   "before": "Sabadzlla",
+   "after": "Sabadilla",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 301,
+   "before": "Squzlla",
+   "after": "Squilla",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 303,
+   "before": "Opzum",
+   "after": "Opium",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 313,
+   "before": "belzeve",
+   "after": "believe",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 325,
+   "before": "Sepza",
+   "after": "Sepia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 344,
+   "before": "Bryonza",
+   "after": "Bryonia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 350,
+   "before": "Szlzc",
+   "after": "Silic",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 362,
+   "before": "werz",
+   "after": "weri",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 379,
+   "before": "Azlanthus",
+   "after": "Ailanthus",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 390,
+   "before": "Bryonza",
+   "after": "Bryonia",
+   "reason": "char-fix z=i"
+  },
+  {
+   "page": 408,
+   "before": "szde",
+   "after": "side",
+   "reason": "char-fix z=i"
+  }
+ ]
+}

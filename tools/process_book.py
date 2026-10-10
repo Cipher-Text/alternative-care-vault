@@ -728,11 +728,26 @@ def _binarize_page(src_png, dst_png, k=0.65, sigma=30):
     Image.fromarray(np.where(n > k, 255, 0).astype(np.uint8)).save(dst_png, dpi=(300, 300))
 
 
-def parse_source_facsimile_pdf(pdf_path, ocr_lang, workers=6):
+def _dehyphenate(text):
+    """Join words split by a line-break hyphen ("be-\\ntween" -> "between") when the joined word is a dictionary word;
+    other hyphens (real compounds, abbreviations) are left alone. No-op if /usr/share/dict/words is missing."""
+    try:
+        dic = _dehyphenate.dic
+    except AttributeError:
+        try: dic = _dehyphenate.dic = {w.strip().lower() for w in open("/usr/share/dict/words")}
+        except OSError: dic = _dehyphenate.dic = set()
+    if not dic: return text
+    def join(m):
+        a, b = m.group(1), m.group(2)
+        return a + b if (a + b).lower() in dic or (a + b).lower().rstrip("s") in dic else m.group(0)
+    return re.sub(r"([A-Za-z]{2,})-[ \t]*\n[ \t]*([a-z]{2,})", join, text)
+
+
+def parse_source_facsimile_pdf(pdf_path, ocr_lang, workers=6, dehyphenate=False):
     """For image-only PDFs (a page scan with no usable text layer). Renders each page at 300 dpi with `pdftoppm`,
     binarizes it (see _binarize_page) and runs the `tesseract` CLI (--psm 6). Needs poppler (`pdftoppm`/`pdfinfo`),
     tesseract, and numpy/scipy/Pillow. Set PROCESS_BOOK_OCR_CACHE=<dir> to reuse/store per-page text (<dir>/0001.txt ...)
-    so an interrupted ~15 min run can resume. Blank pages are skipped; page_number is the scan page index."""
+    so an interrupted ~15 min run can resume. `"dehyphenate": true` in the catalogue entry joins line-break hyphen splits (off by default). Blank pages are skipped; page_number is the scan page index."""
     n_pages = int(re.search(r"^Pages:\s+(\d+)", subprocess.run(["pdfinfo", str(pdf_path)], capture_output=True, text=True).stdout, re.M).group(1))
     cache = Path(os.environ["PROCESS_BOOK_OCR_CACHE"]) if os.environ.get("PROCESS_BOOK_OCR_CACHE") else None
     if cache: cache.mkdir(parents=True, exist_ok=True)
@@ -754,7 +769,7 @@ def parse_source_facsimile_pdf(pdf_path, ocr_lang, workers=6):
     pages, done = [], 0
     with concurrent.futures.ThreadPoolExecutor(workers) as ex:
         for i, raw in sorted(ex.map(ocr_one, range(1, n_pages + 1))):
-            text = clean_text(raw)
+            text = clean_text(_dehyphenate(raw) if dehyphenate else raw)
             done += 1
             if text:
                 pages.append({"page_number": i, "label": f"Page {i}", "text": text})
@@ -932,7 +947,7 @@ def process_one(meta, raw_root, out_root):
     if meta.get("source_format") == "facsimile-epub":
         pages = parse_source_facsimile_epub(raw_path, meta.get("ocr_lang", "eng"))
     elif meta.get("source_format") == "facsimile-pdf":
-        pages = parse_source_facsimile_pdf(raw_path, meta.get("ocr_lang", "eng"))
+        pages = parse_source_facsimile_pdf(raw_path, meta.get("ocr_lang", "eng"), dehyphenate=meta.get("dehyphenate", False))
     elif raw_path.suffix.lower() == ".pdf":
         pages = parse_source_pdf(raw_path)
     else:
