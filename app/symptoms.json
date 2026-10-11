@@ -647,6 +647,51 @@
       "description_bn": "বারবার হওয়া দপদপে মাথাব্যথা, প্রায়ই একপাশে, বমিভাব ও আলোতে অস্বস্তিসহ",
       "is_global": true,
       "is_active": true
+    },
+    {
+      "name_en": "Hyperacidity",
+      "name_bn": "অম্বল / গ্যাস্ট্রাইটিস",
+      "description_en": "Burning sensation in the stomach and chest due to excess acid",
+      "description_bn": "অতিরিক্ত অ্যাসিডের কারণে পাকস্থলী ও বুকে জ্বালাপোড়া ভাব",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Hiccough",
+      "name_bn": "হেঁচকি",
+      "description_en": "Involuntary contractions of the diaphragm muscle",
+      "description_bn": "ডায়াফ্রামের অনৈচ্ছিক সংকোচন বা হেঁচকি ওঠা",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Loss of Appetite",
+      "name_bn": "অরুচি",
+      "description_en": "Aversion to food or lack of desire to eat",
+      "description_bn": "খাবারের প্রতি অনীহা বা খাওয়ার ইচ্ছে না থাকা",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Burning Palms and Soles",
+      "name_bn": "হাত ও পায়ের তালু জ্বালা",
+      "description_en": "Sensations of heat in hands and feet",
+      "description_bn": "হাত ও পায়ের তালুতে তীব্র গরম বা জ্বালাপোড়ার অনুভূতি",
+      "category": "general",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Tremors",
+      "name_bn": "হাত-পা কাঁপা",
+      "description_en": "Involuntary shaking of hands, feet, or body parts",
+      "description_bn": "হাত, পা বা শরীরের বিভিন্ন অংশের অনৈচ্ছিক কাঁপুনি",
+      "category": "neurological",
+      "is_global": true,
+      "is_active": true
     }
   ]
 }
