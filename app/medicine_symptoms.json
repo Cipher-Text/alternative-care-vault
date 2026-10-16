@@ -1,0 +1,5974 @@
+{
+  "schema_version": 1,
+  "description": "Explicit links from medicine indication text to the symptom catalog. These record traditional or source-text associations, not evidence of efficacy or treatment recommendations.",
+  "medicine_key": "medicine_name_en",
+  "symptom_key": "symptom_name_en",
+  "links": [
+    {
+      "medicine_name_en": "Abhayarishta",
+      "symptom_name_en": "Constipation",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Abhayarishta",
+      "symptom_name_en": "Fever",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Abhayarishta",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Abhayarishta",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Abhayarishta",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "oedema"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Agastya Rasayana",
+      "symptom_name_en": "Asthma",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Agastya Rasayana",
+      "symptom_name_en": "Bronchitis",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bronchitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Agastya Rasayana",
+      "symptom_name_en": "Cough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Agastya Rasayana",
+      "symptom_name_en": "Hiccough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hiccup"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Agastya Rasayana",
+      "symptom_name_en": "Sinusitis",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sinusitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Amritarishta",
+      "symptom_name_en": "Fever",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Amritarishta",
+      "symptom_name_en": "Indigestion",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Amritarishta",
+      "symptom_name_en": "Influenza",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "influenza"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arjuna Churna",
+      "symptom_name_en": "Diabetes Symptoms",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diabetes"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arjuna Churna",
+      "symptom_name_en": "Excessive Thirst",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "excessive thirst"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arjuna Churna",
+      "symptom_name_en": "Weakness",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arjunarishta",
+      "symptom_name_en": "High Blood Pressure",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hypertension"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ashwagandha",
+      "symptom_name_en": "Anxiety",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "anxiety"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ashwagandha",
+      "symptom_name_en": "Fatigue",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fatigue"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ashwagandha",
+      "symptom_name_en": "Insomnia",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "insomnia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ashwagandha",
+      "symptom_name_en": "Stress",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Stress"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ashwagandha",
+      "symptom_name_en": "Weakness",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ashwagandharishta",
+      "symptom_name_en": "Epilepsy",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "epilepsy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ashwagandharishta",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ashwagandharishta",
+      "symptom_name_en": "Weakness",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Avipattikara Churna",
+      "symptom_name_en": "Allergies",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "allergic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Avipattikara Churna",
+      "symptom_name_en": "Constipation",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Avipattikara Churna",
+      "symptom_name_en": "Hyperacidity",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Acidity"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Avipattikara Churna",
+      "symptom_name_en": "Urticaria",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "urticaria"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Balarishta",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Balarishta",
+      "symptom_name_en": "Loss of Appetite",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "poor appetite"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Brahma Rasayana",
+      "symptom_name_en": "Fever",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Brahma Rasayana",
+      "symptom_name_en": "Weakness",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Brahmi",
+      "symptom_name_en": "Anxiety",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "anxiety"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Brahmi",
+      "symptom_name_en": "Difficulty Concentrating",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "concentration",
+        "lack of concentration"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Brahmi",
+      "symptom_name_en": "Memory Difficulty",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Poor memory"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Brahmi Ghrita",
+      "symptom_name_en": "Depression",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "depression"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Brahmi Ghrita",
+      "symptom_name_en": "Difficulty Concentrating",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "concentration"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Brahmi Ghrita",
+      "symptom_name_en": "Epilepsy",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "epilepsy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Brahmi Ghrita",
+      "symptom_name_en": "Memory Difficulty",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "poor memory"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chandraprabha Vati",
+      "symptom_name_en": "Diabetes Symptoms",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diabetes"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chandraprabha Vati",
+      "symptom_name_en": "Leucorrhea",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "leucorrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chandraprabha Vati",
+      "symptom_name_en": "Painful Urination",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Painful urination"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chyavanaprasha",
+      "symptom_name_en": "Asthma",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chyavanaprasha",
+      "symptom_name_en": "Bronchitis",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bronchitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chyavanaprasha",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "arthritis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoola Kashaya Churna",
+      "symptom_name_en": "Cough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoola Kashaya Churna",
+      "symptom_name_en": "Influenza",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "influenza"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoola Kashaya Churna",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoola Kashaya Churna",
+      "symptom_name_en": "Rheumatism",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic complaints"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoolarishta",
+      "symptom_name_en": "Bronchitis",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bronchitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoolarishta",
+      "symptom_name_en": "Cough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoolarishta",
+      "symptom_name_en": "Dyspnea",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dyspnoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoolarishta",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoolarishta",
+      "symptom_name_en": "Painful Urination",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "painful urination"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoolarishta",
+      "symptom_name_en": "Rheumatism",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic disorders"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dashamoolarishta",
+      "symptom_name_en": "Vomiting",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dhanvantaram Gulika",
+      "symptom_name_en": "Cough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dhanvantaram Gulika",
+      "symptom_name_en": "Dyspnea",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Dyspnoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dhanvantaram Gulika",
+      "symptom_name_en": "Hiccough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hiccup"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dhanvantaram Gulika",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dhanvantaram Gulika",
+      "symptom_name_en": "Vomiting",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Dhanvantaram Taila",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Drakshadi Lehya",
+      "symptom_name_en": "Fatigue",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fatigue"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Drakshadi Lehya",
+      "symptom_name_en": "Jaundice",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "jaundice"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Drakshadi Lehya",
+      "symptom_name_en": "Loss of Appetite",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "loss of appetite"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gokshura Churna",
+      "symptom_name_en": "Blood in Urine",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "blood in urine"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gokshura Churna",
+      "symptom_name_en": "Cystitis",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cystitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gokshura Churna",
+      "symptom_name_en": "Painful Urination",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "painful urination"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gokshura Churna",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "oedema"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Guduchi Churna",
+      "symptom_name_en": "Diabetes Symptoms",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diabetes"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Guduchi Churna",
+      "symptom_name_en": "Fever",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Guduchi Churna",
+      "symptom_name_en": "Jaundice",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "jaundice"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Guduchi Churna",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "arthritis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Guduchi Churna",
+      "symptom_name_en": "Leucorrhea",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "leucorrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Guduchi Churna",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Guduchyadi Kashayam",
+      "symptom_name_en": "Fever",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Guduchyadi Kashayam",
+      "symptom_name_en": "Gout",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "gout"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Guduchyadi Kashayam",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Haridrakhanda",
+      "symptom_name_en": "Allergies",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "allergic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Haridrakhanda",
+      "symptom_name_en": "Itching",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "itching"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Haridrakhanda",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin disorders"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Haridrakhanda",
+      "symptom_name_en": "Urticaria",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Urticaria"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hinguvachadi Churna",
+      "symptom_name_en": "Abdominal Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "abdominal pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hinguvachadi Churna",
+      "symptom_name_en": "Constipation",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hinguvachadi Churna",
+      "symptom_name_en": "Indigestion",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hinguvachadi Churna",
+      "symptom_name_en": "Loss of Appetite",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "loss of appetite"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kaishora Guggulu",
+      "symptom_name_en": "Acne",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "acne"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kaishora Guggulu",
+      "symptom_name_en": "Diabetes Symptoms",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diabetic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kaishora Guggulu",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "arthritis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kaishora Guggulu",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kaishora Guggulu",
+      "symptom_name_en": "Wounds",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "chronic wounds",
+        "wounds"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kalyanaka Ghrita",
+      "symptom_name_en": "Epilepsy",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Epilepsy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kanchanara Guggulu",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kantakaryavaleha",
+      "symptom_name_en": "Cough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kantakaryavaleha",
+      "symptom_name_en": "Fever",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kantakaryavaleha",
+      "symptom_name_en": "Hiccough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hiccup"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kottamchukkadi Taila",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kottamchukkadi Taila",
+      "symptom_name_en": "Numbness",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "numbness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kottamchukkadi Taila",
+      "symptom_name_en": "Rheumatism",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic complaints"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kottamchukkadi Taila",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kumaryasava",
+      "symptom_name_en": "Colic",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "colic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kumaryasava",
+      "symptom_name_en": "Loss of Appetite",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "loss of appetite"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kumaryasava",
+      "symptom_name_en": "Weakness",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kutajarishta",
+      "symptom_name_en": "Diarrhea",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "loose stools"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kutajarishta",
+      "symptom_name_en": "Irritability",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritable"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Lasunadi Vati",
+      "symptom_name_en": "Dysentery",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysentery"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Lohasava",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Lohasava",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin disorders"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mahamasha Taila",
+      "symptom_name_en": "Numbness",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "numbness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mahamasha Taila",
+      "symptom_name_en": "Paralysis",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hemiplegia",
+        "palsy",
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mahamasha Taila",
+      "symptom_name_en": "Sciatica",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sciatica"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mahanarayana Taila",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "stiffness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Maharasnadi Kashayam",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "arthritis",
+        "Rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Maharasnadi Kashayam",
+      "symptom_name_en": "Paralysis",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Maharasnadi Kashayam",
+      "symptom_name_en": "Rheumatism",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic complaints"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mahatiktaka Ghrita",
+      "symptom_name_en": "Abscess",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "abscess"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mahatiktaka Ghrita",
+      "symptom_name_en": "Boils",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "boils"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mahatiktaka Ghrita",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mahatiktaka Ghrita",
+      "symptom_name_en": "Wounds",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "chronic wounds",
+        "wounds"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Musta Churna",
+      "symptom_name_en": "Diarrhea",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Musta Churna",
+      "symptom_name_en": "Dysentery",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysentery"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Musta Churna",
+      "symptom_name_en": "Indigestion",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Musta Churna",
+      "symptom_name_en": "Loss of Appetite",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Loss of appetite"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Narayana Taila",
+      "symptom_name_en": "Back Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "back pain",
+        "lumbago"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Narayana Taila",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "arthritis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Narayana Taila",
+      "symptom_name_en": "Paralysis",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Hemiplegia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Narayana Taila",
+      "symptom_name_en": "Sciatica",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sciatica"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Nimbadi Kashayam",
+      "symptom_name_en": "Abscess",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "abscess"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Nimbadi Kashayam",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pippali Churna",
+      "symptom_name_en": "Cough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pippali Churna",
+      "symptom_name_en": "Loss of Appetite",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "loss of appetite"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Punarnava Churna",
+      "symptom_name_en": "Back Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "lumbago"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Punarnava Churna",
+      "symptom_name_en": "Cough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Punarnava Churna",
+      "symptom_name_en": "Leucorrhea",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "leucorrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Punarnava Churna",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Punarnava Guggulu",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Punarnava Guggulu",
+      "symptom_name_en": "Rheumatism",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Rheumatic complaints"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Punarnava Guggulu",
+      "symptom_name_en": "Sciatica",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sciatica"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pushyanuga Churna",
+      "symptom_name_en": "Dysentery",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysentery"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pushyanuga Churna",
+      "symptom_name_en": "Heavy Menstrual Bleeding",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "heavy menstrual bleeding",
+        "menstrual bleeding"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pushyanuga Churna",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pushyanuga Churna",
+      "symptom_name_en": "Leucorrhea",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Leucorrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pushyanuga Churna",
+      "symptom_name_en": "Nosebleed",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nosebleed"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sanjeevani Vati",
+      "symptom_name_en": "Indigestion",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Saraswatarishta",
+      "symptom_name_en": "Memory Difficulty",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Poor memory"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sarpagandha Churna",
+      "symptom_name_en": "High Blood Pressure",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "High blood pressure"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sarpagandha Churna",
+      "symptom_name_en": "Insomnia",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "insomnia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Shatavari Churna",
+      "symptom_name_en": "Diabetes Symptoms",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diabetes"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Shatavari Churna",
+      "symptom_name_en": "Leucorrhea",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Leucorrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sudarshana Churna",
+      "symptom_name_en": "Fever",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sudarshana Churna",
+      "symptom_name_en": "Indigestion",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sudarshana Churna",
+      "symptom_name_en": "Influenza",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "influenza"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sudarshana Churna",
+      "symptom_name_en": "Jaundice",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "jaundice"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sudarshana Churna",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin disorders"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Trikatu Churna",
+      "symptom_name_en": "Indigestion",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Trikatu Churna",
+      "symptom_name_en": "Loss of Appetite",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Loss of appetite"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Trikatu Churna",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin disease"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Triphala",
+      "symptom_name_en": "Constipation",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Triphala Guggulu",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "haemorrhoids"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Triphaladi Taila",
+      "symptom_name_en": "Ear Infection",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "ear infection",
+        "middle-ear infection"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Triphaladi Taila",
+      "symptom_name_en": "Headache",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Triphaladi Taila",
+      "symptom_name_en": "Sinusitis",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sinusitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tulsi",
+      "symptom_name_en": "Cough",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tulsi",
+      "symptom_name_en": "Fever",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tulsi",
+      "symptom_name_en": "Stress",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "stress"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Vacha Churna",
+      "symptom_name_en": "Colic",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "colic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Vacha Churna",
+      "symptom_name_en": "Constipation",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Vacha Churna",
+      "symptom_name_en": "Flatulence",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "flatulence"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Varanadi Kashayam",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "joint pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Vidangadi Gulika",
+      "symptom_name_en": "Menstrual Cramps",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysmenorrhoea",
+        "Painful menstruation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Yashtimadhu Churna",
+      "symptom_name_en": "Hoarseness",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hoarseness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Yashtimadhu Churna",
+      "symptom_name_en": "Wounds",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "wounds"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Yogaraja Guggulu",
+      "symptom_name_en": "Epilepsy",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "epilepsy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Yogaraja Guggulu",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Yogaraja Guggulu",
+      "symptom_name_en": "Joint Pain",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "arthritis",
+        "Rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Yogaraja Guggulu",
+      "symptom_name_en": "Skin Rash",
+      "system": "ayurveda",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chamomile",
+      "symptom_name_en": "Anxiety",
+      "system": "herbal",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Anxiety"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chamomile",
+      "symptom_name_en": "Insomnia",
+      "system": "herbal",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "insomnia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chamomile",
+      "symptom_name_en": "Menstrual Cramps",
+      "system": "herbal",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "menstrual cramps"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ginger",
+      "symptom_name_en": "Indigestion",
+      "system": "herbal",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ginger",
+      "symptom_name_en": "Joint Pain",
+      "system": "herbal",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "arthritis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ginger",
+      "symptom_name_en": "Motion Sickness",
+      "system": "herbal",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "motion sickness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ginger",
+      "symptom_name_en": "Nausea",
+      "system": "herbal",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Turmeric",
+      "symptom_name_en": "Joint Pain",
+      "system": "herbal",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "arthritis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Acidum Phosphoricum",
+      "symptom_name_en": "Fatigue",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fatigue"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Acidum Phosphoricum",
+      "symptom_name_en": "Grief",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "grief"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Aconitum Napellus",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Aconitum Napellus",
+      "symptom_name_en": "Croup",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "croup"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Aconitum Napellus",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Aconitum Napellus",
+      "symptom_name_en": "Restlessness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "restlessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Agaricus Muscarius",
+      "symptom_name_en": "Chills",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "chilliness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Agaricus Muscarius",
+      "symptom_name_en": "Itching",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "itching"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Agaricus Muscarius",
+      "symptom_name_en": "Tremors",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "tremors"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Aloe",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Aloe",
+      "symptom_name_en": "Flatulence",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "flatulence"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Aloe",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "haemorrhoids"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Alumina",
+      "symptom_name_en": "Constipation",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Alumina",
+      "symptom_name_en": "Itching",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "itching"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ammonium Carbonicum",
+      "symptom_name_en": "Asthma",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ammonium Carbonicum",
+      "symptom_name_en": "Bronchitis",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bronchitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ammonium Carbonicum",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ammonium Carbonicum",
+      "symptom_name_en": "Nosebleed",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nosebleed"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ammonium Carbonicum",
+      "symptom_name_en": "Palpitation",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "palpitations"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Anacardium Orientale",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritability"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Crudum",
+      "symptom_name_en": "Constipation",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Crudum",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Crudum",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Crudum",
+      "symptom_name_en": "Gout",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "gout"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Crudum",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritable"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Crudum",
+      "symptom_name_en": "Joint Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "rheumatism"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Crudum",
+      "symptom_name_en": "Rheumatism",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "rheumatism"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Crudum",
+      "symptom_name_en": "Skin Rash",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eruptions"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Crudum",
+      "symptom_name_en": "Vomiting",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Antimonium Tartaricum",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Apis Mellifica",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "oedema"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Apocynum Cannabinum",
+      "symptom_name_en": "Nausea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Apocynum Cannabinum",
+      "symptom_name_en": "Reduced Urination",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "reduced urination"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Apocynum Cannabinum",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Aralia Racemosa",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Aralia Racemosa",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Argentum Nitricum",
+      "symptom_name_en": "Anxiety",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "anxiety"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Argentum Nitricum",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Argentum Nitricum",
+      "symptom_name_en": "Headache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Argentum Nitricum",
+      "symptom_name_en": "Tremors",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "trembling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arnica Montana",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arnica Montana",
+      "symptom_name_en": "Muscle Soreness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "muscle soreness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arsenicum Album",
+      "symptom_name_en": "Anxiety",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "anxiety"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arsenicum Album",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arsenicum Album",
+      "symptom_name_en": "Restlessness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "restlessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Arsenicum Album",
+      "symptom_name_en": "Vomiting",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Bacillinum",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Bacillinum",
+      "symptom_name_en": "Dyspnea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "breathlessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Baptisia Tinctoria",
+      "symptom_name_en": "Dysentery",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysentery"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Baptisia Tinctoria",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fevers"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Baptisia Tinctoria",
+      "symptom_name_en": "Restlessness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "restless"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Barium Carbonicum",
+      "symptom_name_en": "Memory Difficulty",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "poor memory"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Barium Carbonicum",
+      "symptom_name_en": "Paralysis",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Belladonna",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Belladonna",
+      "symptom_name_en": "Headache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Belladonna",
+      "symptom_name_en": "Nosebleed",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nosebleeds"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Belladonna",
+      "symptom_name_en": "Sore Throat",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sore throat"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Bryonia Alba",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Calcarea Carbonica",
+      "symptom_name_en": "Chills",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Chilly"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Calcarea Carbonica",
+      "symptom_name_en": "Teething",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dentition"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Calcarea Fluorica",
+      "symptom_name_en": "Glandular Swelling",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "glandular swellings"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Calcarea Phosphorica",
+      "symptom_name_en": "Teething",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dentition"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Calcarea Phosphorica",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Calcarea Sulphurica",
+      "symptom_name_en": "Boils",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "boils"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cantharis",
+      "symptom_name_en": "Burns",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "burns",
+        "scalds"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cantharis",
+      "symptom_name_en": "Reduced Urination",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "scanty urine"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Capsicum",
+      "symptom_name_en": "Chills",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "chilliness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Carbo Animalis",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "debility"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Carbo Vegetabilis",
+      "symptom_name_en": "Abdominal Bloating",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bloating"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Carbo Vegetabilis",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Causticum",
+      "symptom_name_en": "Burns",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "burns"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Causticum",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "coughing"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Causticum",
+      "symptom_name_en": "Hoarseness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Hoarseness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Causticum",
+      "symptom_name_en": "Paralysis",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Causticum",
+      "symptom_name_en": "Warts",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "warts"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chamomilla",
+      "symptom_name_en": "Colic",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "colic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chamomilla",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritability"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chamomilla",
+      "symptom_name_en": "Teething",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "teething"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chelidonium Majus",
+      "symptom_name_en": "Bronchitis",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bronchitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chelidonium Majus",
+      "symptom_name_en": "Jaundice",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "jaundice"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chelidonium Majus",
+      "symptom_name_en": "Nausea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chelidonium Majus",
+      "symptom_name_en": "Pneumonia",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "pneumonia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chelidonium Majus",
+      "symptom_name_en": "Vomiting",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "China Officinalis",
+      "symptom_name_en": "Abdominal Bloating",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bloating"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "China Officinalis",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cimicifuga",
+      "symptom_name_en": "Back Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "back pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cimicifuga",
+      "symptom_name_en": "Headache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cina",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritability"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cocculus Indicus",
+      "symptom_name_en": "Anxiety",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "anxious"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cocculus Indicus",
+      "symptom_name_en": "Back Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "back pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cocculus Indicus",
+      "symptom_name_en": "Headache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cocculus Indicus",
+      "symptom_name_en": "Nausea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cocculus Indicus",
+      "symptom_name_en": "Paralysis",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cocculus Indicus",
+      "symptom_name_en": "Vomiting",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cocculus Indicus",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Coffea Cruda",
+      "symptom_name_en": "Insomnia",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Sleeplessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Coffea Cruda",
+      "symptom_name_en": "Toothache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "toothache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Colocynthis",
+      "symptom_name_en": "Colic",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "colic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Colocynthis",
+      "symptom_name_en": "Neuralgia",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "neuralgia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Colocynthis",
+      "symptom_name_en": "Sciatica",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sciatica"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Conium",
+      "symptom_name_en": "Dizziness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dizziness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Conium",
+      "symptom_name_en": "Paralysis",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Conium",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Croton Tiglium",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Croton Tiglium",
+      "symptom_name_en": "Eczema",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eczema"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Croton Tiglium",
+      "symptom_name_en": "Itching",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "itchy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Croton Tiglium",
+      "symptom_name_en": "Skin Rash",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eruptions"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Cuprum Metallicum",
+      "symptom_name_en": "Nausea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Digitalis",
+      "symptom_name_en": "Jaundice",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "jaundice"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Digitalis",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Drosera",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough",
+        "coughing"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Drosera",
+      "symptom_name_en": "Hoarseness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hoarseness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Drosera",
+      "symptom_name_en": "Vomiting",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Drosera",
+      "symptom_name_en": "Whooping Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "whooping cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Eucalyptus",
+      "symptom_name_en": "Asthma",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Eucalyptus",
+      "symptom_name_en": "Bronchitis",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bronchitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Euphrasia",
+      "symptom_name_en": "Measles",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "measles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ferrum Metallicum",
+      "symptom_name_en": "Fatigue",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fatigue"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ferrum Metallicum",
+      "symptom_name_en": "Headache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ferrum Phosphoricum",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever",
+        "fevers"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ferrum Phosphoricum",
+      "symptom_name_en": "Nosebleed",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nosebleeds"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gelsemium",
+      "symptom_name_en": "Anxiety",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "anxiety"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gelsemium",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gelsemium",
+      "symptom_name_en": "Headache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gelsemium",
+      "symptom_name_en": "Influenza",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Influenza"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gelsemium",
+      "symptom_name_en": "Tremors",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "trembling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Gelsemium",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Graphites",
+      "symptom_name_en": "Chills",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "chilly"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Graphites",
+      "symptom_name_en": "Eczema",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Eczema"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Grindelia",
+      "symptom_name_en": "Asthma",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Grindelia",
+      "symptom_name_en": "Dyspnea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "difficulty breathing"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Helleborus Niger",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Helleborus Niger",
+      "symptom_name_en": "Excessive Thirst",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "great thirst"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Helleborus Niger",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Helleborus Niger",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dropsy",
+        "swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hepar Sulphuris",
+      "symptom_name_en": "Abscess",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "abscesses"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hepar Sulphuris",
+      "symptom_name_en": "Boils",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "boils"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hepar Sulphuris",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hepar Sulphuris",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritability"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hippocastanum",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "haemorrhoids"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hyoscyamus",
+      "symptom_name_en": "Restlessness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "restlessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ignatia",
+      "symptom_name_en": "Grief",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "grief"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ignatia",
+      "symptom_name_en": "Hysteria",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hysterical"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ipecacuanha",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ipecacuanha",
+      "symptom_name_en": "Nausea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ipecacuanha",
+      "symptom_name_en": "Vomiting",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Bromatum",
+      "symptom_name_en": "Acne",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "acne"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Bromatum",
+      "symptom_name_en": "Restlessness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "restlessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Bromatum",
+      "symptom_name_en": "Skin Rash",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eruptions"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Carbonicum",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Carbonicum",
+      "symptom_name_en": "Dyspnea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "breathlessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Carbonicum",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Iodatum",
+      "symptom_name_en": "Glandular Swelling",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "glandular swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Iodatum",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Muriaticum",
+      "symptom_name_en": "Glandular Swelling",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "glandular swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Muriaticum",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Phosphoricum",
+      "symptom_name_en": "Fatigue",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fatigue"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kali Phosphoricum",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritability"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ledum",
+      "symptom_name_en": "Joint Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ledum",
+      "symptom_name_en": "Rheumatism",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "rheumatic pains"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ledum",
+      "symptom_name_en": "Wounds",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "wounds"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Lycopodium",
+      "symptom_name_en": "Abdominal Bloating",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Bloating"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Magnesia Carbonica",
+      "symptom_name_en": "Neuralgia",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "neuralgia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Magnesia Carbonica",
+      "symptom_name_en": "Toothache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "toothache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Magnesia Phosphorica",
+      "symptom_name_en": "Colic",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "colic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Magnesia Phosphorica",
+      "symptom_name_en": "Menstrual Cramps",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "menstrual cramps"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Medorrhinum",
+      "symptom_name_en": "Restlessness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "restless"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mercurius Solubilis",
+      "symptom_name_en": "Dysentery",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysentery"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mercurius Solubilis",
+      "symptom_name_en": "Excessive Thirst",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "great thirst"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mercurius Solubilis",
+      "symptom_name_en": "Glandular Swelling",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Glandular swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mercurius Solubilis",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mercurius Solubilis",
+      "symptom_name_en": "Tremors",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "trembling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mezereum",
+      "symptom_name_en": "Itching",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "itchy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mezereum",
+      "symptom_name_en": "Neuralgia",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "neuralgia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mezereum",
+      "symptom_name_en": "Skin Rash",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eruptions"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Natrum Muriaticum",
+      "symptom_name_en": "Grief",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "grief"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Natrum Muriaticum",
+      "symptom_name_en": "Headache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Natrum Phosphoricum",
+      "symptom_name_en": "Heartburn",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "heartburn"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Natrum Phosphoricum",
+      "symptom_name_en": "Hyperacidity",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sour eructations"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Natrum Phosphoricum",
+      "symptom_name_en": "Vomiting",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Nux Moschata",
+      "symptom_name_en": "Abdominal Bloating",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bloating"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Nux Vomica",
+      "symptom_name_en": "Abdominal Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "abdominal pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Nux Vomica",
+      "symptom_name_en": "Constipation",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Nux Vomica",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hemorrhoids",
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Nux Vomica",
+      "symptom_name_en": "Indigestion",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Nux Vomica",
+      "symptom_name_en": "Insomnia",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "insomnia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Nux Vomica",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritability"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Opium",
+      "symptom_name_en": "Constipation",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petroleum",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petroleum",
+      "symptom_name_en": "Eczema",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eczema"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petroleum",
+      "symptom_name_en": "Heartburn",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "heartburn"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petroleum",
+      "symptom_name_en": "Hoarseness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hoarseness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petroleum",
+      "symptom_name_en": "Motion Sickness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "motion sickness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petroleum",
+      "symptom_name_en": "Nausea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Phosphorus",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Phytolacca",
+      "symptom_name_en": "Glandular Swelling",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "swollen glands"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Phytolacca",
+      "symptom_name_en": "Joint Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Phytolacca",
+      "symptom_name_en": "Sore Throat",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Sore throat"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Podophyllum",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Podophyllum",
+      "symptom_name_en": "Teething",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "teething"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Psorinum",
+      "symptom_name_en": "Chills",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "chilliness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Psorinum",
+      "symptom_name_en": "Itching",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "itchy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Psorinum",
+      "symptom_name_en": "Skin Rash",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eruptions"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Psorinum",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pulsatilla",
+      "symptom_name_en": "Ear Infection",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "ear infections"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pulsatilla",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritable"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pulsatilla",
+      "symptom_name_en": "Sinusitis",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sinusitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pyrogenium",
+      "symptom_name_en": "Restlessness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "restlessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhododendron Chrysanthum",
+      "symptom_name_en": "Gout",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "gout",
+        "gouty"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhododendron Chrysanthum",
+      "symptom_name_en": "Headache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhododendron Chrysanthum",
+      "symptom_name_en": "Joint Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "joint pain",
+        "Rheumatic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhododendron Chrysanthum",
+      "symptom_name_en": "Memory Difficulty",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "poor memory"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhododendron Chrysanthum",
+      "symptom_name_en": "Neuralgia",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "neuralgia"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhododendron Chrysanthum",
+      "symptom_name_en": "Toothache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "toothache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhus Toxicodendron",
+      "symptom_name_en": "Abdominal Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "abdominal pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhus Toxicodendron",
+      "symptom_name_en": "Joint Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Arthritis",
+        "stiffness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhus Toxicodendron",
+      "symptom_name_en": "Muscle Soreness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "muscle soreness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhus Toxicodendron",
+      "symptom_name_en": "Skin Rash",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "rashes"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Rhus Toxicodendron",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sabadilla",
+      "symptom_name_en": "Chills",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "chilliness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sabadilla",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sabadilla",
+      "symptom_name_en": "Sore Throat",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sore throat"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sarsaparilla",
+      "symptom_name_en": "Skin Rash",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eruptions"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Selenium",
+      "symptom_name_en": "Fatigue",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fatigue"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sepia",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritability"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Silicea",
+      "symptom_name_en": "Abscess",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "abscesses"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Silicea",
+      "symptom_name_en": "Boils",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "boils"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Silicea",
+      "symptom_name_en": "Chills",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "chilly"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Spigelia",
+      "symptom_name_en": "Neuralgia",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "neuralgic pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Spongia Tosta",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Spongia Tosta",
+      "symptom_name_en": "Hoarseness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hoarseness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Stannum Metallicum",
+      "symptom_name_en": "Chest Pain",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "chest discomfort"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Stannum Metallicum",
+      "symptom_name_en": "Cough",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Stannum Metallicum",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Staphisagria",
+      "symptom_name_en": "Eczema",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eczema"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Staphisagria",
+      "symptom_name_en": "Itching",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "itchy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Stramonium",
+      "symptom_name_en": "Fever",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fevers"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sulphur",
+      "symptom_name_en": "Burning Palms and Soles",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "burning of soles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sulphur",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sulphur",
+      "symptom_name_en": "Itching",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "itching"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sulphur",
+      "symptom_name_en": "Skin Rash",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eruptions"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Symphytum",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritable"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Thuja Occidentalis",
+      "symptom_name_en": "Constipation",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Thuja Occidentalis",
+      "symptom_name_en": "Headache",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Thuja Occidentalis",
+      "symptom_name_en": "Irritability",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "irritable"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Thuja Occidentalis",
+      "symptom_name_en": "Warts",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "warts"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tuberculinum",
+      "symptom_name_en": "Night Sweats",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "night sweats"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tuberculinum",
+      "symptom_name_en": "Weakness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Urtica Urens",
+      "symptom_name_en": "Burns",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "burns",
+        "scalds"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Urtica Urens",
+      "symptom_name_en": "Gout",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "gouty"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Urtica Urens",
+      "symptom_name_en": "Urticaria",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hives"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Valeriana",
+      "symptom_name_en": "Hysteria",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hysteria"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Valeriana",
+      "symptom_name_en": "Insomnia",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sleeplessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Veratrum Album",
+      "symptom_name_en": "Diarrhea",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Veratrum Album",
+      "symptom_name_en": "Vomiting",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Viola Tricolor",
+      "symptom_name_en": "Eczema",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eczema"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Zincum Metallicum",
+      "symptom_name_en": "Restlessness",
+      "system": "homeopathy",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "restlessness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Anjabar",
+      "symptom_name_en": "Blood in Urine",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "blood in urine"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Anjabar",
+      "symptom_name_en": "Diarrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Anjabar",
+      "symptom_name_en": "Dysentery",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysentery"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Anjabar",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Anjabar",
+      "symptom_name_en": "Joint Pain",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "joint pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Anjabar",
+      "symptom_name_en": "Loss of Appetite",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "loss of appetite"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Anjabar",
+      "symptom_name_en": "Nausea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Attees Shireen",
+      "symptom_name_en": "Diarrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Attees Shireen",
+      "symptom_name_en": "Dysentery",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysentery"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Attees Shireen",
+      "symptom_name_en": "Fever",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Attees Shireen",
+      "symptom_name_en": "Vomiting",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Bakayin",
+      "symptom_name_en": "Sciatica",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sciatica"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Bakayin",
+      "symptom_name_en": "Skin Rash",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Baobarang",
+      "symptom_name_en": "Joint Pain",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "joint pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Basal",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Behman Safed",
+      "symptom_name_en": "Jaundice",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "jaundice"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Behman Safed",
+      "symptom_name_en": "Palpitation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "palpitation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Behman Safed",
+      "symptom_name_en": "Swelling (Edema)",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "swelling"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Behman Safed",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Weakness",
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Behman Surkh",
+      "symptom_name_en": "Palpitation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Palpitation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Behman Surkh",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Chanbeli",
+      "symptom_name_en": "Toothache",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "toothache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Darchini",
+      "symptom_name_en": "Asthma",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Darchini",
+      "symptom_name_en": "Bad Breath",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Bad breath"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Darchini",
+      "symptom_name_en": "Indigestion",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Darchini",
+      "symptom_name_en": "Urinary Retention",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "urinary retention"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Darchini",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Funduq",
+      "symptom_name_en": "Asthma",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Funduq",
+      "symptom_name_en": "Palpitation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "palpitation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Funduq",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Heel Khurd",
+      "symptom_name_en": "Abdominal Bloating",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bloating"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Heel Khurd",
+      "symptom_name_en": "Bad Breath",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Bad breath"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Heel Khurd",
+      "symptom_name_en": "Indigestion",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weak digestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Heel Khurd",
+      "symptom_name_en": "Nausea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Heel Khurd",
+      "symptom_name_en": "Palpitation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "palpitation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Heel Khurd",
+      "symptom_name_en": "Vomiting",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Heel Khurd",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hummaz",
+      "symptom_name_en": "Diarrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hummaz",
+      "symptom_name_en": "Excessive Thirst",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "excessive thirst"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hummaz",
+      "symptom_name_en": "Fever",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hummaz",
+      "symptom_name_en": "Nausea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hummaz",
+      "symptom_name_en": "Painful Urination",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "painful urination"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Hummaz",
+      "symptom_name_en": "Vomiting",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kababchini",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kababchini",
+      "symptom_name_en": "Urinary Retention",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "urinary retention"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kalonji",
+      "symptom_name_en": "Allergies",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "allergies"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kalonji",
+      "symptom_name_en": "Asthma",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kalonji",
+      "symptom_name_en": "Diabetes Symptoms",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diabetes"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kalonji",
+      "symptom_name_en": "High Blood Pressure",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hypertension"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kamila",
+      "symptom_name_en": "Hiccough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hiccups"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kamila",
+      "symptom_name_en": "Skin Rash",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "eruptions"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kaner",
+      "symptom_name_en": "Skin Rash",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Khar-e-Khasak Khurd",
+      "symptom_name_en": "Painful Urination",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "burning urination"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Khiyar Shamber",
+      "symptom_name_en": "Constipation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Khiyar Shamber",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Khiyar Shamber",
+      "symptom_name_en": "Tonsillitis",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "tonsillitis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Khiyarzah",
+      "symptom_name_en": "Excessive Thirst",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "excessive thirst"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Khiyarzah",
+      "symptom_name_en": "Painful Urination",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Burning urination"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Khubbazi",
+      "symptom_name_en": "Dysentery",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysentery"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Khubbazi",
+      "symptom_name_en": "Headache",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kishmish",
+      "symptom_name_en": "Constipation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kishmish",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kishmish",
+      "symptom_name_en": "Palpitation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "palpitation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kishmish",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Kulthi",
+      "symptom_name_en": "Urinary Retention",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "urinary retention"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Lodh Pathani",
+      "symptom_name_en": "Diarrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Lodh Pathani",
+      "symptom_name_en": "Heavy Menstrual Bleeding",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "heavy menstrual bleeding",
+        "menstrual bleeding"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Lodh Pathani",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Lodh Pathani",
+      "symptom_name_en": "Leucorrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "leucorrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mainphal",
+      "symptom_name_en": "Abdominal Bloating",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bloating"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mainphal",
+      "symptom_name_en": "Asthma",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mainphal",
+      "symptom_name_en": "Boils",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "boils"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mainphal",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mainphal",
+      "symptom_name_en": "Paralysis",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Paralysis",
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mauz",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mauz",
+      "symptom_name_en": "Diarrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mauz",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mazoo",
+      "symptom_name_en": "Diarrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mazoo",
+      "symptom_name_en": "Dysentery",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "dysentery"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mazoo",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mazoo",
+      "symptom_name_en": "Leucorrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "leucorrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mulsari",
+      "symptom_name_en": "Diarrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Mulsari",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "debility"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Muqil",
+      "symptom_name_en": "Abdominal Bloating",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bloating"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Muqil",
+      "symptom_name_en": "Constipation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Muqil",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Muqil",
+      "symptom_name_en": "Joint Pain",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Joint pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Neem Gum",
+      "symptom_name_en": "Boils",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "boils"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Neem Gum",
+      "symptom_name_en": "Hiccough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "hiccups"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Neem Gum",
+      "symptom_name_en": "Itching",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Itchy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Neem Gum",
+      "symptom_name_en": "Skin Rash",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "skin diseases"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ood-e-Saleeb",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ood-e-Saleeb",
+      "symptom_name_en": "Epilepsy",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Epilepsy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ood-e-Saleeb",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ood-e-Saleeb",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Ood-e-Saleeb",
+      "symptom_name_en": "Whooping Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "whooping cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pambadana",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "debility"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petha",
+      "symptom_name_en": "Excessive Thirst",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Excessive thirst"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petha",
+      "symptom_name_en": "Fever",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petha",
+      "symptom_name_en": "Headache",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petha",
+      "symptom_name_en": "Painful Urination",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "burning urination"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Petha",
+      "symptom_name_en": "Palpitation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "palpitation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pista",
+      "symptom_name_en": "Memory Difficulty",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "poor memory"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Pista",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "debility",
+        "Weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Post-e-Gular",
+      "symptom_name_en": "Asthma",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Post-e-Gular",
+      "symptom_name_en": "Constipation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Post-e-Gular",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Post-e-Gular",
+      "symptom_name_en": "Indigestion",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Post-e-Gular",
+      "symptom_name_en": "Reduced Urination",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "scanty urine"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Post-e-Gular",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "debility"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qinnab",
+      "symptom_name_en": "Colic",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "colic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qinnab",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qinnab",
+      "symptom_name_en": "Diarrhea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Diarrhoea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qinnab",
+      "symptom_name_en": "Heavy Menstrual Bleeding",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "heavy menstrual bleeding",
+        "menstrual bleeding"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qinnab",
+      "symptom_name_en": "Hemorrhoids",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "piles"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qirfa",
+      "symptom_name_en": "Cold",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "common cold"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qirfa",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qirfa",
+      "symptom_name_en": "Joint Pain",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "joint pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qirfa",
+      "symptom_name_en": "Urinary Retention",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "urinary retention"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Quaranful",
+      "symptom_name_en": "Abdominal Bloating",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bloating"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Quaranful",
+      "symptom_name_en": "Bad Breath",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bad breath"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Quaranful",
+      "symptom_name_en": "Colic",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "colic"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Quaranful",
+      "symptom_name_en": "Indigestion",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "indigestion"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Quaranful",
+      "symptom_name_en": "Toothache",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Toothache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qurtum",
+      "symptom_name_en": "Weakness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "weakness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qust",
+      "symptom_name_en": "Gout",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "gout"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qust",
+      "symptom_name_en": "Joint Pain",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "joint pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qust",
+      "symptom_name_en": "Paralysis",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Paralysis",
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Qust",
+      "symptom_name_en": "Tremors",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "tremor"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Senna",
+      "symptom_name_en": "Constipation",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Constipation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Shalgum",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Shalgum",
+      "symptom_name_en": "Loss of Appetite",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "loss of appetite"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Shalgum",
+      "symptom_name_en": "Urinary Retention",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "urinary retention"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sumbul-ut-Teeb",
+      "symptom_name_en": "Abdominal Bloating",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bloating"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sumbul-ut-Teeb",
+      "symptom_name_en": "Cystitis",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "bladder inflammation"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sumbul-ut-Teeb",
+      "symptom_name_en": "Headache",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Headache"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Sumbul-ut-Teeb",
+      "symptom_name_en": "Jaundice",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "jaundice"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tagar",
+      "symptom_name_en": "Epilepsy",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Epilepsy"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tagar",
+      "symptom_name_en": "Jaundice",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "jaundice"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tagar",
+      "symptom_name_en": "Memory Difficulty",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "forgetfulness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tagar",
+      "symptom_name_en": "Numbness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "numbness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Tagar",
+      "symptom_name_en": "Paralysis",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Turanj",
+      "symptom_name_en": "Fever",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "fever"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Turanj",
+      "symptom_name_en": "Motion Sickness",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "motion sickness"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Turanj",
+      "symptom_name_en": "Nausea",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "nausea"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Turanj",
+      "symptom_name_en": "Vomiting",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Vomiting"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Zaqoom",
+      "symptom_name_en": "Asthma",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "asthma"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Zaqoom",
+      "symptom_name_en": "Cough",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "cough"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Zaqoom",
+      "symptom_name_en": "Gout",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "gout"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Zaqoom",
+      "symptom_name_en": "Joint Pain",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "Joint pain"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Zaqoom",
+      "symptom_name_en": "Paralysis",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "paralysis"
+      ],
+      "basis": "medicines.json:indications_en"
+    },
+    {
+      "medicine_name_en": "Zaqoom",
+      "symptom_name_en": "Sciatica",
+      "system": "unani",
+      "relationship": "traditional_indication",
+      "matched_terms": [
+        "sciatica"
+      ],
+      "basis": "medicines.json:indications_en"
+    }
+  ]
+}
