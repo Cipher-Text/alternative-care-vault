@@ -692,6 +692,186 @@
       "category": "neurological",
       "is_global": true,
       "is_active": true
+    },
+    {
+      "name_en": "Abdominal Pain",
+      "name_bn": "পেটব্যথা",
+      "description_en": "Pain or discomfort in the area between the chest and pelvis.",
+      "description_bn": "বুক ও শ্রোণির মাঝের অংশে ব্যথা বা অস্বস্তি।",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Vomiting",
+      "name_bn": "বমি",
+      "description_en": "Forceful emptying of stomach contents through the mouth.",
+      "description_bn": "মুখ দিয়ে পাকস্থলীর উপাদান জোরে বেরিয়ে আসা।",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Chest Pain",
+      "name_bn": "বুকে ব্যথা",
+      "description_en": "Pain or discomfort in the chest, which can have many possible causes.",
+      "description_bn": "বুকে ব্যথা বা অস্বস্তি, যার বিভিন্ন সম্ভাব্য কারণ থাকতে পারে।",
+      "category": "cardiovascular",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Dizziness",
+      "name_bn": "মাথা ঘোরা",
+      "description_en": "Feeling lightheaded, unsteady, or faint; distinct from a spinning sensation (vertigo).",
+      "description_bn": "হালকা লাগা, ভারসাম্যহীনতা বা অজ্ঞান লাগার অনুভূতি; ঘূর্ণির অনুভূতি (ভার্টিগো) থেকে আলাদা।",
+      "category": "neurological",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Chills",
+      "name_bn": "কাঁপুনি",
+      "description_en": "Feeling cold with shivering, sometimes occurring with fever.",
+      "description_bn": "ঠান্ডা লাগার সঙ্গে কাঁপুনি, যা কখনও জ্বরের সঙ্গে হতে পারে।",
+      "category": "general",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Weakness",
+      "name_bn": "দুর্বলতা",
+      "description_en": "Reduced strength or energy that makes usual activities more difficult.",
+      "description_bn": "শক্তি বা কর্মক্ষমতা কমে যাওয়া, যাতে স্বাভাবিক কাজ কঠিন হয়।",
+      "category": "general",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Painful Urination",
+      "name_bn": "প্রস্রাবে ব্যথা",
+      "description_en": "Pain, burning, or discomfort while urinating.",
+      "description_bn": "প্রস্রাবের সময় ব্যথা, জ্বালা বা অস্বস্তি।",
+      "category": "urinary",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Frequent Urination",
+      "name_bn": "ঘন ঘন প্রস্রাব",
+      "description_en": "Needing to urinate more often than usual.",
+      "description_bn": "স্বাভাবিকের চেয়ে বেশি ঘন ঘন প্রস্রাবের প্রয়োজন হওয়া।",
+      "category": "urinary",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Swelling (Edema)",
+      "name_bn": "ফোলা (ইডিমা)",
+      "description_en": "Abnormal fluid-related swelling in body tissues, such as the legs, hands, or face.",
+      "description_bn": "শরীরের কলায়, যেমন পা, হাত বা মুখে, অস্বাভাবিক তরলজনিত ফোলা।",
+      "category": "general",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Abdominal Bloating",
+      "name_bn": "পেট ফাঁপা",
+      "description_en": "Feeling of pressure or fullness in the abdomen, often with visible distension.",
+      "description_bn": "পেটে চাপ বা ভরা ভাব, প্রায়ই পেট দৃশ্যত ফুলে থাকা।",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Urinary Retention",
+      "name_bn": "প্রস্রাব আটকে থাকা",
+      "description_en": "Difficulty emptying the bladder or being unable to urinate.",
+      "description_bn": "মূত্রথলি খালি করতে অসুবিধা হওয়া বা প্রস্রাব করতে না পারা।",
+      "category": "urinary",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Reduced Urination",
+      "name_bn": "প্রস্রাব কম হওয়া",
+      "description_en": "Passing less urine than usual.",
+      "description_bn": "স্বাভাবিকের তুলনায় কম প্রস্রাব হওয়া।",
+      "category": "urinary",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Blood in Urine",
+      "name_bn": "প্রস্রাবে রক্ত",
+      "description_en": "Blood present in the urine, which may or may not be visible.",
+      "description_bn": "প্রস্রাবে রক্ত থাকা, যা চোখে দেখা যেতে পারে বা নাও যেতে পারে।",
+      "category": "urinary",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Excessive Thirst",
+      "name_bn": "অতিরিক্ত তৃষ্ণা",
+      "description_en": "Unusually strong or persistent need to drink fluids.",
+      "description_bn": "অস্বাভাবিকভাবে বেশি বা স্থায়ীভাবে পানি পান করার তাগিদ।",
+      "category": "general",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Numbness",
+      "name_bn": "অবশভাব",
+      "description_en": "Reduced or absent feeling in part of the body.",
+      "description_bn": "শরীরের কোনো অংশে অনুভূতি কমে যাওয়া বা না থাকা।",
+      "category": "neurological",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Paralysis",
+      "name_bn": "পক্ষাঘাত",
+      "description_en": "Loss of the ability to move one or more muscles voluntarily.",
+      "description_bn": "এক বা একাধিক পেশি ইচ্ছামতো নাড়ানোর ক্ষমতা হারানো।",
+      "category": "neurological",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Memory Difficulty",
+      "name_bn": "স্মৃতিশক্তির সমস্যা",
+      "description_en": "Difficulty remembering information or events.",
+      "description_bn": "তথ্য বা ঘটনা মনে রাখতে অসুবিধা।",
+      "category": "neurological",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Difficulty Concentrating",
+      "name_bn": "মনোযোগে অসুবিধা",
+      "description_en": "Difficulty maintaining attention on a task or thought.",
+      "description_bn": "কোনো কাজ বা চিন্তায় মনোযোগ ধরে রাখতে অসুবিধা।",
+      "category": "mental",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Heavy Menstrual Bleeding",
+      "name_bn": "অতিরিক্ত মাসিক রক্তপাত",
+      "description_en": "Menstrual bleeding that is unusually heavy or lasts longer than usual.",
+      "description_bn": "স্বাভাবিকের তুলনায় অতিরিক্ত বা দীর্ঘস্থায়ী মাসিক রক্তপাত।",
+      "category": "reproductive",
+      "is_global": true,
+      "is_active": true
+    },
+    {
+      "name_en": "Bad Breath",
+      "name_bn": "মুখে দুর্গন্ধ",
+      "description_en": "Unpleasant odor coming from the mouth.",
+      "description_bn": "মুখ থেকে অপ্রীতিকর গন্ধ বের হওয়া।",
+      "category": "digestive",
+      "is_global": true,
+      "is_active": true
     }
   ]
 }
